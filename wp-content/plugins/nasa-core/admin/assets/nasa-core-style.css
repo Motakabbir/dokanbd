@@ -1,0 +1,1045 @@
+/* Global style ========================================= */
+.ns-advance-field:not(.ns-open) {
+    display: none !important;
+}
+.hidden-tag,
+.nasa_sc_cache_id,
+.wp-core-ui .button.hidden-tag,
+.wp-core-ui .button-primary.hidden-tag,
+.wp-core-ui .button-secondary.hidden-tag,
+.woocommerce_options_panel.hidden {
+    display: none;
+}
+
+.edit_form_line .wpb-select.cat {
+    display: inline-block !important;
+}
+
+/* Mega menu style ========================================= */
+.additional-menu-field-enable_mega,
+.additional-menu-field-columns_mega,
+.additional-menu-field-enable_fullwidth
+{
+    display: none;
+}
+
+.menu-item-depth-0 .additional-menu-field-enable_mega,
+.menu-item-depth-0 .additional-menu-field-columns_mega,
+.menu-item-depth-0 .additional-menu-field-enable_fullwidth
+{
+    display: block;
+}
+
+.additional-menu-field-widget.description.description-thin{
+    width: 390px
+}
+
+.woocommerce_options_panel .wp-editor-area {
+    border: 1px solid #eee;
+}
+
+.menu-item-depth-0 .additional-menu-field-widget.description.description-thin{
+    width: 190px;
+    height: 40px;
+}
+
+.imgmega{
+    display: block;
+    width: 100%;
+}
+
+.imgmega img{
+    max-width: 100%;
+    margin-top: 5px;
+}
+
+/* Shortcode style ========================================= */
+.vc_element-icon.icon-wpb-nasatheme{
+    background-image: url(logo.png);
+    background-size: 32px;
+}
+
+/* Nasa attributies UX ====================================== */
+.nasa-attr-ux-preview {
+    min-width: 44px;
+    height: 44px;
+    line-height: 44px;
+    padding: 0 5px;
+    text-align: center;
+    font-weight: 700;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.nasa-attr-ux-preview .color-item {
+    width: 100%;
+    height: 100%;
+}
+
+.nasa-attr-ux-preview.nasa-attr-ux-image {
+    border: none;
+    line-height: 1;
+    padding: 0;
+}
+
+.nasa-attr-ux-preview.nasa-attr-ux-color {
+    border-radius: 50%;
+    width: 44px;
+    padding: 0;
+}
+
+.nasa-attr-ux-modal-container {
+    position: relative;
+    display: none;
+}
+
+.nasa-attr-ux-modal {
+    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 360px;
+    max-width: 90%;
+    z-index: 159990;
+    background-color: #fcfcfc;
+}
+
+.nasa-attr-ux-modal input.error {
+    border-color: #dc3232;
+}
+
+.nasa-attr-ux-modal-header,
+.nasa-attr-ux-modal-content,
+.nasa-attr-ux-modal-footer {
+    padding: 20px;
+}
+
+.nasa-attr-ux-modal-header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nasa-attr-ux-modal-content {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+}
+
+.nasa-attr-ux-modal-footer {
+    text-align: right;
+}
+
+.nasa-attr-ux-modal-footer .message,
+.nasa-attr-ux-modal-footer .spinner {
+    float: left;
+}
+
+.nasa-attr-ux-modal-footer .message.error {
+    color: #dc3232;
+}
+
+.nasa-attr-ux-modal-footer .message.success {
+    color: #46b450;
+}
+
+.nasa-core-option-child {
+    background-color: #F9F9F9;
+    border-left: 1px solid #E9E9E9;
+    border-right: 1px solid #E9E9E9;
+}
+
+body table.cmb_metabox input[type=text] {
+    width: 25em;
+    max-width: 97%;
+}
+
+.nasa-custom-upload,
+.nasa-custom-upload-video {
+    display: inline-block;
+    line-height: 100%;
+    position: relative;
+}
+
+.nasa-custom-upload.nasa-remove::before,
+.nasa-custom-upload-video.nasa-remove::before {
+    content: '\f335';
+    font-family: Dashicons;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    line-height: 100px;
+    font-size: 64px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    display: none;
+    color: #FF0000;
+}
+
+.nasa-custom-upload.nasa-remove:hover::before,
+.nasa-custom-upload-video.nasa-remove:hover::before {
+    display: block;
+}
+
+.woocommerce_options_panel .description.nasa-block {
+    display: block;
+    margin: 0;
+}
+
+.woocommerce_variable_attributes > .data > p.form-row.form-row-last,
+.woocommerce_variable_attributes > .data > p.form-row.form-row-first {
+    width: 100%;
+    clear: both;
+}
+
+.nasa-variation-gallery-images,
+.nasa-gallery-images-list {
+    overflow: hidden;
+    margin-top: 0;
+}
+
+.nasa-variation-gallery-images li.wc-metabox-sortable-placeholder,
+.nasa-variation-gallery-images li.image,
+.nasa-gallery-images-list li.wc-metabox-sortable-placeholder,
+.nasa-gallery-images-list li.image {
+    height: 80px;
+    width: auto;
+    float: left;
+    cursor: move;
+    border: 1px solid #d5d5d5;
+    margin: 9px 9px 0 0;
+    background: #f7f7f7;
+    border-radius: 2px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.nasa-variation-gallery-images li.wc-metabox-sortable-placeholder,
+.nasa-gallery-images-list li.wc-metabox-sortable-placeholder {
+    border-color: #bbb;
+    background-color: #f5f5f5;
+    margin-bottom: 9px;
+    border: 3px dashed #dddddd;
+    position: relative;
+}
+
+.nasa-variation-gallery-images li.wc-metabox-sortable-placeholder:after,
+.nasa-gallery-images-list li.wc-metabox-sortable-placeholder:after {
+    font-size: 2.618em;
+    line-height: 72px;
+    color: #ddd;
+    font-family: 'Dashicons';
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: '\f161';
+}
+
+.nasa-variation-gallery-images li.image img,
+.nasa-gallery-images-list li.image img {
+    width: auto;
+    height: 100%;
+    display: block;
+}
+
+.nasa-variation-gallery-images ul.actions,
+.nasa-gallery-images-list ul.actions {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    padding: 2px;
+    display: none;
+}
+
+.nasa-variation-gallery-images li:hover ul.actions,
+.nasa-gallery-images-list li:hover ul.actions {
+    display: block;
+}
+
+.nasa-variation-gallery-images ul.actions li,
+.nasa-gallery-images-list ul.actions li {
+    float: right;
+    margin: 0 0 0 2px;
+}
+
+.nasa-variation-gallery-images ul.actions li a.delete,
+.nasa-gallery-images-list ul.actions li a.delete {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    font-size: 1.4em;
+}
+
+.nasa-variation-gallery-images ul.actions li a.delete:before,
+.nasa-gallery-images-list ul.actions li a.delete:before {
+    font-family: 'Dashicons';
+    speak: none;
+    font-weight: 400;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    text-indent: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    content: '\f153';
+    color: rgb(153, 153, 153);
+    height: 1em;
+    width: 1em;
+    line-height: 1em;
+    font-variant: normal;
+    margin: 0px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.nasa-add-variation-gallery-image-wrapper,
+.nasa-add-gallery-wrapper {
+    clear: both;
+}
+
+body .woocommerce_variable_attributes .upload_image_button.remove {
+    height: auto;
+}
+
+.nasa-variation-gallery-wrapper {
+    padding-top: 1px;
+}
+
+.nasa-variation-gallery-wrapper h4 {
+    margin-bottom: 0;
+}
+
+.nasa-admin-loader {
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
+
+.nasa-term-root,
+.nasa-term-root-child {
+    border: 1px solid #efefef;
+    background: #fff;
+}
+
+.form-wrap .form-field.nasa-term-root,
+.form-wrap .form-field.nasa-term-root-child {
+    padding: 10px;
+    margin: 0;
+}
+
+div.space-admin {
+    min-height: 20px;
+}
+
+.space-admin.nasa-term-root {
+    border: none;
+    background: transparent;
+}
+
+.form-table .nasa-term-root th,
+.form-table .nasa-term-root-child th {
+    padding-left: 10px; 
+}
+
+[dir="rtl"] .form-table .nasa-term-root th,
+[dir="rtl"] .form-table .nasa-term-root-child th {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.nasa-gallery-wrapper {
+    padding: 9px 12px!important;
+}
+
+.nasa-pd-sides {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.woocommerce_options_panel .nasa-gallery-wrapper p {
+    padding: 0;
+}
+
+.nasa-clf {
+    clear: both;
+    padding: 1px 0;
+}
+
+.attr-image-preview {
+    width: auto;
+    height: auto;
+    max-height: 60px;
+}
+
+.list-items .nasa-item {
+    cursor: pointer;
+}
+
+.list-items-wrap .nasa-input-search {
+    display: block;
+    width: 100%;
+}
+
+.nasa-bulk-dsct-item,
+.nasa-ct-tabs-item {
+    position: relative;
+}
+
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct,
+.nasa-ct-tabs-item .nasa-rm-tab {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid #f1f1f1;
+}
+
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct:before,
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct:after,
+.nasa-ct-tabs-item .nasa-rm-tab:before,
+.nasa-ct-tabs-item .nasa-rm-tab:after {
+    content: "";
+    width: 16px;
+    height: 0;
+    position: absolute;
+    top: 17px;
+    left: 10px;
+    border-top: 2px solid #333;
+}
+
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct:before,
+.nasa-ct-tabs-item .nasa-rm-tab:before {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct:after,
+.nasa-ct-tabs-item .nasa-rm-tab:after {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.nasa-bulk-dsct-item .nasa-rm-bulk-dsct:hover,
+.nasa-ct-tabs-item .nasa-rm-tab::hover {
+    background: #f1f1f1;
+}
+
+.nasa-bulk-dsct-item:nth-of-type(2n) .nasa-rm-bulk-dsct:hover,
+.nasa-ct-tabs-item:nth-of-type(2n) .nasa-rm-tab::hover {
+    background: #fff;
+}
+
+.nasa-bulk-dsct-item,
+.nasa-ct-tabs-item {
+    background: #f9f9f9;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+}
+
+.nasa-bulk-dsct-item:nth-of-type(2n),
+.nasa-ct-tabs-item:nth-of-type(2n) {
+    background: #efefef;
+}
+
+.nasa-bulk-dsct-item:last-child,
+.nasa-ct-tabs-item:last-child {
+    margin-bottom: 20px;
+}
+
+.row-flex {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.flex-label {
+    width: 150px;
+}
+
+.flex-input {
+    flex-grow: 2;
+}
+
+.nasa-variation-custom-fields-wrapper {
+    padding: 0 20px 20px 20px;
+    border: 1px solid #ccc;
+    margin: 30px 0;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.first-headling {
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+.nasa-variation-custom-fields-wrapper .nasa-pd-sides {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.nasa-variation-custom-fields-wrapper input.short {
+    max-width: 200px;
+}
+
+.nasa-variation-custom-fields-wrapper .nasa-bulk-dsct-wrapper {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cecece;
+}
+
+.zone-desc-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999999;
+    display: none;
+}
+
+.zone-desc-content.actived {
+    display: block;
+}
+
+.ns-bg-dark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-height: 360px;
+    background: #000;
+    opacity: .7;
+    z-index: 99900;
+    cursor: pointer;
+}
+
+.zone-desc-content-wrap {
+    width: 500px;
+    height: 330px;
+    max-height: 90%;
+    max-width: 90%;
+    position: absolute;
+    background: #fff;
+    z-index: 99909;
+    padding: 10px 20px;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    
+    overflow-y: auto;
+}
+
+.nasa-group-btns {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.space-bt {
+    justify-content: space-between;
+}
+
+#save-desc-zone {
+    margin-bottom: 10px;
+}
+#woocommerce-product-data #product_attributes .product_attributes {
+    padding: 9px 12px;
+}
+
+#woocommerce-product-data .panel-wrap .panel {
+    display: none;
+}
+
+.nasa_p_color .wp-picker-input-wrap > label {
+    width: auto !important;
+    margin: 0 !important;
+}
+
+/* body.taxonomy-product_cat .edit-tag-actions {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #fff;
+    padding: 15px 20px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, .3);
+} */
+
+.nasa-ct-tabs-item .select2-container,
+.taxonomy-product_cat .select2-container {
+    min-width: 250px;
+}
+
+.ns-advance-metaboxs {
+    position: fixed;
+    bottom: 10px;
+    z-index: 9999;
+}
+
+#nasa_metabox_general:not(.ns-open),
+#nasa_metabox_font:not(.ns-open),
+#nasa_metabox_header:not(.ns-open),
+#nasa_metabox_footer:not(.ns-open),
+#slider_revolution_metabox:not(.ns-open),
+.ns-advance-metaboxs.opened {
+    display: none !important;
+}
+
+.form-field._product_size_guide_field .select2-container {
+    width: 100% !important;
+    height: 30px;
+}
+
+/* search in fake  */
+#section-fake_purchase_ct.section .option .controls {
+    max-width: 100%;
+    width: 100% !important;
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item{
+    /* display: flex; */
+    flex-wrap: wrap;
+    position: relative;
+    box-shadow: 0 5px 10px 0 rgb(30 32 40 / 8%);
+    margin: 10px 0;
+    flex-direction: row;
+    max-width: 400px;
+}
+
+#section-fake_purchase_ct.section .option .controls .hidden-tag{
+    display: none;
+}
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo:not(.hidden-tag),
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item:not(.hidden-tag) {
+    display: flex;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .product-image,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .product-image {
+    padding: 10px;
+    /* flex: 0 0 80px; */
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-grow: 1;
+    max-width: 290px;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .delete_btn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 20px;
+    opacity: 0;
+    transition: 500ms all;
+    color: black;
+    font-weight: 500;
+}
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .change_btn {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    font-size: 20px;
+    opacity: 0;
+    transition: 500ms all;
+    color: black;
+    font-weight: 500;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item:hover .change_btn,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item:hover .delete_btn {
+    opacity: 1;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .change_btn:hover,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .delete_btn:hover {
+    transform: scale(1.5);
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-title,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-time,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-title,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-time  {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .of-input  {
+    width: 80%;
+    margin-top: 5px;
+}
+
+.product_list_item,
+.fake_purchases_demo {
+    background-color: #fff;
+}
+
+.product_list_item .btn_wrap {
+    display: flex;
+    margin-top: 10px;
+    gap: 0 5px;
+}
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .apply_change ,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .close_change {
+    width: fit-content;
+    text-align: center;
+}
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-time span,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-time span {
+    margin-right: 10px;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-time span svg,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-time span svg {
+    margin-right: 5px;
+    color: #0ca940;
+    height: 100%;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-body ,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-body {
+    font-size: 20px;
+    align-items: center;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-body .nameproduct,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-body .nameproduct {
+    text-decoration: none;
+    color: #55586c;
+    font-weight: 600;
+    line-height: 1;
+    margin: 5px 0;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .wrapper-theme .noti-body .nameproduct:hover,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .wrapper-theme .noti-body .nameproduct:hover {
+    text-decoration:  underline;
+}
+
+#section-fake_purchase_ct.section .option .controls .fake_purchases_demo .product-image img,
+#section-fake_purchase_ct.section .option .controls .fake_purchases_list .product_list_item .product-image img {
+    width: 60px;
+    height: auto;
+}
+
+.fake_purchases_input {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.fake_purchases_input .of-input {
+    margin: 5px 0;
+}
+
+.fake_purchases_input .seach_pro ul.ns_browsers {
+    max-height: 200px;
+    overflow: auto;
+    position: absolute;
+    background: white;
+    top: 100%;
+    left: 0px;
+    width: 100%;
+    display: none;
+    border-radius: 5px;
+    z-index: 9;
+}
+
+.fake_purchases_input  .button{
+    width: fit-content;
+    text-align: center;
+}
+
+.fake_purchases_input .seach_pro {
+    position: relative;
+    width: fit-content;
+}
+
+.fake_purchases_input .seach_pro ul .product_item {
+    padding: 5px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.fake_purchases_input .seach_pro ul .product_item:hover {
+    background-color: #E3E3E3;
+}
+
+.nasa-search-loading {
+    position: relative;
+}
+
+.nasa-search-loading:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 9;
+    opacity: 0.6;
+    top: 50%;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #333;
+    border-left: 1px solid #efefef;
+    border-right: 1px solid #333;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-animation: nasa-spin .5s linear infinite; /* Safari | Chrome */
+    -moz-animation: nasa-spin .5s linear infinite; /* FF */
+    -o-animation: nasa-spin .5s linear infinite; /* Opera */
+    -ms-animation: nasa-spin .5s linear infinite; /* IE */
+    animation: nasa-spin .5s linear infinite;
+}
+
+.easy-tools {
+    height: 25px !important;
+    opacity: 1 !important;
+    width: 50px !important;
+    left: 50% !important;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.easy-tools > a {
+    height: 25px !important;
+    width: 25px !important;
+    background-color: #efefef !important;
+    opacity: 1 !important;
+}
+
+.easy-tools > a:hover {
+    background-color: #fff !important;
+}
+
+.easy-tools > a.easy-edit {
+    background-image: url('data:image/svg+xml,<svg fill="%23000000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 494.936 494.936"><path d="M389.844,182.85c-6.743,0-12.21,5.467-12.21,12.21v222.968c0,23.562-19.174,42.735-42.736,42.735H67.157 c-23.562,0-42.736-19.174-42.736-42.735V150.285c0-23.562,19.174-42.735,42.736-42.735h267.741c6.743,0,12.21-5.467,12.21-12.21 s-5.467-12.21-12.21-12.21H67.157C30.126,83.13,0,113.255,0,150.285v267.743c0,37.029,30.126,67.155,67.157,67.155h267.741 c37.03,0,67.156-30.126,67.156-67.155V195.061C402.054,188.318,396.587,182.85,389.844,182.85z"/><path d="M483.876,20.791c-14.72-14.72-38.669-14.714-53.377,0L221.352,229.944c-0.28,0.28-3.434,3.559-4.251,5.396l-28.963,65.069 c-2.057,4.619-1.056,10.027,2.521,13.6c2.337,2.336,5.461,3.576,8.639,3.576c1.675,0,3.362-0.346,4.96-1.057l65.07-28.963 c1.83-0.815,5.114-3.97,5.396-4.25L483.876,74.169c7.131-7.131,11.06-16.61,11.06-26.692 C494.936,37.396,491.007,27.915,483.876,20.791z M466.61,56.897L257.457,266.05c-0.035,0.036-0.055,0.078-0.089,0.107 l-33.989,15.131L238.51,247.3c0.03-0.036,0.071-0.055,0.107-0.09L447.765,38.058c5.038-5.039,13.819-5.033,18.846,0.005 c2.518,2.51,3.905,5.855,3.905,9.414C470.516,51.036,469.127,54.38,466.61,56.897z"/></svg>') !important;
+    background-size: 21px !important;
+}
+
+.easy-tools > a.easy-delete {
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 32 32"><path d="M26.129 5.871h-5.331v-1.066c0-1.178-0.955-2.132-2.133-2.132h-5.331c-1.178 0-2.133 0.955-2.133 2.132v1.066h-5.331v1.066h1.099l1.067 20.259c0 1.178 0.955 2.133 2.133 2.133h11.729c1.178 0 2.133-0.955 2.133-2.133l1.049-20.259h1.051v-1.066zM12.268 4.804c0-0.588 0.479-1.066 1.066-1.066h5.331c0.588 0 1.066 0.478 1.066 1.066v1.066h-7.464v-1.066zM22.966 27.14l-0.002 0.027v0.028c0 0.587-0.478 1.066-1.066 1.066h-11.729c-0.587 0-1.066-0.479-1.066-1.066v-0.028l-0.001-0.028-1.065-20.203h15.975l-1.046 20.204z" fill="%23000000"></path><path d="M15.467 9.069h1.066v17.060h-1.066v-17.060z" fill="%23000000"></path><path d="M13.358 26.095l-1.091-17.027-1.064 0.068 1.091 17.027z" fill="%23000000"></path><path d="M20.805 9.103l-1.064-0.067-1.076 17.060 1.064 0.067z" fill="%23000000"></path></svg>') !important;
+    background-size: 21px !important;
+    background-position: center !important;
+}
+
+.brand-attrs-list:not(.hidden-tag) {
+    display: flex;
+    flex-direction: column;
+    padding: 0 5px;
+}
+.brand-attrs-list .brand-attr-item {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    line-height: 20px;
+    margin: 3px 0;
+    box-shadow: none !important;
+    opacity: 0.7;
+    // gap: 10px;
+    position: relative;
+    padding-left: 30px;
+}
+
+.no-event .brand-attrs-list .brand-attr-item:not(.selected) {
+    opacity: 0.3;
+    text-decoration: line-through;
+}
+
+.brand-attrs-list .brand-attr-item:before {
+    content: "";
+    width: 18px;
+    height: 16px;
+    display: block;
+    border: 1px solid #2271b1;
+    border-radius: 3px;
+    line-height: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.brand-attrs-list .brand-attr-item:hover {
+    text-decoration: underline;
+    opacity: 1;
+}
+.brand-attrs-list .brand-attr-item.selected {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+.brand-attrs-list .brand-attr-item:after {
+    content: "";
+    width: 4px;
+    height: 11px;
+    display: block;
+    border: solid transparent;
+    border-width: 0 2px 2px 0;
+    position: absolute;
+    top: 1px;
+    left: 7px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.brand-attrs-list .brand-attr-item.selected:after {
+    border-color: #2271b1;
+}
+
+.brand-attrs-list .button.ns-start-convert-brand {
+    margin-top: 15px !important;
+}
+
+.brand-attrs-list .convert-process-bar-loading:not(.hidden-tag) {
+    position: absolute;
+    bottom: 18px;
+    right: -20px;
+}
+
+.brand-attrs-list .convert-process-bar-loading:before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 9;
+    opacity: 0.6;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
+    border-top: 2px solid #efefef;
+    border-bottom: 2px solid #333;
+    border-left: 2px solid #efefef;
+    border-right: 2px solid #333;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-animation: nasa-spin .5s linear infinite;
+    -moz-animation: nasa-spin .5s linear infinite;
+    -o-animation: nasa-spin .5s linear infinite;
+    -ms-animation: nasa-spin .5s linear infinite;
+    animation: nasa-spin .5s linear infinite;
+}
+
+.brand-attrs-list .convert-process-bar:not(.hidden-tag) {
+    width: 100%;
+    min-width: 390px;
+    height: 26px;
+    border: 1px solid rgba(34, 109, 177, 0.5);
+    background-color: rgba(34, 109, 177, 0.5);
+    padding: 2px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.brand-attrs-list .complete-convert {
+    display: block;
+    width: 1%;
+    height: 26px;
+    line-height: 26px;
+    overflow: hidden;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 2px;
+    background: #2271b1;
+}
+
+.convert-process-bar-complete {
+    line-height: 1.5;
+    margin-top: 5px;
+}
+
+@-webkit-keyframes nasa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+    }
+}
+
+/* FF */
+@-moz-keyframes nasa-spin {
+    0% {
+        -moz-transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+    }
+}
+
+/* Opera */
+@-o-keyframes nasa-spin {
+    0% {
+        -o-transform: rotate(0deg);
+    }
+    100% {
+        -o-transform: rotate(359deg);
+    }
+}
+
+@keyframes nasa-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(359deg);
+    }
+}

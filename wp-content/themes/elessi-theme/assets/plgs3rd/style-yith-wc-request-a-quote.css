@@ -1,0 +1,143 @@
+body .widget_ywraq_mini_list_quote {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body .widget_ywraq_mini_list_quote .raq-info {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    border: none;
+}
+
+body .widget_ywraq_mini_list_quote .raq_label {
+    position: relative;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+body .widget_ywraq_mini_list_quote .raq_label:before {
+    font-family: 'Pe-icon-7-stroke';
+    content: "\e69d";
+    font-size: 25px;
+    margin-right: 8px;
+}
+
+body .widget_ywraq_mini_list_quote .yith-ywraq-list-wrapper {
+    left: auto;
+    right: 0;
+}
+
+body .widget_ywraq_mini_list_quote .raq-info .handler-label {
+    display: none;
+}
+
+body a.add-request-quote-button.button {
+    font-size: 12px;
+    margin: 10px 3px;
+}
+
+body .product-item a.add-request-quote-button.button {
+    font-size: 11px;
+    margin: 0 0 10px 0;
+    height: auto;
+}
+
+body .woocommerce ul.products li.product a.add-request-quote-button.button,
+body .wp-block-post.product a.add-request-quote-button.button,
+body a.add-request-quote-button.button {
+    display: -webkit-inline-box;
+    display: -moz-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+body .woocommerce.single-product .product .yith-ywraq-add-to-quote {
+    margin-top: 0;
+}
+
+body.nasa-sp-ywraq .single_variation_wrap {
+    position: relative;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    gap: 0 5px;
+}
+
+body.nasa-sp-ywraq .single_variation_wrap .woocommerce-variation {
+    width: 100%;
+}
+
+body.nasa-sp-ywraq .single_variation_wrap .yith-ywraq-add-to-quote {
+    position: relative;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 0 !important;
+}
+
+body.nasa-sp-ywraq .single_variation_wrap .yith_ywraq_add_item_browse_message {
+    width: 100%;
+}
+
+.nasa-sp-ywraq .product-info .cart {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.nasa-ywraq-hide-add-to-cart .product-info .cart .single_add_to_cart_button,
+.nasa-ywraq-hide-add-to-cart .cart-link,
+.nasa-ywraq-hide-add-to-cart .nasa-icon-mini-cart,
+.nasa-ywraq-hide-add-to-cart .nasa-variable-add-to-cart-in-grid {
+    display: none !important;
+}
+
+.yith-ywraq-list-content .yith-ywraq-list-item-info img {
+    min-width: 50px;
+    margin: 0 5px;
+}
+
+.yith_ywraq_add_item_browse_message a {
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 768px) {
+    .products.list .yith-ywraq-add-to-quote {
+        margin-top: 30px;
+    }
+    
+    .products.list .product-item > .clear {
+        display: none;
+    }
+    
+    .products.list .product-item.product-type-simple .group-btn-in-list {
+        padding-top: 15px;
+    }
+}

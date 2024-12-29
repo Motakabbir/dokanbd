@@ -1,0 +1,1930 @@
+----- 6.1.9 (29 Oct 2024) -----
+- NEW: Single Product Layout - Gallery Grid 3.
+- FIXED: Some CSS Style - Checkout Page.
+- FIXED: Comment for Post - no redirect.
+- FIXED: WooCommerce Reviews Feature - Not showing Medias.
+- IMPROVED: WooCommerce Reviews Feature.
+- IMPROVED: Filter by Multi Tags - Support Strings - not UTF8.
+
+----- 6.1.8 (03 Oct 2024) -----
+- FIXED: Some CSS Style.
+- IMPROVED: WooCommerce Reviews Feature - Support Mansory layout and Orderby.
+- IMPROVED: Gallery Thumbnails - Position Hozirotal - Option - Apply Slide.
+- COMPATIBLE: Revolution Slider 6.7.20.
+- COMPATIBLE: WooCommerce 9.3.3.
+
+----- 6.1.7 (14 Sep 2024) -----
+- FIXED: Some CSS Style.
+- IMPROVED: WooCommerce Reviews Feature - Support upload Video.
+- COMPATIBLE: WooCommerce 9.3.1.
+- COMPATIBLE: WordPress 6.6.2.
+
+----- 6.1.6 (28 Aug 2024) -----
+- NEW: Pin Multi Products Banner - Each pin Location.
+- IMPROVED: WooCommerce Reviews tab - Layout.
+- COMPATIBLE: Revolution Slider 6.7.18.
+- COMPATIBLE: WPBakery Page Builder 7.9.
+- COMPATIBLE: WooCommerce 9.2.3.
+
+----- 6.1.5 (15 Aug 2024) -----
+- NEW: Inactive Tab.
+- FIXED: Some Notices PHP.
+- FIXED: Issue Estimate Delivery.
+- FIXED: Single Product Page - Popup Issue.
+- COMPATIBLE: Revolution Slider 6.7.17.
+
+----- 6.1.4 (03 Aug 2024) -----
+- FIXED: Some Notices PHP.
+- FIXED: Some issues - PhotoSwipe Lightbox WooCommerce.
+- FIXED: Issue 360 Degree - Ajax Load.
+- COMPATIBLE: WPBakery Page Builder 7.8.
+- COMPATIBLE: WooCommerce 9.1.4.
+- COMPATIBLE: WordPress 6.6.1.
+
+----- 6.1.3 (20 Jul 2024) -----
+- FIXED: Mobile Menu - Multi-languages after loaded AJAX.
+- IMPROVED: PhotoSwipe Lightbox WooCommerce - Ignore Magnific-Popup.
+- IMPROVED: Estimated Delivery.
+- COMPATIBLE: Revolution Slider 6.7.15.
+- COMPATIBLE: WooCommerce 9.1.2.
+- COMPATIBLE: WordPress 6.6.
+
+----- 6.1.2.1 (21 Jun 2024) -----
+- COMPATIBLE: WooCommerce 9.0.1.
+
+----- 6.1.2 (20 Jun 2024) -----
+- NEW: +1 Single Product Layout.
+- IMPROVED: HTML - Share.
+- COMPATIBLE: WPBakery Page Builder 7.7.2.
+- COMPATIBLE: WooCommerce 9.0.0.
+
+----- 6.1.1 (13 Jun 2024) -----
+- NEW: Serbian - Translated Ready (Српски - Преведено Спреман).
+- FIXED: Missing Number Items - Mini Cart.
+- FIXED: CSS Arrows - You may be interested in... - Mini Cart.
+- IMPROVED: Delay time Countdown - Fake Purchased.
+- COMPATIBLE: Revolution Slider 6.7.13.
+- COMPATIBLE: WPBakery Page Builder 7.7.
+- COMPATIBLE: WooCommerce 8.9.3.
+- COMPATIBLE: WordPress 6.5.4.
+
+----- 6.1.0 (23 May 2024) -----
+- NEW: Recommended Products for Checkout Page.
+- FIXED: Lightbox Image - Single Product Page - Web Mobile.
+- IMPROVED: Arrows Disabled in Gallery Slider - Single Product Page.
+- IMPROVED: Auto Height in Gallery Slider - Quickview.
+- COMPATIBLE: MultivendorX - Dashboard Page.
+- COMPATIBLE: Revolution Slider 6.7.11.
+- COMPATIBLE: WooCommerce 8.9.1.
+- COMPATIBLE: WordPress 6.5.3.
+
+----- 6.0.9.1 (25 Apr 2024) -----
+- FIXED: Some issues - PHP7.
+
+----- 6.0.9 (25 Apr 2024) -----
+- NEW: List - 2 Columns - Archive Product Page.
+- NEW: Top Filters type 3 - Archive Product Page.
+- NEW: Shop with Background - Archive Product Page.
+- NEW: Widget Nasa - Product Filters by Multi - Categories.
+- FIXED: Some small issues.
+- IMPROVED: Convert Brands - Taxonomies to Brands - Attribute Image.
+- IMPROVED: Change view System.
+- COMPATIBLE: WPBakery Page Builder 7.6.
+- COMPATIBLE: Revolution Slider 6.7.7.
+- COMPATIBLE: WooCommerce 8.8.2.
+- COMPATIBLE: WordPress 6.5.2.
+
+----- 6.0.8 (10 Apr 2024) -----
+- NEW: Portuguese - Translated Ready (Português - Traduzido Pronto).
+- FIXED: Newsletter Popop-up - Issue delay time.
+- FIXED: Issue when Turn Off Lightbox Image - Single product page.
+- COMPATIBLE: WPBakery Page Builder 7.5.
+- COMPATIBLE: Revolution Slider 6.7.1.
+- COMPATIBLE: WordPress 6.5.
+
+----- 6.0.7 (01 Apr 2024) -----
+- NEW: Romanian - Translated Ready (Gata tradus).
+- NEW: Exit Intent Popup Feature - Sample Data for Elementor version Available.
+- FIXED: Some CSS Style.
+- IMPROVED: Fullwidth - Category Product Page - Desc
+- IMPROVED: Nav - Sticky for Custom Tabs - Single Product Page - App Simulator.
+- COMPATIBLE: WooCommerce 8.7.0.
+
+----- 6.0.6 (18 Mar 2024) -----
+- NEW: Sticky - Sidebar Classic - Archive product.
+- NEW: Sticky - Sidebar Classic - Single product.
+- NEW: Cart Countdown Timer.
+- NEW: New - Badge product - Auto render.
+- FIXED: Some CSS Style.
+- IMPROVED: Bought Together - Support variable product.
+
+----- 6.0.5.1 (22 Feb 2024) -----
+- NEW: Add SKU - Live search product.
+- FIXED: Some issue Off-Canvas.
+- FIXED: Bulk Discount - Buy more save more - Some CSS - Style 2.
+- COMPATIBLE: WooCommerce 8.6.1.
+
+----- 6.0.5 (19 Feb 2024) -----
+- NEW: Taiwanese - Translated Ready.
+- NEW: Buy more save more - Style 2.
+- NEW: Cart - Countdown timer.
+- NEW: Age - Verification.
+- FIXED: Compatible Some issues - 3rd plugins.
+- COMPATIBLE: WooCommerce 8.6.0.
+- COMPATIBLE: WordPress 6.4.3.
+
+----- 6.0.4 (24 Jan 2024) -----
+- NEW: Arabic - Translated Ready (اللغة العربية).
+- NEW: Greek - Translated Ready (ελληνική γλώσσα).
+- FIXED: Open Login Popup - Checkout Modern Layout - WooCommerce 8.5.1.
+- IMPROVED: Template - change Variation in Mini Cart.
+- COMPATIBLE: WooCommerce 8.5.1.
+
+----- 6.0.3 (18 Jan 2024) -----
+- NEW: Polish - Translated Ready (Język polski).
+- NEW: Allow change Variation in Mini Cart.
+- FIXED: Error Duplicate Shipping methods - Dokan - Checkout Modern Layout.
+- IMPROVED: Cross-Sell template - You may be interested in ... - Mini Cart Sidebar.
+- COMPATIBLE: WooCommerce All Products For Subscriptions.
+- COMPATIBLE: WPBakery Page Builder 7.4.
+
+----- 6.0.2 (31 Dec 2023) -----
+- FIXED: Some CSS Style.
+- FIXED: Some Issues - Mobile App Simulator.
+- FIXED: Break HTML - Loop Product - Elementor editor.
+- IMPROVED: Cross-Sell template - You may be interested in ... - Mini Cart Sidebar.
+- IMPROVED: Quickview Popup - Lazy Load template.
+- IMPROVED: Quickview Sidebar - Lazy Load template.
+
+----- 6.0.1 (21 Dec 2023) -----
+- FIXED: Some CSS Style.
+- IMPROVED: Mini Cart Sidebar - Preloading.
+- IMPROVED: Mini Cart Popup v2 - Preloading.
+- COMPATIBLE: Yith WooCommerce Wishlist - Missing link for Mini Icon Wishlist.
+- COMPATIBLE: WPBakery Page Builder 7.3.
+- COMPATIBLE: Revolution Slider 6.6.20.
+- COMPATIBLE: WooCommerce 8.4.0.
+- COMPATIBLE: WordPress 6.4.2.
+
+----- 6.0.0 (06 Dec 2023) -----
+- NEW: Single Product - Mobile - Top Navigation
+- NEW: Mini Cart - Simple - Hide "View Cart" Button in Mini Cart.
+- NEW: Fixed Place Order button - Mobile - Checkout Modern layout.
+- NEW: Fixed Breadcrumb - Mobile - Checkout Modern layout.
+- NEW: Popup Form Login - Checkout Modern layout.
+- NEW: Options List Layout - Archive Product page - Mobile Layout.
+- FIXED: Some CSS Style.
+- IMPROVED: Checkout modern in Mobile layout - Ignore Cart Page with Mini Cart Simple.
+
+----- 5.4.2 (25 Nov 2023) -----
+- FIXED: Some issues - HTML error structure.
+- IMPROVED: Replace some icon-font with SVG.
+- IMPROVED: Checkout modern in Mobile layout - Sticky button and Nav.
+- COMPATIBLE: WooCommerce 8.3.1.
+
+----- 5.4.1 (21 Nov 2023) -----
+- FIXED: Some CSS styles.
+- IMPROVED: Theme Option - Interface.
+- IMPROVED: Replace some icon-font with SVG.
+- IMPROVED: Before, After Tab Title - WPBakery version.
+- COMPATIBLE: WPBakery Page Builder 7.2.
+- COMPATIBLE: WooCommerce 8.3.0.
+- COMPATIBLE: WordPress 6.4.1.
+
+----- 5.4.0 (08 Nov 2023) -----
+- NEW: +2 Home Glasses - Elementor version.
+- NEW: +2 Home Glasses - WPBakery version.
+- FIXED: Some CSS styles.
+- IMPROVED: Replace some icon-font with SVG.
+- IMPROVED: Viewed Products - Use jQuery Cookie.
+
+----- 5.3.9 (02 Nov 2023) -----
+- FIXED: Some CSS styles.
+- IMPROVED: Nasa Tabs Product - Elementor.
+- IMPROVED: Support 2 colors - Attribute UX.
+- COMPATIBLE: Revolution Slider 6.6.18.
+
+----- 5.3.8 (20 Oct 2023) -----
+- FIXED: Missing Buy More Save More (Bulk Discount) in Quickview.
+- IMPROVED: Product Card Style 5 (Remove Text Center Style).
+- COMPATIBLE: Revolution Slider 6.6.17.
+- COMPATIBLE: WooCommerce 8.2.1.
+
+----- 5.3.7 (12 Oct 2023) -----
+- NEW: After Added To Cart - Popup v2.
+- FIXED: Missing Stock - Single Product Page - Catalog Mode.
+- FIXED: Requiments - Checkout Form - Modern layout.
+- IMPROVED: Advance Free Shipping - Allow Rule with Country.
+- COMPATIBLE: YITH WooCommerce Wishlist Premium.
+- COMPATIBLE: WPBakery Page Builder 7.1.
+- COMPATIBLE: WooCommerce 8.2.0.
+- COMPATIBLE: WordPress 6.3.2.
+
+----- 5.3.6 (27 Sep 2023) -----
+- FIXED: Missing Filter Button - Widget Nasa Product Price Filter.
+- IMPROVED: Product Card - Style 10.
+- COMPATIBLE: Advanced Woo Search.
+- COMPATIBLE: WooCommerce Min/Max Quantities.
+- COMPATIBLE: YITH WooCommerce Minimum Maximum Quantity Premium.
+
+----- 5.3.5 (17 Sep 2023) -----
+- FIXED: Some CSS styles.
+- IMPROVED: Background - Blur for Canvas.
+- IMPROVED: Touch event Close - Place Canvas for Mobile.
+- COMPATIBLE: WooCommerce 8.1.1.
+
+----- 5.3.4 (13 Sep 2023) -----
+- FIXED: Some CSS styles.
+- IMPROVED: Ext Mini Cart - Note, Shipping, Coupon.
+- COMPATIBLE: Elementor 3.16.0.
+- COMPATIBLE: Revolution Slider 6.6.16.
+- COMPATIBLE: WooCommerce 8.0.3.
+- COMPATIBLE: WordPress 6.3.1.
+
+----- 5.3.3 (29 Aug 2023) -----
+- NEW: Option Color for Sticky Header.
+- IMPROVED: Add Poster for Video Thumbnail.
+- COMPATIBLE: Yith WooCommerce Compare 2.30.1.
+
+----- 5.3.2 (19 Aug 2023) -----
+- NEW: Dutch - Translated Ready (Nederlands - Taal).
+- FIXED: Some CSS styles.
+- COMPATIBLE: WooCommerce 8.0.2.
+
+----- 5.3.1 (13 Aug 2023) -----
+- FIXED: Some CSS styles - My Account Page.
+- FIXED: Some CSS styles - RTL Mode.
+- IMPROVED: Some CSS styles - Overlay Off Canvas.
+- IMPROVED: After Added To Cart - Popup.
+- COMPATIBLE: WooCommerce 8.0.1.
+- COMPATIBLE: WordPress 6.3.
+
+----- 5.3.0 (02 Aug 2023) -----
+- NEW: German - Translated Ready (Deutsche - Sprache).
+- NEW: Add new Google Fonts: Manrope, Martel, Hind.
+- FIXED: Some CSS styles - Product Grid.
+- IMPROVED: Sample Data.
+- IMPROVED: Some Settings.
+- Compatible: Plugin Nextend Social Login - Pro.
+- COMPATIBLE: WPBakery Page Builder 7.0.
+- COMPATIBLE: Revolution Slider 6.6.15.
+
+----- 5.2.9 (24 Jul 2023) -----
+- NEW: Hebrew - Translated Ready (שפה עברית).
+- NEW: French - Translated Ready (Française - Langue).
+- NEW: Spanish - Translated Ready (Española - Lengua).
+- NEW: Allow Upload Video for Gallery Images for Product.
+- FIXED: Remove Validate Captcha - Checkout Page.
+- COMPATIBLE: WooCommerce 7.9.0.
+
+----- 5.2.8 (17 Jul 2023) -----
+- FIXED: some CSS styles.
+- FIXED: Missing - Quantity input.
+- FIXED: Missing Validate - Captcha Register.
+
+----- 5.2.7 (10 Jul 2023) -----
+- NEW: Italian - Translated Ready (Italiano - Lingua).
+- NEW: Product Grid - Spacing.
+- FIXED: some CSS styles.
+- IMPROVED: options 7, 8 columns for Image box grid.
+- COMPATIBLE: WooCommerce 7.8.2.
+
+----- 5.2.6 (03 Jul 2023) -----
+- NEW: Turkish - Translated Ready (Türkçe - Çeviri Hazır).
+- FIXED: Missing Shipping Step - Checkout Modern - when turning off the shipping calculated in Cart Page.
+- FIXED: some CSS styles - Broken.
+- FIXED: Option Child of - Nasa Product Categories element.
+- FIXED: Overflow - Node Content - Single Product page.
+- COMPATIBLE: WooCommerce 7.8.1.
+
+----- 5.2.5 (23 Jun 2023) -----
+- FIXED: Error js in Single Product Page.
+- FIXED: Change Variation Image, Variation Gallery - case: Slider Infinite.
+- FIXED: Error Double Thumbnail variation Image Single Product Page - Mobile App - case: Slider Infinite.
+- FIXED: Attribute Color - Tip Missing - Single Product Page - Mobile App.
+- FIXED: Missing Image - Some Nasa Elementor Elements.
+- IMPROVED: Add Options Turn Off - Fake View, Fake Sold, Fake In Cart - each Product.
+- IMPROVED: Animation - Quickview Popup, Your Order Popup.
+
+----- 5.2.4 (22 Jun 2023) -----
+- NEW: Promo - Fake In Cart.
+- FIXED: Some Style.
+- IMPROVED: Add Param Slide Infinite - Relate, You may also like, You may be interested in...
+- IMPROVED: Add Param Slide Infinite - Single, Quickview.
+- COMPATIBLE: Brazilian Market on WooCommerce - Checkout Modern Layout.
+
+----- 5.2.3.1 (17 Jun 2023) -----
+- FIXED: Notice in Single Product Page.
+- FIXED: Some Style - RTL mode.
+- IMPROVED: Add Param Slide Infinite.
+
+----- 5.2.3 (14 Jun 2023) -----
+- FIXED: Error Click Multi Currencies - WooCommerce Languages Plugin - Mobile.
+- FIXED: Some Style - Cross-Sells - Mini Cart.
+- COMPATIBLE: Revolution Slider 6.6.14.
+- COMPATIBLE: WooCommerce 7.8.0.
+
+----- 5.2.2 (09 Jun 2023) -----
+- FIXED: Bulk Discount - Multi Currencies in WPML package - Case Discount Rule - Percentage.
+- IMPROVED: Support Import and Export Nasa Product Brands Taxomomies.
+- IMPROVED: Support Import and Export Nasa Product Groups.
+- IMPROVED: Style - Transparent color Header for Mobile App.
+- IMPROVED: Style - Comment Review for Mobile App.
+- COMPATIBLE: WooCommerce 7.7.2.
+
+----- 5.2.1 (27 May 2023) -----
+- NEW: Brand on product Grid.
+- IMPROVED: Style - Login/Register Form Ajax.
+- IMPROVED: Style - GDPR Notice.
+- IMPROVED: Add New Review Form - Off-Canvas on Mobile.
+- COMPATIBLE: WPBakery Page Builder 6.13.0.
+
+----- 5.2.0 (22 May 2023) -----
+- FIXED: Compare - Bottom.
+- FIXED: Button - Play Video - Single Product Page.
+- IMPROVED: Login - Register Form Ajax.
+- IMPROVED: Lock Scroll Screen when Open Off-Canvas on Mobile.
+- IMPROVED: Touch Swipe - Close Off-Canvas.
+- COMPATIBLE: WordPress 6.2.2.
+
+----- 5.1.9 (11 May 2023) -----
+- FIXED: Bulk Discount Price in Mini Cart - WCML.
+- FIXED: Lock Scroll - Lightbox Images Gallery - Single Product Page - Mobile.
+- IMPROVED: Touch Swipe - Lightbox Images Gallery - Single Product Page - Mobile.
+- COMPATIBLE: Revolution Slider 6.6.13.
+- COMPATIBLE: WooCommerce 7.7.0.
+
+----- 5.1.8.2 (03 May 2023) -----
+- FIXED: Auto Close Notice Wishlist Success.
+- FIXED: Event Click - Close Notice Button.
+- IMPROVED: Option 1 Column, 2 Columns - Nasa Product Attributes Filter Widget.
+
+----- 5.1.8.1 (28 Apr 2023) -----
+- FIXED: Some Style.
+- FIXED: Preview in Backend - Revolution slider.
+- IMPROVED: Nasa Core - wpml-config.xml support translate for WPML.
+- IMPROVED: Sample Data.
+- COMPATIBLE: WooCommerce 7.6.1.
+
+----- 5.1.8 (25 Apr 2023) -----
+- NEW: Notice - Required Update Nasa Core Plugin.
+- FIXED: Some Style - Elementor Content Data.
+- IMPROVED: Dokan Store - Breadcrumb.
+- IMPROVED: Support HFE Block for Static Block.
+- IMPROVED: Elementor Tabs.
+- IMPROVED: Color, Style Button Add To Cart - Product Cart Style 4, 8, 9.
+- IMPROVED: Sample Data.
+- COMPATIBLE: WPBakery Page Builder 6.11.0.
+
+----- 5.1.7 (15 Apr 2023) -----
+- NEW: You may be interested in… for Cart Sidebar.
+- FIXED: Some Style - Mobile Layout (App Simulation).
+- FIXED: Price - Bulk Price - Variation Product - Mobile Layout (App Simulation).
+- FIXED: Remove Item Compare - Page View Compare.
+- IMPROVED: Option Turn On/Off - Read More - Show Less WooCommerce - Tabs - Mobile Layout (App Simulation).
+- IMPROVED: Style - Toggle Sections - Theme Options.
+- COMPATIBLE: WooCommerce 7.6.0.
+
+----- 5.1.6 (11 Apr 2023) -----
+- FIXED: Some Style - Mobile Layout (App Simulation).
+- FIXED: Buttons Fixed render - Mobile Layout (App Simulation).
+- FIXED: Undefined - Info Shipping Address 2 - case Hidden.
+- IMPROVED: Back History - Mobile Layout (App Simulation).
+- IMPROVED: Mega Menu - Add Option - No Full Width.
+- COMPATIBLE: Yith WooCommerce Request A Quote.
+
+----- 5.1.5.1 (31 Mar 2023) -----
+- FIXED: Readmore - WooCommerce Tabs - Mobile Layout (App Simulation).
+- FIXED: Some CSS - For Fibo Search Plugin.
+- IMPROVED: Additional Homepage - Import Sample Data.
+- COMPATIBLE: Elementor Pro - 3.12.0.
+- COMPATIBLE: WordPress 6.2.
+
+----- 5.1.5 (30 Mar 2023) -----
+- FIXED: Some CSS Style.
+- IMPROVED: Import Sample Data.
+- COMPATIBLE: Revolution Slider 6.6.12.
+- COMPATIBLE: WooCommerce 7.5.1.
+
+----- 5.1.4 (16 Mar 2023) -----
+- NEW: Header Builder with Elementor Header & Footer Builder Plugin.
+- FIXED: Archive Product - Top Filter with Product Card Style => Carousel.
+- FIXED: Some issue Checkout Classic - Conditional extra fees for WooCommerce PRO.
+- IMPROVED: Multi Currencies with FOX - Currency Switcher Professional for WooCommerce plugin.
+- IMPROVED: Multi Currencies with CURCY - Multi Currency for WooCommerce plugin.
+- IMPROVED: Some CSS Style - Button, Input HTML.
+- COMPATIBLE: Issue Login by Ajax - some 3rd's Plugins.
+- COMPATIBLE: WooCommerce 7.5.0.
+
+----- 5.1.3 (08 Mar 2023) -----
+- FIXED: Some error - Elementor Element - Nasa Banners.
+- IMPROVED: Bought Together - Mobile Layout.
+- COMPATIBLE: Conditional extra fees for WooCommerce PRO.
+
+----- 5.1.2 (03 Mar 2023) -----
+- NEW: Fake Purchased Products.
+- FIXED: Data overflow - When without Short Description.
+- IMPROVED: Some style - Mobile Layout (App Simulation).
+- IMPROVED: Remove letter spacing - RTL Mode.
+- IMPROVED: Use Static Block - Mobile Bottom Bar.
+- COMPATIBLE: WooCommerce 7.4.1.
+
+----- 5.1.1 (23 Feb 2023) -----
+- FIXED: Style Menu, Search icons - Mobile Layout.
+- FIXED: Style Menu Account Off-Canvas - Mobile Layout.
+- FIXED: Some Style Popup - Single Product - Mobile Layout (App Simulation).
+- FIXED: Some Text Domain.
+- COMPATIBLE: Revolution Slider 6.6.11.
+
+----- 5.1.0 (19 Feb 2023) -----
+- NEW: Off-Canvas Sidebar - My Account Nav - My Account Page - Mobile.
+- IMPROVED: Mobile Menu - Off-Canvas.
+- IMPROVED: Some Elementor Elements.
+- COMPATIBLE: WooCommerce 7.4.0.
+
+----- 5.0.9 (09 Feb 2023) -----
+- NEW: + Popular Search Keywords - Live Search Feature.
+- NEW: Button - Clear Text Search Input.
+- FIXED: Max Width - Site.
+- IMPROVED: Fullwidth Off-Canvas Cart, Wishlist, Viewed - Mobile Layout (App Simulation).
+- IMPROVED: Fullwidth Off-Canvas Sidebar Filter - Shop (App Simulation).
+
+----- 5.0.8 (06 Feb 2023) -----
+- NEW: + Popular Search Keywords - Live Search Feature.
+- NEW: Option Turn On/Off - Mobile Bottom Bar.
+- FIXED: Width, Height Logo in Mobile Menu Off-Canvas.
+- IMPROVED: Fullwidth Off-Canvas Cart, Wishlist, Viewed - Mobile Layout (App Simulation).
+
+----- 5.0.7.1 (31 Jan 2023) -----
+- FIXED: Flexible - Menu Resizing.
+
+----- 5.0.7 (30 Jan 2023) -----
+- NEW: Allow Shortcode - Menu Item Description.
+- IMPROVED: Multi Languages, Multi Currencies - Mobile Layout (App Simulation).
+- IMPROVED: Change Outdate - js Handlebars file.
+- COMPATIBLE: Revolution Slider 6.6.10.
+
+----- 5.0.6 (20 Jan 2023) -----
+- NEW: +1 Product Card Style.
+- FIXED: Theme Support Background Image - Customize.
+- FIXED: Some Styles.
+- FIXED: Checkout Modern - Break Step.
+
+----- 5.0.5 (14 Jan 2023) -----
+- IMPROVED: Option Auto Slide - Single Product Slide.
+- IMPROVED: Option Auto Slide - Relate, Up-Sell, Cross-Sell.
+- IMPROVED: Remove Breadcrumb - WooCommerce Page of Mobile Layout (App Simulation).
+- COMPATIBLE: WooCommerce 7.3.0.
+
+----- 5.0.4 (07 Jan 2023) -----
+- IMPROVED: Dark Version Style.
+- IMPROVED: Optimize HTML.
+- IMPROVED: Remove Nasa Compare Messages.
+
+----- 5.0.3 (03 Jan 2023) -----
+- NEW: Badge - Backorders for Product.
+- IMPROVED: Widget Nasa Product Filter Status.
+- IMPROVED: List Product - Compare Bottom on Mobile.
+- IMPROVED: Single Product Page - Mobile Layout (App Simulation).
+
+----- 5.0.2 (24 Dec 2022) -----
+- FIXED: Some Css Offsets.
+- FIXED: After saving data to missing with custom Tabs - Single Product Page.
+- COMPATIBLE: WooCommerce 7.2.2.
+
+----- 5.0.1 (20 Dec 2022) -----
+- NEW: Widget Filter Product Brands - Dropdown.
+- FIXED: Missing - Mobile Menu.
+- IMPROVED: Main Menu CSS.
+- IMPROVED: Mobile Layout (App Simulation).
+- COMPATIBLE: Fibo Search Plugin.
+- COMPATIBLE: Revolution Slider 6.6.8.
+- COMPATIBLE: WooCommerce 7.2.1.
+
+----- 5.0.0 (13 Dec 2022) -----
+- NEW: +1 Mobile Layout (App Simulation).
+- FIXED: Missing Close Button - WooCommerce Notices - Cart Page.
+- IMPROVED: Option Change Font Size for Main Menu.
+- IMPROVED: Option Arrow, Dot for Shortcode Nasa Products By ID(s).
+- COMPATIBLE: Yith WooCommerce Bundle.
+- COMPATIBLE: WooCommerce 7.1.1.
+- COMPATIBLE: WordPress 6.1.1.
+
+===== BIG UPDATE 5.0 =====
+
+----- 4.12.0 (15 Nov 2022) -----
+- NEW: Support Upload SVG media.
+- FIXED: Some CSS Break.
+- IMPROVED: Validate Checkout Form - Modern.
+- IMPROVED: Tab IMG icon - For WPBakery.
+- COMPATIBLE: WooCommerce 7.1.0.
+
+----- 4.11.0 (02 Nov 2022) -----
+- COMPATIBLE: WooCommerce 7.0.1.
+- COMPATIBLE: WordPress 6.1.
+
+----- 4.10.1 (01 Nov 2022) -----
+- FIXED: Filters - Sidebar Classic - Empty products.
+- COMPATIBLE: Perfect Brands for WooCommerce.
+- COMPATIBLE: Revolution Slider 6.6.5.
+
+----- 4.10.0 (18 Oct 2022) -----
+- FIXED: Remove Option Need Shipping - Checkout Modern Layout.
+- COMPATIBLE: WOOF - WooCommerce Products Filter.
+- COMPATIBLE: WPBakery Page Builder 6.10.0.
+- COMPATIBLE: WordPress 6.0.3.
+
+----- 4.9.9.9.1 (13 Oct 2022) -----
+- FIXED: Some - Thankyou Page.
+- COMPATIBLE: Revolution Slider 6.6.3.
+- COMPATIBLE: WooCommerce 7.0.0.
+
+----- 4.9.9.9 (01 Oct 2022) -----
+- IMPROVED: Checkout Modern Layout.
+- COMPATIBLE: WooCommerce 6.9.4.
+
+----- 4.9.9.8 (21 Sep 2022) -----
+- NEW: Option Less, More Variation UX Items.
+- FIXED: Checkout Modern - Required Input account Password.
+- IMPROVED: Hook Protocol - Logo.
+- COMPATIBLE: WooCommerce 6.9.3.
+
+----- 4.9.9.7.1 (17 Sep 2022) -----
+- FIXED: Checkout Company Field - Case Required.
+- COMPATIBLE: WooCommerce 6.9.2.
+
+----- 4.9.9.7 (13 Sep 2022) -----
+- FIXED: Product Image Sizes - WooCommerce.
+- FIXED: Some Issues Data Sample.
+- COMPATIBLE: Germanized for WooCommerce - Checkout Modern Layout.
+
+----- 4.9.9.6 (10 Sep 2022) -----
+- IMPROVED: Checkout Modern Layout - Case Shipping Address First.
+- COMPATIBLE: WordPress 6.0.2.
+
+----- 4.9.9.5 (30 Aug 2022) -----
+- IMPROVED: Advance Free Shipping - Allow to show others shipping methods.
+- COMPATIBLE: WooCommerce 6.8.2.
+- COMPATIBLE: WordPress 6.0.1.
+
+----- 4.9.9.4 (20 Aug 2022) -----
+- NEW: +3 Home Plant - WPBakery version.
+- NEW: Quantity input - Checkout page.
+- FIXED: Some Style - Dokan.
+- IMPROVED: Some Style - Checkout page.
+- COMPATIBLE: Revolution Slider 6.5.31.
+- COMPATIBLE: WooCommerce 6.8.1.
+
+----- 4.9.9.3 (11 Aug 2022) -----
+- NEW: After Content Breadcrumb for Category Products page.
+- FIXED: Issue RTL Options.
+- FIXED: Order Number - Page Thank You.
+- FIXED: Cart, Wishlist Off-Canvas - Dark Style.
+- COMPATIBLE: WooCommerce 6.8.0.
+
+----- 4.9.9.2 (08 Aug 2022) -----
+- NEW: +3 Home Plant - Elementor version.
+- NEW: After Content Breadcrumb for Shop Page.
+- FIXED: Some Style Popup.
+- FIXED: Some issues Sticky Add To Cart - Plg WooCommerce Bundle.
+
+----- 4.9.9.1 (25 Jul 2022) -----
+- NEW: +1 Home Organic Farm - Elementor version.
+- FIXED: Quantity input Number - Min value.
+- FIXED: Some issue Variations Swatches.
+- IMPROVED: Focus - Style Video icon - Single Product Page.
+
+----- 4.9.9 (13 Jul 2022) -----
+- NEW: +1 Organic Home - WPBakery version.
+- NEW: +4 Organic Home - Elementor version.
+- NEW: +5 layouts - Dokan Vendor List.
+- FIXED: Show notices after added to cart.
+- IMPROVED: Filter Categories - Header Area.
+- COMPATIBLE: WooCommerce 6.7.0.
+
+----- 4.9.8 (26 Jun 2022) -----
+- NEW: +4 Organic Home - WPBakery version.
+- COMPATIBLE: Revolution Slider 6.5.25.
+- COMPATIBLE: WooCommerce 6.6.1.
+
+----- 4.9.7 (19 Jun 2022) -----
+- NEW: Element Nasa Icon Box.
+- NEW: Some Theme Options.
+- FIXED: Case => empty - upload comment images product- not required.
+- IMPROVED: Some Styles - Dokan Store Page.
+- IMPROVED: Some Styles - Simple Deal Products.
+- COMPATIBLE: WooCommerce 6.6.0.
+
+----- 4.9.6 (07 Jun 2022) -----
+- NEW: +4 Header Store layouts - Dokan Store Page.
+- NEW: Options Sidebar Position for Dokan Store Page.
+- FIXED: Some issues White Label.
+
+----- 4.9.5 (30 May 2022) -----
+- FIXED: Auto Update Popup Your Order.
+- FIXED: Variations with Bulk Discount.
+- FIXED: Some issues White Label.
+- COMPATIBLE: WordPress 6.0.
+- COMPATIBLE: Revolution Slider 6.5.24.
+
+----- 4.9.4 (23 May 2022) -----
+- NEW: Allow upload images for Review Product.
+- FIXED: Icon Product Categories in Header.
+- FIXED: Icon Video - Single Product Page.
+- IMPROVED: Some Styles - Extras Coupon - Mini Cart Sidebar.
+- COMPATIBLE: Revolution Slider 6.5.23.
+
+----- 4.9.3 (13 May 2022) -----
+- IMPROVED: Public Coupons in Mini Cart Sidebar.
+- COMPATIBLE: WooCommerce 6.5.1.
+
+----- 4.9.2.1 (08 May 2022) -----
+- FIXED: Issue - Elementor - Nasa Testimonials.
+- FIXED: Some Styles - Extras (Note, Shipping, Coupon) - Mini Cart Sidebar.
+
+----- 4.9.2 (08 May 2022) -----
+- NEW: Elementor - Nasa Testimonials.
+- NEW: Extras (Note, Shipping, Coupon) - Mini Cart Sidebar.
+- NEW: Auto-update quantity in the Cart page.
+- FIXED: Some Styles.
+- FIXED: Some Option Columns - Category Products.
+- COMPATIBLE: Revolution Slider 6.5.21.
+
+----- 4.9.1.1 (27 Apr 2022) -----
+- FIXED: Some CSS - Add to Cart - Header type 6.
+- FIXED: Remove Notices when empty Custom Tab - Single Product Page.
+
+----- 4.9.1 (25 Apr 2022) -----
+- NEW: Custom Tab - Single Product Page.
+- NEW: Change view layout for Dokan Store.
+- FIXED: Some CSS - Top Menu.
+- FIXED: Issue Sticky Add To Cart - Single Product Page.
+
+----- 4.9.0 (17 Apr 2022) -----
+- FIXED: Some issues Checkout Page with Payments area.
+- FIXED: Some issues when Disable Shop Ajax Mode.
+- COMPATIBLE: Revolution Slider 6.5.20.
+- COMPATIBLE: WPBakery Page Builder 6.9.0.
+- COMPATIBLE: WooCommerce 6.4.1.
+
+----- 4.8.9 (08 Apr 2022) -----
+- FIXED: Conflict 3rd Plugins - Checkout Page.
+- IMPROVED: Theme Setup - Sample Data.
+- COMPATIBLE: WordPress 5.9.3.
+
+----- 4.8.8 (28 Mar 2022) -----
+- NEW: +1 Header Type.
+- NEW: Support search product by SKU.
+- FIXED: Change SKU - Variation - Quickview.
+- FIXED: Some CSS - Form.
+- IMPROVED: Animate, Some Styles - Top Filter Shop Type 2.
+
+----- 4.8.7 (20 Mar 2022) -----
+- FIXED: Checkout Modern - Dark version.
+- FIXED: Conflict Fontawesome 4, 5 of Elementor.
+- FIXED: Issue Search Icon in Header Type 5.
+- IMPROVED: Next, Prev Product - Single Product Page.
+- IMPROVED: Sample Data - Footers Builder - HFE plugin.
+
+----- 4.8.6 (16 Mar 2022) -----
+- NEW: Shortcode Nasa Brands - Filters.
+- IMPROVED: Options - Product Category.
+- COMPATIBLE: Revolution Slider 6.5.19.
+- COMPATIBLE: WooCommerce 6.3.1.
+- COMPATIBLE: WordPress 5.9.2.
+
+----- 4.8.5 (09 Mar 2022) -----
+- FIXED: Some Notices.
+- FIXED: Option - Vertical menu - Root Category Product.
+- IMPROVED: Options - Change view columns - Shop page.
+- COMPATIBLE: Revolution Slider 6.5.18.
+- COMPATIBLE: CartFlows Plugin.
+
+----- 4.8.4 (04 Mar 2022) -----
+- NEW: +1 Header Type.
+- IMPROVED: Multi Currencies with FOX - Currency Switcher Professional for WooCommerce plugin.
+- IMPROVED: Multi Currencies with CURCY - Multi Currency for WooCommerce plugin.
+- IMPROVED: Live search with Product - Out of Stock.
+
+----- 4.8.3 (24 Feb 2022) -----
+- NEW: +1 Layout Single Product Page - With Background V2.
+- FIXED: Some Css - Dark version - Single Product layouts.
+- IMPROVED: Search Style - Header type 3.
+- COMPATIBLE: Revolution Slider 6.5.17.
+- COMPATIBLE: WooCommerce 6.2.1.
+
+----- 4.8.2 (16 Feb 2022) -----
+- NEW: +1 Layout Single Product Page - With Background V1.
+- NEW: +2 WooCommerce Tab Layouts - Vertical, Vertical Expanded.
+- COMPATIBLE: GP Nested Forms Plugin.
+- COMPATIBLE: Revolution Slider 6.5.15.
+- COMPATIBLE: WooCommerce 6.2.0.
+
+----- 4.8.1 (08 Feb 2022) -----
+- NEW: +1 Layout Single Product Page - Purchase Focus.
+- FIXED: Line Height for Text Editor - Elementor.
+- FIXED: Global Margin Inputs Form.
+- FIXED: Meta style - Single product page.
+- FIXED: Z-Index Popup - Single Product page.
+- FIXED: Accordion - Mobile Menu.
+- COMPATIBLE: Advanced Woo Search Plugin.
+
+----- 4.8.0 (26 Jan 2022) -----
+- IMPROVED: Estimate Delivery Time.
+- IMPROVED: Single Product - Slider Fullwidth + 2 Options.
+- COMPATIBLE: Nasa Bulk Discount - WOOCS - WooCommerce Currency Switcher.
+- COMPATIBLE: Nasa Bulk Discount - CURCY - Multi Currency for WooCommerce.
+- COMPATIBLE: Nasa Bulk Discount - WPML - WooCommerce Multilingual.
+- COMPATIBLE: WooCommerce 6.1.1.
+- COMPATIBLE: WordPress 5.9.
+
+----- 4.7.7 (17 Jan 2022) -----
+- NEW: +1 Layout Single Product Page.
+- NEW: +1 WooCommerce Tab Layout - Small Accordion.
+- NEW: Element Mega Menu - ELEMENTOR.
+- NEW: Element Search Form - ELEMENTOR.
+- FIXED: Support Webp images for Pin element.
+- IMPROVED: WooCommerce Notices Style.
+- COMPATIBLE: WooCommerce 6.1.0.
+
+----- 4.7.6 (08 Jan 2022) -----
+- NEW: White Label - Options.
+- FIXED: Datetime Posts on the Blog page.
+- FIXED: Dark version for some Product Card Styles.
+- COMPATIBLE: Revolution Slider 6.5.14.
+- COMPATIBLE: WordPress 5.8.3.
+
+----- 4.7.5 (02 Jan 2022) -----
+- NEW: +5 Product Card Styles.
+- NEW: +3 Homepage (Medical v1 + v2, Pharmacy) - ELEMENTOR.
+
+----- 4.7.4 (25 Dec 2021) -----
+- NEW: +2 Homepage Accessories V2, V3 - ELEMENTOR.
+- NEW: +1 Product Card Style.
+- NEW: +1 Product Hover Effect.
+- FIXED: Add to cart in Page View Compare.
+- COMPATIBLE: WPBakery Page Builder 6.8.0.
+- COMPATIBLE: Revolution Slider 6.5.12.
+
+----- 4.7.3 (17 Dec 2021) -----
+- FIXED: Single Product - WooCommerce Tabs.
+- IMPROVED: Sample Data.
+- COMPATIBLE: Elementor 3.5.0.
+- COMPATIBLE: WooCommerce 6.0.0.
+
+----- 4.7.2 (11 Dec 2021) -----
+- NEW: +3 Homepage Auto Parts - ELEMENTOR.
+- NEW: Reach Free Shipping Effect - WooCommerce Advanced Free Shipping plugin.
+- FIXED: Missing Some Text Domain.
+- IMPROVED: Sample Data.
+
+----- 4.7.1.1 (05 Dec 2021) -----
+- NEW: +1 Homepage Medical v2.
+- IMPROVED: Sample Data.
+
+----- 4.7.1 (03 Dec 2021) -----
+- FIXED: Bulk Discount - Popup Cart.
+- IMPROVED: Style Order By in Store.
+- IMPROVED: Style for Advance Free Shipping.
+- IMPROVED: Style Mini Cart - Wishlist - Viewed Sidebar.
+- IMPROVED: Mini Cart - add Subtotal for each item.
+- COMPATIBLE: YITH WooCommerce Product Add-ons & Extra Options V2.0.
+- COMPATIBLE: AliDropship Woo Plugin (Disable Nasa Attributes UX to use Attributes Swatches of AliDropship).
+
+----- 4.7.0.1 (23 Nov 2021) -----
+- FIXED: Error - Breadcrumb - Text Color Option - Product Category.
+- FIXED: Css Dark version for Search Ajax Product - Modern Layout.
+- FIXED: Ignore Quick view - Bundle Product - Content Product Widget.
+
+----- 4.7.0 (21 Nov 2021) -----
+- NEW: +1 Homepage Pharmacy.
+- NEW: Version Gray BG Site.
+- NEW: Static Block Beside Main Menu - Header Type 4.
+- NEW: Element Image Box Grid.
+- IMPROVED: UX Variation Swatches - Single, Quickview Product.
+- IMPROVED: Mega Menu.
+- COMPATIBLE: Revolution Slider 6.5.11.
+
+----- 4.6.9 (11 Nov 2021) -----
+- NEW: +1 Homepage Medical v1.
+- NEW: Option Wrap - Gray Background for Widgets in Sidebar Classic (Desktop Mode > 1024px).
+- NEW: Some Options for Product Category.
+- FIXED: Nasa Captcha for Login / Register.
+- COMPATIBLE: WooCommerce 5.9.0.
+
+----- 4.6.8 (06 Nov 2021) -----
+- NEW: Widget Nasa Products Widget.
+- NEW: Element List Child items Product Category.
+- FIXED: Some Style - Element Nasa Products Deal.
+- FIXED: Some Style - Login / Register Popup Form.
+- IMPROVED: Relate, Up-sell Products.
+
+----- 4.6.7 (28 Oct 2021) -----
+- NEW: +2 Homes - Accessories.
+- NEW: Element Deals for Time V2.
+- FIXED: Issue Ux variations Loop Products.
+
+----- 4.6.6 (20 Oct 2021) -----
+- FIXED: Flex Rows / Columns - WPBakery.
+- IMPROVED: After Added To Cart Mode.
+- IMPROVED: Sample Data Demo.
+
+----- 4.6.5 (14 Oct 2021) -----
+- NEW: +3 Homes - Auto Part.
+- NEW: Font-Weight Option.
+- FIXED: Missing - Text Focus Event.
+- FIXED: Pagination Store.
+- COMPATIBLE: Revolution Slider 6.5.9.
+- COMPATIBLE: WooCommerce 5.8.0.
+
+----- 4.6.4 (10 Oct 2021) -----
+- FIXED: Missing Search in Mobile Layout.
+- FIXED: Some Options in Rows / Columns - WPBakery.
+- IMPROVED: Change Slug (Taxonomy) Product Groups - Auto Sync Old Data.
+- IMPROVED: Style - Theme Options.
+- IMPROVED: Sample Data Demo.
+
+----- 4.6.3 (06 Oct 2021) -----
+- IMPROVED: Style Pagination Blogs.
+- IMPROVED: Ajax Shop Filter.
+- IMPROVED: Single Product - Change Variation Gallery.
+- IMPROVED: Shortcode Nasa Product + 1 type (Quantity Stock).
+
+----- 4.6.2.1 (27 Sep 2021) -----
+- FIXED: Some text-domain.
+- IMPROVED: Theme Setup Feature.
+- COMPATIBLE: WooCommerce 5.7.1.
+
+----- 4.6.2 (23 Sep 2021) -----
+- FIXED: Restore - Default loop - Add To Cart - Button.
+- IMPROVED: Options Delay js files And Ignore Some css files.
+- COMPATIBLE: WooCommerce 5.7.0.
+
+----- 4.6.1 (16 Sep 2021) -----
+- NEW: Option for Next - Prev Single Product.
+- FIXED: Conflict Font pe7s - Elementor Pro.
+- IMPROVED: Transition Effect Load.
+
+----- 4.6.0 (09 Sep 2021) -----
+- FIXED: i18l for Count Results in store.
+- FIXED: i18l for Estimated Delivery.
+- IMPROVED: Badge for Bulk Discount Product.
+- COMPATIBLE: Revolution Slider 6.5.8.
+
+----- 4.5.9.1 (27 Aug 2021) -----
+- FIXED: Empty Onsale Filter.
+- FIXED: Option Virtual Online Viewing.
+
+----- 4.5.9 (23 Aug 2021) -----
+- IMPROVED: Style Notices.
+- IMPROVED: Thank you Page.
+- COMPATIBLE: Revolution Slider 6.5.7.
+- COMPATIBLE: WooCommerce 5.6.0.
+
+----- 4.5.8 (17 Aug 2021) -----
+- FIXED: Some issue style.
+- FIXED: Hide empty in widget Nasa Variations Filters.
+- IMPROVED: Style Bulk Discounts.
+- IMPROVED: Style Sticky Add To Cart.
+- IMPROVED: Option add version when call CSS files.
+
+----- 4.5.7 (14 Aug 2021) -----
+- FIXED: Filter Multi Product Tags.
+- FIXED: Issue Bulk Discounts.
+- FIXED: Some Styles.
+
+----- 4.5.6 (10 Aug 2021) -----
+- NEW: Fake Sold Feature.
+- FIXED: Option - Disable Flexible Menu in tablet.
+- IMPROVED: Style of Countdown.
+- COMPATIBLE: Revolution Slider 6.5.6.
+
+----- 4.5.5 (06 Aug 2021) -----
+- NEW: Bulk Discounts Product.
+- IMPROVED: Issue Css.
+
+----- 4.5.4 (31 Jul 2021) -----
+- NEW: Live Search Product Layout - Modern.
+- IMPROVED: Header type 2, 3, 5 - Flex box Css.
+
+----- 4.5.3 (24 Jul 2021) -----
+- FIXED: Removed Widgets Block Editor - WP 5.8.
+- COMPATIBLE: WooCommerce 5.5.2.
+
+----- 4.5.2 (19 Jul 2021) -----
+- FIXED: Fullwidth - Vertical Mega Menu - with Elementor.
+- COMPATIBLE: Revolution Slider 6.5.5.
+- COMPATIBLE: WordPress 5.8.
+
+----- 4.5.1 (19 Jul 2021) -----
+- FIXED: Css - Shortcode Products Deal.
+- FIXED: Css - Header Type 1.
+
+----- 4.5.0 (16 Jul 2021) -----
+- FIXED: Single Product Page - Focus Main Image - After Changed Variation.
+- FIXED: some Style.
+- COMPATIBLE: WooCommerce 5.5.1.
+- COMPATIBLE: WPBakery Page Builder 6.7.0.
+
+----- 4.4.8 (04 Jul 2021) -----
+- FIXED: Issue Ajax Shop.
+- FIXED: some Style Heading tag My Account Page.
+- IMPROVED: Optimize HTML.
+
+----- 4.4.7 (02 Jul 2021) -----
+- CHANGED: some Heading tag to Span tag.
+- IMPROVED: Optimize HTML - CSS - JS.
+- COMPATIBLE: Revolution Slider 6.5.4.
+
+----- 4.4.6 (25 Jun 2021) -----
+- IMPROVED: Checkout Layout - Modern.
+- COMPATIBLE: Revolution Slider 6.5.3.
+
+----- 4.4.5 (21 Jun 2021) -----
+- NEW: Checkout Layout - Modern.
+- FIXED: Some Styles.
+- FIXED: Some Js.
+- FIXED: Sample Data.
+
+----- 4.4.4.1 (16 Jun 2021) -----
+- FIXED: Row Max width - Elementor.
+
+----- 4.4.4 (15 Jun 2021) -----
+- FIXED: Some Style.
+- FIXED: Single Product - Stock for Variation.
+- FIXED: Filter Store In Mobile Layout.
+- IMPROVED: Thumbnail for Checkout Order Item.
+- COMPATIBLE: WooCommerce 5.4.1.
+- COMPATIBLE: Revolution Slider 6.5.0.
+
+----- 4.4.3 (01 Jun 2021) -----
+- FIXED: Some Style.
+- FIXED: Issue UX variations Product.
+- IMPROVED: Background - Breadcrumb for Mobile Layout Mode.
+
+----- 4.4.2 (24 May 2021) -----
+- IMPROVED: Css Files.
+- IMPROVED: Quickview Feature.
+- IMPROVED: Option Change Position Account Icon (Topbar - Header -Icons).
+
+----- 4.4.1 (18 May 2021) -----
+- FIXED: Arrows Slider.
+- FIXED: Active Topbar Archive Products Page.
+- IMPROVED: Add To Cart - Buy Now - Single Product.
+- COMPATIBLE: WooCommerce 5.3.0.
+
+----- 4.4.0 (10 May 2021) -----
+- FIXED: Fullwidth Option - Header type 2, 3.
+- FIXED: H1 tag in Archive Products Page.
+- IMPROVED: Crazy loading in Quickview - sidebar.
+- IMPROVED: Online Documentation - https://elessi-docs.nasatheme.com.
+- COMPATIBLE: Revolution Slider 6.4.11.
+
+----- 4.3.0 (29 Apr 2021) -----
+- FIXED: Some CSS - Dark Version.
+- FIXED: Issue Variations - Single Product Page in iPad Pro.
+- FIXED: Back State Browser - with Ajax.
+- COMPATIBLE: Revolution Slider 6.4.10.
+
+----- 4.2.9 (25 Apr 2021) -----
+- IMPROVED: Back State Browser - with Ajax.
+- COMPATIBLE: Revolution Slider 6.4.8.
+- COMPATIBLE: WooCommerce 5.2.2.
+
+----- 4.2.8 (15 Apr 2021) -----
+- NEW: Google Font "Jost".
+- NEW: Option Google Max Font-Weight (900 - 800 - 700 - 600).
+- FIXED: Header Type 5 - Toggle Menu Sidebar.
+- IMPROVED: Some CSS.
+- COMPATIBLE: WooCommerce 5.2.1.
+- COMPATIBLE: WordPress 5.7.1.
+
+----- 4.2.7 (10 Apr 2021) -----
+- NEW: Ajax Loading - Single Product Page.
+- NEW: Crazy Loading - Single Product Page.
+
+----- 4.2.6 (06 Apr 2021) -----
+- NEW: Option Mobile Logo.
+- FIXED: CSS - Categories Filters Bar in Mobile.
+- IMPROVED: Checkout - Steps.
+- IMPROVED: Header - Responsive Mode.
+- IMPROVED: Change Cart To Wishlist Icon in Bottom Bar Mobile.
+- IMPROVED: Removed Wishlist Icon in Header Mobile - Layout.
+
+----- 4.2.5.1 (31 Mar 2021) -----
+- FIXED: Sticky Logo.
+- IMPROVED: Main CSS.
+- IMPROVED: Crazy Loading - Loop item AJAX STORE.
+
+----- 4.2.5 (31 Mar 2021) -----
+- NEW: Crazy Loading - Loop item AJAX STORE.
+- FIXED: Some CSS.
+- FIXED: Filters by Status Widget.
+- IMPROVED: Elementor - Pro (Footer - Header Builder).
+- COMPATIBLE: Revolution Slider 6.4.6.
+
+----- 4.2.4 (19 Mar 2021) -----
+- FIXED: Some CSS.
+- IMPROVED: Shop page AJAX.
+- COMPATIBLE: Revolution Slider 6.4.5.
+
+----- 4.2.3 (11 Mar 2021) -----
+- FIXED: Some CSS Dark version.
+- COMPATIBLE: Revolution Slider 6.4.3.
+- COMPATIBLE: WooCommerce 5.1.0.
+- COMPATIBLE: WordPress 5.7.
+
+----- 4.2.2 (07 Mar 2021) -----
+- NEW: options Font for LTR - RTL Mode.
+- IMPROVED: Option Font-Size for Title Element - WPBakery.
+
+----- 4.2.1 (02 Mar 2021) -----
+- NEW: + Home Watches, Watches - Dark for WPBakery.
+- FIXED: Some CSS.
+
+----- 4.2.0 (01 Mar 2021) -----
+- NEW: +1 Header Build-in Type 5.
+- NEW: +1 Style Simple Slide for Nasa Products.
+- NEW: + Home Watches, Watches - Dark for Elementor.
+- FIXED: Issue Nasa Product Brand - Permalink Option.
+- COMPATIBLE: Revolution Slider 6.4.2.
+- COMPATIBLE: WPBarkery Page Builder 6.6.0.
+- COMPATIBLE: WordPress 5.6.2.
+
+----- 4.1.9 (19 Feb 2021) -----
+- NEW: +1 Style Grid 3 for Shortcode Nasa Posts.
+- FIXED: Issue CSS for WooCommerce Germanized plugin.
+- IMPROVED: Some CSS Checkout Page.
+- COMPATIBLE: Yith WooCommerce Product Bundle.
+
+----- 4.1.8.1 (12 Feb 2021) -----
+- IMPROVED: Some CSS Dark Version.
+- IMPROVED: Header Icons for Elementor (Mini Cart, Wishlist, Compare).
+
+----- 4.1.8 (11 Feb 2021) -----
+- NEW: Sticky Logo Option.
+- NEW: Dark Version.
+- FIXED: Some CSS Checkout Page.
+- IMPROVED: CSS.
+- COMPATIBLE: WooCommerce 5.0.0.
+
+----- 4.1.7 (05 Feb 2021) -----
+- NEW: Quantity input in Mini Cart Sidebar.
+- IMPROVED: CSS Mini Cart Sidebar.
+- IMPROVED: CSS Checkout Page.
+- IMPROVED: Validate notice - Checkout Page.
+- COMPATIBLE: Revolution Slider 6.3.9.
+- COMPATIBLE: WordPress 5.6.1.
+
+----- 4.1.6.1 (29 Jan 2021) -----
+- FIXED: Mirror Bugs in Back-End.
+- FIXED: Some Style for Elementor.
+
+----- 4.1.6 (26 Jan 2021) -----
+- IMPROVED: Variations UX in Grid.
+- IMPROVED: CSS, Js files.
+- COMPATIBLE: Elementor - Header, Footer & Blocks plugin.
+- COMPATIBLE: WooCommerce 4.9.2.
+
+----- 4.1.5 (19 Jan 2021) -----
+- NEW: Off-canvas Product information in mobile.
+- IMPROVED: Product Description Fullwidth - Wrapper.
+- IMPROVED: CSS, Js files.
+- COMPATIBLE: WooCommerce 4.9.0.
+
+----- 4.1.4 (12 Jan 2021) -----
+- NEW: Widget Nasa Product Filter Multi Tags.
+- FIXED: Some CSS RTL.
+- IMPROVED: Widgets Filter Product Status (On Backorder).
+
+----- 4.1.3 (11 Jan 2021) -----
+- NEW: +1 Home Pet Accessories.
+- NEW: Widgets Filter Product Status (On Sale, Featured, In Stock).
+- NEW: Featured Badge.
+- NEW: Full-width for Description in Single Product.
+- FIXED: Some CSS.
+
+----- 4.1.2 (05 Jan 2021) -----
+- FIXED: Some CSS.
+- FIXED: Some Options in Shop Page, Blog Page.
+- COMPATIBLE: Revolution Slider 6.3.5.
+- COMPATIBLE: jQuery 3.5.1 (jQuery Migrate can be ignored).
+
+----- 4.1.1 (23 Dec 2020) -----
+- FIXED: Some CSS.
+- COMPATIBLE: WPBarkery Page Builder 6.5.0.
+
+----- 4.1.0 (14 Dec 2020) -----
+- NEW: +Homepage Christmas for Elementor version.
+- COMPATIBLE: Revolution Slider 6.3.3.
+- COMPATIBLE: WooCommerce 4.8.
+- COMPATIBLE: WordPress 5.6.
+- COMPATIBLE: PHP 8.0.
+
+----- 4.0.3.1 (01 Dec 2020) -----
+- FIXED: Some CSS.
+- FIXED: Double title Widget Nasa Filters Price - Slide.
+
+----- 4.0.3 (28 Nov 2020) -----
+- NEW: +7 Homes for Elementor Sample Data.
+- NEW: +2 Pages (About Us - Contact Us) for Elementor Sample Data.
+- NEW: Option Hide Empty Categories in Top.
+- FIXED: Some CSS.
+- FIXED: Issue in Widget Nasa Filters Price - Slide.
+- COMPATIBLE: WooCommerce 4.7.1.
+
+----- 4.0.2 (24 Nov 2020) -----
+- NEW: +4 Homes for Elementor Sample Data.
+- FIXED: Arrows Slides in Single Product Page.
+- FIXED: Issue Compatible with WCFM.
+- COMPATIBLE: Revolution Slider 6.3.1.
+
+----- 4.0.1 (18 Nov 2020) -----
+- NEW: +3 Homes for Elementor Sample Data.
+- NEW: Elementor - Widget Carousel Pin Banner.
+- IMPROVED: Theme Setup Feature - Import Sliders.
+- COMPATIBLE: Uni CPO/Rangeslider.ion Plugin.
+- COMPATIBLE: WPBarkery Page Builder 6.4.2.
+
+----- 4.0 (12 Nov 2020) -----
+- NEW: +7 Homes for Elementor Sample Data.
+- NEW: Option Ordering for Mobile Menu (Vertical > Main).
+- FIXED: Some CSS Compare Table.
+- IMPROVED: Theme Setup Feature - Import demo data.
+- IMPROVED: Live Data in Elementor Builder Page.
+- COMPATIBLE: WooCommerce 4.7.0.
+- COMPATIBLE: WordPress 5.5.3.
+
+===== BIG UPDATE 4.0 =====
+
+----- 3.9.1 (18 Oct 2020) -----
+- IMPROVED: Video Badge, 360 Degree Badge.
+
+----- 3.9.0 (16 Oct 2020) -----
+- FIXED: Widget Filter Price slide with value "0" => "0".
+- IMPROVED: Arrows Slider Single Product Gallery.
+- COMPATIBLE: Fancy Product Designer.
+- COMPATIBLE: WooCommerce 4.6.0.
+
+----- 3.8.0 (30 Sep 2020) -----
+- NEW: Build-in Nasa Shortcodes - Widgets for Elementor.
+- IMPROVED: Animation Switch images variation.
+- IMPROVED: Ajax Shop Filters.
+- COMPATIBLE: WPBarkery Page Builder 6.4.1.
+- COMPATIBLE: Elementor.
+
+----- 3.7.4.1 (18 Sep 2020) -----
+- FIXED: Issue About Widgets Arguments.
+- IMPROVED: CSS Brands - Attributes.
+
+----- 3.7.4 (16 Sep 2020) -----
+- NEW: +1 Hover Product style.
+- NEW: Taxonomy - Product Brands.
+- NEW: Custom Fields in Single Product - Add To Cart.
+- FIXED: Issue Page Compare - Select Option.
+- FIXED: Categories Off-Canvas in Mobile.
+- FIXED: Widget Nasa Filters Price - Slide.
+- IMPROVED: Newsletter - Option Only Display 1 Time.
+- IMPROVED: Newsletter Contact Form 7 - Compatible with WPML.
+- COMPATIBLE: Revolution Slider 6.2.23.
+- COMPATIBLE: WPBarkery Page Builder 6.4.0.
+- COMPATIBLE: WooCommerce 4.5.2.
+
+----- 3.7.3 (28 Aug 2020) -----
+- FIXED: Widget Filters Product By Price Slide.
+- FIXED: Some issues in active Bar in Store.
+- IMPROVED: Css Pre-loading some elements.
+- IMPROVED: Move Archive Portfolio template to Nasa Core Plugin.
+- IMPROVED: Move Coming Soon Feature to Nasa Core Plugin.
+
+----- 3.7.2 (21 Aug 2020) -----
+- IMPROVED: Option Mobile Columns 1.5 for Carousel Mode.
+- COMPATIBLE: Revolution Slider 6.2.22.
+- COMPATIBLE: WooCommerce 4.4.1.
+
+----- 3.7.1 (16 Aug 2020) -----
+- FIXED: Selected Contact Form 7 in Theme Options.
+- IMPROVED: Optimize js files includes.
+- IMPROVED: Style Categories in Topbar Filter.
+- IMPROVED: Optimize Css.
+- COMPATIBLE: Revolution Slider 6.2.20.
+- COMPATIBLE: WooCommerce 4.3.3.
+
+----- 3.7.0 (12 Aug 2020) -----
+- NEW: +1 Home T-Shirt - Drop Shipping Design.
+- NEW: +1 Footer Light 3.
+- NEW: +1 Style Countdown Element - Text.
+- NEW: +1 Style Image Attribute (Has Caption) - Single or Quick view.
+- NEW: +1 Style for Button Load More - (Radius - Dashed) in Element Nasa Product.
+- FIXED: Border-color for Element Product Special Deal - Has nav.
+- IMPROVED: Live Variation Label in Single and Quick view.
+- IMPROVED: REMOVED owl-carousel - CHANGED by Slick.
+- IMPROVED: Optimize Css.
+- COMPATIBLE: Revolution Slider 6.2.18.
+- COMPATIBLE: WooCommerce 4.3.2.
+- COMPATIBLE: WordPress 5.5.
+
+----- 3.6.7 (03 Aug 2020) -----
+- FIXED: Some CSS Blogs.
+- FIXED: Options Static Block after Header.
+- REMOVED: H1 Tag in Logo.
+- IMPROVED: Live Search Products.
+
+----- 3.6.6 (26 Jul 2020) -----
+- NEW: Options Custom Percentage [Logo + Menu / Buttons] - Header Type 1.
+- NEW: Options Remove Related Products.
+- IMPROVED: Optimize CSS + HTML.
+- COMPATIBLE: WooCommerce 4.3.1.
+
+----- 3.6.5 (21 Jul 2020) -----
+- NEW: Options remove Additional Info Tab.
+- NEW: WooCommerce Tab - Style Scroll Content.
+- IMPROVED: Element Nasa Product (Optimize HTML, CSS, Buttons).
+- COMPATIBLE: Revolution Slider 6.2.17.
+
+----- 3.6.4 (15 Jul 2020) -----
+- FIXED: Link in Widget Nasa Variation Filters.
+- IMPROVED: Primary Color Darken for Dynamic CSS.
+- IMPROVED: Animation CSS.
+- IMPROVED: Blog Layout - Features.
+- IMPROVED: Carousel.
+- REMOVED: Secondary Color.
+- COMPATIBLE: WooCommerce 4.3.0.
+
+----- 3.6.3 (02 Jul 2020) -----
+- FIXED: Stock Status.
+- IMPROVED: Nasa Instagram Feed.
+- IMPROVED: Shop Filter - Active Filter Bar.
+- COMPATIBLE: Smash Balloon Instagram Feed - Free version.
+- COMPATIBLE: Revolution Slider 6.2.15.
+- COMPATIBLE: WooCommerce 4.2.2.
+
+----- 3.6.2 (23 Jun 2020) -----
+- NEW: Nasa Tip.
+- IMPROVED: Shop Filter Top Bar.
+- COMPATIBLE: Revolution Slider 6.2.14.
+- COMPATIBLE: WooCommerce 4.2.1.
+
+----- 3.6.1 (21 Jun 2020) -----
+- IMPROVED: Breadcrumb.
+- IMPROVED: Style for Color Attribute and Label Attribute.
+
+----- 3.6.0 (18 Jun 2020) -----
+- NEW: Request a Call Back Popup in Single Product.
+- NEW: +1 Layout Buttons for Grid Products.
+- NEW: Style for Color Attribute and Label Attribute.
+- IMPROVED: Nasa Cache Mode has 2 options "Transients" - "Files".
+
+----- 3.5.1 (06 Jun 2020) -----
+- NEW: Boot Rate Element.
+- NEW: Content for After Cart Table - Shopping Cart.
+- FIXED: Accordion Widget Nasa Brands.
+- IMPROVED: Add More style of Testimonials.
+- IMPROVED: Boxed Mode (max-width: 1250px).
+- COMPATIBLE: Revolution Slider 6.2.12.
+- COMPATIBLE: WooCommerce 4.2.0.
+
+----- 3.5.0 (25 May 2020) -----
+- FIXED: Issue Variations UX in Grid.
+- FIXED: Issue Widget Nasa Filter Price Slide.
+- FIXED: Ignore Captcha Register in Checkout.
+- COMPATIBLE: Revolution Slider 6.2.9.
+- COMPATIBLE: WooCommerce 4.1.1.
+
+----- 3.4.0 (17 May 2020) -----
+- NEW: Delivery & Return Popup in Single Product.
+- FIXED: Some RTL CSS.
+- REMOVED: Size Guide Popup (Use Image Uploaded) in Single Product.
+- IMPROVED: Size Guide Popup (Use Static Block to create Content) in Single Product.
+- COMPATIBLE: Revolution Slider 6.2.8.
+
+----- 3.3.0 (09 May 2020) -----
+- NEW: + Home Face Mask.
+- IMPROVED: Sticky Buy Now for Desktop.
+- IMPROVED: Minify Font Icons - Nasa Icons, Awesome 4.7.0, Pe-icon-7-stroke.
+- COMPATIBLE: Revolution Slider 6.2.6.
+- COMPATIBLE: WooCommerce 4.1.0.
+
+----- 3.2.3 (04 May 2020) -----
+- NEW: Content after single add to cart form.
+- NEW: Content after Process Check Out button - Shopping cart.
+- NEW: Content after Place Holder button - Checkout.
+- FIXED: Bugs (Quick view, Wishlist, Compare, etc..) when Disable Ajax Add To Cart.
+- FIXED: Bugs Multi Currencies for Variable Product.
+- IMPROVED: Single Product - UX variations.
+- IMPROVED: Live search Products In Safari.
+
+----- 3.2.2 (27 Apr 2020) -----
+- FIXED: Some CSS.
+- FIXED: Notice WooCommerce.
+- COMPATIBLE: WPBarkery Page Builder 6.2.0.
+
+----- 3.2.1 (19 Apr 2020) -----
+- FIXED: Widget Nasa Filter Price - Slide.
+- IMPROVED: Nasa Static Block - Ajax.
+- IMPROVED: Close button (Sidebar Off - Canvas).
+- IMPROVED: Variation type Select (init - hide first item).
+
+----- 3.2.0 (16 Apr 2020) -----
+- NEW: Variants Badge.
+- FIXED: Issues RTL.
+- IMPROVED: Close button (Cart - Wishlist - Quickview - Mobile Menu Off-Canvas).
+
+----- 3.1.0 (30 Mar 2020) -----
+- NEW: Account on Main Screen - Mobile Layout.
+- FIXED: Pagination Single Store Dokan.
+- IMPROVED: Toggle Widgets Dokan Store.
+- COMPATIBLE: WordPress 5.4.
+
+----- 3.0.6 (15 Mar 2020) -----
+- FIXED: Issue Registration Popup with Dokan.
+- FIXED: Some CSS.
+- IMPROVED: Import Demo Data.
+
+----- 3.0.5 (11 Mar 2020) -----
+- FIXED: Option statistic of Element Nasa Product Deals Schedule.
+- FIXED: Option Redirect Shopping Cart After Added To Cart.
+- COMPATIBLE: Revolution Slider 6.2.2.
+- COMPATIBLE: WooCommerce 4.0.0.
+
+----- 3.0.4 (28 Feb 2020) -----
+- FIXED: Scroll Images in Single Product Page for Ipad.
+- FIXED: Issue CSS Dokan.
+- FIXED: Issue CSS Main Menu.
+
+----- 3.0.3 (26 Feb 2020) -----
+- FIXED: Notice Style.
+- FIXED: Issue CSS Dokan.
+- IMPROVED: Ajax Single Add To Cart.
+- IMPROVED: Class of Loop Products.
+- COMPATIBLE: Revolution Slider 6.2.1.
+- COMPATIBLE: WooCommerce 3.9.2.
+
+----- 3.0.2 (03 Feb 2020) -----
+- FIXED: About list products deal id.
+- FIXED: Issue Registration Popup with Dokan.
+- FIXED: CSS of Top Categories product.
+- COMPATIBLE: WooCommerce 3.9.1.
+
+----- 3.0.1.1 (23 Jan 2020) -----
+- FIXED: Issue Update Nasa Core to 3.0.1.
+- COMPATIBLE: WooCommerce 3.9.0.
+
+----- 3.0.1 (22 Jan 2020) -----
+- FIXED: CSS Main Menu.
+- FIXED: Init Option Nasa Wishlist.
+- IMPROVED: Stock Progress Bar Element Product Special Deal.
+
+----- 3.0.0 (14 Jan 2020) -----
+- NEW: Nasa Wishlist (Change for Yith WooCommerce Wishlist).
+- NEW: Style Notice Added.
+- IMPROVED: Options excludes product in Element Nasa Products.
+
+===== BIG UPDATE 3.0 =====
+
+----- 2.3.3 (09 Jan 2020) -----
+- NEW: Show Notice Option After Added To Cart.
+- NEW: Popup Your Order Option After Added To Cart.
+- NEW: Show Sidebar Cart Option After Added To Cart.
+- FIXED: Issue Header Sticky.
+- REMOVED: Options RTL Mode.
+- IMPROVED: Automatically identify RLT languages.
+
+----- 2.3.2 (04 Jan 2020) -----
+- IMPROVED: 360 Degree Product Viewer.
+- IMPROVED: Sticky Info Sigle Product Page.
+- IMPROVED: Some Style.
+- COMPATIBLE: Registration Popup with Dokan.
+
+----- 2.3.1 (31 Dec 2019) -----
+- NEW: 360 Degree Product Viewer.
+- IMPROVED: Some Style.
+
+----- 2.3.0 (27 Dec 2019) -----
+- FIXED: Issue Add To Cart (Product Variation).
+- FIXED: Transient issue For Product Deal ids.
+- IMPROVED: Documentation.
+
+----- 2.2.9.1 (19 Dec 2019) -----
+- COMPATIBLE: Featured Image by URL - Author: Knawat Team.
+
+----- 2.2.9 (18 Dec 2019) -----
+- IMPROVED: Wishlist Sidebar.
+- COMPATIBLE: Yith WooCommerce Wishlist 3.x.
+
+----- 2.2.8 (14 Dec 2019) -----
+- NEW: + Homepage Accessories.
+- NEW: Group Products.
+- IMPROVED: Dots for Element Slider.
+- COMPATIBLE: WPBakery 6.1.
+- COMPATIBLE: WordPress 5.3.1.
+
+----- 2.2.7 (04 Dec 2019) -----
+- FIXED: Issue Add To Cart (When disabled Ajax Add To Cart).
+- FIXED: Issue Ajax Filter Shop Page.
+- COMPATIBLE: Revolution Slider 6.1.5.
+- COMPATIBLE: WooCommerce 3.8.1.
+
+----- 2.2.6 (23 Nov 2019) -----
+- NEW: Options Show/Hide Ux variations in Grid.
+- FIXED: Event click LoadMore in MacOS/IOS.
+- FIXED: Css Variation type Default of WooCommerce.
+- IMPROVED: UX Variations Product.
+- COMPATIBLE: Revolution Slider 6.1.4.
+- COMPATIBLE: WordPress 5.3.
+
+----- 2.2.5.1 (09 Nov 2019) -----
+- NEW: Options Dots Slide for Single Product.
+- FIXED: Margin Price in On Sale Product.
+- FIXED: Issue Pagination Shop.
+
+----- 2.2.5 (08 Nov 2019) -----
+- NEW: Captcha for Register Form.
+- FIXED: WooCommerce Pagination style in page Vendors List - WC Vendor.
+- COMPATIBLE: WooCommerce 3.8.0.
+
+----- 2.2.4 (05 Nov 2019) -----
+- NEW: +4 types Hover Effect Product.
+- FIXED: Ajax shop with Vendor.
+- FIXED: Min Price = 0 with Widget Nasa Filter Price.
+- FIXED: Some styles.
+
+----- 2.2.3 (28 Oct 2019) -----
+- NEW: Single Product Slider Full Width - No Thumbnails.
+- NEW: Override Option Layout for Single Product.
+- IMPROVED: Promotion Top.
+- IMPROVED: UX variations - case inactive variation.
+- IMPROVED: Boxed Site Layout.
+
+----- 2.2.2 (21 Oct 2019) -----
+- FIXED: Issue Top Icon Filter By Categories.
+- IMPROVED: Countdown for Mobile small (iPhone 5).
+- IMPROVED: Add to cart for Product Deal Nav 2 items.
+- IMPROVED: Product variation Deal with Category.
+- IMPROVED: Widget Nasa Reset Filter (with mode toggle widget).
+- IMPROVED: Masonry Layout for Shop or Category products page.
+- IMPROVED: Import Sample Data.
+
+----- 2.2.1 (15 Oct 2019) -----
+- NEW: + Home Retail.
+- NEW: Option GDPR Policy.
+- NEW: Override Sidebar layout for Category Products.
+- NEW: Product Categories grid layout.
+- IMPROVED: Element Slide products.
+- IMPROVED: Support 2 columns of products.
+- IMPROVED: Support 6 columns of products.
+- COMPATIBLE: WooCommerce 3.7.1.
+
+----- 2.2.0 (09 Oct 2019) -----
+- NEW: + Home Digital 2nd.
+- NEW: + Home Cosmetic.
+- IMPROVED: Arrows for Products Slide.
+- IMPROVED: Tabs layout.
+- IMPROVED: Special Product Deal Simple.
+
+----- 2.1.9 (05 Oct 2019) -----
+- NEW: + Home Digital.
+- IMPROVED: Tabs for single product page.
+- IMPROVED: Layout for single product page.
+- IMPROVED: Single Post page.
+- COMPATIBLE: Revolution Slider 6.1.3.
+
+----- 2.1.8 (24 Sep 2019) -----
+- NEW: Tabs style 2d Radius.
+- NEW: Element Compare Before - After Images.
+- IMPROVED: Option add version when call javascript.
+- IMPROVED: Option for Toggle Widgets.
+- IMPROVED: Mini Cart Icon.
+- IMPROVED: Wishlist HTML.
+
+----- 2.1.7 (10 Sep 2019) -----
+- FIXED: issue with shortcode WooCommerce [products ...].
+- FIXED: Issue Css compatible with the new version of Chrome.
+- IMPROVED: Close button on the canvas.
+
+----- 2.1.6 (04 Sep 2019) -----
+- NEW: +1 Home jewelry.
+- NEW: Override Font for Page, Category Page, Single Product Page.
+- NEW: Override layout for Single Product Page.
+- FIXED: Mobile Menu for Header Builder.
+- FIXED: Max height logo for mobile.
+- IMPROVED: Offline Site.
+- COMPATIBLE: Revolution Slider 6.1.1.
+
+----- 2.1.5 (27 Aug 2019) -----
+- NEW: Option Offline Site.
+- IMPROVED: Instagram Feed.
+- IMPROVED: Carousel Nav.
+
+----- 2.1.4 (22 Aug 2019) -----
+- FIXED: Issue removes all items in Bought Together.
+- FIXED: Issues RTL css.
+- IMPROVED: Bottom for Pin.
+- IMPROVED: Mobile layout.
+- IMPROVED: Social icons.
+- IMPROVED: Top and Bottom Content for Category page.
+
+----- 2.1.3 (15 Aug 2019) -----
+- FIXED: group buttons in mobile.
+- IMPROVED: Review Tab in Single Product.
+- IMPROVED: Mobile layout for mini Tablet devices.
+- IMPROVED: System WooCommerce Notice.
+- COMPATIBLE: WooCommerce 3.7.0.
+
+----- 2.1.2 (07 Aug 2019) -----
+- IMPROVED: Mobile Search.
+- IMPROVED: Widgets.
+- IMPROVED: Promo Popup Newsletter.
+- COMPATIBLE: Revolution Slider 6.0.9.
+
+----- 2.1.1 (04 Aug 2019) -----
+- NEW: Popup Your Order After Add To Cart.
+- NEW: Free Shipping for order greater than a price.
+- FIXED: Some css.
+- IMPROVED: Menu Account.
+- IMPROVED: RTL.
+- COMPATIBLE: WPBakery 6.0.5.
+
+----- 2.1 (20 Jul 2019) -----
+- NEW: Mobile Layout Ready.
+- NEW: +2 Layouts Light Menu Mobile.
+- NEW: +1 Breadcrumb Layout (1 Row).
+- NEW: +1 Layout for Tabs of the single product page (Accordion-style).
+- NEW: +2 Layout Sticky Add To Cart Single Product for Mobile.
+- FIXED: Some css.
+- IMPROVED: Style group buttons in loop product in mobile.
+
+----- 2.0 (09 Jul 2019) -----
+- NEW: Element Products Masonry - Metro.
+- NEW: Multi Flags languages - WPML.
+- NEW: Multi Currencies - WPML.
+- NEW: Layout Cart Page.
+- NEW: Layout Checkout Page.
+- NEW: 5 columns in the change-view of Shop Page.
+- NEW: Feature Bought Together.
+- NEW: Single Product with thumbnail bottom.
+- NEW: Single Product tab reviews.
+- NEW: Suggestions search.
+- FIXED: Some css.
+- IMPROVED: Shop page layout Masonry - Isotope.
+- IMPROVED: Quick-view Popup.
+- COMPATIBLE: Plugin - Nextend Social Login (Login by Social).
+
+===== BIG UPDATE 2.0 =====
+
+----- 1.7.1 (28 Jun 2019) -----
+- FIXED: Widget Nasa Product Categories (Active in Single Product Page).
+- IMPROVED: Search Feature.
+- IMPROVED: Optimized Performance.
+- IMPROVED: Mini Wishlist Count.
+
+----- 1.7.0 (14 Jun 2019) -----
+- IMPROVED: Mega Menu.
+- IMPROVED: Mini Cart & Cart Sidebar.
+- IMPROVED: Mini Wishlist & Wishlist Sidebar.
+- COMPATIBLE: WPBakery Page Builder 6.0.3.
+
+----- 1.6.9 (22 May 2019) -----
+- FIXED: Some css.
+- COMPATIBLE: WPBakery Page Builder 6.0.2.
+
+----- 1.6.8 (15 May 2019) -----
+- FIXED: Widget Nasa Product Tags.
+- FIXED: Accordion Widget Nasa Product Categories.
+- IMPROVED: Option Background for main menu Header type 4.
+- COMPATIBLE: Wordpress 5.2.
+
+----- 1.6.7 (04 May 2019) -----
+- FIXED: Stars Rating in Single Product Page.
+- IMPROVED: Option Lightbox image in Single Product Page.
+- IMPROVED: Countdown pad zero.
+- IMPROVED: Price for live search.
+- IMPROVED: Option Hide empty for widget Nasa Product Categories.
+- IMPROVED: Countdown for variation in Product grid.
+- COMPATIBLE: Revolution Slider 5.8.4.3.
+
+----- 1.6.6 (19 Apr 2019) -----
+- COMPATIBLE: WooCommerce 3.6.x.
+
+----- 1.6.5 (10 Apr 2019) -----
+- FIXED: Some css hide for devices.
+- FIXED: Text-domain language.
+- FIXED: Order By.
+- IMPROVED: Action call ajax.
+- IMPROVED: Optimize performance.
+
+----- 1.6.4 (06 Apr 2019) -----
+- FIXED: Some css.
+- FIXED: Remove the excerpt page.
+- IMPROVED: Caching.
+
+----- 1.6.3 (31 Mar 2019) -----
+- NEW: Selections of add to cart in grid.
+- FIXED: Some css.
+- IMPROVED: Badge.
+- IMPROVED: Single Add To Cart Button.
+
+----- 1.6.2 (21 Mar 2019) -----
+- FIXED: Issue Wishlist sidebar.
+- FIXED: Some css.
+- IMPROVED: UX Variations product Grid.
+- COMPATIBLE: WooCommerce 3.5.7.
+
+----- 1.6.1 (08 Mar 2019) -----
+- FIXED: Some css Responsive.
+- IMPROVED: UX Variations product Grid.
+
+----- 1.6.0 (04 Mar 2019) -----
+- IMPROVED: Sticky Header.
+- IMPROVED: Menu Mobile.
+- IMPROVED: Resize Responsive.
+- IMPROVED: HTML Structure of Group buttons in Product Grid.
+- IMPROVED: HTML Structure of Badge Product.
+
+----- 1.5.6 (25 Feb 2019) -----
+- NEW: Stock Process Bar.
+- FIXED: Mobile Menu.
+- FIXED: Issue Buy Now And Size Guide With Catalog Mode.
+- FIXED: Row And Column ID.
+- COMPATIBLE: WooCommerce 3.5.5 and WordPress 5.1.
+
+----- 1.5.5 (19 Feb 2019) -----
+- NEW: + Home Furniture.
+- NEW: + Top bar Type 2.
+- FIXED: Some Css RTL.
+- FIXED: Issue Active theme.
+- FIXED: Menu Mobile.
+- IMPROVED: Element Responsive - Banner.
+
+----- 1.5.4 (11 Feb 2019) -----
+- FIXED: Some CSS Offset.
+- IMPROVED: Element Columns Responsive - Offset.
+
+----- 1.5.3 (1 Feb 2019) -----
+- NEW: Compatible with Back In Stock Notifier for WooCommerce.
+- FIXED: Some CSS Short Description Single Product.
+- IMPROVED: Remove WP Instagram Widget.
+
+----- 1.5.2 (30 Jan 2019) -----
+- NEW: Buy Now Single Product.
+- NEW: Size Guide Single Product.
+- FIXED: Some CSS Quick Buy.
+- IMPROVED: Element Service Block.
+
+----- 1.5.1 (25 Jan 2019) -----
+- NEW: Quick Buy Single Product.
+- NEW: Enable Default WooCommerce Shortcode Products.
+- FIXED: Some CSS.
+- IMPROVED: Element Accordion.
+
+----- 1.5.0 (18 Jan 2019) -----
+- NEW: + 1 Header Type.
+- FIXED: Header Sticky.
+- IMPROVED: Quick View.
+- IMPROVED: UX Variations Loop products.
+
+----- 1.4.5 (09 Jan 2019) -----
+- NEW: + Home Organic.
+- FIXED: RTL Slide products Deal.
+- FIXED: Shop page Sub Categories.
+- FIXED: Quick view Variable product.
+- IMPROVED: Quick view product thumbnail.
+- IMPROVED: Element product deal.
+- IMPROVED: Mega menu.
+- IMPROVED: Css global.
+- IMPROVED: Nasa Widget filter by Variations.
+- IMPROVED: Pagination html.
+
+----- 1.4.4 (19 Dec 2018) -----
+- NEW: + Home Bags.
+- FIXED: Some CSS RTL.
+- FIXED: CSS Custom class in Footer.
+
+----- 1.4.3 (12 Dec 2018) -----
+- NEW: + Home Bike.
+- NEW: + Badge Limited for deal product.
+- FIXED: CSS Simple Slide products.
+- FIXED: CSS Megamenu.
+- IMPROVED: Loadmore style.
+
+----- 1.4.2 (03 Dec 2018) -----
+- IMPROVED: Background Video, Image, parallax for row, column.
+- COMPATIBLE: WooCommerce 3.5.2.
+- COMPATIBLE: WPBakery Visual Composer 5.6.
+
+----- 1.4.1 (23 Nov 2018) -----
+- NEW: + Home Baby.
+- REMOVED: Shortcode Banner Grid.
+- COMPATIBLE: Plugin WooCommerce Product Bundles.
+
+----- 1.4.0 (15 Nov 2018) -----
+- FIXED: Gallery variable product in Back-end.
+- FIXED: Countdown on Safari.
+- FIXED: Mansory Layout.
+- FIXED: Some Style.
+
+----- 1.3.9 (10 Nov 2018) -----
+- NEW: Gallery for variation product.
+- FIXED: Breadcrumb.
+
+----- 1.3.8 (05 Nov 2018) -----
+- NEW: Deal time for Quickview - Single Product.
+- FIXED: Permalinks Portfolio.
+- COMPATIBLE: Jetpack - Lazy load images.
+
+----- 1.3.7 (02 Nov 2018) -----
+- NEW: Portfolio.
+- FIXED: Compatible WooCommerce 3.5.1.
+
+----- 1.3.6 (31 Oct 2018) -----
+- NEW: Load more for Shop page.
+
+----- 1.3.5 (25 Oct 2018) -----
+- NEW: Carousel for Products by ids.
+- FIXED: Compatible WooCommerce 3.5.0.
+
+----- 1.3.4 (18 Oct 2018) -----
+- FIXED: Compatible WC Marketplace, WC Vendor, Dokan, etc.
+- FIXED: Title icons in Header.
+- FIXED: Some Css.
+
+----- 1.3.3 (12 Oct 2018) -----
+- FIXED: Import Demo data.
+- FIXED: Equal height columns.
+- FIXED: Image popup in single post.
+- FIXED: Share - Follow element.
+- FIXED: Bundle product.
+- FIXED: Some Css.
+
+----- 1.3.2 (07 Oct 2018) -----
+- NEW: Element get Products by ids.
+- FIXED: Archive Products page.
+- FIXED: ul, ol, dl list style.
+- FIXED: Some Css.
+- IMPROVED: Wishlist icon.
+
+----- 1.3.1 (28 Sep 2018) -----
+- FIXED: Some Css.
+- IMPROVED: Support Multi currency Ajax Compatible Woocommerce-multilingual.
+
+----- 1.3.0 (24 Sep 2018) -----
+- FIXED: Shortcode Follow.
+- FIXED: Some Css.
+- IMPROVED: Update Doc.
+
+----- 1.2.9 (17 Sep 2018) -----
+- FIXED: Some issues.
+- FIXED: Some Css.
+- IMPROVED: Change icomoon => FontAwesome.
+
+----- 1.2.8 (11 Sep 2018) -----
+- NEW: Blog layout grid.
+- FIXED: Some Css.
+- FIXED: RTL Product special deals.
+- IMPROVED: Search form (product, post).
+
+----- 1.2.7 (03 Sep 2018) -----
+- FIXED: Google Map.
+- FIXED: Google Fonts.
+- FIXED: RTL Carousel.
+- FIXED: Some Css.
+
+----- 1.2.6 (30 Aug 2018) -----
+- FIXED: Some RTL Css.
+
+----- 1.2.5 (28 Aug 2018) -----
+- FIXED: Theme option Detail product.
+- FIXED: Follows element.
+- FIXED: Some Css.
+- IMPROVED: Style variations Single product.
+
+----- 1.2.4 (22 Aug 2018) -----
+- NEW: Options Follow url in Options.
+- FIXED: Some Css.
+- CHANGED: Share to follow in header.
+- IMPROVED: Follow element.
+
+----- 1.2.3 (17 Aug 2018) -----
+- FIXED: RTL images in Single product page.
+- FIXED: Back image product.
+- FIXED: Effect hover product.
+- FIXED: Search product.
+- FIXED: Some Css.
+
+----- 1.2.2 (14 Aug 2018) -----
+- NEW: Reset Filter.
+- FIXED: Columns in Mobile, Tablet.
+- FIXED: RTL arrow in Breadcrumb.
+- FIXED: Some Css.
+
+----- 1.2.1 (06 Aug 2018) -----
+- NEW: Option info top.
+- FIXED: TGMPA.
+- FIXED: Show less - more widget.
+- FIXED: Classic sidebar shop.
+- FIXED: Some Css.
+
+----- 1.2.0 (25 July 2018) -----
+- FIXED: Off canvas Sidebar Cart.
+- FIXED: Some Css.
+
+----- 1.1.9 (19 July 2018) -----
+- FIXED: Visual Composer Front-end Editor.
+- FIXED: Some Css.
+
+----- 1.1.8 (17 July 2018) -----
+- FIXED: Products viewed.
+- FIXED: Some Style.
+- FIXED: Sidebar shop page.
+- IMPROVED: Live search by SKU.
+- IMPROVED: Button filter in widget Nasa Filter Price.
+
+----- 1.1.7 (03 July 2018) -----
+- FIXED: Language template.
+- FIXED: Some Style.
+- FIXED: Select option of Variable product.
+- IMPROVED: Option text align for Breadcrumb.
+
+----- 1.1.6 (28 June 2018) -----
+- FIXED: Retina logo.
+- FIXED: Scroll bar Firefix in mobile debug.
+- FIXED: Quickview option.
+- FIXED: Some Style.
+
+----- 1.1.5 (23 June 2018) -----
+- FIXED: Some Style.
+- FIXED: Demo data Homepage 5.
+- COMPATIBLE: plugin WPBakery Visual Composer. (5.5).
+- COMPATIBLE: plugin Revolution Slider. (5.4.8).
+
+----- 1.1.4 (20 June 2018) -----
+- FIXED: Bundle product.
+- FIXED: Some style.
+- IMPROVED: UX click main image Single product option. 
+
+----- 1.1.3 (17 June 2018) -----
+- NEW: Compatible SG Optimizer Plugin.
+- NEW: Compatible WooCommerce Product Bundles Plugin.
+- FIXED: External/Affiliate product.
+- FIXED: Demo content Homepage 9.
+- FIXED: Breadcrumb.
+- FIXED: Some Style.
+
+----- 1.1.2 (10 June 2018) -----
+- NEW: +1 Home.
+- FIXED: Variations product.
+- FIXED: Live search product.
+- FIXED: Some css.
+- IMPROVED: Import demo data.
+- IMPROVED: UX Change image variation single product.
+
+----- 1.1.1 (28 May 2018) -----
+- NEW: FontAwesome 5.0.13 (Free Icons).
+- FIXED: Params of some vc elements.
+- FIXED: Some Style.
+- CHANGED: URI Of Dynamic style.
+- CHANGED: URI Of Custom Fonts.
+- IMPROVED: Compatible with WooCommerce 3.4.0.
+- IMPROVED: FontAwesome 4.2.0 to 4.7.0.
+
+----- 1.1 (23 May 2018) -----
+- NEW: Header builder for your custom header.
+- FIXED: Some Style.
+- FIXED: Charset attribute product.
+
+----- 1.0.6 (17 May 2018) -----
+- FIXED: Language for some labels.
+- FIXED: Some Style.
+- IMPROVED: Some icons.
+- IMPROVED: Optimize Attribute products.
+
+----- 1.0.5 (13 May 2018) -----
+- NEW: + 1 Header type.
+- FIXED: Some Style.
+- IMPROVED: Attribute for loop products.
+- IMPROVED: Delay for popup Newsletter.
+- IMPROVED: Import demo data.
+- IMPROVED: Share icons.
+
+----- 1.0.3 (09 May 2018) -----
+- NEW: Promo popup Newsletter
+- NEW: Home 6 Full Width.
+- FIXED: Search submit mobile.
+- FIXED: Product banner in IOS.
+- FIXED: Some css.
+
+----- 1.0.2 (5 May 2018) -----
+- NEW: +2 Homes in demo data.
+- NEW: Override sidebar for Product Category.
+- FIXED: More css.
+- FIXED: Vertical Menu.
+- FIXED: Favicon.
+
+----- 1.0.1 (25 Apr 2018) -----
+- NEW: +2 Homes in demo data.
+- FIXED: Setting max-height logo.
+- FIXED: Some css.
+- IMPROVED: Compatible with WPBakery Visual Composer 5.4.7.
+
+----- 1.0 (21 Apr 2018) -----
+- Initial release.

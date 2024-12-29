@@ -1,0 +1,6377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elessi Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-10 09:06+0000\n"
+"PO-Revision-Date: 2024-09-13 14:54+0000\n"
+"Last-Translator: NasaTheme\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: elessi-theme"
+
+#: includes/nasa-sidebar-wishlist_content.php:166
+msgid " &mdash; In Stock"
+msgstr "&mdash; במלאי"
+
+#: includes/nasa-sidebar-wishlist_content.php:164
+msgid " - Out of Stock"
+msgstr "- אזל במלאי"
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:178
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s סקירה עבור %2$s"
+msgstr[1] "%1$s ביקורות עבור %2$s"
+
+#: admin/importer/wordpress-importer.php:678
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; כבר קיים."
+
+#. plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%s installed and activated successfully."
+msgstr "%s הותקן והופעל בהצלחה."
+
+#. plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%s installed successfully."
+msgstr "%s הותקן בהצלחה."
+
+#: cores/nasa-custom-wc-ajax.php:593
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s הוא שדה חובה"
+msgstr[1] "%s הם שדות חובה"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:80
+#: dokan/nasa-store-lists-loop-grid-2.php:110
+#: dokan/nasa-store-lists-loop-list-1.php:59
+#: dokan/nasa-store-lists-loop-list-2.php:74
+#: dokan/nasa-store-lists-loop-list-3.php:79
+#: dokan/nasa-store-lists-loop-list-3.php:119 dokan/store-lists-loop.php:62
+#, php-format
+msgid "%s out of 5"
+msgstr "%s מתוך 5"
+
+#: woocommerce/global/quantity-input.php:13
+#, php-format
+msgid "%s quantity"
+msgstr "כמות %s"
+
+#: woocommerce/loop/result-count.php:17 woocommerce/loop/result-count.php:23
+#, php-format
+msgid "%s result"
+msgstr "תוצאה של %s"
+
+#: woocommerce/loop/result-count.php:17 woocommerce/loop/result-count.php:23
+#, php-format
+msgid "%s results"
+msgstr "%s תוצאות"
+
+#: woocommerce/single-product-reviews.php:60
+#, php-format
+msgid "%s reviews"
+msgstr "%s ביקורות"
+
+#: includes/nasa-mini-cart-add-coupon.php:22
+#: includes/nasa-mini-cart-add-coupon.php:26
+#, php-format
+msgid "%s&nbsp;Discount"
+msgstr "%s הנחה"
+
+#: includes/nasa-mini-cart-add-coupon.php:30
+#, php-format
+msgid "%s&nbsp;Product Discount"
+msgstr "%s הנחה על מוצר"
+
+#: woocommerce/loop/sale-flash.php:65
+#: woocommerce/single-product/sale-flash.php:66
+#, php-format
+msgid "&#45;%s&#37;"
+msgstr "&#45;%s&#37;"
+
+#: comments.php:25 comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; הערות ישנות יותר"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:155
+#: dokan/nasa-store-lists-loop-grid-2.php:161
+#: dokan/nasa-store-lists-loop-list-1.php:157
+#: dokan/nasa-store-lists-loop-list-2.php:151
+#: dokan/nasa-store-lists-loop-list-3.php:177 dokan/store-lists-loop.php:121
+msgid "&larr; Previous"
+msgstr "הקודם &larr;"
+
+#: woocommerce/archive-product.php:188 woocommerce/archive-product.php:300
+msgid "&nbsp;Filters"
+msgstr "&nbsp;מסננים"
+
+#. %s location.
+#: includes/nasa-mini-cart-taxs.php:11
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(מוערך עבור %s)"
+
+#: widgets/wg-nasa-product-filter-price-list.php:153
+msgid "+"
+msgstr "+"
+
+#: cores/nasa-widget-functions.php:343 cores/nasa-woo-actions.php:1459
+#: widgets/wg-nasa-product-brands.php:260
+#: widgets/wg-nasa-product-categories.php:468
+#: widgets/wg-nasa-product-categories.php:489 widgets/wg-nasa-tag-cloud.php:74
+msgid "+ Show more"
+msgstr "+ הצג עוד"
+
+#: includes/nasa-blog-grid.php:93 includes/nasa-blog-list.php:91
+#: includes/nasa-blog-masonry-isotope.php:98 includes/nasa-blog-standard.php:85
+msgid ", "
+msgstr ","
+
+#: admin/importer/wordpress-importer.php:360
+msgid "- Select -"
+msgstr "- בחר -"
+
+#: cores/nasa-widget-functions.php:342 cores/nasa-woo-actions.php:1459
+#: widgets/wg-nasa-product-brands.php:260
+#: widgets/wg-nasa-product-categories.php:468
+#: widgets/wg-nasa-product-categories.php:489 widgets/wg-nasa-tag-cloud.php:73
+msgid "- Show less"
+msgstr "- הראי פחות"
+
+#: woocommerce/loop/orderby.php:25
+msgid "..."
+msgstr "..."
+
+#: widgets/wg-nasa-product-filter-variations.php:186
+#: admin/settings/nasa_07_3_product_detail_heading.php:81
+#: admin/settings/nasa_07_3_product_detail_heading.php:131
+msgid "1 Column"
+msgstr "עמודה 1"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:602
+#: admin/settings/nasa_07_2_product_page_heading.php:226
+#: admin/settings/nasa_07_3_product_detail_heading.php:522
+#: admin/settings/nasa_08_blog_heading.php:101
+#: admin/settings/nasa_08_blog_heading.php:112
+#: admin/settings/nasa_08_blog_heading.php:252
+#: admin/settings/nasa_08_blog_heading.php:263
+msgid "1 column"
+msgstr "עמודה אחת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:338
+msgid "1 Level"
+msgstr "רמה 1"
+
+#: cores/nasa-woo-actions.php:1284 cores/nasa-woo-actions.php:1293
+msgid "1 result"
+msgid_plural "%d results"
+msgstr[0] "1 תוֹצָאָה"
+msgstr[1] "%d תוצאות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:601
+#: admin/settings/nasa_07_3_product_detail_heading.php:521
+msgid "1.5 column"
+msgstr "עמודה 1.5"
+
+#: cores/nasa-theme-functions.php:933
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr " %1$s ב-%2$s"
+
+#: includes/nasa-change-view.php:236
+msgid "2"
+msgstr "2"
+
+#: includes/nasa-change-view.php:233
+#: widgets/wg-nasa-product-filter-variations.php:185
+#: admin/settings/nasa_07_2_product_page_heading.php:187
+#: admin/settings/nasa_07_3_product_detail_heading.php:80
+#: admin/settings/nasa_07_3_product_detail_heading.php:132
+msgid "2 Columns"
+msgstr "2 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:590
+#: admin/settings/nasa_07_1_product_global_heading.php:600
+#: admin/settings/nasa_07_2_product_page_heading.php:212
+#: admin/settings/nasa_07_2_product_page_heading.php:227
+#: admin/settings/nasa_07_2_product_page_heading.php:237
+#: admin/settings/nasa_07_3_product_detail_heading.php:498
+#: admin/settings/nasa_07_3_product_detail_heading.php:510
+#: admin/settings/nasa_07_3_product_detail_heading.php:520
+#: admin/settings/nasa_08_blog_heading.php:88
+#: admin/settings/nasa_08_blog_heading.php:102
+#: admin/settings/nasa_08_blog_heading.php:113
+#: admin/settings/nasa_08_blog_heading.php:253
+#: admin/settings/nasa_08_blog_heading.php:264
+#: admin/settings/nasa_10_portfolio_heading.php:90
+msgid "2 columns"
+msgstr "2 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:339
+msgid "2 Levels"
+msgstr "2 רמות"
+
+#: includes/nasa-change-view.php:251
+msgid "3"
+msgstr "3"
+
+#: includes/nasa-change-view.php:248
+#: admin/settings/nasa_07_2_product_page_heading.php:188
+msgid "3 Columns"
+msgstr "3 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:578
+#: admin/settings/nasa_07_1_product_global_heading.php:589
+#: admin/settings/nasa_07_2_product_page_heading.php:213
+#: admin/settings/nasa_07_2_product_page_heading.php:238
+#: admin/settings/nasa_07_3_product_detail_heading.php:497
+#: admin/settings/nasa_07_3_product_detail_heading.php:509
+#: admin/settings/nasa_08_blog_heading.php:89
+#: admin/settings/nasa_08_blog_heading.php:114
+#: admin/settings/nasa_08_blog_heading.php:240
+#: admin/settings/nasa_08_blog_heading.php:265
+#: admin/settings/nasa_10_portfolio_heading.php:89
+msgid "3 columns"
+msgstr "3 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:340
+msgid "3 Levels"
+msgstr "3 רמות"
+
+#: admin/settings/nasa_04_style_color_heading.php:75
+msgid "360&#176; Badge Color"
+msgstr "צבע תג 360&#176;"
+
+#: includes/nasa-change-view.php:267
+msgid "4"
+msgstr "4"
+
+#: includes/nasa-change-view.php:264
+#: admin/settings/nasa_07_2_product_page_heading.php:189
+msgid "4 Columns"
+msgstr "4 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:577
+#: admin/settings/nasa_07_1_product_global_heading.php:588
+#: admin/settings/nasa_07_2_product_page_heading.php:214
+#: admin/settings/nasa_07_2_product_page_heading.php:239
+#: admin/settings/nasa_07_3_product_detail_heading.php:496
+#: admin/settings/nasa_07_3_product_detail_heading.php:508
+#: admin/settings/nasa_08_blog_heading.php:90
+#: admin/settings/nasa_08_blog_heading.php:241
+#: admin/settings/nasa_10_portfolio_heading.php:88
+msgid "4 columns"
+msgstr "4 עמודות"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: includes/nasa-change-view.php:282
+msgid "5"
+msgstr "5"
+
+#: includes/nasa-change-view.php:279
+#: admin/settings/nasa_07_2_product_page_heading.php:190
+msgid "5 Columns"
+msgstr "5 עמודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:576
+#: admin/settings/nasa_07_2_product_page_heading.php:215
+#: admin/settings/nasa_07_3_product_detail_heading.php:495
+#: admin/settings/nasa_08_blog_heading.php:91
+#: admin/settings/nasa_08_blog_heading.php:242
+#: admin/settings/nasa_10_portfolio_heading.php:87
+msgid "5 columns"
+msgstr "5 עמודות"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:99
+msgid "50%"
+msgstr "50%"
+
+#: includes/nasa-change-view.php:298
+msgid "6"
+msgstr "6"
+
+#: includes/nasa-change-view.php:295
+#: admin/settings/nasa_07_2_product_page_heading.php:191
+msgid "6 Columns"
+msgstr "6 עמודות"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:216
+#: admin/settings/nasa_07_3_product_detail_heading.php:494
+msgid "6 columns"
+msgstr "6 עמודות"
+
+#: image.php:89
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"פרסם תגובה\">פרסם "
+"תגובה</a> או השאירו trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"כתובת אתר למעקב עבור הפוסט שלך\" rel=\"להיזכר\">כתובת אתר למעקב</a>."
+
+#: cores/nasa-shop-ajax.php:359
+#, php-format
+msgid ""
+"<h4 class=\"nasa-success-congrat\">Congratulations!</h4><h4 class=\"nasa-"
+"success\">Now you have successfully registered. You can now close this tab, "
+"or visit <a class=\"link-your-dashboard primary-color\" href=\"%s\">your "
+"dashboard</a>.</h4>"
+msgstr ""
+"<h4 class=\"nasa-success-congrat\">מזל טוב!</h4><h4 class=\"nasa-success\">"
+"כעת נרשמת בהצלחה. כעת תוכל לסגור כרטיסייה זו, או לבקר <a class=\"link-your-"
+"dashboard primary-color\" href=\"%s\">לוח המחוונים שלך</a>.</h4>"
+
+#: cores/nasa-shop-ajax.php:273
+#, php-format
+msgid ""
+"<h4 class=\"nasa-success-congrat\">Congratulations!</h4><h4 class=\"nasa-"
+"success\">You are now successfully authenticated. You can now close this tab,"
+" or visit <a class=\"link-your-dashboard primary-color\" href=\"%s\">your "
+"dashboard</a>.</h4>"
+msgstr ""
+"<h4 class=\"nasa-success-congrat\">מזל טוב!</h4><h4 class=\"nasa-success\">"
+"כעת אתה מאומת בהצלחה. כעת תוכל לסגור כרטיסייה זו, או לבקר <a class=\"link-"
+"your-dashboard primary-color\" href=\"%s\">לוח המחוונים שלך</a>.</h4>"
+
+#: cores/nasa-theme-functions.php:401
+msgid "<li>Please Define menu in <b>Apperance > Menus</b></li>"
+msgstr "<li>נא להגדיר תפריט ב <b>מראה > תפריטים</b></li>"
+
+#: cores/nasa-theme-functions.php:1253
+msgid "<span class=\"fa fa-caret-left\"></span> Previous"
+msgstr "<span class=\"fa fa-caret-left\"></span> קודם"
+
+#: cores/nasa-theme-functions.php:983
+#, php-format
+msgid ""
+"<span class=\"meta-author\">By <a class=\"url fn n nasa-bold\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a>.</span> Posted on <a href=\"%1$s\" "
+"title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date nasa-bold\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"meta-author\">על ידי <a class=\"url fn n nasa-bold\" "
+"href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a>.</span> פורסם ב <a "
+"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date nasa-"
+"bold\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:101
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> קודם"
+
+#: cores/nasa-woo-functions.php:1349
+msgid "<span>Availability:</span> "
+msgstr "<span>זמינות:</span> "
+
+#: woocommerce/single-product/meta.php:30
+msgid "<strong>Category:</strong>"
+msgid_plural "<strong>Categories:</strong>"
+msgstr[0] "<strong>קטגוריה:</strong>"
+msgstr[1] "<strong>קטגוריות:</strong>"
+
+#: woocommerce/single-product/meta.php:32
+msgid "<strong>Tag:</strong>"
+msgid_plural "<strong>Tags:</strong>"
+msgstr[0] "<strong>תָג:</strong>"
+msgstr[1] "<strong>תגיות:</strong>"
+
+#: widgets/wg-nasa-tag-cloud.php:22
+msgid "A cloud of your most used tags."
+msgstr "ענן של התגים הנפוצים ביותר שלך."
+
+#: includes/nasa-login-register-form.php:158
+msgid "A link to set a new password will be sent to your email address."
+msgstr "קישור להגדרת סיסמה חדשה יישלח לכתובת האימייל שלך."
+
+#: admin/importer/wordpress-importer.php:1222
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"גרסה חדשה של יבואן זה זמינה. אנא עדכן לגרסה %s כדי להבטיח תאימות עם קבצי "
+"ייצוא חדשים יותר."
+
+#. Description of the theme
+msgid ""
+"A Premium and Responsive WooCommerce - WordPress Theme, designed for E-"
+"Commerce websites"
+msgstr ""
+"WooCommerce פרימיום ורספונסיבי - ערכת וורדפרס, מיועדת לאתרי מסחר אלקטרוני"
+
+#: cores/nasa-shop-ajax.php:229
+msgid "A user could not be found with this email address."
+msgstr "לא ניתן למצוא משתמש עם כתובת דוא\"ל זו."
+
+#: includes/nasa-gdpr-notice.php:18
+msgid "Accept"
+msgstr "לְקַבֵּל"
+
+#: admin/functions/functions.admin.php:1213
+msgid "Access denied."
+msgstr "גישה נדחתה."
+
+#: includes/nasa-age-verification.php:33
+msgid "Access fobidden"
+msgstr "גישה אסורה"
+
+#: cores/nasa-theme-headers.php:343 includes/nasa-mobile-bottom-bar-app.php:67
+#: includes/nasa-mobile-bottom-bar-app.php:69
+msgid "Account"
+msgstr "חֶשְׁבּוֹן"
+
+#: admin/settings/nasa_03_1_header_heading.php:299
+msgid "Account On Main Screen - Mobile Layout"
+msgstr "חשבון במסך ראשי - פריסת נייד"
+
+#: admin/settings/nasa_03_1_header_heading.php:266
+#: admin/settings/nasa_03_1_header_heading.php:267
+msgid "Account Options"
+msgstr "אפשרויות חשבון"
+
+#: includes/nasa-acc-nav.php:15
+msgid "Account pages"
+msgstr "דפי חשבון"
+
+#: admin/classes/class-tgm-plugin-activation.php:2778
+msgid "Activate"
+msgstr "לְהַפְעִיל"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2668
+#, php-format
+msgid "Activate %2$s"
+msgstr "הפעל את %2$s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2392
+msgid "Active"
+msgstr "פָּעִיל"
+
+#: includes/nasa-checkout-coupon-modern.php:22
+#: admin/classes/class.options_machine.php:872
+msgid "Add"
+msgstr "לְהוֹסִיף"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:105
+#, php-format
+msgid "Add a review &ldquo;%s&rdquo;"
+msgstr "הוסף ביקורת &ldquo;%s&rdquo;"
+
+#: cores/nasa-theme-options.php:164
+msgid "Add Icon Image (Using for Section of Tabs)"
+msgstr "הוסף תמונת סמל (באמצעות קטע של כרטיסיות)"
+
+#: cores/nasa-theme-options.php:152
+msgid "Add Icon NasaTheme (Using for Section of Tabs)"
+msgstr "הוסף אייקון NasaTheme (שימוש עבור חלק של כרטיסיות)"
+
+#: widgets/wg-nasa-product-categories.php:194
+msgid "Add icons for categories."
+msgstr "הוסף אייקונים עבור קטגוריות."
+
+#: admin/settings/nasa_01_general_heading.php:25
+msgid "Add more width site (px)"
+msgstr "הוסף אתר ברוחב נוסף (px)"
+
+#: admin/classes/class.options_machine.php:551
+msgid "Add New Slide"
+msgstr "הוסף שקופית חדשה"
+
+#: includes/nasa-mini-cart-note.php:8
+msgid "Add note"
+msgstr "להוסיף הערה"
+
+#: cores/nasa-yith-wcwl-ext.php:318
+msgid "Add to cart"
+msgstr "הוסף לעגלה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:121
+#| msgid "Add To Cart in Loop"
+msgid "Add To Cart in Grid"
+msgstr "הוסף לסל בלולאה"
+
+#: cores/nasa-woo-actions.php:2000
+msgid "Add to Compare"
+msgstr "הוסף להשוואה"
+
+#: cores/nasa-wishlist.php:224
+msgid "Add to Wishlist"
+msgstr "הוסף לרשימת משאלות"
+
+#: cores/nasa-wishlist.php:184 cores/nasa-woo-functions.php:1315
+msgid "Add to wishlist"
+msgstr "הוסף לרשימת המשאלות"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:149
+msgid ""
+"Add your custom Favicon image. 16x16 - 32x32 *.ico or *.png required. "
+"(Recommended 16x16 *.ico)"
+msgstr ""
+"הוסף את תמונת Favicon המותאמת אישית שלך. 16x16 - 32x32 *.ico או *.png נדרש. "
+"(מומלץ 16x16 *.ico)"
+
+#: cores/nasa-woo-actions.php:1956 cores/nasa-woo-actions.php:2001
+msgid "Added to Compare"
+msgstr "נוסף להשוואה"
+
+#: cores/nasa-wishlist.php:224
+msgid "Added to Wishlist"
+msgstr "נוסף לרשימת המשאלות"
+
+#: cores/nasa-wishlist.php:185
+msgid "Added to wishlist"
+msgstr "נוסף לרשימת המשאלות"
+
+#: cores/nasa-theme-footers.php:341
+msgid "Adding"
+msgstr "מוֹסִיף"
+
+#: cores/nasa-theme-footers.php:391
+msgid "Adding cart"
+msgstr "הוספת עגלה"
+
+#: admin/importer/nasa-importer.php:1492
+msgid "Addition Homepage Success!"
+msgstr "תוספת דף הבית הצלחה!"
+
+#: admin/settings/nasa_03_1_header_heading.php:315
+#: admin/settings/nasa_03_1_header_heading.php:316
+#: admin/settings/nasa_07_1_product_global_heading.php:288
+#: admin/settings/nasa_07_1_product_global_heading.php:289
+#: admin/settings/nasa_07_3_product_detail_heading.php:363
+#: admin/settings/nasa_07_3_product_detail_heading.php:364
+msgid "Addon Options"
+msgstr "אפשרויות תוסף"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:307
+#: admin/settings/nasa_07_2_product_page_heading.php:308
+msgid "Advance Content Options"
+msgstr "אפשרויות תוכן מתקדמות"
+
+#: admin/settings/nasa_01_general_heading.php:78
+#: admin/settings/nasa_01_general_heading.php:79
+msgid "Advanced options"
+msgstr "אפשרויות מתקדמות"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:335
+msgid "After Breadcrumb - Only for Shop Page"
+msgstr "לאחר פירורי לחם - רק לדף החנות"
+
+#: cores/nasa-theme-options.php:180
+msgid "After Tabs Title (Using for Section of Tabs)"
+msgstr "לאחר כותרת הכרטיסיות (שימוש עבור קטע של כרטיסיות)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:403
+msgid "After WooCommerce Tabs"
+msgstr "אחרי לשוניות WooCommerce"
+
+#: admin/settings/nasa_01_general_heading.php:204
+msgid "Age Verification"
+msgstr "אימות גיל"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:271
+msgid "AJAX add to cart button on Single And Quickview"
+msgstr "כפתור הוספה לסל של AJAX ב-Single ו-Quickview"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:461
+msgid "Ajax Load"
+msgstr "עומס אייאקס"
+
+#: widgets/wg-nasa-product-filter-price-list.php:134
+#: widgets/wg-nasa-product-filter-price-list.php:135
+#: widgets/wg-nasa-tag-cloud.php:162
+msgid "All"
+msgstr "את כל"
+
+#: admin/importer/tpl-import-demo-data.php:157
+#: admin/importer/tpl-import-demo-data.php:179
+msgid "All Done. Have fun!"
+msgstr "הכל בוצע. תעשה חיים!"
+
+#: admin/classes/class-tgm-plugin-activation.php:3583
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלות הושלמו."
+
+#: admin/classes/class-tgm-plugin-activation.php:3596
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#. 1: dashboard link.
+#: admin/classes/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#: woocommerce/loop/pagination.php:58
+msgid "ALL PRODUCTS LOADED !"
+msgstr "כל המוצרים נטענו!"
+
+#: cores/nasa-woo-actions.php:1607
+msgid "All transactions are secure and encrypted."
+msgstr "כל העסקאות מאובטחות ומוצפנות."
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:411
+msgid "Allow Comments Images upload"
+msgstr "אפשר העלאת תמונות של הערות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:436
+msgid "Allow Comments Video upload"
+msgstr "אפשר העלאת סרטון הערות"
+
+#: includes/nasa-login-register-form.php:177
+msgid "Already got an account? "
+msgstr "כבר יש לך חשבון?"
+
+#. 1: plugin name, 2: error message.
+#: admin/classes/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "אירעה שגיאה בעת התקנת%1$s: <strong>%2$s</strong>."
+
+#: widgets/wg-nasa-product-filter-variations.php:153
+msgid "AND"
+msgstr "ו"
+
+#: admin/settings/nasa_01_general_heading.php:165
+msgid "Animation Effect"
+msgstr "אפקט אנימציה"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:42
+msgid "App Simulation"
+msgstr "סימולציית אפליקציה"
+
+#: includes/nasa-checkout-coupon-modern.php:28
+#: includes/nasa-mini-cart-add-coupon.php:67
+#: admin/classes/class.options_machine.php:810
+#: admin/classes/class.options_machine.php:907
+msgid "Apply"
+msgstr "להגיש מועמדות"
+
+#: includes/nasa-checkout-coupon-modern.php:28
+#: includes/nasa-mini-cart-add-coupon.php:66 woocommerce/cart/cart.php:170
+#: woocommerce/cart/cart.php:171 woocommerce/checkout/form-coupon.php:26
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Apply coupon"
+msgstr "החל קופון"
+
+#: admin/settings/nasa_05_type_heading.php:198
+msgid "Arabic"
+msgstr "עֲרָבִית"
+
+#: admin/settings/nasa_08_blog_heading.php:36
+msgid "Archive Layout"
+msgstr "פריסת ארכיון"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:18
+#: admin/settings/nasa_07_2_product_page_heading.php:19
+msgid "Archive Options"
+msgstr "אפשרויות ארכיון"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:12
+msgid "Archive Products Page"
+msgstr "דף מוצרים לארכיון"
+
+#: includes/nasa-age-verification.php:12
+msgid "Are you over 18?"
+msgstr "האם אתה מעל גיל 18?"
+
+#: cores/nasa-theme-footers.php:886
+msgid "Are you sure you want to remove it?"
+msgstr "האם אתה בטוח שברצונך להסיר אותו?"
+
+#: admin/classes/class.options_machine.php:374
+msgid "Arial"
+msgstr "אריאל"
+
+#: cores/nasa-theme-options.php:123
+msgid "Arrow"
+msgstr "חֵץ"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:172
+msgid "Arrows for Main Slide"
+msgstr "חצים עבור השקף הראשי"
+
+#: admin/importer/wordpress-importer.php:347
+msgid "as a new user:"
+msgstr "כמשתמש חדש:"
+
+#: admin/classes/class-tgm-plugin-activation.php:2541
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr " לא ידוע"
+
+#: archive.php:84
+msgid "Asides"
+msgstr "חוץ מזה"
+
+#: admin/importer/wordpress-importer.php:298
+msgid "Assign Authors"
+msgstr "הקצה מחברים"
+
+#: admin/importer/wordpress-importer.php:355
+msgid "assign posts to an existing user:"
+msgstr "הקצה פוסטים למשתמש קיים:"
+
+#: admin/settings/nasa_01_general_heading.php:300
+msgid "Async"
+msgstr "אסינכרון"
+
+#: widgets/wg-nasa-product-filter-variations.php:144
+msgid "Attribute"
+msgstr "תְכוּנָה"
+
+#: admin/settings/nasa_08_blog_heading.php:198
+msgid "Author - Date info"
+msgstr "מחבר - מידע על תאריך"
+
+#: archive.php:71
+#, php-format
+msgid "Author Archives: %s"
+msgstr "ארכיון מחבר: %s"
+
+#: admin/settings/nasa_08_blog_heading.php:127
+msgid "Author info"
+msgstr "מידע מחבר"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:607
+#: admin/settings/nasa_07_3_product_detail_heading.php:141
+msgid "Auto Slide"
+msgstr "החלקה אוטומטית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:527
+msgid "Auto Slide - Related | You may also like&hellip;"
+msgstr "Slide אוטומטי - קשור | אולי גם תאהב&hellip;"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:427
+msgid "Auto Update - Cart Page"
+msgstr "עדכון אוטומטי - עמוד עגלה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:314
+msgid "Automatically displays 9+ if the number is greater than or equal to 10"
+msgstr "מציג באופן אוטומטי 9+ אם המספר גדול או שווה ל-10"
+
+#: includes/nasa-after-add-to-cart.php:96 woocommerce/cart/cart.php:107
+msgid "Available on backorder"
+msgstr "זמין על backorder"
+
+#: admin/classes/class-tgm-plugin-activation.php:2566
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: woocommerce/single-product-reviews.php:148
+msgid "Average"
+msgstr "מְמוּצָע"
+
+#: cores/nasa-woo-functions.php:1880
+msgid "Average rating"
+msgstr "דירוג ממוצע"
+
+#: woocommerce/single-product/product-image.php:174
+msgid "Awaiting product image"
+msgstr "ממתין לתמונת המוצר"
+
+#: cores/nasa-theme-functions.php:1448
+msgid "Back"
+msgstr "חזור"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:77
+msgid "Back Image in Mobile Layout"
+msgstr "תמונה אחורית בפריסה ניידת"
+
+#: cores/nasa-theme-functions.php:1377
+msgid "Back to Blog"
+msgstr "חזרה לבלוג"
+
+#: admin/importer/tpl-additional-homepage-data.php:13
+msgid "Back to Dashboard"
+msgstr "חזרה ללוח המחוונים"
+
+#: admin/importer/tpl-import-demo-data.php:104
+#: admin/importer/tpl-import-demo-data.php:117
+msgid "BACK TO STEP 1"
+msgstr "חזרה לשלב 1"
+
+#: cores/nasa-theme-footers.php:199
+#: admin/settings/nasa_01_general_heading.php:84
+msgid "Back to Top"
+msgstr "חזרה למעלה"
+
+#: admin/settings/nasa_03_1_header_heading.php:715
+#: admin/settings/nasa_06_breadcrumb_heading.php:79
+#: admin/settings/nasa_07_3_product_detail_heading.php:65
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: admin/settings/nasa_03_1_header_heading.php:378
+msgid "Background Color Header"
+msgstr "כותרת צבע רקע"
+
+#: admin/settings/nasa_03_1_header_heading.php:388
+msgid "Background Color Header - Sticky"
+msgstr "כותרת צבע רקע - דביק"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:144
+msgid "Background Color Of Product Items In The Shop"
+msgstr "צבע רקע של פריטי מוצר בחנות"
+
+#: admin/settings/nasa_03_1_header_heading.php:722
+#: admin/settings/nasa_06_breadcrumb_heading.php:58
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:65
+msgid "Background Image - Mobile Layout Mode"
+msgstr "תמונת רקע - מצב פריסה נייד"
+
+#: admin/settings/nasa_01_general_heading.php:65
+msgid "Background Mode"
+msgstr "מצב רקע"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:72
+msgid "Background Parallax"
+msgstr "רקע פרלקסה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:84
+msgid "Backorder Allowed Badge"
+msgstr "תג מותר בהזמנה חוזרת"
+
+#: woocommerce/loop/sale-flash.php:91
+#: woocommerce/single-product/sale-flash.php:92
+msgid "Backorders"
+msgstr "הזמנות חוזרות"
+
+#: admin/settings/nasa_04_style_color_heading.php:61
+msgid "Backorders Badge Color"
+msgstr "צבע תג הזמנות חוזרות"
+
+#: admin/settings/nasa_98_backup_options_heading.php:12
+msgid "Backup and Import"
+msgstr "גיבוי וייבוא"
+
+#: admin/settings/nasa_98_backup_options_heading.php:18
+msgid "Backup and Restore Options"
+msgstr "אפשרויות גיבוי ושחזור"
+
+#: admin/classes/class.options_machine.php:664
+msgid "Backup Options"
+msgstr "אפשרויות גיבוי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:390
+#: admin/settings/nasa_07_1_product_global_heading.php:391
+msgid "Badge - Options"
+msgstr "תג - אפשרויות"
+
+#: admin/settings/nasa_05_type_heading.php:131
+msgid "Banner font"
+msgstr "גופן באנר"
+
+#: woocommerce/single-product-reviews.php:105
+#: woocommerce/single-product-reviews.php:164
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "היה הראשון לכתוב סקירה על &ldquo;%s&rdquo;"
+
+#: admin/theme-admin.php:365
+msgid "Before Footer"
+msgstr "לפני כותרת תחתונה"
+
+#: cores/nasa-theme-options.php:173
+msgid "Before Tabs Title (Using for Section of Tabs)"
+msgstr "לפני כותרת הכרטיסיות (שימוש עבור קטע של כרטיסיות)"
+
+#: admin/classes/class-tgm-plugin-activation.php:371
+#| msgid "Begin activating plugins"
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "התחל להפעיל את הפלאגין"
+msgstr[1] "התחל להפעיל תוספים"
+
+#: admin/classes/class-tgm-plugin-activation.php:365
+#| msgid "Begin installing plugins"
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "התחל להתקין תוסף"
+msgstr[1] "התחל להתקין תוספים"
+
+#: admin/classes/class-tgm-plugin-activation.php:368
+#| msgid "Begin updating plugins"
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "התחל לעדכן את הפלאגין"
+msgstr[1] "התחל לעדכן תוספים"
+
+#: includes/nasa-checkout-modern-billing-detail.php:13
+msgid "Billing address"
+msgstr "כתובת לחיוב"
+
+#: index.php:62 admin/settings/nasa_08_blog_heading.php:11
+msgid "Blog"
+msgstr "בלוג"
+
+#: admin/settings/nasa_08_blog_heading.php:17
+#: admin/settings/nasa_08_blog_heading.php:18
+msgid "Blog Options"
+msgstr "אפשרויות בלוג"
+
+#: options/nasa-options.php:1286
+msgid "Blog Sidebar"
+msgstr "סרגל הצד של הבלוג"
+
+#: admin/classes/class.options_machine.php:397
+msgid "Bold"
+msgstr "נוֹעָז"
+
+#: admin/settings/nasa_05_type_heading.php:251
+msgid "Bold - 500"
+msgstr "מודגש - 500"
+
+#: admin/settings/nasa_05_type_heading.php:250
+msgid "Bold - 600"
+msgstr "מודגש - 600"
+
+#: admin/settings/nasa_05_type_heading.php:249
+msgid "Bold - 700"
+msgstr "מודגש - 700"
+
+#: admin/settings/nasa_05_type_heading.php:248
+msgid "Bold - 800"
+msgstr "מודגש - 800"
+
+#: admin/classes/class.options_machine.php:398
+msgid "Bold Italic"
+msgstr "מודגש נטוי"
+
+#: cores/nasa-theme-options.php:110
+msgid "Border Wrapper"
+msgstr "מעטפת גבול"
+
+#: image.php:95
+msgid "Both comments and trackbacks are currently closed."
+msgstr "הן התגובות והן הרצועות סגורות כרגע."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:55
+msgid "Bottom To Top"
+msgstr "מלמטה למעלה"
+
+#: admin/settings/nasa_01_general_heading.php:39
+msgid "Boxed"
+msgstr "בקופסא"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:12
+msgid "Breadcrumb"
+msgstr "פירורי לחם"
+
+#: cores/nasa-woo-functions.php:924
+msgid "BROWSE"
+msgstr "לְדַפדֵף"
+
+#: cores/nasa-theme-functions.php:494
+msgid "Browse Categories"
+msgstr "עיין בקטגוריות"
+
+#: admin/settings/nasa_03_2_footer_heading.php:86
+msgid "Build-in Mobile"
+msgstr "מובייל מובנה"
+
+#: admin/settings/nasa_03_2_footer_heading.php:40
+msgid "Builder - Suport WPBakery"
+msgstr "Builder - תמיכה ב-WPBakery"
+
+#: admin/settings/nasa_03_2_footer_heading.php:44
+msgid "Builder - Support HFE-Elementor"
+msgstr "Builder - תמיכה ב-HFE-Elementor"
+
+#: admin/settings/nasa_03_2_footer_heading.php:36
+msgid "Built-in - Widgets Place"
+msgstr "מובנה - Widgets Place"
+
+#: admin/settings/nasa_03_2_footer_heading.php:68
+msgid "Built-in Dark"
+msgstr "Dark מובנה"
+
+#: admin/settings/nasa_03_2_footer_heading.php:65
+msgid "Built-in Light 1"
+msgstr "אור מובנה 1"
+
+#: admin/settings/nasa_03_2_footer_heading.php:66
+msgid "Built-in Light 2"
+msgstr "אור מובנה 2"
+
+#: admin/settings/nasa_03_2_footer_heading.php:67
+msgid "Built-in Light 3"
+msgstr "אור מובנה 3"
+
+#: admin/settings/nasa_04_style_color_heading.php:103
+msgid "Bulk Discount Badge Color"
+msgstr "צבע תג הנחה בתפזורת"
+
+#: includes/nasa-combo-products-quickview.php:14
+#: includes/nasa-combo-products.php:13
+msgid "Bundle product for"
+msgstr "מוצר צרור עבור"
+
+#: admin/settings/nasa_04_style_color_heading.php:123
+msgid "Buttons Background Color"
+msgstr "צבע רקע לחצנים"
+
+#: admin/settings/nasa_04_style_color_heading.php:130
+msgid "Buttons Background Color Hover"
+msgstr "כפתורים צבע רקע ריחוף"
+
+#: admin/settings/nasa_04_style_color_heading.php:138
+msgid "Buttons Border Color"
+msgstr "צבע גבול לחצנים"
+
+#: admin/settings/nasa_04_style_color_heading.php:145
+msgid "Buttons Border Color Hover"
+msgstr "רחף צבע גבול לחצנים"
+
+#: admin/settings/nasa_04_style_color_heading.php:175
+msgid "Buttons Border Width"
+msgstr "רוחב גבול לחצנים"
+
+#: admin/settings/nasa_04_style_color_heading.php:166
+msgid "Buttons Radius"
+msgstr "רדיוס כפתורים"
+
+#: admin/settings/nasa_04_style_color_heading.php:117
+#: admin/settings/nasa_04_style_color_heading.php:118
+msgid "Buttons Style Options"
+msgstr "אפשרויות סגנון לחצנים"
+
+#: admin/settings/nasa_04_style_color_heading.php:152
+msgid "Buttons Text Color"
+msgstr "כפתורים צבע טקסט"
+
+#: admin/settings/nasa_04_style_color_heading.php:159
+msgid "Buttons Text Color Hover"
+msgstr "לחצנים ריחוף צבע טקסט"
+
+#: cores/nasa-woo-actions.php:1132
+#: admin/settings/nasa_07_3_product_detail_heading.php:211
+msgid "Buy Now"
+msgstr "קנה עכשיו"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:218
+msgid "Buy Now Background Color"
+msgstr "קנה עכשיו צבע רקע"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:227
+msgid "Buy Now Background Color Hover"
+msgstr "קנה עכשיו רחף צבע רקע"
+
+#: woocommerce/single-product/add-to-cart/grouped.php:61
+msgid "Buy one of this item"
+msgstr "קנה אחד מהפריט הזה"
+
+#: cores/nasa-woo-actions.php:637
+msgid "Buy this bundle and get off to ${saved}"
+msgstr "קנה את החבילה הזו וירד ל-${saved}"
+
+#: includes/nasa-blog-standard.php:36
+msgid "By "
+msgstr "על ידי"
+
+#: admin/classes/class.options_machine.php:812
+#: admin/classes/class.options_machine.php:908
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+#: includes/nasa-tmpl-captcha-field-register.php:16
+msgid "Captcha Code"
+msgstr "קוד Captcha"
+
+#: cores/nasa-theme-options.php:537
+msgid "Captcha Error!"
+msgstr "שגיאת Captcha!"
+
+#: admin/settings/nasa_03_1_header_heading.php:307
+msgid "Captcha For Register Form"
+msgstr "Captcha לטופס הרשמה"
+
+#: includes/nasa-checkout-modern.php:55
+msgid "CART"
+msgstr "עֲגָלָה"
+
+#: cores/nasa-woo-functions.php:218 cores/nasa-woo-functions.php:224
+#: includes/nasa-mobile-bottom-bar-app.php:102
+#: includes/nasa-mobile-bottom-bar-app.php:104
+#: includes/nasa-mobile-bottom-bar.php:102
+#: includes/nasa-mobile-bottom-bar.php:104
+msgid "Cart"
+msgstr "עֲגָלָה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:277
+msgid "Cart Sidebar Layout"
+msgstr "פריסת סרגל הצד של העגלה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:113
+msgid "Catalog Mode - Disable Add To Cart Feature"
+msgstr "מצב קטלוג - השבת תכונת הוסף לעגלה"
+
+#: cores/nasa-woo-functions.php:909
+msgid "CATEGORIES"
+msgstr "קטגוריות"
+
+#: cores/nasa-theme-footers.php:780 cores/nasa-theme-headers.php:392
+#: includes/nasa-mobile-bottom-bar-app.php:59
+#: includes/nasa-mobile-bottom-bar-app.php:61
+#: includes/nasa-mobile-bottom-bar.php:59
+#: includes/nasa-mobile-bottom-bar.php:61
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:48
+msgid ""
+"Categories Included List (ID or Slug, separated by \",\". Ex: 1, 2 or slug-1,"
+" slug-2)"
+msgstr ""
+"רשימת קטגוריות כלולות (מזהה או שבלול, מופרדים על ידי \",\". לדוגמה: 1, 2 או "
+"שבלול-1, קליל-2)"
+
+#: admin/settings/nasa_08_blog_heading.php:141
+#: admin/settings/nasa_08_blog_heading.php:191
+msgid "Categories info"
+msgstr "מידע על קטגוריות"
+
+#: cores/nasa-custom-wc-ajax.php:873
+msgid "Categories Map"
+msgstr "מפת קטגוריות"
+
+#: archive.php:65
+#, php-format
+msgid "Category Archives: %s"
+msgstr "ארכיון קטגוריות: %s"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:325
+msgid "Category bottom content"
+msgstr "תוכן תחתון בקטגוריה"
+
+#: widgets/wg-nasa-product-categories.php:71
+#: admin/settings/nasa_07_1_product_global_heading.php:351
+msgid "Category Order"
+msgstr "סדר קטגוריה"
+
+#: admin/settings/nasa_03_1_header_heading.php:660
+msgid "Category Post"
+msgstr "פוסט קטגוריה"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:315
+msgid "Category top content"
+msgstr "תוכן מוביל בקטגוריה"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:98
+#: admin/settings/nasa_07_3_product_detail_heading.php:312
+msgid "Center"
+msgstr "מֶרְכָּז"
+
+#: cores/nasa-woo-actions.php:1535 cores/nasa-woo-actions.php:1545
+#: cores/nasa-woo-actions.php:1554 admin/classes/class.options_machine.php:802
+msgid "Change"
+msgstr "שינוי"
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Change address"
+msgstr "שינוי כתובת"
+
+#: admin/settings/nasa_04_style_color_heading.php:26
+msgid ""
+"Change primary color. Used for primary buttons, link hover, background, etc."
+msgstr "שנה צבע ראשי. משמש ללחצנים ראשיים, ריחוף קישורים, רקע וכו'."
+
+#: admin/settings/nasa_07_2_product_page_heading.php:124
+msgid "Change Shop Layout Mode"
+msgstr "שנה את מצב פריסת החנות"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:153
+msgid "Change View Mode (Only Desktop Mode)"
+msgstr "שנה מצב תצוגה (רק מצב שולחן עבודה)"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:200
+#| msgid "Change View Mode (Only Mobile Layout Mode)"
+msgid "Change View Mode Mobile (Only Mobile App Layout Mode)"
+msgstr "שנה מצב תצוגה לנייד (מצב פריסת אפליקציה לנייד בלבד)"
+
+#: admin/settings/nasa_05_type_heading.php:191
+msgid "Character Sub-sets"
+msgstr "קבוצות משנה של תווים"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:466
+#: admin/settings/nasa_07_1_product_global_heading.php:467
+msgid "Checkout - Options"
+msgstr "קופה - אפשרויות"
+
+#: page-checkout.php:76 page-checkout.php:98 page-shopping-cart.php:23
+#: page-shopping-cart.php:25 page-shopping-cart.php:45
+msgid "Checkout Details"
+msgstr "פרטי קופה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:472
+msgid "Checkout Layout"
+msgstr "פריסת קופה"
+
+#: page-checkout.php:77 page-checkout.php:99 page-shopping-cart.php:26
+#: page-shopping-cart.php:46
+msgid "Checkout Your Items List"
+msgstr "בדוק את רשימת הפריטים שלך"
+
+#: admin/importer/wordpress-importer.php:1238
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "בחר קובץ WXR (.xml) להעלאה ולאחר מכן לחץ על העלה קובץ וייבא."
+
+#: admin/settings/nasa_03_1_header_heading.php:502
+msgid "Classic"
+msgstr "קלַאסִי"
+
+#: cores/nasa-theme-options.php:71
+msgid "Classic 2D"
+msgstr "2D קלאסי"
+
+#: cores/nasa-theme-options.php:70
+msgid "Classic 2D - Has BG color"
+msgstr "קלאסי 2D - בעל צבע BG"
+
+#: cores/nasa-theme-options.php:67
+msgid "Classic 2D - No border"
+msgstr "קלאסי דו מימדי - ללא גבול"
+
+#: cores/nasa-theme-options.php:68
+msgid "Classic 2D - Radius"
+msgstr "קלאסי דו מימדי - רדיוס"
+
+#: cores/nasa-theme-options.php:69
+msgid "Classic 2D - Radius - Dash"
+msgstr "קלאסי דו מימדי - רדיוס - מקף"
+
+#: cores/nasa-theme-options.php:72
+msgid "Classic 3D"
+msgstr "תלת מימד קלאסי"
+
+#: includes/nasa-mini-compare.php:70
+msgid "Clear All"
+msgstr "נקה הכל"
+
+#: includes/nasa-mini-cart-add-coupon.php:44
+msgid "Click here to Apply this coupon."
+msgstr "לחץ כאן כדי להחיל קופון זה."
+
+#: admin/settings/nasa_03_1_header_heading.php:72
+#: admin/settings/nasa_03_1_header_heading.php:93
+#: admin/settings/nasa_03_1_header_heading.php:338
+#: admin/settings/nasa_03_1_header_heading.php:350
+#: admin/settings/nasa_03_1_header_heading.php:362
+#: admin/settings/nasa_03_1_header_heading.php:596
+#: admin/settings/nasa_03_2_footer_heading.php:120
+#: admin/settings/nasa_03_2_footer_heading.php:137
+#: admin/settings/nasa_03_2_footer_heading.php:163
+#: admin/settings/nasa_03_2_footer_heading.php:180
+#: admin/settings/nasa_03_3_mobile_heading.php:82
+#: admin/settings/nasa_07_2_product_page_heading.php:321
+#: admin/settings/nasa_07_2_product_page_heading.php:331
+#: admin/settings/nasa_07_2_product_page_heading.php:341
+#: admin/settings/nasa_07_3_product_detail_heading.php:359
+#: admin/settings/nasa_09_promo_popup_heading.php:88
+#: admin/settings/nasa_09_promo_popup_heading.php:164
+msgid "Click here to Edit"
+msgstr "לחץ כאן כדי לערוך"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "לחץ כאן כדי להזין את הקוד שלך"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "לחץ כאן כדי להיכנס"
+
+#: admin/front-end/options.php:47
+msgid "Click Here To View Online Documentation"
+msgstr "לחץ כאן לצפייה בתיעוד מקוון"
+
+#: widgets/wg-nasa-product-brands.php:150
+#: widgets/wg-nasa-product-categories.php:223
+msgid "Click select icon for "
+msgstr "לחץ על סמל בחר עבור"
+
+#: archive.php:132 index.php:77 page-left-sidebar.php:34
+#: page-right-sidebar.php:34 search.php:76 single.php:64
+#: cores/nasa-theme-footers.php:337 cores/nasa-theme-footers.php:514
+#: cores/nasa-theme-footers.php:569 cores/nasa-theme-footers.php:642
+#: cores/nasa-theme-footers.php:785 headers/header-structure-1.php:48
+#: headers/header-structure-2.php:73 headers/header-structure-3.php:63
+#: headers/header-structure-5.php:48 headers/header-structure-7.php:43
+#: headers/header-structure-7.php:53 includes/nasa-blog-promotion.php:18
+#: includes/nasa-checkout-coupon-modern.php:22
+#: includes/nasa-sidebar-shop-side.php:64 includes/nasa-sidebar-shop-top.php:55
+#: includes/nasa-single-product-classic.php:84
+#: includes/nasa-single-product-full.php:73
+#: includes/nasa-single-product-modern-1.php:60
+#: includes/nasa-single-product-modern-2.php:61
+#: includes/nasa-single-product-modern-3.php:61
+#: includes/nasa-single-product-modern-4.php:76
+#: includes/nasa-single-product-new-2.php:42
+#: includes/nasa-single-product-new.php:71
+msgid "Close"
+msgstr "סגור"
+
+#: cores/nasa-theme-footers.php:380 cores/nasa-theme-footers.php:385
+#: cores/nasa-theme-footers.php:386 cores/nasa-theme-footers.php:866
+#: cores/nasa-theme-footers.php:877 cores/nasa-theme-footers.php:1089
+#: includes/nasa-after-add-to-cart.php:20 includes/nasa-promo-popup.php:42
+msgid "Close (Esc)"
+msgstr "סגור (Esc)"
+
+#: searchform.php:116 searchform.php:195
+msgid "Close search"
+msgstr "סגור חיפוש"
+
+#: dokan/store-header.php:170
+msgid "CLOSED"
+msgstr "סָגוּר"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:58
+#: dokan/nasa-store-lists-loop-list-1.php:109 dokan/store-lists-loop.php:50
+msgid "Closed"
+msgstr "סָגוּר"
+
+#: admin/settings/nasa_04_style_color_heading.php:18
+#: admin/settings/nasa_04_style_color_heading.php:19
+msgid "Colors Options"
+msgstr "אפשרויות צבעים"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:571
+#: admin/settings/nasa_07_2_product_page_heading.php:207
+msgid "Columns"
+msgstr "עמודות"
+
+#: widgets/wg-nasa-product-filter-variations.php:183
+msgid "Columns - Classic Sidebar or Canvas Sidebar"
+msgstr "עמודות - סרגל צד קלאסי או סרגל צד קנבס"
+
+#: admin/settings/nasa_08_blog_heading.php:83
+msgid "Columns in desktop"
+msgstr "עמודות בשולחן העבודה"
+
+#: admin/settings/nasa_08_blog_heading.php:96
+msgid "Columns in Mobile"
+msgstr "עמודות במובייל"
+
+#: admin/settings/nasa_08_blog_heading.php:107
+msgid "Columns in Tablet"
+msgstr "עמודות בטאבלט"
+
+#: admin/settings/nasa_08_blog_heading.php:235
+msgid "Columns Related in desktop"
+msgstr "עמודות קשורות בשולחן העבודה"
+
+#: admin/settings/nasa_08_blog_heading.php:247
+msgid "Columns Related in mobile"
+msgstr "עמודות קשורות בנייד"
+
+#: admin/settings/nasa_08_blog_heading.php:258
+msgid "Columns Related in Tablet"
+msgstr "עמודות הקשורות בטאבלט"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:489
+msgid "Columns Related | You may also like&hellip;"
+msgstr "עמודות הקשורות | אולי גם תאהב&hellip;"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:515
+msgid "Columns Related | You may also like&hellip; for Mobile"
+msgstr "עמודות הקשורות | אולי תאהב גם&hellip; לנייד"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:503
+msgid "Columns Related | You may also like&hellip; for Tablet"
+msgstr "עמודות הקשורות | אולי תאהב גם&hellip; לטאבלט"
+
+#: admin/settings/nasa_08_blog_heading.php:155
+msgid "Comment Count info"
+msgstr "מידע על ספירת תגובות"
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr "ניווט בתגובות"
+
+#: comments.php:19 includes/nasa-blog-grid.php:68
+#: includes/nasa-blog-list.php:67 includes/nasa-blog-masonry-isotope.php:70
+#: includes/nasa-blog-standard.php:60
+msgid "Comments"
+msgstr "הערות"
+
+#: image.php:91
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+"התגובות סגורות, אבל אתה יכול להשאיר טראק-בק: <a class=\"trackback-link\" "
+"href=\"%s\" title=\"כתובת אתר למעקב עבור הפוסט שלך\" rel=\"trackback\">כתובת "
+"אתר למעקב</a>."
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:310
+msgid "Compact Number - Cart, Wishlist, Compare (9+)"
+msgstr "מספר קומפקטי - עגלה, משאלות, השווה (9+)"
+
+#: cores/nasa-woo-actions.php:1956 cores/nasa-woo-actions.php:1997
+#: cores/nasa-woo-actions.php:1997 cores/nasa-woo-functions.php:835
+#: cores/nasa-woo-functions.php:840
+msgid "Compare"
+msgstr "לְהַשְׁווֹת"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:12
+msgid "Compare and Wishlist"
+msgstr "השווה ורצונות"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:18
+#: admin/settings/nasa_07_4_product_compare_heading.php:19
+msgid "Compare Options"
+msgstr "השווה אפשרויות"
+
+#: includes/nasa-mini-compare.php:59
+msgid "Compare Product"
+msgstr "השווה מוצר"
+
+#: includes/nasa-mini-compare.php:13
+msgid "Compare Products"
+msgstr "השווה בין מוצרים"
+
+#: cores/nasa-custom-wc-ajax.php:782
+msgid "Compare products were empty !"
+msgstr "השוואה בין המוצרים היו ריקים!"
+
+#: cores/nasa-advanced-free-shipping.php:117
+msgid "Congratulations! You've got free shipping."
+msgstr "מזל טוב! יש לך משלוח חינם."
+
+#: cores/nasa-woo-actions.php:1533
+msgid "Contact"
+msgstr "איש קשר"
+
+#: admin/theme-admin.php:55
+msgid "Contact Form 7"
+msgstr "טופס יצירת קשר 7"
+
+#: includes/nasa-checkout-modern.php:111
+msgid "Contact information"
+msgstr "פרטי התקשרות"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:94
+msgid "Content Width"
+msgstr "רוחב תוכן"
+
+#: admin/importer/tpl-import-demo-data.php:90
+msgid "CONTINUE"
+msgstr "לְהַמשִׁיך"
+
+#: includes/nasa-blog-grid.php:85 includes/nasa-blog-grid.php:86
+#: includes/nasa-blog-list.php:84 includes/nasa-blog-list.php:85
+#: includes/nasa-blog-masonry-isotope.php:88
+#: includes/nasa-blog-masonry-isotope.php:89 includes/nasa-blog-standard.php:77
+#: includes/nasa-blog-standard.php:78
+msgid "CONTINUE READING  &#10142;"
+msgstr "&#10142; המשך קריאה"
+
+#: cores/nasa-woo-actions.php:1507 cores/nasa-woo-actions.php:1580
+msgid "Continue To Payment"
+msgstr "המשך לתשלום"
+
+#: cores/nasa-woo-actions.php:1506
+msgid "Continue To Shipping"
+msgstr "המשך למשלוח"
+
+#: includes/nasa-gdpr-notice.php:14
+msgid "cookie policy"
+msgstr "מדיניות העוגיות"
+
+#: cores/nasa-woo-actions.php:2542 cores/nasa-woo-functions.php:2161
+msgid "Coupon"
+msgstr "קוּפּוֹן"
+
+#: includes/nasa-checkout-coupon-modern.php:27 woocommerce/cart/cart.php:168
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: cores/nasa-custom-wc-ajax.php:1372
+msgid "Coupon has been removed."
+msgstr "הקופון הוסר."
+
+#: woocommerce/cart/cart.php:166
+msgid "Coupon:"
+msgstr "קוּפּוֹן:"
+
+#: includes/nasa-login-register-form.php:104
+msgid "Create an account"
+msgstr "צור חשבון"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:565
+msgid "Cross-Sells Products"
+msgstr "מכירות צולבות מוצרים"
+
+#: admin/settings/nasa_03_1_header_heading.php:573
+msgid "Currencies Switcher"
+msgstr "מחליף מטבעות"
+
+#: admin/classes/class.options_machine.php:798
+msgid "Current value:"
+msgstr "ערך נוכחי:"
+
+#: admin/settings/nasa_04_style_color_heading.php:40
+msgid "Custom Badge Color"
+msgstr "צבע תג מותאם אישית"
+
+#: admin/theme-admin.php:369
+msgid "Custom Block"
+msgstr "בלוק מותאם אישית"
+
+#: admin/settings/nasa_03_1_header_heading.php:642
+#: admin/settings/nasa_03_1_header_heading.php:649
+msgid "Custom Content"
+msgstr "תוכן מותאם אישית"
+
+#: admin/settings/nasa_05_type_heading.php:34
+msgid "Custom font"
+msgstr "גופן מותאם אישית"
+
+#: admin/classes/class.options_machine.php:847
+msgid "Customer in country purchased a"
+msgstr "לקוח במדינה רכש א"
+
+#: admin/settings/nasa_05_type_heading.php:199
+msgid "Cyrillic"
+msgstr "קירילי"
+
+#: admin/settings/nasa_05_type_heading.php:200
+msgid "Cyrillic Extended"
+msgstr "קירילי מורחב"
+
+#: archive.php:75
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "ארכיון יומי: %s"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:55
+#: admin/settings/nasa_07_1_product_global_heading.php:283
+#: admin/settings/nasa_07_4_product_compare_heading.php:103
+msgid "Dark"
+msgstr "אפל"
+
+#: admin/settings/nasa_01_general_heading.php:71
+msgid "Dark Mode"
+msgstr "מצב כהה"
+
+#: admin/classes/class.options_machine.php:436
+msgid "Dashed"
+msgstr "מקווקו"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+#: admin/settings/nasa_08_blog_heading.php:134
+msgid "Datetime info"
+msgstr "מידע על תאריך ושעה"
+
+#: admin/settings/nasa_04_style_color_heading.php:82
+msgid "Deal Badge Color"
+msgstr "צבע תג דיל"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:369
+msgid "Deal Time in Single or Quickview"
+msgstr "זמן עסקה בסינגל או Quickview"
+
+#: admin/settings/nasa_05_type_heading.php:247
+#: admin/settings/nasa_07_1_product_global_heading.php:477
+#: admin/settings/nasa_07_3_product_detail_heading.php:404
+msgid "Default"
+msgstr "בְּרִירַת מֶחדָל"
+
+#: admin/settings/nasa_03_1_header_heading.php:583
+msgid ""
+"Default (%symbol%) %code%. You can custom for this. Ex (%name% (%symbol%) - "
+"%code%)"
+msgstr ""
+"ברירת מחדל (%symbol%) %code%. אתה יכול מותאם אישית עבור זה. דוגמה (%name% "
+"(%symbol%) - %code%)"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:106
+msgid "Default - 130px"
+msgstr "ברירת מחדל - 130 פיקסלים"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:32
+msgid "Default - Yith WooCommerce Compare"
+msgstr "ברירת מחדל - Yith WooCommerce Compare"
+
+#: admin/settings/nasa_05_type_heading.php:33
+msgid "Default font"
+msgstr "גופן ברירת מחדל"
+
+#: cores/nasa-woo-functions.php:1878
+msgid "Default sorting"
+msgstr "מיון ברירת מחדל"
+
+#: admin/settings/nasa_04_style_color_heading.php:131
+msgid "Default use primary color"
+msgstr "שימוש ברירת מחדל בצבע ראשי"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:112
+msgid "Default View"
+msgstr "תצוגת ברירת מחדל"
+
+#: admin/settings/nasa_01_general_heading.php:173
+msgid "Delay Overlay (ms)"
+msgstr "השכבה על עיכוב (מילישניות)"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:125
+msgid "Delay time to show (seconds)"
+msgstr "זמן עיכוב להצגה (שניות)"
+
+#: admin/front-end/options.php:34
+msgid ""
+"Demo data successfully imported. Please refresh your site and Click Save All "
+"Changes NasaTheme options."
+msgstr ""
+"נתוני הדגמה יובאו בהצלחה. אנא רענן את האתר שלך ולחץ על שמור את כל השינויים "
+"אפשרויות NasaTheme."
+
+#: admin/importer/tpl-import-demo-data.php:184
+msgid ""
+"Demo data was imported. If you want import demo data again, You should need "
+"reset data of your site."
+msgstr ""
+"יובאו נתוני הדגמה. אם אתה רוצה לייבא שוב נתוני הדגמה, אתה צריך לאפס נתוני "
+"האתר שלך."
+
+#: admin/classes/class.options_machine.php:1128
+msgid "Description (optional)"
+msgstr "תיאור (אופציונאלי)"
+
+#: admin/importer/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "הפרטים מוצגים למעלה. היבואן ינסה כעת שוב עם מנתח אחר..."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:380
+msgid "Disable - Progress Bar loading ajax"
+msgstr "Disable - סרגל התקדמות טעינת ajax"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:297
+msgid "Disable Ajax Shop"
+msgstr "השבת את Ajax Shop"
+
+#: admin/settings/nasa_03_1_header_heading.php:272
+msgid "Disable Login/Register"
+msgstr "השבת את התחברות/הרשמה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:515
+msgid "Disable Quick View"
+msgstr "השבת תצוגה מהירה"
+
+#: admin/settings/nasa_01_general_heading.php:188
+msgid "Disable Refill - Contact Form 7"
+msgstr "השבת מילוי חוזר - טופס יצירת קשר 7"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:365
+msgid ""
+"Disable top level of categories follow current category archive (Use for "
+"Multi stores)"
+msgstr ""
+"השבת את הרמה העליונה של קטגוריות בהתאם לארכיון הקטגוריות הנוכחיות (השתמש "
+"עבור חנויות מרובות)"
+
+#: admin/classes/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr "בטל הודעה זו"
+
+#: widgets/wg-nasa-product-filter-alphabet.php:25
+msgid "Display a list of alphabet to filter products."
+msgstr "הצג רשימה של אלפבית לסינון מוצרים."
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:31
+msgid "Display a list of categories to filter products."
+msgstr "הצג רשימה של קטגוריות לסינון מוצרים."
+
+#: widgets/wg-nasa-product-filter-price-list.php:19
+msgid "Display a list of prices to filter products."
+msgstr "הצג רשימה של מחירים לסינון מוצרים."
+
+#: widgets/wg-nasa-product-filter-status.php:25
+msgid "Display a list of status to filter products."
+msgstr "הצג רשימה של סטטוסים לסינון מוצרים."
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:31
+msgid "Display a list of tags to filter products."
+msgstr "הצג רשימה של תגים לסינון מוצרים."
+
+#: widgets/wg-nasa-reset-filter.php:32
+msgid "Display button reset filter."
+msgstr "מסנן איפוס לחצן תצוגה."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:91
+msgid "Display product Categories"
+msgstr "הצג קטגוריות מוצרים"
+
+#: widgets/wg-nasa-product-categories.php:45
+msgid "Display product categories with Accordion."
+msgstr "הצג קטגוריות מוצרים עם אקורדיון."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:98
+msgid "Display product SKU"
+msgstr "הצגת מק\"ט של מוצר"
+
+#: widgets/wg-nasa-product-brands.php:35
+msgid "Display yith product brands with Accordion."
+msgstr "הצג את מותגי המוצרים עם אקורדיון."
+
+#: admin/settings/nasa_07_5_dokan_heading.php:12
+msgid "Dokan"
+msgstr "דוקאן"
+
+#: includes/nasa-promo-popup.php:71
+msgid "Don't show this popup again"
+msgstr "אל תציג את החלון הקופץ הזה שוב"
+
+#: admin/importer/wordpress-importer.php:206
+msgid "Done. Please wait for continuing to import data"
+msgstr "בוצע. אנא המתן להמשך ייבוא ​​הנתונים"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:162
+msgid "Dots for Main Slide"
+msgstr "נקודות עבור שקופית ראשית"
+
+#: admin/classes/class.options_machine.php:437
+msgid "Dotted"
+msgstr "מְנוּקָד"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:40
+msgid "Double Rows"
+msgstr "שורות כפולות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:550
+msgid "Double Thumbnails"
+msgstr "תמונות ממוזערות כפולות"
+
+#: admin/importer/wordpress-importer.php:314
+msgid "Download and import file attachments"
+msgstr "הורד ויבא את הקובץ המצורף"
+
+#: image.php:28 image.php:97 cores/nasa-theme-functions.php:916
+#: cores/nasa-theme-functions.php:936
+#: admin/classes/class.options_machine.php:1100
+msgid "Edit"
+msgstr "לַעֲרוֹך"
+
+#: admin/settings/nasa_01_general_heading.php:181
+msgid "Effect Before Load Site"
+msgstr "השפעה לפני טעינת אתר"
+
+#: widgets/wg-nasa-product-filter-variations.php:164
+msgid "Effect for show more and show less"
+msgstr "השפעה להצגה יותר ולהראות פחות"
+
+#: admin/importer/tpl-homepage-list.php:41
+msgid "Elementor - Homepage List"
+msgstr "אלמנטור - רשימת עמודי הבית"
+
+#: admin/functions/functions.interface.php:101
+#: admin/functions/functions.interface.php:102
+msgid "Elementor Header & Footer Builder"
+msgstr "בונה כותרות וכותרות של אלמנטור"
+
+#. Name of the theme
+msgid "Elessi Theme"
+msgstr "נושא אלסי"
+
+#: woocommerce/single-product-reviews.php:115
+#: woocommerce/single-product-reviews.php:116
+msgid "Email"
+msgstr "אימייל"
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Email *"
+msgstr "דוא\"ל *"
+
+#: includes/nasa-checkout-modern.php:116
+#: includes/nasa-login-register-form.php:136
+msgid "Email address"
+msgstr "כתובת דוא\"ל"
+
+#: cores/nasa-woo-actions.php:1511
+msgid "Email incorrect format."
+msgstr "אימייל פורמט שגוי."
+
+#: widgets/wg-nasa-product-filter-price.php:47
+msgid "Enable Button Filter"
+msgstr "אפשר מסנן לחצנים"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:27
+msgid "Enable Mobile Layout"
+msgstr "הפעל פריסה ניידת"
+
+#: admin/settings/nasa_10_portfolio_heading.php:23
+msgid "Enable Portfolio"
+msgstr "הפעל תיק עבודות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:155
+msgid "Enable Promotion Gifts featured icon"
+msgstr "הפעל סמל מוצג של מתנות קידום מכירות"
+
+#: woocommerce/cart/cart-shipping.php:98
+msgid "Enter a different address"
+msgstr "הזן כתובת אחרת"
+
+#: woocommerce/cart/cart-shipping.php:75
+msgid "Enter your address to view shipping options."
+msgstr "הזן את כתובתך כדי לראות אפשרויות משלוח."
+
+#: cores/nasa-shop-ajax.php:205 cores/nasa-shop-ajax.php:212
+#: cores/nasa-shop-ajax.php:219 cores/nasa-shop-ajax.php:229
+msgid "Error"
+msgstr "שְׁגִיאָה"
+
+#: cores/nasa-custom-wc-ajax.php:670 cores/nasa-custom-wc-ajax.php:722
+#: cores/nasa-custom-wc-ajax.php:766 admin/front-end/options.php:15
+msgid "Error!"
+msgstr "שְׁגִיאָה!"
+
+#: cores/nasa-shop-ajax.php:169 cores/nasa-shop-ajax.php:301
+msgid "Error."
+msgstr "שְׁגִיאָה."
+
+#: cores/nasa-woo-functions.php:2329 cores/nasa-woo-functions.php:2355
+#: cores/nasa-woo-functions.php:2384 cores/nasa-woo-functions.php:2410
+msgid "Error: "
+msgstr "שְׁגִיאָה:"
+
+#: cores/nasa-custom-wc-ajax.php:1197 cores/nasa-custom-wc-ajax.php:1256
+#: cores/nasa-woo-actions.php:2527
+msgid "Estimate shipping rates"
+msgstr "הערכת תעריפי משלוח"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:192
+msgid "Event After Add to Cart"
+msgstr "אירוע לאחר הוספה לסל"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:253
+msgid "Extends Desktop"
+msgstr "מרחיב את שולחן העבודה"
+
+#: admin/settings/nasa_03_2_footer_heading.php:85
+#: admin/settings/nasa_03_2_footer_heading.php:104
+#: admin/settings/nasa_03_2_footer_heading.php:149
+msgid "Extends from Desktop"
+msgstr "מתרחב משולחן העבודה"
+
+#: admin/classes/class-tgm-plugin-activation.php:2366
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: cores/nasa-theme-options.php:277 cores/nasa-theme-options.php:297
+msgid "Extra class name"
+msgstr "שם כיתה נוספת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:51
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/settings/nasa_03_1_header_heading.php:454
+msgid "Fade In"
+msgstr "Fade In"
+
+#: admin/settings/nasa_03_1_header_heading.php:451
+msgid "Fade In Down"
+msgstr "Fade In Down"
+
+#: admin/settings/nasa_03_1_header_heading.php:452
+msgid "Fade In Up"
+msgstr "Fade In Up"
+
+#: widgets/wg-nasa-product-filter-variations.php:167
+msgid "Fade In-Out"
+msgstr "Fade In-Out"
+
+#: admin/importer/wordpress-importer.php:418
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "יצירת משתמש חדש עבור %s נכשלה. הפוסטים שלהם ייוחסו למשתמש הנוכחי."
+
+#: admin/importer/wordpress-importer.php:623
+#: admin/importer/wordpress-importer.php:776
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "כשל בייבוא ​​%s %s"
+
+#: admin/importer/wordpress-importer.php:737
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "כשל בייבוא ​​%s &#8220;%s&#8221;"
+
+#: admin/importer/wordpress-importer.php:654
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "ייבוא ​​&#8220;%s&#8221; נכשל: סוג פוסט לא חוקי %s"
+
+#: admin/importer/wordpress-importer.php:270
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "ייבוא ​​המחבר %s נכשל. הפוסטים שלהם ייוחסו למשתמש הנוכחי."
+
+#: admin/importer/wordpress-importer.php:483
+#, php-format
+msgid "Failed to import category %s"
+msgstr "ייבוא ​​הקטגוריה %s נכשל"
+
+#: admin/importer/wordpress-importer.php:536
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "ייבוא ​​תג הפוסט %s נכשל"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:148
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:133
+#: admin/settings/nasa_02_logo_icon_heading.php:134
+msgid "Favicon Options"
+msgstr "אפשרויות Favicon"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:47
+#: dokan/nasa-store-lists-loop-list-1.php:98 dokan/store-lists-loop.php:41
+#: widgets/wg-nasa-product-filter-status.php:44
+#: widgets/wg-nasa-product-filter-status.php:276
+#: widgets/wg-nasa-product-filter-status.php:276
+#: woocommerce/loop/sale-flash.php:26
+#: woocommerce/single-product/sale-flash.php:26
+msgid "Featured"
+msgstr "מומלצים"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:414
+msgid "Featured Badge"
+msgstr "תג נבחר"
+
+#: admin/settings/nasa_04_style_color_heading.php:47
+msgid "Featured Badge Color"
+msgstr "צבע התג המוצג"
+
+#: admin/importer/wordpress-importer.php:1007
+msgid "Fetching attachments is not enabled"
+msgstr "שליפת קבצים מצורפים לא מופעלת"
+
+#: woocommerce/content-widget-price-filter.php:35
+msgid "Filter"
+msgstr "לְסַנֵן"
+
+#: widgets/wg-nasa-product-filter-variations.php:137
+msgid "Filter by"
+msgstr "סנן לפי"
+
+#: widgets/wg-nasa-product-filter-alphabet.php:31
+msgid "Filter by Alphabet"
+msgstr "סינון לפי אלפבית"
+
+#: widgets/wg-nasa-product-filter-price-list.php:25
+#: widgets/wg-nasa-product-filter-price.php:35
+msgid "Filter by price"
+msgstr "סנן לפי מחיר"
+
+#: widgets/wg-nasa-product-filter-status.php:31
+msgid "Filter by status"
+msgstr "סנן לפי סטטוס"
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:37
+msgid "Filter by Tags"
+msgstr "סינון לפי תגים"
+
+#: woocommerce/archive-product.php:180
+msgid "Filter by:"
+msgstr "סינון לפי:"
+
+#: includes/nasa-mobile-bottom-bar-app.php:51
+#: includes/nasa-mobile-bottom-bar-app.php:53
+#: includes/nasa-mobile-bottom-bar.php:51
+#: includes/nasa-mobile-bottom-bar.php:53
+#: includes/nasa-sidebar-shop-side.php:61 includes/nasa-sidebar-shop-top.php:52
+#: woocommerce/archive-product.php:257 woocommerce/archive-product.php:343
+#: woocommerce/archive-product.php:389
+msgid "Filters"
+msgstr "מסננים"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:277
+msgid "Fit Rows"
+msgstr "התאמה לשורות"
+
+#: admin/settings/nasa_03_1_header_heading.php:107
+msgid "Flexible - Menu Resizing (Desktop and Tablet)"
+msgstr "גמיש - שינוי גודל התפריט (שולחן עבודה וטאבלט)"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:54
+msgid "Flip Horizontal"
+msgstr "הפוך אופקי"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:197
+msgid "Focus Main Image"
+msgstr "פוקוס תמונה ראשית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:199
+msgid "Focus main image after active variation product"
+msgstr "התמקד בתמונה הראשית לאחר מוצר וריאציה פעילה"
+
+#: admin/settings/nasa_05_type_heading.php:306
+#: admin/settings/nasa_05_type_heading.php:307
+msgid "Font Icons"
+msgstr "אייקוני גופן"
+
+#: admin/functions/functions.admin.php:1115
+msgid "Font Nasa icons"
+msgstr "אייקוני גופן Nasa"
+
+#: admin/settings/nasa_05_type_heading.php:21
+#: admin/settings/nasa_05_type_heading.php:22
+msgid "Font Options"
+msgstr "אפשרויות גופן"
+
+#: admin/settings/nasa_05_type_heading.php:257
+#: admin/settings/nasa_05_type_heading.php:258
+msgid "Font Size"
+msgstr "גודל גופן"
+
+#: admin/classes/class.options_machine.php:346
+msgid "Font size"
+msgstr "גודל גופן"
+
+#: admin/settings/nasa_05_type_heading.php:264
+msgid "Font Size (px)"
+msgstr "גודל גופן (px)"
+
+#: admin/settings/nasa_05_type_heading.php:285
+msgid "Font Size (px) - Mobile"
+msgstr "גודל גופן (px) - נייד"
+
+#: cores/nasa-theme-options.php:49
+#| msgid "Font Size Tilte"
+msgid "Font Size Title"
+msgstr "גודל גופן הטיה"
+
+#: admin/settings/nasa_05_type_heading.php:242
+msgid "Font Weight"
+msgstr "משקל גופן"
+
+#: admin/functions/functions.admin.php:1121
+msgid "Fontawesome icons"
+msgstr "אייקונים מדהימים"
+
+#: admin/theme-admin.php:361
+msgid "Footer"
+msgstr "כותרת תחתונה"
+
+#: admin/settings/nasa_03_2_footer_heading.php:28
+msgid "Footer Built-In Support (Widgets Builder)"
+msgstr "תמיכה מובנית בכותרת תחתונה (בונה יישומונים)"
+
+#: options/nasa-options.php:1458
+msgid "Footer Dark ( No.1 )"
+msgstr "כותרת תחתונה כהה ( מס' 1 )"
+
+#: options/nasa-options.php:1467
+msgid "Footer Dark ( No.2 )"
+msgstr "כותרת תחתונה כהה ( מס' 2 )"
+
+#: admin/settings/nasa_03_2_footer_heading.php:12
+msgid "Footer Global"
+msgstr "כותרת תחתונה גלובלית"
+
+#: admin/settings/nasa_03_2_footer_heading.php:60
+#: admin/settings/nasa_03_2_footer_heading.php:112
+#: admin/settings/nasa_03_2_footer_heading.php:155
+msgid "Footer Layout"
+msgstr "פריסת כותרת תחתונה"
+
+#: options/nasa-options.php:1320
+msgid "Footer Light 1 ( No.1 )"
+msgstr "כותרת תחתונה 1 ( מס' 1 )"
+
+#: options/nasa-options.php:1329
+msgid "Footer Light 1 ( No.2 )"
+msgstr "כותרת תחתונה 1 ( מס' 2 )"
+
+#: options/nasa-options.php:1338
+msgid "Footer Light 1 ( No.3 )"
+msgstr "כותרת תחתונה 1 ( מס' 3 )"
+
+#: options/nasa-options.php:1347
+msgid "Footer Light 1 ( No.4 )"
+msgstr "כותרת תחתונה 1 ( מס' 4 )"
+
+#: options/nasa-options.php:1356
+msgid "Footer Light 1 ( No.5 )"
+msgstr "כותרת תחתונה 1 ( מס' 5 )"
+
+#: options/nasa-options.php:1365
+msgid "Footer Light 1 ( No.6 )"
+msgstr "כותרת תחתונה 1 ( מס' 6 )"
+
+#: options/nasa-options.php:1375
+msgid "Footer Light 2 ( No.1 )"
+msgstr "כותרת תחתונה 2 ( מס' 1 )"
+
+#: options/nasa-options.php:1384
+msgid "Footer Light 2 ( No.2 )"
+msgstr "כותרת תחתונה 2 ( מס' 2 )"
+
+#: options/nasa-options.php:1393
+msgid "Footer Light 2 ( No.3 )"
+msgstr "כותרת תחתונה 2 ( מס' 3 )"
+
+#: options/nasa-options.php:1402
+msgid "Footer Light 2 ( No.4 )"
+msgstr "כותרת תחתונה 2 ( מס' 4 )"
+
+#: options/nasa-options.php:1411
+msgid "Footer Light 2 ( No.5 )"
+msgstr "כותרת תחתונה 2 ( מס' 5 )"
+
+#: options/nasa-options.php:1420
+msgid "Footer Light 2 ( No.6 )"
+msgstr "כותרת תחתונה 2 ( מס' 6 )"
+
+#: options/nasa-options.php:1429
+msgid "Footer Light 2 ( No.7 )"
+msgstr "כותרת תחתונה 2 ( מס' 7 )"
+
+#: options/nasa-options.php:1439
+msgid "Footer Light 3 ( No.1 )"
+msgstr "כותרת תחתונה 3 ( מס' 1 )"
+
+#: options/nasa-options.php:1448
+msgid "Footer Light 3 ( No.2 )"
+msgstr "כותרת תחתונה 3 ( מס' 2 )"
+
+#: options/nasa-options.php:1477
+msgid "Footer Mobile"
+msgstr "כותרת תחתונה לנייד"
+
+#: admin/settings/nasa_03_2_footer_heading.php:80
+#: admin/settings/nasa_03_2_footer_heading.php:129
+#: admin/settings/nasa_03_2_footer_heading.php:172
+msgid "Footer Mobile Layout"
+msgstr "פריסת כותרת תחתונה לנייד"
+
+#: admin/settings/nasa_03_2_footer_heading.php:18
+#: admin/settings/nasa_03_2_footer_heading.php:19
+msgid "Footer Options"
+msgstr "אפשרויות כותרת תחתונה"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:205
+#: admin/settings/nasa_07_3_product_detail_heading.php:206
+msgid "Form Options"
+msgstr "אפשרויות טפסים"
+
+#: admin/settings/nasa_03_1_header_heading.php:582
+#| msgid "Format Currency - Only for WPML"
+msgid "Format Currency - Only Apply for WPML"
+msgstr "פורמט מטבע - הגש רק בקשה ל-WPML"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:295
+msgid "Free Shipping Bar - WooCommerce Advanced Free Shipping"
+msgstr "בר משלוח חינם - WooCommerce משלוח חינם מתקדם"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:290
+msgid "Full"
+msgstr "מלא"
+
+#: admin/settings/nasa_03_1_header_heading.php:701
+#: admin/settings/nasa_09_promo_popup_heading.php:100
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: cores/nasa-theme-options.php:37
+msgid "Full width to left"
+msgstr "רוחב מלא לשמאל"
+
+#: cores/nasa-theme-options.php:38
+msgid "Full width to right"
+msgstr "רוחב מלא לימין"
+
+#: cores/nasa-theme-options.php:21
+msgid "Fullwidth ?"
+msgstr "רוחב מלא ?"
+
+#: admin/settings/nasa_03_1_header_heading.php:176
+msgid "Fullwidth Main Menu"
+msgstr "תפריט ראשי ברוחב מלא"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:59
+msgid "Gallery - Carousel"
+msgstr "גלריה - קרוסלה"
+
+#: admin/settings/nasa_01_general_heading.php:273
+msgid "GDPR Notice"
+msgstr "הודעת GDPR"
+
+#: admin/settings/nasa_01_general_heading.php:267
+#: admin/settings/nasa_01_general_heading.php:268
+msgid "GDPR Options"
+msgstr "אפשרויות GDPR"
+
+#: admin/settings/nasa_01_general_heading.php:280
+msgid "GDPR Policies Link"
+msgstr "קישור למדיניות GDPR"
+
+#: cores/nasa-theme-footers.php:855
+#: admin/settings/nasa_01_general_heading.php:12
+msgid "General"
+msgstr "כללי"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:18
+#: admin/settings/nasa_06_breadcrumb_heading.php:19
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+#: admin/settings/nasa_01_general_heading.php:18
+#: admin/settings/nasa_01_general_heading.php:19
+msgid "General options"
+msgstr "אפשרויות כלליות"
+
+#: admin/classes/class.options_machine.php:377
+msgid "Georgia"
+msgstr "גאורגיה"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:20
+#: admin/settings/nasa_03_3_mobile_heading.php:21
+msgid "Global Options"
+msgstr "אפשרויות גלובליות"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:25
+msgid "Global Site"
+msgstr "אתר גלובלי"
+
+#: 404.php:22
+msgid "GO TO HOME"
+msgstr "לך הביתה"
+
+#: admin/importer/tpl-additional-homepage-data.php:15
+#: admin/importer/tpl-import-demo-data.php:166
+msgid "Go to Theme Options"
+msgstr "עבור אל אפשרויות ערכת נושא"
+
+#: woocommerce/single-product-reviews.php:147
+msgid "Good"
+msgstr "טוֹב"
+
+#: admin/settings/nasa_05_type_heading.php:35
+msgid "Google font"
+msgstr "גופן גוגל"
+
+#: admin/settings/nasa_01_general_heading.php:166
+msgid "Gray Effect"
+msgstr "אפקט אפור"
+
+#: admin/settings/nasa_01_general_heading.php:72
+msgid "Gray Mode"
+msgstr "מצב אפור"
+
+#: includes/nasa-login-register-form.php:52
+msgid "Great to have you back!"
+msgstr "נהדר שחזרת!"
+
+#: includes/nasa-login-register-form.php:114
+msgid "Great to see you here!"
+msgstr "נהדר לראות אותך כאן!"
+
+#: admin/settings/nasa_05_type_heading.php:201
+msgid "Greek"
+msgstr "יווני"
+
+#: admin/settings/nasa_05_type_heading.php:202
+msgid "Greek Extended"
+msgstr "יוונית מורחב"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:117
+#: admin/settings/nasa_08_blog_heading.php:55
+msgid "Grid"
+msgstr "רֶשֶׁת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:18
+#: admin/settings/nasa_07_1_product_global_heading.php:19
+msgid "Grid Products - Options"
+msgstr "מוצרי רשת - אפשרויות"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:264
+msgid "Grid Rows"
+msgstr "שורות רשת"
+
+#: includes/nasa-checkout-coupon-modern.php:19
+#: includes/nasa-mini-cart-add-coupon.php:61
+msgid "Have a coupon code?"
+msgstr "יש לך קוד קופון?"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "יש לך קופון?"
+
+#: admin/theme-admin.php:357
+msgid "Header"
+msgstr "כּוֹתֶרֶת"
+
+#: cores/nasa-theme-options.php:224 cores/nasa-theme-options.php:293
+msgid "Header Builder"
+msgstr "בונה כותרות"
+
+#: admin/settings/nasa_03_1_header_heading.php:85
+msgid "Header Elementor Builder"
+msgstr "Header Elementor Builder"
+
+#: admin/settings/nasa_03_1_header_heading.php:14
+msgid "Header Global"
+msgstr "כותרת גלובלית"
+
+#: cores/nasa-theme-options.php:220
+#: admin/settings/nasa_03_1_header_heading.php:398
+msgid "Header Icons"
+msgstr "סמלי כותרת"
+
+#: admin/settings/nasa_03_1_header_heading.php:408
+msgid "Header Icons - Sticky"
+msgstr "אייקוני כותרת - דביקים"
+
+#: cores/nasa-theme-options.php:223
+msgid "Header icons Cart | Wishlist | Compare"
+msgstr "סמלי כותרת עגלת | רשימת משאלות | לְהַשְׁווֹת"
+
+#: admin/settings/nasa_03_1_header_heading.php:418
+msgid "Header Icons Hover"
+msgstr "סמלי כותרת מרחפים"
+
+#: admin/settings/nasa_03_1_header_heading.php:428
+msgid "Header Icons Hover - Sticky"
+msgstr "סמל כותרת רחף - דביק"
+
+#: admin/settings/nasa_03_1_header_heading.php:45
+msgid "Header Layout"
+msgstr "פריסת כותרת"
+
+#: admin/settings/nasa_03_1_header_heading.php:20
+#: admin/settings/nasa_03_1_header_heading.php:21
+msgid "Header Options"
+msgstr "אפשרויות כותרת"
+
+#: cores/nasa-theme-options.php:289
+msgid "Header Search"
+msgstr "חיפוש כותרות"
+
+#: cores/nasa-theme-options.php:292
+msgid "Header search form"
+msgstr "טופס חיפוש כותרות"
+
+#: admin/settings/nasa_03_1_header_heading.php:64
+msgid "Header Theme Builder"
+msgstr "בונה ערכות נושא של כותרות"
+
+#: admin/settings/nasa_05_type_heading.php:41
+msgid "Heading fonts (H1, H2, H3, H4, H5, H6)"
+msgstr "גופני כותרות (H1, H2, H3, H4, H5, H6)"
+
+#: admin/settings/nasa_08_blog_heading.php:63
+msgid "Heading for Archive Page"
+msgstr "כותרת לדף ארכיון"
+
+#: admin/settings/nasa_08_blog_heading.php:70
+msgid "Heading for Blog Page"
+msgstr "הפנייה לדף הבלוג"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:105
+msgid "Height"
+msgstr "גוֹבַה"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:49
+msgid "Height - Logo"
+msgstr "גובה - לוגו"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:119
+msgid "Height - Mobile Logo"
+msgstr "גובה - לוגו נייד"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:84
+msgid "Height - Sticky Logo"
+msgstr "גובה - לוגו דביק"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:113
+msgid "Height For Mobile"
+msgstr "גובה לנייד"
+
+#: cores/nasa-woo-functions.php:123
+#, php-format
+msgid "Hello, %s!"
+msgstr "שלום, %s!"
+
+#: admin/classes/class.options_machine.php:381
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:137
+msgid "Hide \"View Cart\" Button in Mini Cart"
+msgstr "הסתר את כפתור \"הצג עגלה\" בעגלה מינית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:343
+msgid "Hide Additional Information Tab"
+msgstr "הסתר כרטיסיית מידע נוסף"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:358
+msgid "Hide categories empty product - Top Filter Categories"
+msgstr "הסתר קטגוריות מוצר ריק - קטגוריות סינון מובילות"
+
+#: widgets/wg-nasa-product-filter-price-list.php:52
+msgid "Hide decimal price"
+msgstr "הסתר מחיר עשרוני"
+
+#: widgets/wg-nasa-product-filter-variations.php:173
+msgid "Hide empty"
+msgstr "הסתר ריק"
+
+#: widgets/wg-nasa-product-categories.php:93
+msgid "Hide empty categories"
+msgstr "הסתר קטגוריות ריקות"
+
+#: widgets/wg-nasa-product-filter-price-list.php:47
+msgid "Hide empty price ranges"
+msgstr "הסתר טווחי מחירים ריקים"
+
+#: cores/nasa-theme-options.php:131
+msgid "Hide First Section ?"
+msgstr "להסתיר את הסעיף הראשון?"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:35
+msgid "Hide in Mobile (width site small less 640px OR Mobile Layout)"
+msgstr "הסתר בנייד (אתר ברוחב קטן פחות 640 פיקסלים או פריסת נייד)"
+
+#: cores/nasa-theme-functions.php:250 cores/nasa-theme-headers.php:1078
+#: includes/nasa-mobile-bottom-bar-app.php:44
+#: includes/nasa-mobile-bottom-bar-app.php:46
+#: includes/nasa-mobile-bottom-bar.php:44
+#: includes/nasa-mobile-bottom-bar.php:46
+msgid "Home"
+msgstr "בית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:109
+msgid "Horizontal"
+msgstr "אופקי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:46
+msgid "Hover - Product Card Styles - Effect"
+msgstr "רחף - סגנונות כרטיס מוצר - אפקט"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:182
+msgid "Hover Zoom Image"
+msgstr "רחף תמונה זום"
+
+#: admin/importer/wordpress-importer.php:1237
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"היי! העלה את קובץ ה-WordPress eXtended RSS (WXR) שלך ואנחנו נייבא את הפוסטים,"
+" הדפים, ההערות, השדות המותאמים אישית, הקטגוריות והתגים לאתר זה."
+
+#. URI of the theme
+msgid "https://elessi.nasatheme.com"
+msgstr "https://elessi.nasatheme.com"
+
+#. Author URI of the theme
+msgid "https://nasatheme.com"
+msgstr "https://nasatheme.com"
+
+#: cores/nasa-woo-actions.php:1185 cores/nasa-woo-actions.php:1208
+msgid "Hurry up! Sale end in:"
+msgstr "הזדרז! המכירה מסתיימת ב:"
+
+#: includes/nasa-age-verification.php:22
+msgid "I am 18 or older"
+msgstr "אני בן 18 ומעלה"
+
+#: includes/nasa-age-verification.php:26
+msgid "I am under 18"
+msgstr "אני מתחת לגיל 18"
+
+#: searchform.php:41 searchform.php:132
+msgid "I'm shopping for ..."
+msgstr "אני קונה עבור..."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:128
+msgid "Icon Add To Cart in Grid"
+msgstr "סמל הוסף לעגלה ברשת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:169
+msgid "Icon Mini Cart in Header"
+msgstr "סמל מיני עגלה בכותרת"
+
+#: admin/importer/wordpress-importer.php:301
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"אם משתמש חדש נוצר על ידי וורדפרס, סיסמה חדשה תיווצר באופן אקראי ותפקיד "
+"המשתמש החדש יוגדר כ-%s. יהיה צורך בשינוי ידני של פרטי המשתמש החדש."
+
+#: admin/settings/nasa_03_1_header_heading.php:469
+msgid "If Turn on, the live search Ajax feature will be lost"
+msgstr "אם הפעל, תכונת החיפוש החי Ajax תאבד"
+
+#: woocommerce/checkout/form-coupon.php:22
+msgid "If you have a coupon code, please apply it below."
+msgstr "אם יש לך קוד קופון, נא להחיל אותו למטה."
+
+#: woocommerce/checkout/form-login.php:25
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+"אם קניתם אצלנו בעבר, אנא הכנס את הפרטים שלך למטה. אם אתה לקוח חדש, המשך לקטע "
+"חיוב."
+
+#: admin/settings/nasa_01_general_heading.php:221
+msgid ""
+"If you skip this field notification will be default \"😁😁 Come back! | "
+"❤️‍🔥❤️‍🔥 Don't forget this ...\". If you want to add more notifications, you "
+"just need to add \"|\" between notifications."
+msgstr ""
+"אם תדלג על שדה זה, הודעת ברירת המחדל \"😁😁 Come back! | ❤️‍🔥❤️‍🔥 Don't forget "
+"this ...\". אם אתה רוצה להוסיף התראות, אתה רק צריך להוסיף \"|\" בין הודעות."
+
+#: cores/nasa-theme-options.php:279 cores/nasa-theme-options.php:299
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"אם ברצונך לעצב רכיב תוכן מסוים בצורה שונה, השתמש בשדה זה כדי להוסיף שם מחלקה "
+"ולאחר מכן עיין בו בקובץ css שלך."
+
+#: cores/nasa-theme-options.php:196 cores/nasa-theme-options.php:208
+msgid "Ignore on Mobile"
+msgstr "התעלם בנייד"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:502
+msgid "Image Product - Checkout Page"
+msgstr "מוצר תמונה - דף קופה"
+
+#: admin/classes/class.options_machine.php:1107
+msgid "Image URL"
+msgstr "כתובת אתר של תמונה"
+
+#: archive.php:87
+msgid "Images"
+msgstr "תמונות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:75
+msgid "Images Columns"
+msgstr "עמודות תמונות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:89
+msgid "Images Style"
+msgstr "סגנון תמונות"
+
+#: admin/importer/wordpress-importer.php:311
+msgid "Import Attachments"
+msgstr "ייבוא ​​קבצים מצורפים"
+
+#: admin/importer/wordpress-importer.php:331
+msgid "Import author:"
+msgstr "מחבר ייבוא:"
+
+#: admin/importer/tpl-import-demo-data.php:140
+msgid "Import Data (Media, Posts, Products, Categories...)"
+msgstr "ייבוא ​​נתונים (מדיה, פוסטים, מוצרים, קטגוריות...)"
+
+#: admin/importer/tpl-import-demo-data.php:146
+msgid "Import Homes"
+msgstr "ייבוא ​​בתים"
+
+#: admin/importer/nasa-importer.php:32 admin/importer/nasa-importer.php:33
+msgid "Import More Demos"
+msgstr "ייבא הדגמות נוספות"
+
+#: admin/classes/class.options_machine.php:674
+msgid "Import Options"
+msgstr "אפשרויות ייבוא"
+
+#: admin/importer/tpl-import-demo-data.php:149
+msgid "Import Sliders"
+msgstr "ייבוא ​​סליידרים"
+
+#: admin/importer/tpl-import-demo-data.php:143
+msgid "Import Widgets Sidebars"
+msgstr "ייבוא ​​סרגלי צד של ווידג'טים"
+
+#: admin/importer/wordpress-importer.php:1215
+msgid "Import WordPress"
+msgstr "ייבוא ​​וורדפרס"
+
+#: admin/importer/tpl-homepage-list.php:17
+msgid "Imported!"
+msgstr "מְיוֹבָּא!"
+
+#: admin/settings/nasa_03_1_header_heading.php:294
+msgid "In Group Icons - Header"
+msgstr "בסמלים של הקבוצה - כותרת"
+
+#: includes/nasa-gdpr-notice.php:12
+msgid ""
+"In order to provide you a personalized shopping experience, our site uses "
+"cookies. By continuing to use this site, you are agreeing to our"
+msgstr ""
+"על מנת לספק לך חווית קנייה מותאמת אישית, האתר שלנו משתמש בעוגיות. על ידי "
+"המשך השימוש באתר זה, אתה מסכים לנו"
+
+#: widgets/wg-nasa-product-filter-status.php:50
+#: widgets/wg-nasa-product-filter-status.php:290
+#: widgets/wg-nasa-product-filter-status.php:290
+msgid "In Stock"
+msgstr "במלאי"
+
+#: includes/nasa-combo-products-quickview.php:37
+msgid "In stock"
+msgstr "במלאי"
+
+#: admin/settings/nasa_03_1_header_heading.php:293
+msgid "In Topbar - Header"
+msgstr "ב-Topbar - כותרת"
+
+#: admin/settings/nasa_01_general_heading.php:211
+msgid "Inactive Tab"
+msgstr "כרטיסייה לא פעילה"
+
+#: admin/settings/nasa_01_general_heading.php:219
+msgid "Inactive Tab Notification Content"
+msgstr "תוכן התראה בכרטיסייה לא פעילה"
+
+#: admin/settings/nasa_01_general_heading.php:330
+msgid "Include Theme Version when call css files"
+msgstr "כלול את גרסת העיצוב בעת קריאת קבצי css"
+
+#: admin/settings/nasa_01_general_heading.php:337
+msgid "Include Theme Version when call js files"
+msgstr "כלול את גרסת העיצוב בעת קריאת קבצי js"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:291
+msgid "Infinite - Only using for Ajax"
+msgstr "Infinite - משתמש רק עבור Ajax"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:614
+#: admin/settings/nasa_07_3_product_detail_heading.php:151
+#: admin/settings/nasa_07_3_product_detail_heading.php:534
+msgid "Infinite Slide"
+msgstr "שקופית אינסופית"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:558
+msgid "Infinite Slide In Quickview"
+msgstr "Infinite Slide In Quickview"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:126
+msgid "Infomations Columns"
+msgstr "עמודות מידע"
+
+#: includes/nasa-checkout-modern.php:59
+msgid "INFORMATION"
+msgstr "מֵידָע"
+
+#: admin/settings/nasa_04_style_color_heading.php:185
+msgid "Inputs Radius"
+msgstr "רדיוס כניסות"
+
+#: admin/classes/class-tgm-plugin-activation.php:2769
+msgid "Install"
+msgstr "להתקין"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Install %2$s"
+msgstr "התקן %2$s"
+
+#: admin/importer/tpl-import-demo-data.php:133
+msgid "Install Elessi Theme - Child"
+msgstr "התקן את Elessi Theme - Child"
+
+#: admin/classes/class-tgm-plugin-activation.php:335
+#: admin/importer/tpl-import-demo-data.php:136
+msgid "Install Plugins"
+msgstr "התקן פלאגינים"
+
+#: admin/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "התקן פלאגינים נדרשים"
+
+#. 1: install status, 2: update status
+#: admin/classes/class-tgm-plugin-activation.php:2411
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2390
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא הופעל"
+
+#: admin/classes/class-tgm-plugin-activation.php:2549
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנה והפעלה של הפלאגין %1$s (%2$d/%3$d)"
+
+#: admin/importer/auto-install-plugins.php:63
+msgid "Installing Plugin"
+msgstr "מתקין פלאגין"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "מתקין את הפלאגין %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "מתקין פלאגין: %s"
+
+#: admin/importer/wordpress-importer.php:1025
+msgid "Invalid file type"
+msgstr "סוג קובץ לא תקין"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:271
+msgid "Isotope Layout Mode"
+msgstr "מצב פריסת איזוטופ"
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "נראה שאיננו יכולים למצוא את מה שאתה מחפש. אולי חיפוש יכול לעזור."
+
+#: admin/classes/class.options_machine.php:396
+msgid "Italic"
+msgstr "נטוי"
+
+#: includes/nasa-combo-products.php:14
+msgid "Items"
+msgstr "פריטים"
+
+#: includes/nasa-combo-products-quickview.php:14
+msgid "items"
+msgstr "פריטים"
+
+#: admin/settings/nasa_03_1_header_heading.php:565
+msgid "Languages Switcher"
+msgstr "מחליף שפות"
+
+#: cores/nasa-theme-options.php:54
+msgid "Large"
+msgstr "גָדוֹל"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:72
+msgid "Large Spacing"
+msgstr "מרווח גדול"
+
+#: admin/classes/class.options_machine.php:663
+msgid "Last Backup : "
+msgstr "גיבוי אחרון:"
+
+#: cores/nasa-woo-functions.php:1881
+msgid "Latest"
+msgstr "הכי מאוחר"
+
+#: admin/settings/nasa_05_type_heading.php:196
+msgid "Latin"
+msgstr "לָטִינִית"
+
+#: admin/settings/nasa_05_type_heading.php:197
+msgid "Latin Extended"
+msgstr "לטינית מורחב"
+
+#: cores/nasa-theme-options.php:107
+#: admin/settings/nasa_06_breadcrumb_heading.php:34
+#: admin/settings/nasa_07_4_product_compare_heading.php:27
+msgid "Layout"
+msgstr "מַעֲרָך"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:18
+msgid "Layout Option"
+msgstr "אפשרות פריסה"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:19
+msgid "Layout Options"
+msgstr "אפשרויות פריסה"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:35
+msgid "Layout Single or Double rows."
+msgstr "פריסה שורות בודדות או כפולות."
+
+#: admin/settings/nasa_07_2_product_page_heading.php:259
+msgid "Layout Style"
+msgstr "סגנון פריסה"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:107
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "השאירו תגובה ל-%s"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:99
+#: admin/settings/nasa_07_3_product_detail_heading.php:313
+msgid "Left"
+msgstr "שמאלה"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:30
+#: admin/settings/nasa_07_5_dokan_heading.php:37
+#: admin/settings/nasa_08_blog_heading.php:29
+#: admin/settings/nasa_08_blog_heading.php:41
+msgid "Left Sidebar"
+msgstr "סרגל צד שמאל"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:35
+msgid "Left Sidebar - Classic"
+msgstr "סרגל צד שמאל - קלאסי"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:33
+msgid "Left Sidebar - Off-canvas"
+msgstr "סרגל צד שמאלי - מחוץ לקנבס"
+
+#: admin/settings/nasa_03_1_header_heading.php:453
+#: admin/settings/nasa_07_1_product_global_heading.php:57
+msgid "Left To Right"
+msgstr "משמאל לימין"
+
+#: woocommerce/archive-product.php:182
+msgid "Less -"
+msgstr "פחות -"
+
+#: admin/importer/tpl-import-demo-data.php:100
+msgid ""
+"Let's choose the homepage layout that you want to use on your website and "
+"click on the Start Import button."
+msgstr ""
+"בוא נבחר את פריסת דף הבית שבה תרצה להשתמש באתר האינטרנט שלך ולחץ על כפתור "
+"התחל ייבוא."
+
+#: includes/nasa-mini-compare.php:71
+msgid "Let's Compare!"
+msgstr "בואו נשווה!"
+
+#: admin/importer/tpl-import-demo-data.php:62
+msgid "Let's install some essential WordPress plugins to set up your site."
+msgstr "בואו נתקין כמה תוספים חיוניים של וורדפרס כדי להגדיר את האתר שלך."
+
+#: admin/settings/nasa_03_3_mobile_heading.php:54
+#: admin/settings/nasa_07_1_product_global_heading.php:282
+#: admin/settings/nasa_07_4_product_compare_heading.php:102
+msgid "Light"
+msgstr "אוֹר"
+
+#: admin/settings/nasa_01_general_heading.php:70
+msgid "Light Mode"
+msgstr "מצב אור"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:190
+msgid "Lightbox Image"
+msgstr "תמונת Lightbox"
+
+#: admin/settings/nasa_03_1_header_heading.php:672
+msgid "Limit Posts"
+msgstr "הגבל פוסטים"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:244
+msgid "Limit Products Per Page"
+msgstr "הגבלת מוצרים לכל עמוד"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:66
+msgid "Limit widgets to show more. (Input \"All\" will be show all widgets)"
+msgstr "הגבל ווידג'טים כדי להציג יותר. (הקלט \"הכל\" יציג את כל הווידג'טים)"
+
+#: woocommerce/loop/sale-flash.php:77
+#: woocommerce/single-product/sale-flash.php:78
+msgid "Limited"
+msgstr "מוגבל"
+
+#: admin/classes/class.options_machine.php:1125
+msgid "Link URL (optional)"
+msgstr "כתובת אתר של קישור (אופציונלי)"
+
+#: archive.php:96
+msgid "Links"
+msgstr "קישורים"
+
+#: includes/nasa-change-view.php:322 includes/nasa-change-view.php:325
+#: admin/settings/nasa_07_2_product_page_heading.php:118
+#: admin/settings/nasa_07_2_product_page_heading.php:192
+#: admin/settings/nasa_08_blog_heading.php:54
+msgid "List"
+msgstr "רשימה"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:119
+msgid "List - 2 Columns"
+msgstr "רשימה - 2 עמודות"
+
+#: includes/nasa-change-view.php:310
+msgid "List 2"
+msgstr "רשימה 2"
+
+#: includes/nasa-change-view.php:307
+#: admin/settings/nasa_07_2_product_page_heading.php:193
+msgid "List 2 Columns"
+msgstr "רשום 2 עמודות"
+
+#: admin/settings/nasa_01_general_heading.php:320
+msgid "List Files JS Delay - Delay JavaScript Execution"
+msgstr "רשימת קבצים JS Delay - עיכוב ביצוע JavaScript"
+
+#: admin/settings/nasa_03_1_header_heading.php:474
+msgid "Live Search Ajax Products"
+msgstr "חיפוש חי של מוצרי Ajax"
+
+#: admin/settings/nasa_03_1_header_heading.php:497
+msgid "Live Search Layout - (Header type 1, 2, 5, 7)"
+msgstr "פריסת חיפוש חי - (סוג כותרת 1, 2, 5, 7)"
+
+#: admin/settings/nasa_01_general_heading.php:295
+msgid "Load Css Canvas"
+msgstr "טען Css Canvas"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:292
+msgid "Load More - Only using for Ajax"
+msgstr "טען עוד - משתמש רק עבור Ajax"
+
+#: woocommerce/loop/pagination.php:61
+msgid "LOAD MORE ..."
+msgstr "טען עוד..."
+
+#: woocommerce/global/form-login.php:52
+msgid "Login"
+msgstr "התחברות"
+
+#: cores/nasa-theme-headers.php:334 cores/nasa-theme-headers.php:477
+#: cores/nasa-woo-functions.php:85 cores/nasa-woo-functions.php:85
+msgid "Login / Register"
+msgstr "התחבר / הרשמה"
+
+#: page-my-account.php:33
+msgid "Login/Register"
+msgstr "כניסה/הרשמה"
+
+#: admin/settings/nasa_03_1_header_heading.php:281
+msgid "Login/Register by Ajax form"
+msgstr "התחברות/הרשמה באמצעות טופס Ajax"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:28
+msgid "Logo"
+msgstr "סֵמֶל"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:15
+msgid "Logo and Favicon"
+msgstr "לוגו ו- Favicon"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:21
+#: admin/settings/nasa_02_logo_icon_heading.php:22
+msgid "Logo Options"
+msgstr "אפשרויות לוגו"
+
+#: woocommerce/global/form-login.php:45
+msgid "Lost your password?"
+msgstr "איבדת את הסיסמה שלך?"
+
+#: includes/nasa-login-register-form.php:81
+msgid "Lost?"
+msgstr "אָבֵד?"
+
+#: admin/settings/nasa_08_blog_heading.php:184
+msgid "Main Image"
+msgstr "תמונה ראשית"
+
+#: functions.php:101
+msgid "Main Menu"
+msgstr "תפריט ראשי"
+
+#: admin/settings/nasa_03_1_header_heading.php:167
+msgid "Main Menu > Vertical Menu"
+msgstr "תפריט ראשי > תפריט אנכי"
+
+#: admin/settings/nasa_03_1_header_heading.php:186
+msgid "Main Menu Background Color"
+msgstr "תפריט ראשי צבע רקע"
+
+#: admin/settings/nasa_03_1_header_heading.php:196
+msgid "Main Menu Background Color - Sticky"
+msgstr "תפריט ראשי צבע רקע - דביק"
+
+#: admin/settings/nasa_03_1_header_heading.php:206
+msgid "Main Menu Text Color"
+msgstr "תפריט ראשי צבע טקסט"
+
+#: admin/settings/nasa_03_1_header_heading.php:216
+msgid "Main Menu Text Color - Sticky"
+msgstr "תפריט ראשי צבע טקסט - דביק"
+
+#: admin/settings/nasa_05_type_heading.php:101
+msgid "Main navigation"
+msgstr "ניווט ראשי"
+
+#: page-checkout.php:70 page-checkout.php:93 page-shopping-cart.php:19
+#: page-shopping-cart.php:41
+msgid "Manage Your Items List"
+msgstr "נהל את רשימת הפריטים שלך"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:276
+msgid "Masonry"
+msgstr "בַּנָאוּת"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:265
+#: admin/settings/nasa_08_blog_heading.php:56
+msgid "Masonry Isotope"
+msgstr "איזוטופ בנייה"
+
+#: admin/settings/nasa_08_blog_heading.php:77
+#: admin/settings/nasa_08_blog_heading.php:78
+msgid "Masonry Isotope - Grid - Blog style"
+msgstr "איזוטופ בנייה - רשת - סגנון בלוג"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:332
+msgid "Max Depth Level - Top Filter Categories"
+msgstr "רמת עומק מקסימלית - קטגוריות סינון מובילות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:418
+msgid "Max files Comments Images upload"
+msgstr "מקסימום קבצים הערות העלאת תמונות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:443
+msgid "Max files Comments Video upload"
+msgstr "מקסימום קבצים הערות העלאת וידאו"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:56
+msgid "Max Height - Logo"
+msgstr "גובה מקסימלי - לוגו"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:91
+msgid "Max Height - Sticky Logo"
+msgstr "גובה מקסימלי - לוגו דביק"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:126
+msgid "Max Height Logo - Mobile"
+msgstr "לוגו מקס גובה - נייד"
+
+#: cores/nasa-woo-functions.php:2355
+#, php-format
+#| msgid "Max size allowed: %s kB"
+msgid "Max image size allowed: %s kB"
+msgstr "גודל מקסימלי מותר: %s kB"
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr "מחיר מקסימלי"
+
+#: widgets/wg-nasa-product-filter-price-list.php:42
+msgid "Max price ranges"
+msgstr "טווחי מחירים מקסימליים"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:50
+msgid "Max products compare"
+msgstr "מקס מוצרים להשוות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:427
+msgid "Max Size Comments Images upload (kb)"
+msgstr "גודל מקסימלי הערות העלאת תמונות (kb)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:452
+msgid "Max Size Comments Video upload (kb)"
+msgstr "גודל מקסימלי הערות העלאת וידאו (kb)"
+
+#: cores/nasa-woo-functions.php:2410
+#, php-format
+msgid "Max video size allowed: %s kB"
+msgstr "גודל וידאו מקסימלי מותר: %s kB"
+
+#: cores/nasa-woo-functions.php:2283
+#, php-format
+msgid "Maximum file size is %s kB, max %s file"
+msgid_plural "Maximum file size is %s kB, max %s files"
+msgstr[0] "גודל הקובץ המרבי הוא %s kB, מקסימום קובץ %s"
+msgstr[1] "גודל הקובץ המרבי הוא %s kB, מקסימום קובץ %s"
+
+#: cores/nasa-woo-functions.php:2237
+#, php-format
+msgid "Maximum file size is %s kB, max %s files"
+msgstr "גודל הקובץ המרבי הוא %s kB, מקסימום %s קבצים"
+
+#: cores/nasa-woo-functions.php:2329
+#, php-format
+#| msgid "Maximum number of files allowed is: %s file(s)"
+msgid "Maximum number of image files allowed is: %s file(s)"
+msgstr "המספר המרבי של קבצים המותר הוא: %s קבצים"
+
+#: cores/nasa-woo-functions.php:2384
+#, php-format
+msgid "Maximum number of video files allowed is: %s file(s)"
+msgstr "המספר המרבי של קבצי וידאו המותר הוא: %s קבצים"
+
+#: cores/nasa-theme-options.php:55
+msgid "Medium"
+msgstr "בינוני"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:71
+msgid "Medium Spacing"
+msgstr "מרווח בינוני"
+
+#: admin/settings/nasa_03_1_header_heading.php:117
+msgid "Menu Font Size (Desktop and Tablet)"
+msgstr "גודל גופן בתפריט (שולחן עבודה וטאבלט)"
+
+#: admin/importer/wordpress-importer.php:926
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "פריט תפריט דילג עקב שלב תפריט לא חוקי: %s"
+
+#: admin/importer/wordpress-importer.php:919
+msgid "Menu item skipped due to missing menu slug"
+msgstr "פריט תפריט דילג עקב תפריט חסר"
+
+#: cores/nasa-custom-wc-ajax.php:868
+msgid "Menu Map"
+msgstr "מפת תפריטים"
+
+#: admin/settings/nasa_03_1_header_heading.php:100
+#: admin/settings/nasa_03_1_header_heading.php:101
+msgid "Menu Options"
+msgstr "אפשרויות תפריט"
+
+#: admin/settings/nasa_08_blog_heading.php:121
+#: admin/settings/nasa_08_blog_heading.php:122
+msgid "Meta Info - Blog Style"
+msgstr "Meta Info - סגנון בלוג"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:391
+msgid "Meta Infomations (SKU, Categories, Tags, etc...)"
+msgstr "מידע מטא (מק\"ט, קטגוריות, תגים וכו'...)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:398
+msgid "Meta Infomations Position"
+msgstr "עמדת מטא מידע"
+
+#: cores/nasa-woo-actions.php:1552
+msgid "Method"
+msgstr "שיטה"
+
+#: woocommerce/content-widget-price-filter.php:26
+msgid "Min price"
+msgstr "מחיר מינימלי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:224
+msgid "Mini Cart - Change variation in mini cart"
+msgstr "מיני עגלה - שנה וריאציה בעגלה מיני"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:246
+msgid "Mini Cart - Coupon"
+msgstr "מיני עגלה - קופון"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:232
+msgid "Mini Cart - Note"
+msgstr "מיני עגלה - הערה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:163
+#: admin/settings/nasa_07_1_product_global_heading.php:164
+msgid "Mini Cart - Options"
+msgstr "מיני עגלה - אפשרויות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:239
+msgid "Mini Cart - Shipping"
+msgstr "מיני עגלה - משלוח"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:132
+msgid "Mini Cart - Simple"
+msgstr "מיני עגלה - פשוטה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:215
+msgid "Mini Cart - You may be interested in…"
+msgstr "מיני עגלה - אולי יעניין אותך..."
+
+#: admin/settings/nasa_05_type_heading.php:321
+msgid "Minify Fonts Icons"
+msgstr "הקטנת סמלים של גופנים"
+
+#: admin/classes/class-tgm-plugin-activation.php:2555
+msgid "Minimum required version:"
+msgstr "מינימום גרסה נדרשת:"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:69
+msgid "Mobile Bottom Bar"
+msgstr "סרגל תחתון נייד"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:76
+msgid "Mobile Bottom Bar Content"
+msgstr "תוכן סרגל תחתון לנייד"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:60
+#: admin/settings/nasa_03_3_mobile_heading.php:61
+msgid "Mobile Bottom Bar Options"
+msgstr "אפשרויות סרגל תחתון נייד"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:595
+#: admin/settings/nasa_07_2_product_page_heading.php:221
+msgid "Mobile Columns"
+msgstr "עמודות ניידות"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:14
+msgid "Mobile Layout"
+msgstr "פריסה ניידת"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:36
+msgid "Mobile Layout Mode"
+msgstr "מצב פריסה נייד"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:105
+msgid "Mobile Logo"
+msgstr "לוגו נייד"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:98
+#: admin/settings/nasa_02_logo_icon_heading.php:99
+msgid "Mobile Logo Options"
+msgstr "אפשרויות לוגו נייד"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:49
+msgid "Mobile Menu Layout"
+msgstr "פריסת תפריט נייד"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:126
+#: admin/settings/nasa_03_3_mobile_heading.php:127
+msgid "Mobile Mini Cart Options"
+msgstr "אפשרויות עגלת מיני ניידת"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:91
+#: admin/settings/nasa_03_3_mobile_heading.php:92
+msgid "Mobile Single Product Options"
+msgstr "אפשרויות מוצר בודד לנייד"
+
+#: admin/settings/nasa_03_2_footer_heading.php:48
+msgid "Mode"
+msgstr "מצב"
+
+#: admin/settings/nasa_03_1_header_heading.php:503
+msgid "Modern"
+msgstr "מוֹדֶרנִי"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:33
+msgid "Modern - As demo Site"
+msgstr "מודרני - כאתר הדגמה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:478
+msgid "Modern - No Header, No Footer"
+msgstr "מודרני - ללא כותרת עליונה, ללא כותרת תחתונה"
+
+#: archive.php:78
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "ארכיון חודשי: %s"
+
+#: woocommerce/archive-product.php:181
+msgid "More +"
+msgstr "עוד +"
+
+#: options/nasa-options.php:779
+msgid "More Results"
+msgstr "עוד תוצאות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:53
+msgid "Move To Top"
+msgstr "העבר למעלה"
+
+#: cores/nasa-theme-headers.php:334 cores/nasa-theme-headers.php:477
+#: cores/nasa-woo-functions.php:97 cores/nasa-woo-functions.php:97
+#: woocommerce/checkout/thankyou.php:35
+msgid "My Account"
+msgstr "החשבון שלי"
+
+#: cores/nasa-theme-footers.php:342
+msgid "My Cart"
+msgstr "העגלה שלי"
+
+#: cores/nasa-custom-wc-ajax.php:1097 woocommerce/single-product/meta.php:25
+msgid "N/A"
+msgstr "לא"
+
+#: widgets/wg-nasa-product-categories.php:72
+#: woocommerce/single-product-reviews.php:112
+#: woocommerce/single-product-reviews.php:113
+#: admin/settings/nasa_07_1_product_global_heading.php:352
+msgid "Name"
+msgstr "שֵׁם"
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Name *"
+msgstr "שם*"
+
+#: widgets/wg-nasa-product-filter-price.php:31
+msgid "Nasa - Filter Product by Price (slide)"
+msgstr "Nasa - סינון מוצר לפי מחיר (שקופית)"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:103
+msgid "Nasa - Product Categories in Sidebar Off-Canvas of Mobile layout"
+msgstr "Nasa - קטגוריות מוצרים בסרגל הצד מחוץ לקנבס של פריסת מובייל"
+
+#: widgets/wg-nasa-recent-posts.php:20
+msgid "Nasa widget displays recent posts"
+msgstr "יישומון נאסא מציג פוסטים אחרונים"
+
+#. Author of the theme
+msgid "NasaTheme"
+msgstr "NasaTheme"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:90
+msgid "NasaTheme Wishlist Feature"
+msgstr "תכונת משאלות NasaTheme"
+
+#: includes/nasa-mini-cart-add-coupon.php:34
+msgid "Never expire"
+msgstr "לעולם אל תפוג"
+
+#: woocommerce/loop/sale-flash.php:42
+#: woocommerce/single-product/sale-flash.php:42
+msgid "New"
+msgstr "חָדָשׁ"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:396
+#| msgid "Badge - Automatically add Badge \"NEW\" for new products"
+msgid "New Badge - Automatically add Badge \"NEW\" for new products"
+msgstr "תג חדש - הוסף אוטומטית את התג \"חדש\" עבור מוצרים חדשים"
+
+#: admin/settings/nasa_04_style_color_heading.php:54
+msgid "New Badge Color"
+msgstr "צבע תג חדש"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "&rarr;תגובות חדשות יותר"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:21
+#: admin/settings/nasa_09_promo_popup_heading.php:22
+#: admin/settings/nasa_09_promo_popup_heading.php:28
+msgid "Newsletter"
+msgstr "ניוזלטר"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:15
+msgid "Newsletter Popup"
+msgstr "ניוזלטר קופץ"
+
+#: cores/nasa-theme-functions.php:1389
+msgid "NEXT"
+msgstr "הַבָּא"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:156
+#: dokan/nasa-store-lists-loop-grid-2.php:162
+#: dokan/nasa-store-lists-loop-list-1.php:158
+#: dokan/nasa-store-lists-loop-list-2.php:152
+#: dokan/nasa-store-lists-loop-list-3.php:178 dokan/store-lists-loop.php:122
+msgid "Next &rarr;"
+msgstr "&rarr; הבא"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Next (arrow right)"
+msgstr "הבא (חץ ימינה)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:377
+msgid "Next - Previous Product"
+msgstr "הבא - מוצר קודם"
+
+#: cores/nasa-theme-functions.php:1247
+msgid "Next <span class=\"fa fa-caret-right\"></span>"
+msgstr "<span class=\"fa fa-caret-right\"></span>הַבָּא"
+
+#: image.php:102
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> הבא"
+
+#: cores/nasa-theme-options.php:233 cores/nasa-theme-options.php:245
+#: cores/nasa-theme-options.php:257 cores/nasa-theme-options.php:269
+#: admin/settings/nasa_03_1_header_heading.php:275
+#: admin/settings/nasa_07_1_product_global_heading.php:384
+#: admin/settings/nasa_07_1_product_global_heading.php:518
+#: admin/settings/nasa_07_2_product_page_heading.php:301
+msgid "No"
+msgstr "לא"
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא ננקטה פעולה. הפלאגין %1$s כבר היה פעיל."
+
+#: admin/classes/class.options_machine.php:659
+msgid "No backups yet."
+msgstr "עדיין אין גיבויים."
+
+#: admin/settings/nasa_03_1_header_heading.php:455
+#: admin/settings/nasa_07_1_product_global_heading.php:60
+msgid "No Effect"
+msgstr "ללא השפעה"
+
+#: admin/classes/class-tgm-plugin-activation.php:2987
+msgid "No plugins are available to be activated at this time."
+msgstr "אין פלאגינים זמינים להפעלה בשלב זה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2850
+msgid "No plugins are available to be installed at this time."
+msgstr "אין פלאגינים זמינים להתקנה בשלב זה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins are available to be updated at this time."
+msgstr "אין פלאגינים זמינים לעדכון בשלב זה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2587
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, עדכון או הפעלה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2960
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא ננקטו כל פעולה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2809
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו תוספים להתקנה. לא ננקטה פעולה."
+
+#: admin/classes/class-tgm-plugin-activation.php:2810
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. לא ננקטה פעולה."
+
+#: includes/nasa-view-compare.php:125
+msgid "No product added to compare !"
+msgstr "לא נוסף מוצר להשוואה!"
+
+#: cores/nasa-woo-functions.php:1555 widgets/wg-nasa-product-brands.php:251
+#: widgets/wg-nasa-product-categories.php:451
+msgid "No product categories exist."
+msgstr "לא קיימות קטגוריות מוצרים."
+
+#: woocommerce/cart/mini-cart.php:211
+msgid "No products in the cart."
+msgstr "אין מוצרים בעגלה."
+
+#: includes/nasa-sidebar-wishlist_content.php:92
+#: includes/nasa-sidebar-wishlist_content.php:213
+#: includes/nasa-sidebar-wishlist_html.php:96
+msgid "No products in the wishlist."
+msgstr "אין מוצרים ברשימת המשאלות."
+
+#: woocommerce/loop/no-products-found.php:19
+msgid "No products were found matching your selection."
+msgstr "לא נמצאו מוצרים התואמים לבחירה שלך."
+
+#: dokan/store.php:101
+msgid "No products were found of this vendor!"
+msgstr "לא נמצאו מוצרים של ספק זה!"
+
+#: cores/nasa-wc-checkout-ext.php:103
+msgid ""
+"No shipping method has been selected. Please double check your address, or "
+"contact us if you need any help."
+msgstr ""
+"לא נבחרה שיטת משלוח. אנא בדוק שוב את הכתובת שלך, או צור איתנו קשר אם אתה "
+"זקוק לעזרה כלשהי."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:93
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "לא נמצאו אפשרויות משלוח עבור %s."
+
+#: admin/settings/nasa_07_2_product_page_heading.php:37
+#: admin/settings/nasa_07_3_product_detail_heading.php:32
+#: admin/settings/nasa_07_5_dokan_heading.php:39
+msgid "No Sidebar"
+msgstr "אין סרגל צד"
+
+#: admin/settings/nasa_08_blog_heading.php:31
+#: admin/settings/nasa_08_blog_heading.php:43
+msgid "No Sidebar (Centered)"
+msgstr "ללא סרגל צד (ממורכז)"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:182
+#: dokan/nasa-store-lists-loop-grid-2.php:188
+#: dokan/nasa-store-lists-loop-list-1.php:184
+#: dokan/nasa-store-lists-loop-list-2.php:178
+#: dokan/nasa-store-lists-loop-list-3.php:204 dokan/store-lists-loop.php:148
+msgid "No vendor found!"
+msgstr "לא נמצא ספק!"
+
+#: cores/nasa-theme-options.php:36 admin/classes/class.options_machine.php:434
+#: admin/settings/nasa_01_general_heading.php:167
+msgid "None"
+msgstr "אף אחד"
+
+#: admin/classes/class.options_machine.php:395
+msgid "Normal"
+msgstr "נוֹרמָלִי"
+
+#: includes/nasa-login-register-form.php:101
+msgid "Not a member? "
+msgstr "לא חבר?"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "Not Found Products"
+msgstr "לא נמצאו מוצרים"
+
+#: admin/classes/class-tgm-plugin-activation.php:2386
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:32
+msgid ""
+"Not only is layout responsive, but also the theme uses the device detect "
+"technology to switch the web layout compatible on each type of user device"
+msgstr ""
+"לא רק שהפריסה מגיבה, אלא גם הנושא משתמש בטכנולוגיית זיהוי המכשיר כדי לשנות "
+"את פריסת האינטרנט תואמת בכל סוג של מכשיר משתמש"
+
+#: cores/nasa-theme-options.php:52
+msgid "Not Set"
+msgstr "לא מוכן"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:252
+msgid "Not Show"
+msgstr "לא הצג"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Not that bad"
+msgstr "לא כזה נורא"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:266
+msgid "Not use Mobile App - Simulator"
+msgstr "אין להשתמש באפליקציה לנייד - סימולטור"
+
+#: cores/nasa-woo-actions.php:2494 includes/nasa-mini-cart-note.php:20
+msgid "Note"
+msgstr "הערה"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:275
+msgid ""
+"Note: Consider disabling this feature if you are using a third-party plugin "
+"developed for the Add to Cart feature in the Single Product Page!"
+msgstr ""
+"הערה: שקול להשבית תכונה זו אם אתה משתמש בתוסף של צד שלישי שפותח עבור התכונה "
+"הוסף לעגלה בדף המוצר היחיד!"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:253
+msgid "Note: don't using for Sidebar Off-canvas and Toggle Sidebar Classic"
+msgstr "הערה: אל תשתמש עבור סרגל צד מחוץ לקנבס והחלפת סרגל צד קלאסי"
+
+#: admin/importer/tpl-import-demo-data.php:102
+msgid ""
+"Note: Images at demo are not included in the download package and they are "
+"replaced with placeholders in demo data."
+msgstr ""
+"הערה: תמונות בהדגמה אינן כלולות בחבילת ההורדה והן מוחלפות במצייני מקום "
+"בנתוני הדגמה."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:219
+msgid ""
+"Note: This feature does not apply to mobiles or devices with small screens"
+msgstr "הערה: תכונה זו אינה חלה על ניידים או מכשירים עם מסכים קטנים"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "שום דבר לא נמצא"
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:43
+msgid "Number Categories"
+msgstr "קטגוריות מספר"
+
+#: admin/settings/nasa_08_blog_heading.php:228
+msgid "Number for related blog"
+msgstr "מספר לבלוג קשור"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:482
+msgid "Number for related products"
+msgstr "מספר עבור מוצרים קשורים"
+
+#: widgets/wg-nasa-recent-posts.php:112
+msgid "Number of posts to show:"
+msgstr "מספר הפוסטים להצגה:"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:544
+msgid "Number Show Quickview Thumbnail"
+msgstr "מספר הצג תמונה ממוזערת של תצוגה מהירה"
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:43
+msgid "Number Tags"
+msgstr "תגי מספר"
+
+#: admin/classes/class.options_machine.php:754
+#: admin/settings/nasa_07_1_product_global_heading.php:325
+msgid "Off"
+msgstr "כבוי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:537
+msgid "Off-Canvas"
+msgstr "מחוץ לקנבס"
+
+#: admin/classes/class.options_machine.php:751
+msgid "On"
+msgstr "עַל"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:324
+msgid "On All Pages"
+msgstr "בכל הדפים"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:323
+msgid "On Archive Product Pages"
+msgstr "בדפי מוצר בארכיון"
+
+#: widgets/wg-nasa-product-filter-status.php:56
+#: widgets/wg-nasa-product-filter-status.php:304
+#: widgets/wg-nasa-product-filter-status.php:304
+msgid "On Backorders"
+msgstr "על הזמנות חוזרות"
+
+#: widgets/wg-nasa-product-filter-status.php:38
+#: widgets/wg-nasa-product-filter-status.php:262
+#: widgets/wg-nasa-product-filter-status.php:262
+msgid "On Sale"
+msgstr "במבצע"
+
+#: cores/nasa-woo-actions.php:1100
+#, php-format
+msgid "Only %s item(s) left in stock."
+msgstr "נותרו רק %s פריטים במלאי."
+
+#: admin/settings/nasa_09_promo_popup_heading.php:45
+msgid "Only Display 1 Time"
+msgstr "הצג רק פעם אחת"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:153
+msgid ""
+"Only effective for style 1, style 2(Images style : slide images), style 6 "
+"and style 7"
+msgstr ""
+"יעיל רק עבור סגנון 1, סגנון 2 (סגנון תמונות: תמונות שקופיות), סגנון 6 וסגנון "
+"7"
+
+#: cores/nasa-woo-functions.php:2369
+#| msgid "Only format accepted: JPG, JPEG, BMP, PNG or GIF"
+msgid "Only format image accepted: JPG, JPEG, BMP, PNG, GIF"
+msgstr "רק פורמט מקובל: JPG, JPEG, BMP, PNG, GIF"
+
+#: cores/nasa-woo-functions.php:2424
+msgid "Only format video accepted: MP4, AVI, MPEG, MOV"
+msgstr "רק פורמט וידאו מקובל: MP4, AVI, MPEG, MOV"
+
+#: woocommerce/single-product-reviews.php:168
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "רק לקוחות מחוברים שרכשו מוצר זה רשאים להשאיר ביקורת."
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:257
+msgid "Only Show Buttons"
+msgstr "הצג רק כפתורים"
+
+#: widgets/wg-nasa-product-categories.php:88
+msgid "Only show children of the current category"
+msgstr "הצג רק ילדים מהקטגוריה הנוכחית"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:485
+msgid "Only Show one Shipping Method in Cart Page"
+msgstr "הצג רק שיטת משלוח אחת בדף העגלה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:107
+msgid "Only show title product on one line if it is too long."
+msgstr "הצג רק מוצר כותרת בשורה אחת אם הוא ארוך מדי."
+
+#: cores/nasa-theme-options.php:114 cores/nasa-theme-options.php:126
+msgid "Only use for Accordion."
+msgstr "השתמש רק עבור אקורדיון."
+
+#: cores/nasa-theme-options.php:41
+msgid "Only use for Visual Composer Template."
+msgstr "השתמש רק עבור Visual Composer Template."
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס! לא ניתן למצוא את הדף הזה."
+
+#: dokan/nasa-store-lists-loop-grid-1.php:56
+#: dokan/nasa-store-lists-loop-list-1.php:107 dokan/store-lists-loop.php:48
+msgid "Open"
+msgstr "לִפְתוֹחַ"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:197
+msgid "Open Cart Sidebar"
+msgstr "פתח את סרגל הצד של העגלה"
+
+#: includes/nasa-single-product-full.php:46
+#: includes/nasa-single-product-modern-1.php:33
+#: includes/nasa-single-product-modern-2.php:33
+#: includes/nasa-single-product-modern-3.php:33
+#: includes/nasa-single-product-modern-4.php:36
+#: includes/nasa-single-product-new-2.php:15
+#: includes/nasa-single-product-new.php:42
+msgid "Open Sidebar"
+msgstr "פתח את סרגל הצד"
+
+#: admin/importer/tpl-import-demo-data.php:137
+msgid "Opp! please try to install the plugins here"
+msgstr "אופס! אנא נסה להתקין את התוספים כאן"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:78
+msgid "Optimize HTML - Yith WooCommerce Wishlist"
+msgstr "מטב HTML - Yith WooCommerce wishlist"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:174
+msgid "Option Product Column Select To Display"
+msgstr "אפשרות עמודת מוצר בחר לתצוגה"
+
+#: admin/front-end/options.php:11 admin/front-end/options.php:89
+msgid "Options Reset"
+msgstr "איפוס אפשרויות"
+
+#: admin/front-end/options.php:7
+msgid "Options Updated"
+msgstr "אפשרויות עודכנו"
+
+#: widgets/wg-nasa-product-filter-variations.php:152
+msgid "OR"
+msgstr "אוֹ"
+
+#: admin/importer/wordpress-importer.php:357
+msgid "or assign posts to an existing user:"
+msgstr "או הקצה פוסטים למשתמש קיים:"
+
+#: admin/importer/wordpress-importer.php:344
+msgid "or create new user with login name:"
+msgstr "או צור משתמש חדש עם שם התחברות:"
+
+#: cores/nasa-theme-functions.php:1330
+msgid "Or login with"
+msgstr "או התחבר עם"
+
+#: widgets/wg-nasa-product-categories.php:69
+msgid "Order by"
+msgstr "מיין לפי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:346
+msgid "Order by - Top Filter Categories"
+msgstr "סדר לפי - קטגוריות סינון מובילות"
+
+#: page-checkout.php:82 page-checkout.php:104 page-shopping-cart.php:32
+#: page-shopping-cart.php:50
+msgid "Order Complete"
+msgstr "הזמנה הושלמה"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order Number"
+msgstr "מספר הזמנה"
+
+#: admin/settings/nasa_03_1_header_heading.php:161
+msgid "Ordering Mobile Menu"
+msgstr "הזמנת תפריט נייד"
+
+#: includes/nasa-combo-products-quickview.php:39
+msgid "Out of stock"
+msgstr "אזל במלאי"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:117
+msgid "Overflows: + 0.5 items"
+msgstr "הצפות: + 0.5 פריטים"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:40
+msgid "Page view compare products"
+msgstr "תצוגת דף השוואה בין מוצרים"
+
+#: content-page.php:16 content-single.php:46 image.php:81
+msgid "Pages:"
+msgstr "דפים:"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:284
+msgid "Pagination Layout"
+msgstr "פריסת עימוד"
+
+#: admin/classes/class.options_machine.php:380
+msgid "Palatino"
+msgstr "פלטינו"
+
+#: includes/nasa-login-register-form.php:78
+#: includes/nasa-login-register-form.php:146
+#: woocommerce/global/form-login.php:31
+msgid "Password"
+msgstr "סיסמה"
+
+#: cores/nasa-shop-ajax.php:219
+msgid "Password is required."
+msgstr "דרושה סיסמא."
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr "לְשַׁלֵם"
+
+#: includes/nasa-checkout-modern.php:69
+msgid "PAYMENT"
+msgstr "תַשְׁלוּם"
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: cores/nasa-woo-actions.php:1605
+msgid "Payment Methods"
+msgstr "שיטות תשלום"
+
+#: admin/functions/functions.admin.php:1127
+msgid "Pe7s icons"
+msgstr "סמלים של Pe7s"
+
+#: woocommerce/single-product-reviews.php:146
+msgid "Perfect"
+msgstr "מושלם"
+
+#: admin/settings/nasa_01_general_heading.php:290
+msgid "Performance - Assets"
+msgstr "ביצועים - נכסים"
+
+#: cores/nasa-woo-actions.php:1719
+msgid "Phone"
+msgstr "טלפון"
+
+#: cores/nasa-woo-actions.php:1512
+msgid "Phone incorrect format."
+msgstr "פורמט שגוי של הטלפון."
+
+#: cores/nasa-theme-functions.php:916
+msgid "Pingback:"
+msgstr "פינג-בק:"
+
+#: cores/nasa-woo-functions.php:1246
+msgid "Play Video"
+msgstr "הפעל וידאו"
+
+#: admin/importer/tpl-additional-homepage-data.php:20
+msgid ""
+"Please click on the item you want to add to your site to do the Homepage."
+msgstr "אנא לחץ על הפריט שברצונך להוסיף לאתר שלך כדי לבצע את דף הבית."
+
+#: admin/classes/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr "אנא צור קשר עם מנהל האתר הזה לקבלת עזרה."
+
+#: admin/classes/class-tgm-plugin-activation.php:1023
+#: admin/classes/class-tgm-plugin-activation.php:1026
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "אנא פנה לספק הפלאגין ובקש ממנו לארוז את התוסף לפי הנחיות וורדפרס."
+
+#: admin/settings/nasa_03_1_header_heading.php:338
+#: admin/settings/nasa_03_1_header_heading.php:350
+#: admin/settings/nasa_03_1_header_heading.php:362
+#: admin/settings/nasa_03_1_header_heading.php:596
+#: admin/settings/nasa_03_3_mobile_heading.php:82
+#: admin/settings/nasa_07_2_product_page_heading.php:321
+#: admin/settings/nasa_07_2_product_page_heading.php:331
+#: admin/settings/nasa_07_2_product_page_heading.php:341
+#: admin/settings/nasa_07_3_product_detail_heading.php:359
+#: admin/settings/nasa_09_promo_popup_heading.php:164
+msgid ""
+"Please create Static Blocks (or Custom Block of Elementor Header & Footer "
+"Builder) and select here."
+msgstr ""
+"אנא צור בלוקים סטטיים (או בלוק מותאם אישית של Elementor Header & Footer "
+"Builder) ובחר כאן."
+
+#: woocommerce/single-product-reviews.php:38
+msgid "Please enter a valid email address."
+msgstr "נא להזין כתובת אימייל חוקית."
+
+#: cores/nasa-wc-checkout-ext.php:92
+msgid "Please enter an address to continue."
+msgstr "אנא הזן כתובת כדי להמשיך."
+
+#: woocommerce/checkout/payment.php:26
+msgid "Please fill in your details above to see available payment methods."
+msgstr "אנא מלא את הפרטים שלך למעלה כדי לראות את אמצעי התשלום הזמינים."
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:61
+msgid "Please Install Yith WooCommerce Compare Plugin"
+msgstr "אנא התקן את הפלאגין Yith WooCommerce Compare"
+
+#: options/nasa-options.php:705
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr "אנא בחר כמה אפשרויות מוצר לפני הוספת מוצר זה לעגלת הקניות שלך."
+
+#: includes/nasa-age-verification.php:17
+#| msgid "Please verifi your age to enter."
+msgid "Please verify your age to enter."
+msgstr "אנא אמת את גילך כדי להיכנס."
+
+#: admin/importer/tpl-import-demo-data.php:127
+msgid "Please waiting in a few minutes, The process is running..."
+msgstr "אנא המתן בעוד מספר דקות, התהליך פועל..."
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:62
+msgid "Please, Install Yith WooCommerce Compare Plugin!"
+msgstr "בבקשה, התקן Yith WooCommerce Compare Plugin!"
+
+#: admin/classes/class-tgm-plugin-activation.php:2601
+msgid "Plugin"
+msgstr "חיבור"
+
+#: admin/classes/class-tgm-plugin-activation.php:1212
+#: admin/classes/class-tgm-plugin-activation.php:3001
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr " ו"
+
+#: admin/classes/class-tgm-plugin-activation.php:376
+#: admin/classes/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "הפלאגין הופעל בהצלחה."
+
+#: admin/classes/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "הפעלת הפלאגין נכשלה."
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"הפלאגין לא הופעל. דרושה גרסה גבוהה יותר של %s עבור ערכת נושא זה. אנא עדכן את "
+"הפלאגין."
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2455
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "את כל <span class=\"count\">(%s)</span>"
+msgstr[1] "את כל <span class=\"count\">(%s)</span>"
+
+#: cores/nasa-theme-options.php:122
+msgid "Plus"
+msgstr "ועוד"
+
+#: admin/settings/nasa_03_1_header_heading.php:518
+msgid "Popular Keywords - (Header type 1, 2, 5, 7)"
+msgstr "מילות מפתח פופולריות - (סוג כותרת 1, 2, 5, 7)"
+
+#: searchform.php:89 searchform.php:175
+msgid "Popular Searches:"
+msgstr "חיפושים פופולריים:"
+
+#: cores/nasa-woo-functions.php:1879
+msgid "Popularity"
+msgstr "פּוֹפּוּלָרִיוּת"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:116
+msgid "Popup Background"
+msgstr "רקע קופץ"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:107
+msgid "Popup Background Color"
+msgstr "צבע רקע קופץ"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:536
+msgid "Popup Classical - Not use with Mobile App Simulation"
+msgstr "Popup Classical - לא לשימוש עם סימולציית אפליקציה לנייד"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:72
+msgid "Popup Content"
+msgstr "תוכן קופץ"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:134
+#: admin/settings/nasa_09_promo_popup_heading.php:135
+#: admin/settings/nasa_09_promo_popup_heading.php:141
+msgid "Popup Exit Intent"
+msgstr "כוונת יציאה קופצת"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:180
+msgid "Popup Exit Intent Background Color"
+msgstr "צבע רקע של יציאה מתוך כוונת קופץ"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:158
+msgid "Popup Exit Intent Content"
+msgstr "Popup Exit Intent Content"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:170
+msgid "Popup Exit Intent Width (Max)"
+msgstr "רוחב כוונת יציאה קופץ (מקסימום)"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:63
+msgid "Popup Height"
+msgstr "גובה קופץ"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:54
+msgid "Popup Width"
+msgstr "רוחב קופץ"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:198
+#| msgid "Popup Your Order - Not use with Mobile App Simulation"
+msgid "Popup Your Order v1 - Not use with Mobile App Simulation"
+msgstr "Popup Your Order v1 - אין להשתמש עם סימולציית אפליקציה לנייד"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:199
+msgid "Popup Your Order v2 - Not use with Mobile App Simulation"
+msgstr "Popup Your Order v2 - לא לשימוש עם סימולציית אפליקציה לנייד"
+
+#: admin/settings/nasa_10_portfolio_heading.php:17
+msgid "Portfolio"
+msgstr "תיק עבודות"
+
+#: admin/settings/nasa_10_portfolio_heading.php:82
+msgid "Portfolio Columns"
+msgstr "עמודות פורטפוליו"
+
+#: admin/settings/nasa_10_portfolio_heading.php:46
+msgid "Portfolio Comments"
+msgstr "הערות תיק עבודות"
+
+#: admin/settings/nasa_10_portfolio_heading.php:55
+msgid "Portfolio Count"
+msgstr "ספירת תיקים"
+
+#: admin/settings/nasa_10_portfolio_heading.php:97
+msgid "Portfolio Lightbox"
+msgstr "פורטפוליו Lightbox"
+
+#: admin/settings/nasa_03_1_header_heading.php:288
+msgid "Position Account Icon"
+msgstr "מיקום סמל חשבון"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:75
+#| msgid "Position filter categories"
+msgid "Position Filter Categories"
+msgstr "קטגוריות מסנן מיקום"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:89
+msgid "Position Filter Categories - Type 3"
+msgstr "קטגוריות מסנן מיקום - סוג 3"
+
+#: admin/settings/nasa_03_1_header_heading.php:643
+msgid "Posts"
+msgstr "פוסטים"
+
+#: admin/classes/class-tgm-plugin-activation.php:2369
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: admin/settings/nasa_05_type_heading.php:331
+msgid "Preload Fonts Icons"
+msgstr "טען מראש סמלי גופנים"
+
+#: cores/nasa-theme-functions.php:1364
+msgid "PREVIOUS"
+msgstr "קודם"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Previous (arrow left)"
+msgstr "הקודם (חץ שמאלה)"
+
+#: includes/nasa-after-add-to-cart.php:33
+#: includes/nasa-after-add-to-cart.php:99
+#: includes/nasa-after-add-to-cart.php:104
+#: widgets/wg-nasa-product-filter-price.php:114 woocommerce/cart/cart.php:29
+#: woocommerce/cart/cart.php:111 woocommerce/cart/cart.php:116
+msgid "Price"
+msgstr "מחיר"
+
+#: admin/settings/nasa_04_style_color_heading.php:110
+msgid "Price Color"
+msgstr "מחיר צבע"
+
+#: admin/settings/nasa_05_type_heading.php:161
+msgid "Price font"
+msgstr "פונט מחיר"
+
+#: widgets/wg-nasa-product-filter-price-list.php:34
+msgid "Price range size"
+msgstr "גודל טווח מחירים"
+
+#: woocommerce/content-widget-price-filter.php:40
+msgid "Price:"
+msgstr "מחיר:"
+
+#: cores/nasa-woo-functions.php:1882
+msgid "Price: Ascending"
+msgstr "מחיר: עולה"
+
+#: cores/nasa-woo-functions.php:1883
+msgid "Price: Descending"
+msgstr "מחיר: יורד"
+
+#: admin/settings/nasa_04_style_color_heading.php:25
+msgid "Primary Color"
+msgstr "צבע יסוד"
+
+#: includes/nasa-after-add-to-cart.php:169
+#: includes/nasa-after-add-to-cart.php:170
+msgid "Proceed to checkout"
+msgstr "התקדם לנקודת הביקורת"
+
+#: includes/nasa-after-add-to-cart.php:32
+#: includes/nasa-after-add-to-cart.php:81 includes/nasa-view-compare.php:19
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:87
+#: woocommerce/checkout/review-order.php:19
+msgid "Product"
+msgstr "מוצר"
+
+#: cores/nasa-custom-wc-ajax.php:417 cores/nasa-woo-functions.php:250
+#: cores/nasa-yith-wcwl-ext.php:36
+msgid "Product added to cart successfully!"
+msgstr "המוצר נוסף לעגלת הקניות בהצלחה!"
+
+#: cores/nasa-custom-wc-ajax.php:697
+msgid "Product added to compare !"
+msgstr "מוצר נוסף להשוואה!"
+
+#: cores/nasa-custom-wc-ajax.php:951
+msgid "Product added to wishlist successfully!"
+msgstr "המוצר נוסף לרשימת המשאלות בהצלחה!"
+
+#: cores/nasa-custom-wc-ajax.php:699
+msgid "Product already exists in Compare list !"
+msgstr "המוצר כבר קיים ברשימת ההשוואה!"
+
+#: widgets/wg-nasa-product-brands.php:41
+msgid "Product Brands"
+msgstr "מותגי מוצר"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:26
+msgid "Product Card Styles"
+msgstr "סגנונות כרטיס מוצר"
+
+#: cores/nasa-theme-headers.php:395 cores/nasa-theme-headers.php:398
+msgid "Product Categories"
+msgstr "קטגוריות מוצרים"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:160
+msgid "Product Column Icon Style"
+msgstr "סגנון סמל עמודת המוצר"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:336
+msgid "Product Description Wrapper - Apply with Tabs Classic"
+msgstr "תיאור מוצר עטיפה - למרוח עם Tabs Classic"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:12
+msgid "Product Global Options"
+msgstr "אפשרויות גלובליות של המוצר"
+
+#: cores/nasa-custom-wc-ajax.php:743
+msgid "Product not already exists in Compare list !"
+msgstr "המוצר לא קיים כבר ברשימת ההשוואה!"
+
+#: woocommerce/loop/pagination.php:73 woocommerce/loop/pagination.php:86
+msgid "Product Pagination"
+msgstr "עימוד מוצר"
+
+#: woocommerce/global/quantity-input.php:60
+msgid "Product quantity"
+msgstr "כמות המוצר"
+
+#: cores/nasa-custom-wc-ajax.php:1142
+msgid "Product quantity updated successfully!"
+msgstr "כמות המוצר עודכנה בהצלחה!"
+
+#: cores/nasa-custom-wc-ajax.php:979 cores/nasa-custom-wc-ajax.php:1008
+msgid "Product removed from wishlist successfully!"
+msgstr "המוצר הוסר מרשימת המשאלות בהצלחה!"
+
+#: options/nasa-options.php:1306
+msgid "Product Sidebar"
+msgstr "סרגל הצד של המוצר"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:25
+msgid "Product Sidebar Position"
+msgstr "מיקום סרגל הצד של המוצר"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:65
+msgid "Product Spacing"
+msgstr "מרווח מוצר"
+
+#: cores/nasa-shop-ajax.php:89
+msgid "Product successfully removed!"
+msgstr "המוצר הוסר בהצלחה!"
+
+#: admin/classes/class.options_machine.php:851
+msgid "Product title"
+msgstr "כותרת המוצר"
+
+#: includes/nasa-mini-compare.php:13
+msgid "Products"
+msgstr "מוצרים"
+
+#: admin/settings/nasa_10_portfolio_heading.php:64
+msgid "Project Category"
+msgstr "קטגוריית פרויקטים"
+
+#: admin/settings/nasa_10_portfolio_heading.php:73
+msgid "Project Name"
+msgstr "שם הפרוייקט"
+
+#: cores/nasa-woo-actions.php:1887 cores/nasa-woo-actions.php:1918
+msgid "Promotion Gifts"
+msgstr "מתנות קידום מכירות"
+
+#: admin/settings/nasa_03_1_header_heading.php:623
+#: admin/settings/nasa_03_1_header_heading.php:624
+msgid "Promotion News"
+msgstr "חדשות קידום"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:253
+msgid "Public Coupons - Mini Cart (one per line)"
+msgstr "קופונים ציבוריים - עגלה קטנה (אחת בכל שורה)"
+
+#: image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"יצא לאור <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> בְּ- <a href=\"%3$s\" title=\"קישור "
+"לתמונה בגודל מלא\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"חזור אל "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: includes/nasa-after-add-to-cart.php:34
+#: includes/nasa-after-add-to-cart.php:108 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:120 woocommerce/global/quantity-input.php:13
+msgid "Quantity"
+msgstr "כַּמוּת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:495
+msgid "Quantity Input - Checkout Page"
+msgstr "קלט כמות - דף קופה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:263
+msgid "Quantity Input - Mini Cart"
+msgstr "קלט כמות - מיני עגלה"
+
+#: widgets/wg-nasa-product-filter-variations.php:150
+msgid "Query type"
+msgstr "סוג שאילתה"
+
+#: cores/nasa-theme-footers.php:722 cores/nasa-woo-actions.php:1864
+#: cores/nasa-woo-actions.php:1865 cores/nasa-woo-functions.php:545
+#: woocommerce/content-widget-product.php:77
+msgid "Quick View"
+msgstr "מבט חטוף"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:531
+msgid "Quickview Layout"
+msgstr "פריסת תצוגה מהירה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:509
+#: admin/settings/nasa_07_1_product_global_heading.php:510
+msgid "Quickview Options"
+msgstr "אפשרויות תצוגה מהירה"
+
+#: archive.php:93
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: woocommerce/single-product-reviews.php:145
+msgid "Rate&hellip;"
+msgstr "ציון&hellip;"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:77
+#: dokan/nasa-store-lists-loop-grid-2.php:107
+#: dokan/nasa-store-lists-loop-list-1.php:56
+#: dokan/nasa-store-lists-loop-list-2.php:71
+#: dokan/nasa-store-lists-loop-list-3.php:76
+#: dokan/nasa-store-lists-loop-list-3.php:116 dokan/store-lists-loop.php:58
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "מדורג %s מתוך 5"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:302
+msgid "Reach Free Shipping Effect - WooCommerce Advanced Free Shipping"
+msgstr "להגיע לאפקט משלוח חינם - WooCommerce משלוח חינם מתקדם"
+
+#: woocommerce/single-product/tabs/tabs.php:90
+#: woocommerce/single-product/tabs/tabs.php:91
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: admin/settings/nasa_08_blog_heading.php:162
+msgid "Readmore"
+msgstr "קרא עוד"
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: widgets/wg-nasa-recent-posts.php:35
+msgid "Recent Posts"
+msgstr "הודעות האחרונות"
+
+#: admin/settings/nasa_10_portfolio_heading.php:37
+msgid "Recent Projects"
+msgstr "פרויקטים אחרונים"
+
+#: admin/settings/nasa_03_2_footer_heading.php:32
+msgid "Recommend Turn Off to use Builder Mode"
+msgstr "ממליץ לכבות כדי להשתמש במצב Builder"
+
+#: cores/nasa-theme-footers.php:856
+msgid "Recommendation"
+msgstr "המלצה"
+
+#: admin/classes/class-tgm-plugin-activation.php:2347
+#: admin/importer/tpl-import-demo-data.php:83
+msgid "Recommended"
+msgstr "מוּמלָץ"
+
+#: admin/settings/nasa_08_blog_heading.php:221
+msgid "Related"
+msgstr "קָשׁוּר"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:475
+#: woocommerce/single-product/related.php:64
+msgid "Related Products"
+msgstr "מוצרים קשורים"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:469
+#: admin/settings/nasa_07_3_product_detail_heading.php:470
+msgid "Related | You may also like&hellip;"
+msgstr "קשור | אולי גם תאהב…"
+
+#: includes/nasa-tmpl-captcha-field-register.php:13
+msgid "Reload"
+msgstr "לִטעוֹן מִחָדָשׁ"
+
+#: includes/nasa-login-register-form.php:67
+msgid "Remember"
+msgstr "זכור"
+
+#: woocommerce/global/form-login.php:41
+msgid "Remember me"
+msgstr "זכור אותי"
+
+#: admin/importer/wordpress-importer.php:1092
+msgid "Remote file is incorrect size"
+msgstr "גודל הקובץ המרוחק שגוי"
+
+#: admin/importer/wordpress-importer.php:1103
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "הקובץ המרוחק גדול מדי, המגבלה היא %s"
+
+#: admin/importer/wordpress-importer.php:1077
+msgid "Remote server did not respond"
+msgstr "השרת המרוחק לא הגיב"
+
+#: admin/importer/wordpress-importer.php:1085
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "שרת מרוחק החזיר תגובת שגיאה %1$d %2$s"
+
+#: cores/nasa-woo-functions.php:2175 includes/nasa-after-add-to-cart.php:63
+#: includes/nasa-after-add-to-cart.php:66
+#: includes/nasa-sidebar-wishlist_content.php:81
+#: includes/nasa-sidebar-wishlist_content.php:189
+#: includes/nasa-sidebar-wishlist_html.php:27
+#: includes/nasa-sidebar-wishlist_html.php:82
+#: includes/nasa-sidebar-wishlist_html.php:83
+#: includes/nasa-view-compare.php:114
+#: admin/classes/class.options_machine.php:1040
+#: admin/classes/class.options_machine.php:1114
+msgid "Remove"
+msgstr "לְהַסִיר"
+
+#. %s is the product name
+#: woocommerce/cart/cart.php:69 woocommerce/cart/mini-cart.php:94
+#, php-format
+msgid "Remove %s from cart"
+msgstr "הסר את %s מהסל"
+
+#: includes/nasa-sidebar-wishlist_content.php:80
+#: includes/nasa-sidebar-wishlist_content.php:188
+#: includes/nasa-sidebar-wishlist_html.php:26
+msgid "Remove this product"
+msgstr "הסר את המוצר הזה"
+
+#: cores/nasa-custom-wc-ajax.php:780
+msgid "Removed all products from compare !"
+msgstr "הסירו את כל המוצרים מהשוואה!"
+
+#: cores/nasa-custom-wc-ajax.php:741
+msgid "Removed product from compare !"
+msgstr "המוצר הוסר מהשוואה!"
+
+#: admin/functions/functions.admin.php:1218
+msgid "Require ZIP file."
+msgstr "דרוש קובץ ZIP."
+
+#: admin/classes/class-tgm-plugin-activation.php:2344
+#: admin/importer/tpl-import-demo-data.php:83
+msgid "Required"
+msgstr "נדרש"
+
+#: admin/classes/class-tgm-plugin-activation.php:2398
+msgid "Required Update not Available"
+msgstr "עדכון נדרש אינו זמין"
+
+#: admin/classes/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: admin/settings/nasa_03_1_header_heading.php:569
+msgid "Requires WPML"
+msgstr "דורש WPML"
+
+#: admin/settings/nasa_03_1_header_heading.php:577
+#| msgid ""
+#| "Currencies Switcher - Requires WPML | FOX - Currency Switcher "
+#| "Professional for WooCommerce | CURCY - Multi Currency for WooCommerce"
+msgid ""
+"Requires WPML | FOX - Currency Switcher Professional for WooCommerce | CURCY "
+"- Multi Currency for WooCommerce"
+msgstr ""
+"דורש WPML | FOX - Professional Switcher Currency for WooCommerce | CURCY - "
+"Multi Currency עבור WooCommerce"
+
+#: widgets/wg-nasa-reset-filter.php:97
+#: woocommerce/content-widget-price-filter.php:41
+msgid "Reset"
+msgstr "אִתחוּל"
+
+#: admin/front-end/options.php:32
+msgid "Reset WordPress plugin"
+msgstr "אפס את תוסף וורדפרס"
+
+#: admin/settings/nasa_03_1_header_heading.php:490
+msgid "Results Ajax Search (Limit Products)"
+msgstr "תוצאות Ajax Search (הגבלה של מוצרים)"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:251
+msgid "Results info in top"
+msgstr "מידע על התוצאות למעלה"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:35
+msgid "Retina Logo"
+msgstr "לוגו רשתית"
+
+#: cores/nasa-woo-actions.php:1503
+msgid "RETURN TO CART"
+msgstr "חזור לעגלה"
+
+#: cores/nasa-woo-actions.php:1503
+msgid "Return to Cart"
+msgstr "חזרה לעגלה"
+
+#: cores/nasa-woo-actions.php:1579
+msgid "RETURN TO INFORMATION"
+msgstr "חזור למידע"
+
+#: cores/nasa-theme-functions.php:536
+msgid "Return to Previous Page"
+msgstr "חזור לדף הקודם"
+
+#: admin/classes/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr "חזור אל מתקין התוספים הנדרשים"
+
+#: includes/nasa-sidebar-wishlist_content.php:92
+#: includes/nasa-sidebar-wishlist_content.php:214
+#: includes/nasa-sidebar-wishlist_html.php:98
+#: includes/nasa-view-compare.php:126 includes/nasa-view-compare.php:126
+#: woocommerce/cart/mini-cart.php:213
+msgid "RETURN TO SHOP"
+msgstr "חזור לחנות"
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr "חזור לחנות"
+
+#: admin/classes/class-tgm-plugin-activation.php:375
+#: admin/classes/class-tgm-plugin-activation.php:915
+#: admin/classes/class-tgm-plugin-activation.php:2587
+#: admin/classes/class-tgm-plugin-activation.php:3661
+msgid "Return to the Dashboard"
+msgstr "חזור ללוח המחוונים"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Returning customer?"
+msgstr "לקוח חוזר?"
+
+#: admin/theme-admin.php:252
+msgid "Review Product By Images"
+msgstr "סקור מוצר לפי תמונות"
+
+#: includes/nasa-review-images.php:57
+msgid "Review Product by Images"
+msgstr "סקור מוצר לפי תמונות"
+
+#: page-checkout.php:83 page-checkout.php:105 page-shopping-cart.php:33
+#: page-shopping-cart.php:51
+msgid "Review Your Order"
+msgstr "בדוק את ההזמנה שלך"
+
+#: cores/nasa-theme-footers.php:857 woocommerce/single-product-reviews.php:181
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:100
+#: admin/settings/nasa_07_3_product_detail_heading.php:314
+msgid "Right"
+msgstr "ימין"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:31
+#: admin/settings/nasa_07_5_dokan_heading.php:38
+#: admin/settings/nasa_08_blog_heading.php:30
+#: admin/settings/nasa_08_blog_heading.php:42
+msgid "Right Sidebar"
+msgstr "סרגל צד ימין"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:36
+msgid "Right Sidebar - Classic"
+msgstr "סרגל צד ימין - קלאסי"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:34
+msgid "Right Sidebar - Off-canvas"
+msgstr "סרגל צד ימין - מחוץ לקנבס"
+
+#: admin/settings/nasa_03_1_header_heading.php:450
+#: admin/settings/nasa_07_1_product_global_heading.php:58
+msgid "Right To Left"
+msgstr "מימין לשמאל"
+
+#: admin/settings/nasa_05_type_heading.php:146
+msgid "RTL - Banner font"
+msgstr "RTL - גופן באנר"
+
+#: admin/settings/nasa_05_type_heading.php:56
+msgid "RTL - Heading fonts (H1, H2, H3, H4, H5, H6)"
+msgstr "RTL - גופני כותרות (H1, H2, H3, H4, H5, H6)"
+
+#: admin/settings/nasa_05_type_heading.php:116
+msgid "RTL - Main navigation"
+msgstr "RTL - ניווט ראשי"
+
+#: admin/settings/nasa_05_type_heading.php:176
+msgid "RTL - Price font"
+msgstr "RTL - פונט מחיר"
+
+#: admin/settings/nasa_05_type_heading.php:231
+msgid "RTL - Select Custom Font"
+msgstr "RTL - בחר גופן מותאם אישית"
+
+#: admin/settings/nasa_05_type_heading.php:86
+msgid "RTL - Text fonts (paragraphs, etc..)"
+msgstr "RTL - גופני טקסט (פסקאות וכו')"
+
+#: woocommerce/loop/sale-flash.php:52
+#: woocommerce/single-product/sale-flash.php:53
+msgid "Sale"
+msgstr "מְכִירָה"
+
+#: admin/settings/nasa_04_style_color_heading.php:89
+msgid "Sale Badge Color"
+msgstr "צבע תג מכירה"
+
+#: includes/nasa-checkout-modern-billing-detail.php:24
+msgid "Same as shipping address"
+msgstr "זהה לכתובת המשלוח"
+
+#: includes/nasa-mini-cart-note.php:21
+msgid "Save"
+msgstr "להציל"
+
+#: admin/front-end/options.php:65 admin/front-end/options.php:88
+msgid "Save All Changes"
+msgstr "שמור את כל השינויים"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:95
+msgid "Scroll Images"
+msgstr "גלול תמונות"
+
+#: searchform.php:105 searchform.php:167 cores/nasa-theme-headers.php:438
+#: includes/nasa-mobile-bottom-bar.php:67
+#: includes/nasa-mobile-bottom-bar.php:69
+msgid "Search"
+msgstr "לחפש"
+
+#: searchform.php:190
+msgid "search"
+msgstr "לחפש"
+
+#: admin/settings/nasa_03_1_header_heading.php:465
+msgid "Search Anything After Submit"
+msgstr "חפש בכל דבר לאחר הגשה"
+
+#: admin/settings/nasa_03_1_header_heading.php:445
+msgid "Search Bar Effect"
+msgstr "אפקט סרגל החיפוש"
+
+#: searchform.php:80
+msgid "Search here"
+msgstr "חפש כאן"
+
+#: admin/importer/tpl-homepage-list.php:23
+msgid "Search homepage ..."
+msgstr "חפש בדף הבית..."
+
+#: admin/functions/functions.admin.php:1111
+msgid "Search icon"
+msgstr "סמל חיפוש"
+
+#: admin/front-end/options.php:60
+#: admin/settings/nasa_03_1_header_heading.php:438
+#: admin/settings/nasa_03_1_header_heading.php:439
+msgid "Search Options"
+msgstr "אפשרויות חיפוש"
+
+#: search.php:61
+#, php-format
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור: %s"
+
+#: admin/classes/class.options_machine.php:865
+msgid "Search.."
+msgstr "לחפש.."
+
+#: includes/nasa-change-view.php:228
+msgid "See"
+msgstr "לִרְאוֹת"
+
+#: admin/front-end/options.php:32
+#, php-format
+msgid ""
+"Seems like an error has occured. Please double check the imported data. If "
+"incorrect, please use %s and try again"
+msgstr ""
+"נראה שהתרחשה שגיאה. אנא בדוק שוב את הנתונים המיובאים. אם שגוי, אנא השתמש ב-"
+"%s ונסה שוב"
+
+#: admin/functions/functions.admin.php:267
+msgid "Select"
+msgstr "בחר"
+
+#: admin/importer/tpl-import-demo-data.php:106
+#: admin/importer/tpl-import-demo-data.php:119
+msgid "SELECT ALL HOMEPAGES"
+msgstr "בחר את כל דפי הבית"
+
+#: includes/nasa-mini-cart-add-coupon.php:11
+msgid "Select an available coupon"
+msgstr "בחר קופון זמין"
+
+#: admin/functions/functions.admin.php:347
+msgid "Select category"
+msgstr "בחר קטגוריה"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:81
+msgid "Select Contact Form"
+msgstr "בחר טופס יצירת קשר"
+
+#: admin/settings/nasa_05_type_heading.php:220
+msgid "Select Custom Font"
+msgstr "בחר גופן מותאם אישית"
+
+#: cores/nasa-theme-footers.php:880
+msgid "Select Options"
+msgstr "בחר אופציות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:524
+msgid "Select Options button to Quickview"
+msgstr "בחר בלחצן אפשרויות לתצוגה מהירה"
+
+#: admin/functions/functions.admin.php:1165
+msgid "Select page view compare"
+msgstr "בחר השוואת תצוגות עמוד"
+
+#: admin/functions/functions.admin.php:1182
+msgid "Select page view Portfolio"
+msgstr "בחר תיק תצוגת עמוד"
+
+#: includes/nasa-checkout-modern-billing-detail.php:16
+msgid "Select the address that matches your card or payment method."
+msgstr "בחר את הכתובת התואמת לכרטיס או לאמצעי התשלום שלך."
+
+#: admin/settings/nasa_09_promo_popup_heading.php:196
+msgid "Select the Contact Form"
+msgstr "בחר בטופס צור קשר"
+
+#: admin/settings/nasa_03_2_footer_heading.php:147
+msgid "Select the Footer Elementor"
+msgstr "בחר ב-Footer Elementor"
+
+#: admin/settings/nasa_03_2_footer_heading.php:100
+msgid "Select the Footer Type"
+msgstr "בחר את סוג הכותרת התחתונה"
+
+#: admin/settings/nasa_03_1_header_heading.php:59
+msgid "Select the Header Builder"
+msgstr "בחר ב-Heer Builder"
+
+#: admin/settings/nasa_03_1_header_heading.php:83
+msgid "Select the Header Elementor"
+msgstr "בחר ב-Heer Elementor"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:149
+msgid "Set Popup Repeat Time"
+msgstr "הגדר את זמן החזרה של קופץ"
+
+#: admin/importer/tpl-import-demo-data.php:152
+msgid "Setup Theme Options"
+msgstr "הגדרת אפשרויות ערכת נושא"
+
+#: includes/nasa-login-register-form.php:169
+msgid "SETUP YOUR ACCOUNT"
+msgstr "הגדר את החשבון שלך"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Share"
+msgstr "לַחֲלוֹק"
+
+#: admin/settings/nasa_08_blog_heading.php:212
+msgid "Share icons"
+msgstr "שתף אייקונים"
+
+#: cores/nasa-woo-actions.php:1543
+msgid "Ship to"
+msgstr "לשלוח ל"
+
+#: includes/nasa-checkout-modern.php:64
+msgid "SHIPPING"
+msgstr "משלוח"
+
+#: cores/nasa-woo-actions.php:2520 includes/nasa-mini-cart-shipping.php:26
+msgid "Shipping"
+msgstr "משלוח"
+
+#: includes/nasa-checkout-modern.php:130
+msgid "Shipping address"
+msgstr "כתובת למשלוח"
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid "Shipping costs are calculated during checkout."
+msgstr "עלויות המשלוח מחושבות במהלך התשלום."
+
+#: cores/nasa-woo-actions.php:1568
+msgid "Shipping Methods"
+msgstr "שיטות משלוח"
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Shipping options will be updated during checkout."
+msgstr "אפשרויות המשלוח יעודכנו במהלך התשלום."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:61
+#, php-format
+msgid "Shipping to %s."
+msgstr "משלוח אל %s."
+
+#: includes/nasa-mobile-bottom-bar-app.php:44
+#: includes/nasa-mobile-bottom-bar-app.php:46
+#: includes/nasa-mobile-bottom-bar.php:44
+#: includes/nasa-mobile-bottom-bar.php:46
+msgid "Shop"
+msgstr "לִקְנוֹת"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:135
+msgid "Shop Background Color"
+msgstr "צבע רקע לחנות"
+
+#: woocommerce/loop/orderby.php:18
+msgid "Shop order"
+msgstr "הזמנת חנות"
+
+#: options/nasa-options.php:1296
+msgid "Shop Sidebar"
+msgstr "סרגל צד של קניות"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:25
+msgid "Shop Sidebar Layout"
+msgstr "חנות פריסת סרגל צד"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:130
+msgid "Shop With Background Color"
+msgstr "חנות עם צבע רקע"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:129
+msgid "Shop Without Background Color"
+msgstr "חנות ללא צבע רקע"
+
+#: page-checkout.php:67 page-checkout.php:69 page-checkout.php:92
+#: page-shopping-cart.php:18 page-shopping-cart.php:40
+msgid "Shopping Cart"
+msgstr "עגלת קניות"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:421
+#: admin/settings/nasa_07_1_product_global_heading.php:422
+msgid "Shopping Cart - Options"
+msgstr "סל קניות - אפשרויות"
+
+#: admin/settings/nasa_08_blog_heading.php:169
+msgid "Short description (Only use for Blog Grid layout)"
+msgstr "תיאור קצר (השתמש רק לפריסת רשת בלוג)"
+
+#: includes/nasa-blog-promotion.php:40
+msgid "Show"
+msgstr "הופעה"
+
+#: widgets/wg-nasa-product-brands.php:52
+#: widgets/wg-nasa-product-categories.php:98
+msgid "Show as Accordion"
+msgstr "הצג כאקורדיון"
+
+#: widgets/wg-nasa-product-brands.php:57
+#: widgets/wg-nasa-product-categories.php:103
+#: widgets/wg-nasa-product-filter-variations.php:159
+msgid "Show default numbers items"
+msgstr "הצג פריטי מספרי ברירת מחדל"
+
+#: widgets/wg-nasa-product-categories.php:83
+msgid "Show hierarchy"
+msgstr "הצג היררכיה"
+
+#: widgets/wg-nasa-tag-cloud.php:165
+msgid "Show items (0 ~ All)"
+msgstr "הצג פריטים (0 ~ הכל)"
+
+#: woocommerce/single-product/tabs/tabs.php:90
+msgid "Show less"
+msgstr "הראי פחות"
+
+#: cores/nasa-theme-options.php:229
+msgid "Show Mini Account"
+msgstr "הצג חשבון מיני"
+
+#: cores/nasa-theme-options.php:241
+msgid "Show Mini Cart"
+msgstr "הצג מיני עגלה"
+
+#: cores/nasa-theme-options.php:253
+msgid "Show Mini Compare"
+msgstr "הצג מיני השוואה"
+
+#: cores/nasa-theme-options.php:265
+msgid "Show Mini Wishlist"
+msgstr "הצג מיני משאלות"
+
+#: cores/nasa-theme-functions.php:483
+msgid "Show more ..."
+msgstr "להראות יותר ..."
+
+#: cores/nasa-theme-options.php:140
+msgid "Show Multi"
+msgstr "הצג מולטי"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:200
+msgid "Show Notice"
+msgstr "הצג הודעה"
+
+#: widgets/wg-nasa-product-brands.php:47
+#: widgets/wg-nasa-product-categories.php:78
+#: widgets/wg-nasa-product-filter-variations.php:178
+msgid "Show product counts"
+msgstr "הצג ספירות מוצרים"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:105
+msgid "Show Title In Line"
+msgstr "הצג כותרת בתור"
+
+#: widgets/wg-nasa-product-filter-variations.php:28
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+"מציג מאפיין מותאם אישית בווידג'ט המאפשר לך לצמצם את רשימת המוצרים בעת הצגת "
+"קטגוריות מוצרים."
+
+#: widgets/wg-nasa-product-filter-price.php:29
+msgid ""
+"Shows a price filter slider in a widget which lets you narrow down the list "
+"of shown products when viewing product categories."
+msgstr ""
+"מציג מחוון מסנן מחירים בווידג'ט המאפשר לך לצמצם את רשימת המוצרים המוצגים בעת "
+"הצגת קטגוריות מוצרים."
+
+#: admin/settings/nasa_07_2_product_page_heading.php:81
+msgid "Side"
+msgstr "צַד"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:95
+msgid "Side Canvas"
+msgstr "קנבס צדדי"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:94
+msgid "Side Classic"
+msgstr "צד קלאסי"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:44
+msgid "Sidebar Classic - Sticky"
+msgstr "סרגל צד קלאסי - דביק"
+
+#: includes/nasa-login-register-form.php:180
+msgid "Sign in here"
+msgstr "היכנס כאן"
+
+#: includes/nasa-login-register-form.php:93
+msgid "SIGN IN TO YOUR ACCOUNT"
+msgstr "תתחבר לחשבון שלך"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:289
+msgid "Simple"
+msgstr "פָּשׁוּט"
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"מכיוון שהדפדפן שלך אינו תומך ב-JavaScript, או שהוא מושבת, אנא ודא שאתה לוחץ "
+"על הלחצן %1$sעדכן סכומים%2$s לפני ביצוע ההזמנה. ייתכן שתחויב יותר מהסכום "
+"שצוין לעיל אם לא תעשה זאת."
+
+#: admin/settings/nasa_08_blog_heading.php:179
+msgid "Single Blog page"
+msgstr "עמוד בלוג בודד"
+
+#: admin/settings/nasa_08_blog_heading.php:24
+msgid "Single Layout"
+msgstr "פריסת יחיד"
+
+#: admin/settings/nasa_08_blog_heading.php:178
+msgid "Single Page"
+msgstr "עמוד יחיד"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:97
+msgid "Single Product - Mobile - Top Navigation"
+msgstr "מוצר בודד - נייד - ניווט מוביל"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:105
+msgid "Single Product - Mobile - Top Navigation - Custom Tabs"
+msgstr "מוצר בודד - נייד - ניווט עליון - כרטיסיות מותאמות אישית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:47
+msgid "Single Product Layout"
+msgstr "פריסת מוצר בודד"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:12
+msgid "Single Product Page"
+msgstr "דף מוצר בודד"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:41
+msgid "Single Row"
+msgstr "שורה אחת"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:549
+msgid "Single Thumbnail"
+msgstr "תמונה ממוזערת בודדת"
+
+#: admin/settings/nasa_01_general_heading.php:45
+msgid "Site Background Color - Boxed Layout"
+msgstr "צבע רקע אתר - פריסת קופסה"
+
+#: admin/settings/nasa_01_general_heading.php:55
+msgid "Site Background Image - Boxed Layout"
+msgstr "תמונת רקע באתר - פריסת קופסה"
+
+#: admin/settings/nasa_01_general_heading.php:33
+msgid "Site Layout"
+msgstr "פריסת האתר"
+
+#: admin/settings/nasa_01_general_heading.php:308
+msgid "Skip Load - Files CSS - Checkin it if you don't want your site call"
+msgstr "דלג על טעינה - קבצים CSS - בדוק אם אתה לא רוצה שיחת האתר שלך"
+
+#: cores/nasa-woo-actions.php:2135 options/nasa-options.php:773
+#: woocommerce/single-product/meta.php:25
+msgid "SKU:"
+msgstr "מק\"ט:"
+
+#: cores/nasa-theme-options.php:73 admin/classes/class.options_machine.php:1096
+msgid "Slide"
+msgstr "שקופית"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:94
+msgid "Slide Images"
+msgstr "תמונות שקופיות"
+
+#: admin/settings/nasa_03_1_header_heading.php:682
+msgid "Slide Show"
+msgstr "הצגת שקופיות"
+
+#: widgets/wg-nasa-product-filter-variations.php:166
+msgid "Slide Up-Down"
+msgstr "החלק למעלה-מטה"
+
+#: cores/nasa-theme-options.php:56
+msgid "Small"
+msgstr "קָטָן"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:70
+msgid "Small Spacing"
+msgstr "מרווח קטן"
+
+#: cores/nasa-dokan-functions.php:97
+msgid "Sold By: "
+msgstr "נמכר על ידי:"
+
+#: cores/nasa-woo-actions.php:2202 includes/nasa-content-product-gift.php:62
+msgid "Sold Out"
+msgstr "נמכר"
+
+#: admin/classes/class.options_machine.php:435
+msgid "Solid"
+msgstr "מוצק"
+
+#: admin/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש ב-API של הפלאגין."
+
+#: admin/front-end/options.php:36
+msgid ""
+"Sorry but your import failed. Most likely, it cannot work with your webhost. "
+"You will have to ask your webhost to increase your PHP max_execution_time "
+"(or any other webserver timeout to at least 300 secs) and memory_limit (to "
+"at least 196M) temporarily."
+msgstr ""
+"מצטערים אבל הייבוא ​​שלך נכשל. סביר להניח שזה לא יכול לעבוד עם מארח האינטרנט "
+"שלך. תצטרך לבקש מארח האינטרנט שלך להגדיל את max_execution_time של PHP (או כל "
+"פסק זמן אחר של שרת אינטרנט ל-300 שניות לפחות) ואת memory_limit (לפחות 196M) "
+"באופן זמני."
+
+#: cores/nasa-custom-wc-ajax.php:1365
+msgid "Sorry there was a problem removing this coupon."
+msgstr "מצטערים, הייתה בעיה בהסרת הקופון הזה."
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"מצטערים, אבל שום דבר לא תאם את מונחי החיפוש שלך. אנא נסה שוב עם כמה מילות "
+"מפתח שונות."
+
+#: 404.php:17
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr ""
+"מצטערים, אבל הדף שאתה מחפש לא נמצא. אנא ודא שהקלדת את כתובת האתר הנוכחית."
+
+#: woocommerce/checkout/payment.php:26
+msgid ""
+"Sorry, it seems that there are no available payment methods. Please contact "
+"us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+"מצטערים, נראה שאין אמצעי תשלום זמינים. אנא צור איתנו קשר אם אתה זקוק לסיוע "
+"או מעוניין לבצע סידורים חלופיים."
+
+#: cores/nasa-custom-wc-ajax.php:595
+msgid "Sorry, Maybe product empty in stock."
+msgstr "סליחה, אולי המוצר ריק במלאי."
+
+#: options/nasa-options.php:704
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr "מצטערים, אין מוצרים שתואמים לבחירתך. אנא בחר שילוב אחר."
+
+#: cores/nasa-custom-wc-ajax.php:447 cores/nasa-custom-wc-ajax.php:469
+msgid "Sorry, Product is not existing."
+msgstr "מצטערים, המוצר אינו קיים."
+
+#: admin/importer/wordpress-importer.php:162
+#: admin/importer/wordpress-importer.php:171
+#: admin/importer/wordpress-importer.php:221
+#: admin/importer/wordpress-importer.php:225
+#: admin/importer/wordpress-importer.php:234
+msgid "Sorry, there has been an error."
+msgstr "מצטערים, אירעה שגיאה."
+
+#: options/nasa-options.php:706
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "מצטערים, מוצר זה אינו זמין. אנא בחר שילוב אחר."
+
+#: options/nasa-options.php:781
+msgid "Sorry. No results match your search."
+msgstr "מצטער. אין תוצאות שמתאימות לחיפוש שלך."
+
+#: woocommerce/loop/orderby.php:16
+msgid "Sort by"
+msgstr "מיין לפי"
+
+#: admin/classes/class-tgm-plugin-activation.php:2602
+msgid "Source"
+msgstr "מָקוֹר"
+
+#: cores/nasa-advanced-free-shipping.php:104
+#, php-format
+msgid ""
+"Spend %s more to reach <strong>FREE SHIPPING!</strong> <a class=\"continue-"
+"cart hide-in-cart-sidebar\" href=\"%s\" title=\"Continue Shopping\">Continue "
+"Shopping</a>"
+msgstr ""
+"הוצא %s יותר כדי להגיע <strong>משלוח חינם!</strong> <a class=\"continue-cart "
+"hide-in-cart-sidebar\" href=\"%s\" title=\"המשך בקניות\">המשך בקניות</a>"
+
+#: admin/settings/nasa_08_blog_heading.php:53
+msgid "Standard"
+msgstr "תֶקֶן"
+
+#: admin/importer/tpl-import-demo-data.php:108
+#: admin/importer/tpl-import-demo-data.php:121
+msgid "START IMPORT SAMPLE DATA"
+msgstr "התחל לייבא נתונים לדוגמה"
+
+#: searchform.php:29 searchform.php:125
+msgid "Start typing ..."
+msgstr "תתחיל להקליד ..."
+
+#: admin/classes/class-tgm-plugin-activation.php:2608
+msgid "Status"
+msgstr "סטָטוּס"
+
+#: admin/importer/tpl-import-demo-data.php:60
+msgid "Step 1: Install Plugins"
+msgstr "שלב 1: התקן פלאגינים"
+
+#: admin/importer/tpl-import-demo-data.php:97
+msgid "Step 2: Choose Homepage Layout"
+msgstr "שלב 2: בחר פריסת דף הבית"
+
+#: admin/importer/tpl-import-demo-data.php:125
+msgid "Step 3: Import Content"
+msgstr "שלב 3: ייבוא ​​תוכן"
+
+#: widgets/wg-nasa-product-filter-price.php:42
+msgid "Step Change"
+msgstr "שינוי צעד"
+
+#: admin/settings/nasa_03_1_header_heading.php:368
+msgid "Sticky"
+msgstr "דָבִיק"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:236
+msgid "Sticky Add To Cart"
+msgstr "דביק הוסף לעגלה"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:261
+msgid "Sticky Add To Cart In Mobile"
+msgstr "Sticky הוסף לעגלה בנייד"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:243
+msgid "Sticky Buy Now - Desktop"
+msgstr "Sticky Buy Now - שולחן עבודה"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:70
+msgid "Sticky Logo"
+msgstr "לוגו דביק"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:63
+#: admin/settings/nasa_02_logo_icon_heading.php:64
+msgid "Sticky Logo Options"
+msgstr "אפשרויות לוגו דביק"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:37
+msgid "Sticky Sidebar"
+msgstr "סרגל צד דביק"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:384
+msgid "Stock Progress Bar"
+msgstr "סרגל התקדמות מלאי"
+
+#: dokan/store-header.php:37
+msgid "Store Closed"
+msgstr "חנות סגורה"
+
+#: admin/settings/nasa_07_5_dokan_heading.php:18
+msgid "Store Header Template"
+msgstr "תבנית כותרת חנות"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:58
+#: dokan/nasa-store-lists-loop-list-1.php:109 dokan/store-lists-loop.php:50
+msgid "Store is Closed"
+msgstr "החנות סגורה"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:56
+#: dokan/nasa-store-lists-loop-list-1.php:107 dokan/store-lists-loop.php:48
+msgid "Store is Open"
+msgstr "החנות פתוחה"
+
+#: dokan/store-header.php:36
+msgid "Store Open"
+msgstr "חנות פתוחה"
+
+#: admin/settings/nasa_07_5_dokan_heading.php:32
+msgid "Store Sidebar Position"
+msgstr "אחסן את מיקום סרגל הצד"
+
+#: cores/nasa-theme-options.php:64 admin/settings/nasa_08_blog_heading.php:48
+msgid "Style"
+msgstr "סִגְנוֹן"
+
+#: admin/settings/nasa_04_style_color_heading.php:12
+msgid "Style and Colors"
+msgstr "סגנון וצבעים"
+
+#: cores/nasa-woo-functions.php:1597
+msgid "Subcategories: "
+msgstr "קטגוריות משנה:"
+
+#: woocommerce/single-product-reviews.php:118
+#: admin/importer/wordpress-importer.php:318
+msgid "Submit"
+msgstr "שלח"
+
+#: cores/nasa-woo-actions.php:2417 woocommerce/cart/cart.php:31
+#: woocommerce/checkout/review-order.php:20
+#: woocommerce/checkout/review-order.php:107
+msgid "Subtotal"
+msgstr "סכום משנה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:270
+msgid "Subtotal for Item - Mini Cart"
+msgstr "סכום ביניים לפריט - מיני עגלה"
+
+#: includes/nasa-after-add-to-cart.php:151
+msgid "Subtotal&nbsp;&nbsp;&nbsp;"
+msgstr "סכום משנה"
+
+#: admin/settings/nasa_04_style_color_heading.php:33
+msgid "Success Color"
+msgstr "צבע הצלחה"
+
+#: cores/nasa-theme-footers.php:391
+msgid "Successfully added to your cart."
+msgstr "הוסף בהצלחה לעגלת הקניות שלך."
+
+#: admin/settings/nasa_03_1_header_heading.php:508
+msgid "Suggested Keywords - (Header type 1, 2, 5, 7)"
+msgstr "מילות מפתח מוצעות - (סוג כותרת 1, 2, 5, 7)"
+
+#: admin/settings/nasa_05_type_heading.php:313
+msgid "Support Font Icons"
+msgstr "תמיכה בסמלי גופן"
+
+#: admin/settings/nasa_03_1_header_heading.php:482
+msgid "Support Search By SKU"
+msgstr "תמיכה בחיפוש לפי מק\"ט"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:140
+msgid "Support Upload ICO medias"
+msgstr "תמיכה בהעלאת מדיה ICO"
+
+#: admin/settings/nasa_01_general_heading.php:196
+msgid "Support Upload SVG medias"
+msgstr "תמיכה בהעלאת מדיה מסוג SVG"
+
+#: admin/settings/nasa_01_general_heading.php:301
+msgid "Sync"
+msgstr "סינכרון"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:353
+msgid "Tab Global"
+msgstr "כרטיסייה גלובלית"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:583
+#: admin/settings/nasa_07_2_product_page_heading.php:232
+msgid "Tablet Columns"
+msgstr "עמודות טאבלט"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:307
+msgid "Tabs Align"
+msgstr "יישור כרטיסיות"
+
+#: cores/nasa-theme-options.php:81
+msgid "Tabs Background color"
+msgstr "כרטיסיות צבע רקע"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:285
+msgid "Tabs Layouts"
+msgstr "פריסות כרטיסיות"
+
+#: cores/nasa-theme-options.php:94
+msgid "Tabs text color"
+msgstr "צבע טקסט של כרטיסיות"
+
+#: archive.php:68
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "ארכיון תגים: %s"
+
+#: includes/nasa-blog-grid.php:98 includes/nasa-blog-list.php:96
+#: includes/nasa-blog-masonry-isotope.php:103
+#: includes/nasa-blog-standard.php:90
+#, php-format
+msgid "Tagged %1$s"
+msgstr "מתויג %1$s"
+
+#: widgets/wg-nasa-tag-cloud.php:24 widgets/wg-nasa-tag-cloud.php:44
+msgid "Tags"
+msgstr "תגים"
+
+#: admin/settings/nasa_08_blog_heading.php:148
+#: admin/settings/nasa_08_blog_heading.php:205
+msgid "Tags info"
+msgstr "מידע על תגים"
+
+#: admin/classes/class.options_machine.php:379
+msgid "Tahoma, Geneva"
+msgstr "טהומה, ז'נבה"
+
+#: widgets/wg-nasa-tag-cloud.php:149
+msgid "Taxonomy:"
+msgstr "טקסונומיה:"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:93
+msgid "Text Align"
+msgstr "יישור טקסט"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:86
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: admin/settings/nasa_05_type_heading.php:71
+msgid "Text fonts (paragraphs, etc..)"
+msgstr "גופני טקסט (פסקאות וכו')"
+
+#: admin/settings/nasa_03_1_header_heading.php:708
+msgid "Text Promotion Color"
+msgstr "צבע קידום טקסט"
+
+#. %s: version number
+#: admin/classes/class-tgm-plugin-activation.php:2044
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Thank you!"
+msgstr "תודה לך!"
+
+#: admin/settings/nasa_03_1_header_heading.php:344
+msgid "The Block beside Logo in Header Type 2"
+msgstr "הבלוק לצד הלוגו בכותרת 2"
+
+#: admin/settings/nasa_03_1_header_heading.php:356
+msgid "The Block beside Main menu in Header Type 4, 6"
+msgstr "החסימה לצד התפריט הראשי בכותרת 4, 6"
+
+#: admin/settings/nasa_01_general_heading.php:259
+msgid "The block editor from managing widgets"
+msgstr "עורך החסימה מניהול ווידג'טים"
+
+#: admin/settings/nasa_03_1_header_heading.php:332
+msgid "The Block Under Header"
+msgstr "הבלוק מתחת לכותרת"
+
+#: admin/importer/wordpress-importer.php:226
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"לא ניתן היה למצוא את קובץ הייצוא ב-<code>%s</code>. סביר להניח שזה נגרם "
+"מבעיית הרשאות."
+
+#: admin/importer/wordpress-importer.php:163
+msgid "The file does not exist, please try again."
+msgstr "הקובץ אינו קיים, אנא נסה שוב."
+
+#: admin/functions/functions.admin.php:1229
+#: admin/functions/functions.admin.php:1235
+msgid "The file you are trying to upload is not a .zip file. Please try again."
+msgstr "הקובץ שאתה מנסה להעלות אינו קובץ .zip. בבקשה נסה שוב."
+
+#: admin/classes/class-tgm-plugin-activation.php:349
+#, php-format
+#| msgid ""
+#| "The following plugins need to be updated to their latest version to "
+#| "ensure maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"יש לעדכן את התוסף הבא לגרסה האחרונה שלו כדי להבטיח תאימות מרבית לנושא זה: "
+"%1$s."
+msgstr[1] ""
+"יש לעדכן את התוספים הבאים לגרסה האחרונה שלהם כדי להבטיח תאימות מרבית לנושא "
+"זה: %1$s."
+
+#: admin/classes/class-tgm-plugin-activation.php:377
+#: admin/classes/class-tgm-plugin-activation.php:3005
+msgid "The following plugin was activated successfully:"
+msgstr "התוסף הבא הופעל בהצלחה:"
+
+#: admin/classes/class-tgm-plugin-activation.php:361
+#, php-format
+#| msgid "The following recommended plugins are currently inactive: %1$s."
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "הפלאגין המומלץ הבא אינו פעיל כרגע: %1$s."
+msgstr[1] "התוספים המומלצים הבאים אינם פעילים כרגע: %1$s."
+
+#: admin/classes/class-tgm-plugin-activation.php:357
+#, php-format
+#| msgid "The following required plugins are currently inactive: %1$s."
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "הפלאגין הנדרש הבא אינו פעיל כעת: %1$s."
+msgstr[1] "התוספים הנדרשים הבאים אינם פעילים כעת: %1$s."
+
+#: admin/classes/class-tgm-plugin-activation.php:3578
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה וההפעלה מתחיל. תהליך זה עשוי להימשך זמן מה בחלק מהמארחים, אז נא "
+"להתאזר בסבלנות."
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: admin/classes/class-tgm-plugin-activation.php:3591
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"תהליך ההתקנה מתחיל. תהליך זה עשוי להימשך זמן מה בחלק מהמארחים, אז נא להתאזר "
+"בסבלנות."
+
+#: admin/settings/nasa_01_general_heading.php:26
+msgid "The max-width of your site will be INPUT + 1200 (pixel)."
+msgstr "הרוחב המרבי של האתר שלך יהיה INPUT + 1200 (פיקסל)."
+
+#: includes/nasa-mini-cart-add-coupon.php:42
+#, php-format
+msgid "The maximum spend for this coupon is&nbsp;%s"
+msgstr "ההוצאה המקסימלית עבור קופון זה היא %s"
+
+#: includes/nasa-mini-cart-add-coupon.php:39
+#, php-format
+msgid "The minimum spend for this coupon is&nbsp;%s"
+msgstr "ההוצאה המינימלית עבור קופון זה היא %s"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:101
+msgid ""
+"The mobile top navigation will only appears when the website is in mobile "
+"app mode"
+msgstr "הניווט העליון לנייד יופיע רק כאשר האתר נמצא במצב אפליקציה לנייד"
+
+#: cores/nasa-custom-wc-ajax.php:861
+msgid "The page location you are viewing is marked with"
+msgstr "מיקום העמוד שבו אתה צופה מסומן איתו"
+
+#: admin/classes/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"חבילת הפלאגין המרוחק מורכבת מיותר מקובץ אחד, אך הקבצים אינם ארוזים בתיקייה."
+
+#: admin/classes/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"חבילת הפלאגין המרוחק אינה מכילה תיקיה עם הקלקול הרצוי ושינוי השם לא עבד."
+
+#: widgets/wg-nasa-tag-cloud.php:134
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that "
+"support the tag cloud widget."
+msgstr "ענן התגים לא יוצג מכיוון שאין טקסונומיות התומכות בווידג'ט ענן התגים."
+
+#: admin/settings/nasa_09_promo_popup_heading.php:154
+msgid ""
+"The time unit in the line is calculated in hours and must be greater than 0. "
+"EX: 24, 32, 48,.."
+msgstr ""
+"יחידת הזמן בשורה מחושבת בשעות ועליה להיות גדולה מ-0. לדוגמא: 24, 32, 48,.."
+
+#: includes/nasa-sidebar-wishlist.php:7
+msgid "Theme has not been installed or enabled Wishlist Feature."
+msgstr "ערכת הנושא לא הותקנה או הופעלה תכונת רשימת משאלות."
+
+#: admin/front-end/options.php:23 admin/front-end/options.php:41
+#: admin/functions/functions.interface.php:73
+msgid "Theme Options"
+msgstr "אפשרויות ערכת נושא"
+
+#: admin/importer/nasa-importer.php:23 admin/importer/nasa-importer.php:24
+msgid "Theme Setup"
+msgstr "הגדרת ערכת נושא"
+
+#: woocommerce/single-product-reviews.php:207
+msgid "There are no reviews yet."
+msgstr "אין עדיין ביקורות."
+
+#: woocommerce/cart/cart-shipping.php:79
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"אין אפשרויות משלוח זמינות. אנא ודא שהכתובת שלך הוזנה כהלכה, או צור איתנו קשר "
+"אם אתה זקוק לעזרה כלשהי."
+
+#: admin/classes/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "ישנם תוספים נדרשים או מומלצים אחד או יותר להתקנה, עדכון או הפעלה."
+
+#: cores/nasa-theme-footers.php:475
+#, php-format
+#| msgid ""
+#| "There are <span class=\"primary-color\"> %s item</span> in your cart."
+msgid "There is <span class=\"primary-color\"> %s item</span> in your cart."
+msgid_plural ""
+"There are <span class=\"primary-color\"> %s items</span> in your cart."
+msgstr[0] "יש <span class=\"primary-color\"> %s פריט</span> בעגלה שלך."
+msgstr[1] "יש <span class=\"primary-color\"> %s פריטים</span> בעגלה שלך."
+
+#: admin/classes/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "יש עדכון זמין עבור: %1$s."
+msgstr[1] "ישנם עדכונים זמינים עבור התוספים הבאים: %1$s."
+
+#: admin/importer/parsers.php:44 admin/importer/parsers.php:84
+#: admin/importer/parsers.php:93
+msgid "There was an error when reading this WXR file"
+msgstr "אירעה שגיאה בעת קריאת קובץ WXR זה"
+
+#: admin/importer/parsers.php:97 admin/importer/parsers.php:102
+#: admin/importer/parsers.php:294 admin/importer/parsers.php:494
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "לא נראה שזה קובץ WXR, מספר גירסת WXR חסר/לא חוקי"
+
+#: cores/nasa-woo-actions.php:1510 woocommerce/single-product-reviews.php:37
+msgid "This field is required."
+msgstr "זהו שדה חובה."
+
+#: admin/classes/class-tgm-plugin-activation.php:589
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "יש לעדכן את התוסף הזה כדי להיות תואם לערכת הנושא שלך."
+
+#: admin/classes/class-tgm-plugin-activation.php:345
+#, php-format
+#| msgid "This theme recommends the following plugins: %1$s."
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ערכת נושא זה ממליצה על הפלאגין הבא: %1$s."
+msgstr[1] "ערכת נושא זה ממליצה על התוספים הבאים: %1$s."
+
+#: admin/classes/class-tgm-plugin-activation.php:341
+#, php-format
+#| msgid "This theme requires the following plugins: %1$s."
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ערכת נושא זה דורשת את הפלאגין הבא: %1$s."
+msgstr[1] "ערכת נושא זה דורשת את התוספים הבאים: %1$s."
+
+#: admin/settings/nasa_09_promo_popup_heading.php:174
+msgid ""
+"This width applies to desktops and medium screens (screens with a width "
+"smaller than the width you are setting will automatically have a width of "
+"90% of the full screen)."
+msgstr ""
+"רוחב זה חל על שולחנות עבודה ומסכים בינוניים (מסכים ברוחב הקטן מהרוחב שאתה "
+"מגדיר יקבלו באופן אוטומטי רוחב של 90% מהמסך המלא)."
+
+#: admin/importer/tpl-import-demo-data.php:54
+msgid ""
+"This wizard will set up your theme, install plugins, import content. It is "
+"optional & should take only a few minutes."
+msgstr ""
+"אשף זה יגדיר את ערכת הנושא שלך, יתקין תוספים, ייבא תוכן. זה אופציונלי וצריך "
+"לקחת רק כמה דקות."
+
+#: admin/importer/wordpress-importer.php:242
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"ייתכן שקובץ WXR זה (גרסה %s) אינו נתמך על ידי גרסה זו של היבואן. נא לשקול "
+"לעדכן."
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:103
+msgid "Thumbnail Layout"
+msgstr "פריסת תמונות ממוזערות"
+
+#: admin/classes/class.options_machine.php:855
+msgid "Time ago"
+msgstr "פעם"
+
+#: admin/classes/class.options_machine.php:378
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: cores/nasa-theme-options.php:57
+msgid "Tiny"
+msgstr "זָעִיר"
+
+#: widgets/wg-nasa-product-brands.php:42
+#: widgets/wg-nasa-product-categories.php:64
+#: widgets/wg-nasa-product-filter-alphabet.php:32
+#: widgets/wg-nasa-product-filter-multi-categories.php:38
+#: widgets/wg-nasa-product-filter-multi-tags.php:38
+#: widgets/wg-nasa-product-filter-price-list.php:26
+#: widgets/wg-nasa-product-filter-price.php:36
+#: widgets/wg-nasa-product-filter-status.php:32
+#: widgets/wg-nasa-product-filter-variations.php:138
+#: widgets/wg-nasa-reset-filter.php:39
+#: admin/classes/class.options_machine.php:1104
+msgid "Title"
+msgstr "כותרת"
+
+#: widgets/wg-nasa-recent-posts.php:107 widgets/wg-nasa-tag-cloud.php:122
+msgid "Title:"
+msgstr "כותרת:"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2467
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "להפעיל <span class=\"count\">(%s)</span>"
+msgstr[1] "להפעיל <span class=\"count\">(%s)</span>"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2459
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "להתקין <span class=\"count\">(%s)</span>"
+msgstr[1] "להתקין <span class=\"count\">(%s)</span>"
+
+#: admin/importer/wordpress-importer.php:299
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+"כדי להקל עליך לערוך ולשמור את התוכן המיובא, ייתכן שתרצה להקצות מחדש את מחבר "
+"הפריט המיובא למשתמש קיים באתר זה. לדוגמה, ייתכן שתרצה לייבא את כל הערכים "
+"כערכים של <code>admin</code>."
+
+#: cores/nasa-theme-footers.php:866
+msgid "Toggle fullscreen"
+msgstr "החלף מסך מלא"
+
+#: cores/nasa-theme-options.php:119
+msgid "Toggle Icon"
+msgstr "החלף סמל"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:54
+msgid "Toggle Sidebar"
+msgstr "החלף את הסרגל הצידי"
+
+#: admin/settings/nasa_03_1_header_heading.php:547
+msgid "Toggle Top Bar"
+msgstr "החלף את הסרגל העליון"
+
+#: admin/settings/nasa_03_1_header_heading.php:557
+msgid "Toggle Top Bar - Initialize"
+msgstr "החלף את הסרגל העליון - אתחול"
+
+#: admin/settings/nasa_01_general_heading.php:235
+msgid "Toggle Widget Content"
+msgstr "החלף את תוכן הווידג'ט"
+
+#: admin/settings/nasa_01_general_heading.php:242
+msgid "Toggle Widget Content - Always Close"
+msgstr "החלף תוכן ווידג'ט - סגור תמיד"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:80
+msgid "Top"
+msgstr "חלק עליון"
+
+#: admin/settings/nasa_03_1_header_heading.php:537
+#: admin/settings/nasa_07_2_product_page_heading.php:30
+msgid "Top Bar"
+msgstr "בר עליון"
+
+#: admin/settings/nasa_03_1_header_heading.php:590
+msgid "Top Bar Content"
+msgstr "תוכן הסרגל העליון"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:64
+msgid "Top Bar Limit widgets to Show More"
+msgstr "סרגל עליון הגבל ווידג'טים להצגת עוד"
+
+#: admin/settings/nasa_03_1_header_heading.php:530
+#: admin/settings/nasa_03_1_header_heading.php:531
+msgid "Top Bar Options"
+msgstr "אפשרויות בר העליון"
+
+#: admin/settings/nasa_03_1_header_heading.php:630
+msgid "Top Bar Promotion News"
+msgstr "חדשות קידום בר מובילים"
+
+#: admin/settings/nasa_03_1_header_heading.php:692
+msgid "Top Bar Promotion News Auto Scroll"
+msgstr "Top Bar Promotion News Auto Scroll"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:31
+msgid "Top Bar Type 2"
+msgstr "בר עליון סוג 2"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:32
+msgid "Top Bar Type 3"
+msgstr "בר עליון סוג 3"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:318
+msgid "Top Filter Categories"
+msgstr "קטגוריות סינון מובילות"
+
+#: functions.php:103
+msgid "Top Menu - Only show level 1"
+msgstr "תפריט עליון - הצג רק רמה 1"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:56
+msgid "Top To Bottom"
+msgstr "מלמעלה למטה"
+
+#: admin/settings/nasa_03_1_header_heading.php:602
+msgid "Topbar Background"
+msgstr "רקע Topbar"
+
+#: admin/settings/nasa_03_1_header_heading.php:609
+msgid "Topbar Text color"
+msgstr "צבע טקסט בסרגל העליון"
+
+#: admin/settings/nasa_03_1_header_heading.php:616
+msgid "Topbar Text color hover"
+msgstr "ריחוף צבע טקסט בסרגל העליון"
+
+#: includes/nasa-after-add-to-cart.php:35
+#: includes/nasa-after-add-to-cart.php:129 includes/nasa-mini-cart-total.php:5
+#: woocommerce/cart/cart.php:146 woocommerce/checkout/review-order.php:164
+#: woocommerce/checkout/thankyou.php:54
+msgid "Total"
+msgstr "סה\"כ"
+
+#: image.php:93
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks סגורים, אבל אתה יכול <a class=\"comment-link\" href=\"#respond\" "
+"title=\"פרסם תגובה\">פרסם תגובה</a>."
+
+#: admin/settings/nasa_98_backup_options_heading.php:26
+msgid "Transfer Theme Options Data"
+msgstr "העבר נתונים של אפשרויות ערכת נושא"
+
+#: admin/settings/nasa_01_general_heading.php:160
+msgid "Transition Loading"
+msgstr "טעינת מעבר"
+
+#: admin/classes/class.options_machine.php:376
+msgid "Trebuchet"
+msgstr "טרבושה"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:115
+msgid "Turn Off Sidebar on Mobile Device"
+msgstr "כבה את סרגל הצד במכשיר נייד"
+
+#: admin/classes/class-tgm-plugin-activation.php:2603
+#: admin/settings/nasa_06_breadcrumb_heading.php:46
+msgid "Type"
+msgstr "סוּג"
+
+#: admin/settings/nasa_05_type_heading.php:28
+msgid "Type Font"
+msgstr "הקלד גופן"
+
+#: admin/theme-admin.php:333
+msgid "Type of Template"
+msgstr "סוג התבנית"
+
+#: admin/settings/nasa_03_1_header_heading.php:637
+msgid "Type Show"
+msgstr "הקלד הצג"
+
+#: admin/settings/nasa_05_type_heading.php:15
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:373
+msgid "Uncategorized Product"
+msgstr "מוצר לא מסווג"
+
+#. %s: shipping location (prefix e.g. 'to' + ISO 3166-1 alpha-2 country code)
+#: cores/nasa-wc-checkout-ext.php:96
+#, php-format
+msgid ""
+"Unfortunately <strong>we do not ship %s</strong>. Please enter an "
+"alternative shipping address."
+msgstr ""
+"לצערי <strong>אנחנו לא שולחים %s</strong>. נא להזין כתובת חלופית למשלוח."
+
+#: woocommerce/checkout/thankyou.php:25
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+"למרבה הצער לא ניתן לעבד את ההזמנה שלך מכיוון שהבנק/הסוחר שמקורו דחה את העסקה "
+"שלך. אנא נסה את הרכישה שלך שוב."
+
+#: admin/theme-admin.php:373
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:337
+msgid "Unlimited"
+msgstr "ללא הגבלה"
+
+#: admin/classes/class-tgm-plugin-activation.php:2775
+msgid "Update"
+msgstr "עדכון"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2662
+#, php-format
+msgid "Update %2$s"
+msgstr "עדכן %2$s"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2463
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "עדכון זמין <span class=\"count\">(%s)</span>"
+msgstr[1] "עדכון זמין <span class=\"count\">(%s)</span>"
+
+#: includes/nasa-after-add-to-cart.php:161
+#: includes/nasa-after-add-to-cart.php:162 woocommerce/cart/cart.php:181
+#: woocommerce/cart/cart.php:182 woocommerce/cart/mini-cart.php:30
+msgid "Update Cart"
+msgstr "עדכן עגלת קניות"
+
+#: admin/classes/class-tgm-plugin-activation.php:2402
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#: admin/classes/class-tgm-plugin-activation.php:590
+msgid "Update Required"
+msgstr "נדרש עדכון"
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr "עדכן סיכומים"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3564
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "מעדכן את הפלאגין %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "עדכון תוסף: %s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2736
+msgid "Upgrade message from the plugin author:"
+msgstr "שדרוג הודעת מחבר התוסף:"
+
+#: admin/classes/class.options_machine.php:1042
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "שדרג את גרסת WordPress שלך לתמיכה מלאה במדיה."
+
+#: admin/classes/class.options_machine.php:701
+#: admin/classes/class.options_machine.php:1033
+#: admin/classes/class.options_machine.php:1110
+msgid "Upload"
+msgstr "העלה"
+
+#: admin/settings/nasa_05_type_heading.php:211
+msgid "Upload Custom Font"
+msgstr "העלה גופן מותאם אישית"
+
+#: admin/functions/functions.admin.php:1297
+msgid "Upload new custom font success!"
+msgstr "העלה גופן מותאם אישית חדש בהצלחה!"
+
+#: cores/nasa-woo-functions.php:2239
+msgid "Upload photos"
+msgstr "העלה תמונות"
+
+#: cores/nasa-woo-functions.php:2285
+msgid "Upload video"
+msgid_plural "Upload videos"
+msgstr[0] "העלה סרטון"
+msgstr[1] "העלה סרטון"
+
+#: includes/nasa-checkout-modern-billing-detail.php:33
+msgid "Use a different billing address"
+msgstr "השתמש בכתובת חיוב אחרת"
+
+#: includes/nasa-login-register-form.php:125
+msgid "Username"
+msgstr "שם משתמש"
+
+#: cores/nasa-shop-ajax.php:212
+msgid "Username is required."
+msgstr "נדרש שם משתמש."
+
+#: includes/nasa-login-register-form.php:62
+#: woocommerce/global/form-login.php:26
+msgid "Username or email"
+msgstr "שם משתמש או דוא\"ל"
+
+#: admin/settings/nasa_04_style_color_heading.php:96
+msgid "Variants Badge Color"
+msgstr "וריאנטים צבע תג"
+
+#: admin/classes/class.options_machine.php:375
+msgid "Verdana, Geneva"
+msgstr "ורדנה, ז'נבה"
+
+#: cores/nasa-theme-footers.php:712 admin/classes/class.options_machine.php:856
+#: admin/classes/class.options_machine.php:901
+msgid "Verified"
+msgstr "מְאוּמָת"
+
+#: admin/classes/class-tgm-plugin-activation.php:2607
+msgid "Version"
+msgstr "גִרְסָה"
+
+#: cores/nasa-theme-options.php:74
+#: admin/settings/nasa_07_3_product_detail_heading.php:108
+msgid "Vertical"
+msgstr "אֲנָכִי"
+
+#: functions.php:102 admin/settings/nasa_03_1_header_heading.php:129
+msgid "Vertical Menu"
+msgstr "תפריט אנכי"
+
+#: admin/settings/nasa_03_1_header_heading.php:168
+msgid "Vertical Menu > Main Menu"
+msgstr "תפריט אנכי > תפריט ראשי"
+
+#: admin/settings/nasa_03_1_header_heading.php:226
+msgid "Vertical Menu Background - Focus"
+msgstr "רקע תפריט אנכי - פוקוס"
+
+#: admin/settings/nasa_03_1_header_heading.php:236
+msgid "Vertical Menu Background - Focus - Sticky"
+msgstr "רקע תפריט אנכי - פוקוס - דביק"
+
+#: admin/settings/nasa_03_1_header_heading.php:246
+msgid "Vertical Menu Text Color - Focus"
+msgstr "צבע טקסט בתפריט אנכי - פוקוס"
+
+#: admin/settings/nasa_03_1_header_heading.php:256
+msgid "Vertical Menu Text Color - Focus - Sticky"
+msgstr "תפריט אנכי צבע טקסט - פוקוס - דביק"
+
+#: admin/settings/nasa_03_1_header_heading.php:151
+msgid "Vertical Root Level - Limit"
+msgstr "רמת שורש אנכית - מגבלה"
+
+#: admin/settings/nasa_03_1_header_heading.php:141
+msgid "Vertical Root Level - Parent - 0"
+msgstr "רמת שורש אנכית - הורה - 0"
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Very poor"
+msgstr "גרוע מאוד"
+
+#: admin/settings/nasa_04_style_color_heading.php:68
+msgid "Video Badge Color"
+msgstr "צבע תג וידאו"
+
+#: archive.php:90
+msgid "Videos"
+msgstr "סרטונים"
+
+#: admin/settings/nasa_05_type_heading.php:203
+msgid "Vietnamese"
+msgstr "וייטנאמית"
+
+#: cores/nasa-woo-actions.php:1864 cores/nasa-woo-actions.php:1865
+#: woocommerce/content-widget-product.php:77
+msgid "View"
+msgstr "נוף"
+
+#: cores/nasa-theme-functions.php:992
+#, php-format
+msgid "View all posts by %s"
+msgstr "הצג את כל הפוסטים מאת %s"
+
+#: includes/nasa-after-add-to-cart.php:165
+#: includes/nasa-after-add-to-cart.php:166
+msgid "View cart"
+msgstr "צפה בסל"
+
+#: includes/nasa-single-product-lightbox.php:45
+msgid "VIEW DETAIL"
+msgstr "צפה בפרטים"
+
+#: includes/nasa-combo-products.php:21
+msgid "View more"
+msgstr "ראה עוד"
+
+#: woocommerce/single-product/tabs/tabs.php:85
+msgid "View Product Information"
+msgstr "הצג מידע על המוצר"
+
+#: cores/nasa-woo-actions.php:1915
+msgid "View the promotion gifts"
+msgstr "צפו במתנות הקידום"
+
+#: admin/importer/tpl-additional-homepage-data.php:17
+#: admin/importer/tpl-import-demo-data.php:167
+#: admin/importer/tpl-import-demo-data.php:188
+msgid "View your website"
+msgstr "הצג את האתר שלך"
+
+#: dokan/store-lists-loop.php:96
+msgid "Visit Store"
+msgstr "בקר בחנות"
+
+#: admin/front-end/options.php:52
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "אזהרה- חלונית אפשרויות זו לא תעבוד כראוי ללא javascript!"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:41
+msgid "Web Mobile"
+msgstr "אינטרנט נייד"
+
+#: dokan/store-header.php:155
+msgid "Weekly Store Timing"
+msgstr "תזמון שבועי בחנות"
+
+#: cores/nasa-woo-functions.php:1798
+msgid "Welcome"
+msgstr "ברוך הבא"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:109
+msgid "When this option is enabled, all custom tabs will be displayed"
+msgstr "כאשר אפשרות זו מופעלת, כל הכרטיסיות המותאמות אישית יוצגו"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:145
+msgid ""
+"When you move your mouse outside the page you are interacting with, there "
+"will be a pop-up window containing the information you selected in the "
+"section (Popup Exit Intent Content)."
+msgstr ""
+"כאשר אתה מזיז את העכבר מחוץ לדף איתו אתה מקיים אינטראקציה, יופיע חלון קופץ "
+"המכיל את המידע שבחרת בקטע (Popup Exit Intent Content)."
+
+#: cores/nasa-theme-footers.php:218
+msgid "Where You Are"
+msgstr "איפה אתה"
+
+#: admin/settings/nasa_01_general_heading.php:38
+msgid "Wide"
+msgstr "רָחָב"
+
+#: admin/settings/nasa_01_general_heading.php:229
+#: admin/settings/nasa_01_general_heading.php:230
+msgid "Widget Options"
+msgstr "אפשרויות יישומון"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:42
+msgid "Width - Logo"
+msgstr "רוחב - לוגו"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:112
+msgid "Width - Mobile Logo"
+msgstr "רוחב - לוגו נייד"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:77
+msgid "Width - Sticky Logo"
+msgstr "רוחב - לוגו דביק"
+
+#: cores/nasa-theme-options.php:33
+msgid "Width full side"
+msgstr "רוחב צד מלא"
+
+#: cores/nasa-theme-footers.php:519 cores/nasa-wishlist.php:174
+#: cores/nasa-wishlist.php:224 cores/nasa-woo-functions.php:685
+#: cores/nasa-woo-functions.php:685 cores/nasa-woo-functions.php:726
+#: cores/nasa-woo-functions.php:731 cores/nasa-woo-functions.php:750
+#: cores/nasa-woo-functions.php:755 cores/nasa-woo-functions.php:1310
+#: cores/nasa-woo-functions.php:1310 includes/nasa-mobile-bottom-bar-app.php:84
+#: includes/nasa-mobile-bottom-bar-app.php:86
+#: includes/nasa-mobile-bottom-bar.php:84
+#: includes/nasa-mobile-bottom-bar.php:86
+msgid "Wishlist"
+msgstr "רשימת משאלות"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:71
+#: admin/settings/nasa_07_4_product_compare_heading.php:72
+msgid "Wishlist Options"
+msgstr "אפשרויות ברשימת משאלות"
+
+#: includes/nasa-sidebar-wishlist_content.php:202
+msgid "Wishlist Page"
+msgstr "עמוד משאלות"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:97
+msgid "Wishlist Sidebar Layout"
+msgstr "פריסת סרגל הצד ברשימת המשאלות"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:53
+msgid "With Background"
+msgstr "עם רקע"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:47
+msgid "With or Without Background."
+msgstr "עם או בלי רקע."
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:52
+msgid "Without Background - Default use Background Color"
+msgstr "ללא רקע - שימוש ברירת מחדל בצבע רקע"
+
+#: cores/nasa-theme-options.php:111
+msgid "Without Border Wrapper"
+msgstr "ללא מעטפת גבול"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:279
+#: admin/settings/nasa_07_3_product_detail_heading.php:280
+msgid "WooCommerce Tabs - Options"
+msgstr "לשוניות WooCommerce - אפשרויות"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:329
+msgid "WooCommerce Tabs - Read more / Show less (Mobile App - Simulator)"
+msgstr "לשוניות WooCommerce - קרא עוד / הצג פחות (אפליקציה לנייד - סימולטור)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:322
+msgid ""
+"WooCommerce Tabs Off - Canvas in Mobile (Not use Mobile App - Simulator)"
+msgstr ""
+"לשוניות WooCommerce כבוי - בד במובייל (לא להשתמש באפליקציה לנייד - סימולטור)"
+
+#: admin/importer/tpl-import-demo-data.php:165
+msgid "WooCommerce Tools"
+msgstr "כלי WooCommerce"
+
+#: admin/classes/class-tgm-plugin-activation.php:2363
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: admin/front-end/options.php:62 admin/front-end/options.php:87
+#: admin/front-end/options.php:90
+msgid "Working..."
+msgstr "עובד..."
+
+#: admin/importer/tpl-homepage-list.php:33
+msgid "WPBakery - Homepage List"
+msgstr "WPBakery - רשימת עמודי הבית"
+
+#: admin/settings/nasa_01_general_heading.php:249
+msgid "Wrapper Widget - Sidebar Classic"
+msgstr "ווידג'ט עטיפה - סרגל צד קלאסי"
+
+#: cores/nasa-theme-footers.php:859 woocommerce/single-product-reviews.php:164
+msgid "Write a review"
+msgstr "כתוב ביקורת"
+
+#: cores/nasa-theme-options.php:53
+msgid "X-Large"
+msgstr "אקסטרה לארג"
+
+#: archive.php:81
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "ארכיון שנתי: %s"
+
+#: cores/nasa-theme-options.php:232 cores/nasa-theme-options.php:244
+#: cores/nasa-theme-options.php:256 cores/nasa-theme-options.php:268
+#: admin/settings/nasa_03_1_header_heading.php:274
+#: admin/settings/nasa_07_1_product_global_heading.php:383
+#: admin/settings/nasa_07_1_product_global_heading.php:517
+#: admin/settings/nasa_07_2_product_page_heading.php:300
+msgid "Yes"
+msgstr "כן"
+
+#: cores/nasa-theme-options.php:24 cores/nasa-theme-options.php:134
+#: cores/nasa-theme-options.php:143 cores/nasa-theme-options.php:199
+#: cores/nasa-theme-options.php:211
+#: admin/settings/nasa_01_general_heading.php:189
+#: admin/settings/nasa_01_general_heading.php:197
+#: admin/settings/nasa_03_3_mobile_heading.php:116
+#: admin/settings/nasa_07_1_product_global_heading.php:366
+#: admin/settings/nasa_07_3_product_detail_heading.php:344
+#: admin/settings/nasa_09_promo_popup_heading.php:36
+msgid "Yes, Please!"
+msgstr "כן בבקשה!"
+
+#: admin/settings/nasa_98_backup_options_heading.php:30
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"אתה יכול להעביר את נתוני האפשרויות השמורים בין התקנות שונות על ידי העתקת "
+"הטקסט בתוך תיבת הטקסט. כדי לייבא נתונים מהתקנה אחרת, החלף את הנתונים בתיבת "
+"הטקסט בנתונים מהתקנה אחרת ולחץ על \"אפשרויות ייבוא\"."
+
+#: admin/settings/nasa_98_backup_options_heading.php:22
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"אתה יכול להשתמש בשני הכפתורים למטה כדי לגבות את האפשרויות הנוכחיות שלך, "
+"ולאחר מכן לשחזר אותן במועד מאוחר יותר. זה שימושי אם אתה רוצה להתנסות "
+"באפשרויות אבל רוצה לשמור את ההגדרות הישנות למקרה שתזדקק להן בחזרה."
+
+#: woocommerce/single-product/up-sells.php:67
+msgid "You may also like&hellip;"
+msgstr "אולי גם תאהב&hellip;"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:566
+#: woocommerce/cart/cross-sells.php:66
+msgid "You may be interested in&hellip;"
+msgstr "אולי יעניין אותך&hellip;"
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:130
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "עליך להיות %1$s מחובר %2$s כדי לפרסם ביקורת."
+
+#: includes/nasa-age-verification.php:16
+msgid "You must be 18 years of age or older to view page."
+msgstr "עליך להיות בן 18 ומעלה כדי לצפות בדף."
+
+#: includes/nasa-checkout-default.php:13 includes/nasa-checkout-modern.php:16
+msgid "You must be logged in to checkout."
+msgstr "עליך להיות מחובר לקופה."
+
+#: includes/nasa-age-verification.php:37
+msgid "Your access is restricted because of your age."
+msgstr "הגישה שלך מוגבלת בגלל גילך."
+
+#: cores/nasa-woo-actions.php:686 cores/nasa-woo-actions.php:697
+#: cores/nasa-woo-actions.php:702
+msgid "Your cart is currently empty."
+msgstr "העגלה שלך ריקה כרגע."
+
+#: cores/nasa-woo-functions.php:30
+#| msgid ""
+#| "<span class=\"nasa-extra-empty\">Before proceed to checkout you must add "
+#| "some products to shopping cart.<br />You will find a lot of interesting "
+#| "products on our \"Shop\" page.</span>"
+msgid ""
+"Your cart is currently empty.<span class=\"nasa-extra-empty\">Before proceed "
+"to checkout you must add some products to shopping cart.<br />You will find "
+"a lot of interesting products on our \"Shop\" page.</span>"
+msgstr ""
+"העגלה שלך ריקה כרגע.<span class=\"nasa-extra-empty\">לפני שתמשיך לקופה עליך "
+"להוסיף כמה מוצרים לעגלת הקניות.<br />תמצא הרבה מוצרים מעניינים בדף \"חנות\" "
+"שלנו. </span>"
+
+#: cores/nasa-custom-wc-ajax.php:902
+msgid "Your checkout time has expired."
+msgstr "זמן התשלום שלך פג."
+
+#: cores/nasa-theme-functions.php:950
+msgid "Your comment is awaiting moderation."
+msgstr "ההערה שלך ממתינה למתן."
+
+#: includes/nasa-after-add-to-cart.php:22 includes/nasa-checkout-default.php:61
+#: includes/nasa-checkout-modern.php:84 includes/nasa-checkout-modern.php:164
+msgid "Your Order"
+msgstr "ההזמנה שלך"
+
+#: cores/nasa-custom-wc-ajax.php:1410
+msgid "Your order notes saved."
+msgstr "הערות ההזמנה שלך נשמרו."
+
+#: woocommerce/single-product-reviews.php:143
+msgid "Your rating"
+msgstr "הדירוג שלך"
+
+#: woocommerce/single-product-reviews.php:154
+msgid "Your review"
+msgstr "הביקורת שלך"
+
+#: woocommerce/single-product-reviews.php:154
+msgid "Your review *"
+msgstr "הביקורת שלך *"
+
+#: cores/nasa-woo-functions.php:2654 woocommerce/single-product-reviews.php:96
+msgid "Your review has been submitted"
+msgstr "הביקורת שלך נשלחה"
+
+#: admin/importer/tpl-import-demo-data.php:161
+#: admin/importer/tpl-import-demo-data.php:183
+msgid "Your theme has been all setup. Enjoy your new theme."
+msgstr "ערכת הנושא שלך הוגדרה כולה. תהנה מהנושא החדש שלך."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:117
+msgid "Your website will just be a product introduction website."
+msgstr "האתר שלך יהיה רק ​​אתר היכרות עם מוצר."
+
+#: admin/importer/wordpress-importer.php:1097
+msgid "Zero size file downloaded"
+msgstr "הורד קובץ בגודל אפס"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:52
+msgid "Zoom"
+msgstr "תקריב"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Zoom in/out"
+msgstr "התקרב/הקטן"

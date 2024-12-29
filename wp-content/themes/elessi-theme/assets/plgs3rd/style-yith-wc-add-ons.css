@@ -1,0 +1,28 @@
+.html-ready body.single-product.woocommerce form.cart,
+.html-ready body.single-product.woocommerce .woocommerce-variation-add-to-cart {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+}
+
+#yith-wapo-container {
+    width: 100%;
+}
+
+#wapo-total-price-table table tr th,
+#wapo-total-price-table table tr td {
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 1.2;
+}
+
+.wapo-addon-description {
+    margin-bottom: 0;
+}
+
+.yith-wapo-block .yith-wapo-addon {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,48 @@
+.nasa-select-languages .trp-language-switcher,
+#nasa-menu-sidebar-content .trp-language-switcher {
+    width: auto;
+    height: auto;
+    border: none;
+}
+
+.nasa-select-languages .trp-language-switcher .trp-ls-shortcode-current-language,
+#nasa-menu-sidebar-content .trp-language-switcher .trp-ls-shortcode-current-language {
+    width: auto !important;
+    padding: 0;
+    background-image: none;
+    border: none;
+    visibility: visible;
+    background-color: transparent;
+}
+
+.nasa-select-languages .trp-language-switcher .trp-ls-shortcode-current-language > a,
+#nasa-menu-sidebar-content .trp-language-switcher .trp-ls-shortcode-current-language > a {
+    padding: 0;
+}
+
+.nasa-select-languages .trp-language-switcher .trp-ls-shortcode-language {
+    /* width: auto !important; */
+    padding: 0;
+    background-image: none;
+    border: 1px solid #ececec;
+    top: 100%;
+}
+
+#nasa-menu-sidebar-content .trp-language-switcher .trp-ls-shortcode-language {
+    width: 200px !important;
+    padding: 0;
+    background-image: none;
+    border: 1px solid #ececec;
+    bottom: 100%;
+    top: auto;
+}
+
+.nasa-select-languages .trp-language-switcher .trp-ls-shortcode-language > a,
+#nasa-menu-sidebar-content .trp-language-switcher .trp-ls-shortcode-language > a {
+    padding: 0px 10px;
+}
+
+.nasa-select-languages .trp-language-switcher .trp-ls-shortcode-language > a.trp-ls-disabled-language,
+#nasa-menu-sidebar-content .trp-language-switcher .trp-ls-shortcode-language > a.trp-ls-disabled-language {
+    cursor: not-allowed
+}

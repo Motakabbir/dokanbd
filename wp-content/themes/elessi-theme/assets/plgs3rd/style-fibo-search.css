@@ -1,0 +1,76 @@
+.nasa-sp-fibo-search .warpper-mobile-search .search-wrapper.sp-fibo-search-container {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.nasa-sp-fibo-search .sp-fibo-search .dgwt-wcas-style-pirx .dgwt-wcas-sf-wrapp,
+.nasa-sp-fibo-search .warpper-mobile-search .dgwt-wcas-style-pirx .dgwt-wcas-sf-wrapp {
+    padding: 0;
+}
+
+.nasa-sp-fibo-search .dgwt-wcas-sf-wrapp button.dgwt-wcas-search-submit,
+.nasa-sp-fibo-search .warpper-mobile-search .dgwt-wcas-sf-wrapp button.dgwt-wcas-search-submit,
+.nasa-sp-fibo-search .dgwt-wcas-search-filled .dgwt-wcas-sf-wrapp button.dgwt-wcas-search-submit {
+    top: 50%;
+    left: auto;
+    right: 15px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.nasa-sp-fibo-search .dgwt-wcas-preloader {
+    margin-right: 25px;
+}
+
+.nasa-sp-fibo-search .nasa-search-space .nasa-show-search-form.nasa-search-relative {
+    padding: 0;
+}
+
+.nasa-sp-fibo-search .nasa-search-space .nasa-show-search-form.nasa-search-relative input[name="s"] {
+    padding: 13px 24px 13px 48px;
+}
+
+.nasa-sp-fibo-search .dgwt-wcas-pd-addtc .add_to_cart_button.added {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.nasa-sp-fibo-search .header-type-4 .nasa-search-space .nasa-show-search-form.nasa-search-relative {
+    border: none;
+}
+
+.nasa-sp-fibo-search .dgwt-wcas-sf-wrapp input[type="search"].dgwt-wcas-search-input {
+    border-width: 1px;
+}
+
+.nasa-rtl.nasa-sp-fibo-search .warpper-mobile-search .dgwt-wcas-sf-wrapp button.dgwt-wcas-search-submit {
+    left: 15px;
+    right: auto;
+}
+
+.nasa-rtl.nasa-sp-fibo-search .dgwt-wcas-search-filled .dgwt-wcas-sf-wrapp button.dgwt-wcas-search-submit {
+    left: auto;
+    right: 15px;
+}
+
+.nasa-rtl .dgwt-wcas-pd-addtc-form {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.nasa-rtl .dgwt-wcas-pd-addtc-form > .quantity {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.nasa-rtl .woocommerce .dgwt-wcas-pd-rating .star-rating {
+    float: right;
+}

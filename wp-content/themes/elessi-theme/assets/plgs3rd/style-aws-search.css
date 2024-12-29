@@ -1,0 +1,22 @@
+.sp-aws-search-container .aws-container {
+    width: 100%;
+}
+
+.nasa-search-full .aws-container .aws-search-form {
+    background-color: transparent;
+}
+
+.nasa-over-hide.nasa-modern-layout .sp-aws-search {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.nasa-over-hide.nasa-modern-layout .aws-search-form {
+    min-height: 140px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.nasa-search-space .nasa-over-hide.nasa-show .classic.sp-aws-search .nasa-close-search {
+    display: none;
+}

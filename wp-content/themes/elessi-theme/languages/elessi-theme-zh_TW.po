@@ -1,0 +1,6249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elessi Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-26 14:52+0000\n"
+"PO-Revision-Date: 2024-09-13 14:45+0000\n"
+"Last-Translator: NasaTheme\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: elessi-theme"
+
+#: includes/nasa-sidebar-wishlist_content.php:166
+msgid " &mdash; In Stock"
+msgstr " - 有存貨"
+
+#: includes/nasa-sidebar-wishlist_content.php:164
+msgid " - Out of Stock"
+msgstr " - 缺貨"
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:178
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%2$s 的 %1$s 評論"
+
+#: admin/importer/wordpress-importer.php:678
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s&#8220;%s&#8221;已經存在。"
+
+#. plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%s installed and activated successfully."
+msgstr "%s 安裝並成功啟動。"
+
+#. plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%s installed successfully."
+msgstr "%s 安裝成功。"
+
+#: cores/nasa-custom-wc-ajax.php:593
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s 是必填字段"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:80
+#: dokan/nasa-store-lists-loop-grid-2.php:110
+#: dokan/nasa-store-lists-loop-list-1.php:59
+#: dokan/nasa-store-lists-loop-list-2.php:74
+#: dokan/nasa-store-lists-loop-list-3.php:79
+#: dokan/nasa-store-lists-loop-list-3.php:119 dokan/store-lists-loop.php:62
+#, php-format
+msgid "%s out of 5"
+msgstr "%s（共 5 個）"
+
+#: woocommerce/global/quantity-input.php:13
+#, php-format
+msgid "%s quantity"
+msgstr "%s 數量"
+
+#: woocommerce/loop/result-count.php:17 woocommerce/loop/result-count.php:23
+#, php-format
+msgid "%s result"
+msgstr "%s 結果"
+
+#: woocommerce/loop/result-count.php:17 woocommerce/loop/result-count.php:23
+#, php-format
+msgid "%s results"
+msgstr "%s 個結果"
+
+#: woocommerce/single-product-reviews.php:60
+#, php-format
+msgid "%s reviews"
+msgstr "%s 評論"
+
+#: includes/nasa-mini-cart-add-coupon.php:22
+#: includes/nasa-mini-cart-add-coupon.php:26
+#, php-format
+msgid "%s&nbsp;Discount"
+msgstr "%s 折扣"
+
+#: includes/nasa-mini-cart-add-coupon.php:30
+#, php-format
+msgid "%s&nbsp;Product Discount"
+msgstr "%s 產品折扣"
+
+#: woocommerce/loop/sale-flash.php:65
+#: woocommerce/single-product/sale-flash.php:66
+#, php-format
+msgid "&#45;%s&#37;"
+msgstr "&#45;%s&#37;"
+
+#: comments.php:25 comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; 舊評論"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:155
+#: dokan/nasa-store-lists-loop-grid-2.php:161
+#: dokan/nasa-store-lists-loop-list-1.php:157
+#: dokan/nasa-store-lists-loop-list-2.php:151
+#: dokan/nasa-store-lists-loop-list-3.php:177 dokan/store-lists-loop.php:121
+msgid "&larr; Previous"
+msgstr "&larr; 上一頁"
+
+#: woocommerce/archive-product.php:188 woocommerce/archive-product.php:300
+msgid "&nbsp;Filters"
+msgstr "過濾器"
+
+#. %s location.
+#: includes/nasa-mini-cart-taxs.php:11
+#, php-format
+msgid "(estimated for %s)"
+msgstr "（估計為 %s）"
+
+#: widgets/wg-nasa-product-filter-price-list.php:153
+msgid "+"
+msgstr "+"
+
+#: cores/nasa-widget-functions.php:343 cores/nasa-woo-actions.php:1459
+#: widgets/wg-nasa-product-brands.php:260
+#: widgets/wg-nasa-product-categories.php:468
+#: widgets/wg-nasa-product-categories.php:489 widgets/wg-nasa-tag-cloud.php:74
+msgid "+ Show more"
+msgstr "+ 顯示更多"
+
+#: includes/nasa-blog-grid.php:93 includes/nasa-blog-list.php:91
+#: includes/nasa-blog-masonry-isotope.php:98 includes/nasa-blog-standard.php:85
+msgid ", "
+msgstr ","
+
+#: admin/importer/wordpress-importer.php:360
+msgid "- Select -"
+msgstr "- 選擇 -"
+
+#: cores/nasa-widget-functions.php:342 cores/nasa-woo-actions.php:1459
+#: widgets/wg-nasa-product-brands.php:260
+#: widgets/wg-nasa-product-categories.php:468
+#: widgets/wg-nasa-product-categories.php:489 widgets/wg-nasa-tag-cloud.php:73
+msgid "- Show less"
+msgstr "- 顯示較少"
+
+#: woocommerce/loop/orderby.php:25
+msgid "..."
+msgstr "…"
+
+#: widgets/wg-nasa-product-filter-variations.php:186
+#: admin/settings/nasa_07_3_product_detail_heading.php:81
+#: admin/settings/nasa_07_3_product_detail_heading.php:131
+msgid "1 Column"
+msgstr "1 欄"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:602
+#: admin/settings/nasa_07_2_product_page_heading.php:226
+#: admin/settings/nasa_07_3_product_detail_heading.php:522
+#: admin/settings/nasa_08_blog_heading.php:101
+#: admin/settings/nasa_08_blog_heading.php:112
+#: admin/settings/nasa_08_blog_heading.php:252
+#: admin/settings/nasa_08_blog_heading.php:263
+msgid "1 column"
+msgstr "1 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:338
+msgid "1 Level"
+msgstr "1 級"
+
+#: cores/nasa-woo-actions.php:1284 cores/nasa-woo-actions.php:1293
+msgid "1 result"
+msgid_plural "%d results"
+msgstr[0] "1 個結果"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:601
+#: admin/settings/nasa_07_3_product_detail_heading.php:521
+msgid "1.5 column"
+msgstr "1.5 柱"
+
+#: cores/nasa-theme-functions.php:933
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: includes/nasa-change-view.php:236
+msgid "2"
+msgstr "2"
+
+#: includes/nasa-change-view.php:233
+#: widgets/wg-nasa-product-filter-variations.php:185
+#: admin/settings/nasa_07_2_product_page_heading.php:187
+#: admin/settings/nasa_07_3_product_detail_heading.php:80
+#: admin/settings/nasa_07_3_product_detail_heading.php:132
+msgid "2 Columns"
+msgstr "2 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:590
+#: admin/settings/nasa_07_1_product_global_heading.php:600
+#: admin/settings/nasa_07_2_product_page_heading.php:212
+#: admin/settings/nasa_07_2_product_page_heading.php:227
+#: admin/settings/nasa_07_2_product_page_heading.php:237
+#: admin/settings/nasa_07_3_product_detail_heading.php:498
+#: admin/settings/nasa_07_3_product_detail_heading.php:510
+#: admin/settings/nasa_07_3_product_detail_heading.php:520
+#: admin/settings/nasa_08_blog_heading.php:88
+#: admin/settings/nasa_08_blog_heading.php:102
+#: admin/settings/nasa_08_blog_heading.php:113
+#: admin/settings/nasa_08_blog_heading.php:253
+#: admin/settings/nasa_08_blog_heading.php:264
+#: admin/settings/nasa_10_portfolio_heading.php:90
+msgid "2 columns"
+msgstr "2 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:339
+msgid "2 Levels"
+msgstr "2 級"
+
+#: includes/nasa-change-view.php:251
+msgid "3"
+msgstr "3"
+
+#: includes/nasa-change-view.php:248
+#: admin/settings/nasa_07_2_product_page_heading.php:188
+msgid "3 Columns"
+msgstr "3 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:578
+#: admin/settings/nasa_07_1_product_global_heading.php:589
+#: admin/settings/nasa_07_2_product_page_heading.php:213
+#: admin/settings/nasa_07_2_product_page_heading.php:238
+#: admin/settings/nasa_07_3_product_detail_heading.php:497
+#: admin/settings/nasa_07_3_product_detail_heading.php:509
+#: admin/settings/nasa_08_blog_heading.php:89
+#: admin/settings/nasa_08_blog_heading.php:114
+#: admin/settings/nasa_08_blog_heading.php:240
+#: admin/settings/nasa_08_blog_heading.php:265
+#: admin/settings/nasa_10_portfolio_heading.php:89
+msgid "3 columns"
+msgstr "3 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:340
+msgid "3 Levels"
+msgstr "3 個級別"
+
+#: admin/settings/nasa_04_style_color_heading.php:75
+msgid "360&#176; Badge Color"
+msgstr "360&#176; 徽章顏色"
+
+#: includes/nasa-change-view.php:267
+msgid "4"
+msgstr "4"
+
+#: includes/nasa-change-view.php:264
+#: admin/settings/nasa_07_2_product_page_heading.php:189
+msgid "4 Columns"
+msgstr "4 列"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:577
+#: admin/settings/nasa_07_1_product_global_heading.php:588
+#: admin/settings/nasa_07_2_product_page_heading.php:214
+#: admin/settings/nasa_07_2_product_page_heading.php:239
+#: admin/settings/nasa_07_3_product_detail_heading.php:496
+#: admin/settings/nasa_07_3_product_detail_heading.php:508
+#: admin/settings/nasa_08_blog_heading.php:90
+#: admin/settings/nasa_08_blog_heading.php:241
+#: admin/settings/nasa_10_portfolio_heading.php:88
+msgid "4 columns"
+msgstr "4 列"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: includes/nasa-change-view.php:282
+msgid "5"
+msgstr "5"
+
+#: includes/nasa-change-view.php:279
+#: admin/settings/nasa_07_2_product_page_heading.php:190
+msgid "5 Columns"
+msgstr "5 欄"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:576
+#: admin/settings/nasa_07_2_product_page_heading.php:215
+#: admin/settings/nasa_07_3_product_detail_heading.php:495
+#: admin/settings/nasa_08_blog_heading.php:91
+#: admin/settings/nasa_08_blog_heading.php:242
+#: admin/settings/nasa_10_portfolio_heading.php:87
+msgid "5 columns"
+msgstr "5 列"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:99
+msgid "50%"
+msgstr "50%"
+
+#: includes/nasa-change-view.php:298
+msgid "6"
+msgstr "6"
+
+#: includes/nasa-change-view.php:295
+#: admin/settings/nasa_07_2_product_page_heading.php:191
+msgid "6 Columns"
+msgstr "6 列"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:216
+#: admin/settings/nasa_07_3_product_detail_heading.php:494
+msgid "6 columns"
+msgstr "6 列"
+
+#: image.php:89
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"發表評論\">發表評論</a>"
+"或留下引用通告：<a class=\"trackback-link\" href=\"%s\" title=\"您的貼文的引用網址\" "
+"rel=\"trackback\">引用通告 URL</a> 。"
+
+#: cores/nasa-shop-ajax.php:359
+#, php-format
+msgid ""
+"<h4 class=\"nasa-success-congrat\">Congratulations!</h4><h4 class=\"nasa-"
+"success\">Now you have successfully registered. You can now close this tab, "
+"or visit <a class=\"link-your-dashboard primary-color\" href=\"%s\">your "
+"dashboard</a>.</h4>"
+msgstr ""
+"<h4 class=\"nasa-success-congrat\">恭喜！</h4><h4 class=\"nasa-success\">"
+"現在您已成功註冊。現在您可以關閉此選項卡，或存取<a class=\"link-your-dashboard primary-color\" "
+"href=\"%s\">您的儀表板</a>。</h4>"
+
+#: cores/nasa-shop-ajax.php:273
+#, php-format
+msgid ""
+"<h4 class=\"nasa-success-congrat\">Congratulations!</h4><h4 class=\"nasa-"
+"success\">You are now successfully authenticated. You can now close this tab,"
+" or visit <a class=\"link-your-dashboard primary-color\" href=\"%s\">your "
+"dashboard</a>.</h4>"
+msgstr ""
+"<h4 class=\"nasa-success-congrat\">恭喜！</h4><h4 class=\"nasa-success\">"
+"您現在已成功通過身份驗證。現在您可以關閉此選項卡，或存取<a class=\"link-your-dashboard primary-color\" "
+"href=\"%s\">您的儀表板</a>。</h4>"
+
+#: cores/nasa-theme-functions.php:401
+msgid "<li>Please Define menu in <b>Apperance > Menus</b></li>"
+msgstr "<li>請在<b>外觀>選單</b>中定義選單</li>"
+
+#: cores/nasa-theme-functions.php:1253
+msgid "<span class=\"fa fa-caret-left\"></span> Previous"
+msgstr "<span class=\"fa fa-caret-left\"></span>以前的"
+
+#: cores/nasa-theme-functions.php:983
+#, php-format
+msgid ""
+"<span class=\"meta-author\">By <a class=\"url fn n nasa-bold\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a>.</span> Posted on <a href=\"%1$s\" "
+"title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date nasa-bold\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"meta-author\"><a class=\"url fn n nasa-bold\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a>之前。</span>發佈於<a href=\"%1$s\" "
+"title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date nasa-bold\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+
+#: image.php:101
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span>上一頁"
+
+#: cores/nasa-woo-functions.php:1349
+msgid "<span>Availability:</span> "
+msgstr "<span>可用性：</span>"
+
+#: woocommerce/single-product/meta.php:30
+msgid "<strong>Category:</strong>"
+msgid_plural "<strong>Categories:</strong>"
+msgstr[0] "<strong>類別：</strong>"
+
+#: woocommerce/single-product/meta.php:32
+msgid "<strong>Tag:</strong>"
+msgid_plural "<strong>Tags:</strong>"
+msgstr[0] "<strong>標籤：</strong>"
+
+#: widgets/wg-nasa-tag-cloud.php:22
+msgid "A cloud of your most used tags."
+msgstr "您最常用的標籤雲。"
+
+#: includes/nasa-login-register-form.php:158
+msgid "A link to set a new password will be sent to your email address."
+msgstr "設定新密碼的連結將發送到您的電子郵件地址。"
+
+#: admin/importer/wordpress-importer.php:1222
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr "該導入器有新版本可用。請更新至版本 %s 以確保與較新的匯出檔案相容。"
+
+#. Description of the theme
+msgid ""
+"A Premium and Responsive WooCommerce - WordPress Theme, designed for E-"
+"Commerce websites"
+msgstr "高級且響應式的 WooCommerce - WordPress 主題，專為電子商務網站設計"
+
+#: cores/nasa-shop-ajax.php:229
+msgid "A user could not be found with this email address."
+msgstr "無法使用此電子郵件地址找到使用者。"
+
+#: includes/nasa-gdpr-notice.php:18
+msgid "Accept"
+msgstr "接受"
+
+#: admin/functions/functions.admin.php:1213
+msgid "Access denied."
+msgstr "拒絕訪問。"
+
+#: includes/nasa-age-verification.php:33
+msgid "Access fobidden"
+msgstr "禁止訪問"
+
+#: cores/nasa-theme-headers.php:343 includes/nasa-mobile-bottom-bar-app.php:67
+#: includes/nasa-mobile-bottom-bar-app.php:69
+msgid "Account"
+msgstr "帳戶"
+
+#: admin/settings/nasa_03_1_header_heading.php:299
+msgid "Account On Main Screen - Mobile Layout"
+msgstr "主畫面上的帳戶 - 行動佈局"
+
+#: admin/settings/nasa_03_1_header_heading.php:266
+#: admin/settings/nasa_03_1_header_heading.php:267
+msgid "Account Options"
+msgstr "账户选项"
+
+#: includes/nasa-acc-nav.php:15
+msgid "Account pages"
+msgstr "帳戶頁面"
+
+#: admin/classes/class-tgm-plugin-activation.php:2778
+msgid "Activate"
+msgstr "啟用"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2668
+#, php-format
+msgid "Activate %2$s"
+msgstr "啟用 %2$s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2392
+msgid "Active"
+msgstr "積極的"
+
+#: includes/nasa-checkout-coupon-modern.php:22
+#: admin/classes/class.options_machine.php:872
+msgid "Add"
+msgstr "添加"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:105
+#, php-format
+msgid "Add a review &ldquo;%s&rdquo;"
+msgstr "新增評論&ldquo;%s&rdquo;"
+
+#: cores/nasa-theme-options.php:164
+msgid "Add Icon Image (Using for Section of Tabs)"
+msgstr "新增圖示圖像（用於選項卡部分）"
+
+#: cores/nasa-theme-options.php:152
+msgid "Add Icon NasaTheme (Using for Section of Tabs)"
+msgstr "新增圖示 NasaTheme（用於選項卡部分）"
+
+#: widgets/wg-nasa-product-categories.php:194
+msgid "Add icons for categories."
+msgstr "新增類別圖示。"
+
+#: admin/settings/nasa_01_general_heading.php:25
+msgid "Add more width site (px)"
+msgstr "增加更多寬度網站 (px)"
+
+#: admin/classes/class.options_machine.php:551
+msgid "Add New Slide"
+msgstr "新增投影片"
+
+#: includes/nasa-mini-cart-note.php:8
+msgid "Add note"
+msgstr "新增備註"
+
+#: cores/nasa-yith-wcwl-ext.php:318
+msgid "Add to cart"
+msgstr "加入購物車"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:121
+msgid "Add To Cart in Grid"
+msgstr "在網格中加入購物車"
+
+#: cores/nasa-woo-actions.php:2000
+msgid "Add to Compare"
+msgstr "加入對比"
+
+#: cores/nasa-wishlist.php:224
+msgid "Add to Wishlist"
+msgstr "加入願望清單"
+
+#: cores/nasa-wishlist.php:184 cores/nasa-woo-functions.php:1315
+msgid "Add to wishlist"
+msgstr "加入願望清單"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:149
+msgid ""
+"Add your custom Favicon image. 16x16 - 32x32 *.ico or *.png required. "
+"(Recommended 16x16 *.ico)"
+msgstr "新增您的自訂網站圖示圖像。需要 16x16 - 32x32 *.ico 或 *.png。 （建議 16x16 *.ico）"
+
+#: cores/nasa-woo-actions.php:1956 cores/nasa-woo-actions.php:2001
+msgid "Added to Compare"
+msgstr "添加到比較"
+
+#: cores/nasa-wishlist.php:224
+msgid "Added to Wishlist"
+msgstr "已新增至願望清單"
+
+#: cores/nasa-wishlist.php:185
+msgid "Added to wishlist"
+msgstr "已新增至願望清單"
+
+#: cores/nasa-theme-footers.php:341
+msgid "Adding"
+msgstr "添加"
+
+#: cores/nasa-theme-footers.php:391
+msgid "Adding cart"
+msgstr "添加购物车"
+
+#: admin/importer/nasa-importer.php:1492
+msgid "Addition Homepage Success!"
+msgstr "添加主頁成功！"
+
+#: admin/settings/nasa_03_1_header_heading.php:315
+#: admin/settings/nasa_03_1_header_heading.php:316
+#: admin/settings/nasa_07_1_product_global_heading.php:288
+#: admin/settings/nasa_07_1_product_global_heading.php:289
+#: admin/settings/nasa_07_3_product_detail_heading.php:363
+#: admin/settings/nasa_07_3_product_detail_heading.php:364
+msgid "Addon Options"
+msgstr "外掛選項"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:307
+#: admin/settings/nasa_07_2_product_page_heading.php:308
+msgid "Advance Content Options"
+msgstr "進階內容選項"
+
+#: admin/settings/nasa_01_general_heading.php:78
+#: admin/settings/nasa_01_general_heading.php:79
+msgid "Advanced options"
+msgstr "高级选项"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:335
+msgid "After Breadcrumb - Only for Shop Page"
+msgstr "麵包屑之後 - 僅適用於商店頁面"
+
+#: cores/nasa-theme-options.php:180
+msgid "After Tabs Title (Using for Section of Tabs)"
+msgstr "选项卡标题后（用于选项卡部分）"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:403
+msgid "After WooCommerce Tabs"
+msgstr "WooCommerce 選項卡之後"
+
+#: admin/settings/nasa_01_general_heading.php:204
+msgid "Age Verification"
+msgstr "年齡驗證"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:271
+msgid "AJAX add to cart button on Single And Quickview"
+msgstr "Single 和 Quickview 上的 AJAX 加入購物車按鈕"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:461
+msgid "Ajax Load"
+msgstr "阿賈克斯負載"
+
+#: widgets/wg-nasa-product-filter-price-list.php:134
+#: widgets/wg-nasa-product-filter-price-list.php:135
+#: widgets/wg-nasa-tag-cloud.php:162
+msgid "All"
+msgstr "全部"
+
+#: admin/importer/tpl-import-demo-data.php:157
+#: admin/importer/tpl-import-demo-data.php:179
+msgid "All Done. Have fun!"
+msgstr "全做完了。玩得開心！"
+
+#: admin/classes/class-tgm-plugin-activation.php:3583
+msgid "All installations and activations have been completed."
+msgstr "所有安裝和啟動均已完成。"
+
+#: admin/classes/class-tgm-plugin-activation.php:3596
+msgid "All installations have been completed."
+msgstr "所有安裝均已完成。"
+
+#. 1: dashboard link.
+#: admin/classes/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件均已成功安裝並啟用。 %1$s"
+
+#: woocommerce/loop/pagination.php:58
+msgid "ALL PRODUCTS LOADED !"
+msgstr "所有產品已加載！"
+
+#: cores/nasa-woo-actions.php:1607
+msgid "All transactions are secure and encrypted."
+msgstr "所有交易都是安全且加密的。"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:411
+msgid "Allow Comments Images upload"
+msgstr "允許評論圖片上傳"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:436
+msgid "Allow Comments Video upload"
+msgstr "允許評論影片上傳"
+
+#: includes/nasa-login-register-form.php:177
+msgid "Already got an account? "
+msgstr "已經有帳戶了？"
+
+#. 1: plugin name, 2: error message.
+#: admin/classes/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝 %1$s 時發生錯誤：<strong>%2$s</strong>。"
+
+#: widgets/wg-nasa-product-filter-variations.php:153
+msgid "AND"
+msgstr "和"
+
+#: admin/settings/nasa_01_general_heading.php:165
+msgid "Animation Effect"
+msgstr "動畫效果"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:42
+msgid "App Simulation"
+msgstr "應用模擬"
+
+#: includes/nasa-checkout-coupon-modern.php:28
+#: includes/nasa-mini-cart-add-coupon.php:67
+#: admin/classes/class.options_machine.php:810
+#: admin/classes/class.options_machine.php:907
+msgid "Apply"
+msgstr "申請"
+
+#: includes/nasa-checkout-coupon-modern.php:28
+#: includes/nasa-mini-cart-add-coupon.php:66 woocommerce/cart/cart.php:170
+#: woocommerce/cart/cart.php:171 woocommerce/checkout/form-coupon.php:26
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Apply coupon"
+msgstr "申請優惠券"
+
+#: admin/settings/nasa_05_type_heading.php:198
+msgid "Arabic"
+msgstr "阿拉伯"
+
+#: admin/settings/nasa_08_blog_heading.php:36
+msgid "Archive Layout"
+msgstr "檔案佈局"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:18
+#: admin/settings/nasa_07_2_product_page_heading.php:19
+msgid "Archive Options"
+msgstr "存檔選項"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:12
+msgid "Archive Products Page"
+msgstr "存檔產品頁面"
+
+#: includes/nasa-age-verification.php:12
+msgid "Are you over 18?"
+msgstr "你已經18歲以上了嗎？"
+
+#: cores/nasa-theme-footers.php:886
+msgid "Are you sure you want to remove it?"
+msgstr "您確定要刪除它嗎？"
+
+#: admin/classes/class.options_machine.php:374
+msgid "Arial"
+msgstr "宋體"
+
+#: cores/nasa-theme-options.php:123
+msgid "Arrow"
+msgstr "箭"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:172
+msgid "Arrows for Main Slide"
+msgstr "主幻燈片箭頭"
+
+#: admin/importer/wordpress-importer.php:347
+msgid "as a new user:"
+msgstr "作為新用戶："
+
+#: admin/classes/class-tgm-plugin-activation.php:2541
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: archive.php:84
+msgid "Asides"
+msgstr "旁白"
+
+#: admin/importer/wordpress-importer.php:298
+msgid "Assign Authors"
+msgstr "指定作者"
+
+#: admin/importer/wordpress-importer.php:355
+msgid "assign posts to an existing user:"
+msgstr "將貼文指派給現有使用者："
+
+#: admin/settings/nasa_01_general_heading.php:300
+msgid "Async"
+msgstr "非同步"
+
+#: widgets/wg-nasa-product-filter-variations.php:144
+msgid "Attribute"
+msgstr "屬性"
+
+#: admin/settings/nasa_08_blog_heading.php:198
+msgid "Author - Date info"
+msgstr "作者 - 日期資訊"
+
+#: archive.php:71
+#, php-format
+msgid "Author Archives: %s"
+msgstr "作者檔案：%s"
+
+#: admin/settings/nasa_08_blog_heading.php:127
+msgid "Author info"
+msgstr "作者資訊"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:607
+#: admin/settings/nasa_07_3_product_detail_heading.php:141
+msgid "Auto Slide"
+msgstr "自動滑行"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:527
+msgid "Auto Slide - Related | You may also like&hellip;"
+msgstr "自動滑動 - 相關 |你也許也喜歡…"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:427
+msgid "Auto Update - Cart Page"
+msgstr "自動更新 - 購物車頁面"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:314
+msgid "Automatically displays 9+ if the number is greater than or equal to 10"
+msgstr "如果数字大于或等于10，则自动显示9+"
+
+#: includes/nasa-after-add-to-cart.php:96 woocommerce/cart/cart.php:107
+msgid "Available on backorder"
+msgstr "缺貨時可用"
+
+#: admin/classes/class-tgm-plugin-activation.php:2566
+msgid "Available version:"
+msgstr "可用版本："
+
+#: woocommerce/single-product-reviews.php:148
+msgid "Average"
+msgstr "平均的"
+
+#: cores/nasa-woo-functions.php:1880
+msgid "Average rating"
+msgstr "平均評分"
+
+#: woocommerce/single-product/product-image.php:174
+msgid "Awaiting product image"
+msgstr "等待商品圖片"
+
+#: cores/nasa-theme-functions.php:1448
+msgid "Back"
+msgstr "後退"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:77
+msgid "Back Image in Mobile Layout"
+msgstr "移動佈局中的背面影像"
+
+#: cores/nasa-theme-functions.php:1377
+msgid "Back to Blog"
+msgstr "返回博客"
+
+#: admin/importer/tpl-additional-homepage-data.php:13
+msgid "Back to Dashboard"
+msgstr "返回儀表板"
+
+#: admin/importer/tpl-import-demo-data.php:104
+#: admin/importer/tpl-import-demo-data.php:117
+msgid "BACK TO STEP 1"
+msgstr "返回步驟 1"
+
+#: cores/nasa-theme-footers.php:199
+#: admin/settings/nasa_01_general_heading.php:84
+msgid "Back to Top"
+msgstr "回到頂部"
+
+#: admin/settings/nasa_03_1_header_heading.php:715
+#: admin/settings/nasa_06_breadcrumb_heading.php:79
+#: admin/settings/nasa_07_3_product_detail_heading.php:65
+msgid "Background Color"
+msgstr "背景顏色"
+
+#: admin/settings/nasa_03_1_header_heading.php:378
+msgid "Background Color Header"
+msgstr "背景顏色標題"
+
+#: admin/settings/nasa_03_1_header_heading.php:388
+msgid "Background Color Header - Sticky"
+msgstr "背景顏色標題 - 黏性"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:144
+msgid "Background Color Of Product Items In The Shop"
+msgstr "商店中產品的背景顏色"
+
+#: admin/settings/nasa_03_1_header_heading.php:722
+#: admin/settings/nasa_06_breadcrumb_heading.php:58
+msgid "Background Image"
+msgstr "背景圖"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:65
+msgid "Background Image - Mobile Layout Mode"
+msgstr "背景圖片 - 移動式佈局模式"
+
+#: admin/settings/nasa_01_general_heading.php:65
+msgid "Background Mode"
+msgstr "後台模式"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:72
+msgid "Background Parallax"
+msgstr "背景視差"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:84
+msgid "Backorder Allowed Badge"
+msgstr "允許延期交貨徽章"
+
+#: woocommerce/loop/sale-flash.php:91
+#: woocommerce/single-product/sale-flash.php:92
+msgid "Backorders"
+msgstr "延期交貨"
+
+#: admin/settings/nasa_04_style_color_heading.php:61
+msgid "Backorders Badge Color"
+msgstr "缺貨徽章顏色"
+
+#: admin/settings/nasa_98_backup_options_heading.php:12
+msgid "Backup and Import"
+msgstr "備份與導入"
+
+#: admin/settings/nasa_98_backup_options_heading.php:18
+msgid "Backup and Restore Options"
+msgstr "備份和還原選項"
+
+#: admin/classes/class.options_machine.php:664
+msgid "Backup Options"
+msgstr "備份選項"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:390
+#: admin/settings/nasa_07_1_product_global_heading.php:391
+msgid "Badge - Options"
+msgstr "徽章 - 選項"
+
+#: admin/settings/nasa_05_type_heading.php:131
+msgid "Banner font"
+msgstr "橫幅字體"
+
+#: woocommerce/single-product-reviews.php:105
+#: woocommerce/single-product-reviews.php:164
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "成為第一個評論「%s」的人"
+
+#: admin/theme-admin.php:365
+msgid "Before Footer"
+msgstr "頁尾之前"
+
+#: cores/nasa-theme-options.php:173
+msgid "Before Tabs Title (Using for Section of Tabs)"
+msgstr "选项卡标题之前（用于选项卡部分）"
+
+#: admin/classes/class-tgm-plugin-activation.php:371
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "開始啟用插件"
+
+#: admin/classes/class-tgm-plugin-activation.php:365
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "開始安裝插件"
+
+#: admin/classes/class-tgm-plugin-activation.php:368
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "開始更新插件"
+
+#: includes/nasa-checkout-modern-billing-detail.php:13
+msgid "Billing address"
+msgstr "帳單地址"
+
+#: index.php:62 admin/settings/nasa_08_blog_heading.php:11
+msgid "Blog"
+msgstr "部落格"
+
+#: admin/settings/nasa_08_blog_heading.php:17
+#: admin/settings/nasa_08_blog_heading.php:18
+msgid "Blog Options"
+msgstr "部落格選項"
+
+#: options/nasa-options.php:1286
+msgid "Blog Sidebar"
+msgstr "部落格側邊欄"
+
+#: admin/classes/class.options_machine.php:397
+msgid "Bold"
+msgstr "大膽的"
+
+#: admin/settings/nasa_05_type_heading.php:251
+msgid "Bold - 500"
+msgstr "粗體 - 500"
+
+#: admin/settings/nasa_05_type_heading.php:250
+msgid "Bold - 600"
+msgstr "粗體 - 600"
+
+#: admin/settings/nasa_05_type_heading.php:249
+msgid "Bold - 700"
+msgstr "粗體 - 700"
+
+#: admin/settings/nasa_05_type_heading.php:248
+msgid "Bold - 800"
+msgstr "粗體 - 800"
+
+#: admin/classes/class.options_machine.php:398
+msgid "Bold Italic"
+msgstr "加粗斜體"
+
+#: cores/nasa-theme-options.php:110
+msgid "Border Wrapper"
+msgstr "邊框包裝"
+
+#: image.php:95
+msgid "Both comments and trackbacks are currently closed."
+msgstr "評論和引用目前均已關閉。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:55
+msgid "Bottom To Top"
+msgstr "從下到上"
+
+#: admin/settings/nasa_01_general_heading.php:39
+msgid "Boxed"
+msgstr "盒裝"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:12
+msgid "Breadcrumb"
+msgstr "麵包屑"
+
+#: cores/nasa-woo-functions.php:924
+msgid "BROWSE"
+msgstr "瀏覽"
+
+#: cores/nasa-theme-functions.php:494
+msgid "Browse Categories"
+msgstr "瀏覽分類"
+
+#: admin/settings/nasa_03_2_footer_heading.php:86
+msgid "Build-in Mobile"
+msgstr "內建手機"
+
+#: admin/settings/nasa_03_2_footer_heading.php:40
+msgid "Builder - Suport WPBakery"
+msgstr "生成器 - 支援 WPBakery"
+
+#: admin/settings/nasa_03_2_footer_heading.php:44
+msgid "Builder - Support HFE-Elementor"
+msgstr "Builder - 支援 HFE-Elementor"
+
+#: admin/settings/nasa_03_2_footer_heading.php:36
+msgid "Built-in - Widgets Place"
+msgstr "內建 - Widgets Place"
+
+#: admin/settings/nasa_03_2_footer_heading.php:68
+msgid "Built-in Dark"
+msgstr "內建深色"
+
+#: admin/settings/nasa_03_2_footer_heading.php:65
+msgid "Built-in Light 1"
+msgstr "內建燈1"
+
+#: admin/settings/nasa_03_2_footer_heading.php:66
+msgid "Built-in Light 2"
+msgstr "內建燈2"
+
+#: admin/settings/nasa_03_2_footer_heading.php:67
+msgid "Built-in Light 3"
+msgstr "內建燈3"
+
+#: admin/settings/nasa_04_style_color_heading.php:103
+msgid "Bulk Discount Badge Color"
+msgstr "大量折扣徽章顏色"
+
+#: includes/nasa-combo-products-quickview.php:14
+#: includes/nasa-combo-products.php:13
+msgid "Bundle product for"
+msgstr "捆綁產品用於"
+
+#: admin/settings/nasa_04_style_color_heading.php:123
+msgid "Buttons Background Color"
+msgstr "按鈕背景顏色"
+
+#: admin/settings/nasa_04_style_color_heading.php:130
+msgid "Buttons Background Color Hover"
+msgstr "按鈕背景顏色懸停"
+
+#: admin/settings/nasa_04_style_color_heading.php:138
+msgid "Buttons Border Color"
+msgstr "按鈕邊框顏色"
+
+#: admin/settings/nasa_04_style_color_heading.php:145
+msgid "Buttons Border Color Hover"
+msgstr "按鈕邊框顏色懸停"
+
+#: admin/settings/nasa_04_style_color_heading.php:175
+msgid "Buttons Border Width"
+msgstr "按鈕邊框寬度"
+
+#: admin/settings/nasa_04_style_color_heading.php:166
+msgid "Buttons Radius"
+msgstr "按鈕半徑"
+
+#: admin/settings/nasa_04_style_color_heading.php:117
+#: admin/settings/nasa_04_style_color_heading.php:118
+msgid "Buttons Style Options"
+msgstr "按鈕樣式選項"
+
+#: admin/settings/nasa_04_style_color_heading.php:152
+msgid "Buttons Text Color"
+msgstr "按鈕文字顏色"
+
+#: admin/settings/nasa_04_style_color_heading.php:159
+msgid "Buttons Text Color Hover"
+msgstr "按鈕文字顏色懸停"
+
+#: cores/nasa-woo-actions.php:1132
+#: admin/settings/nasa_07_3_product_detail_heading.php:211
+msgid "Buy Now"
+msgstr "立即購買"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:218
+msgid "Buy Now Background Color"
+msgstr "立即購買 背景顏色"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:227
+msgid "Buy Now Background Color Hover"
+msgstr "立即購買背景顏色懸停"
+
+#: woocommerce/single-product/add-to-cart/grouped.php:61
+msgid "Buy one of this item"
+msgstr "購買一件該商品"
+
+#: cores/nasa-woo-actions.php:637
+msgid "Buy this bundle and get off to ${saved}"
+msgstr "購買此捆綁包並前往 ${saved}"
+
+#: includes/nasa-blog-standard.php:36
+msgid "By "
+msgstr "經過"
+
+#: admin/classes/class.options_machine.php:812
+#: admin/classes/class.options_machine.php:908
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/nasa-tmpl-captcha-field-register.php:16
+msgid "Captcha Code"
+msgstr "圖形驗證碼"
+
+#: cores/nasa-theme-options.php:537
+msgid "Captcha Error!"
+msgstr "驗證碼錯誤！"
+
+#: admin/settings/nasa_03_1_header_heading.php:307
+msgid "Captcha For Register Form"
+msgstr "註冊表驗證碼"
+
+#: includes/nasa-checkout-modern.php:55
+msgid "CART"
+msgstr "大車"
+
+#: cores/nasa-woo-functions.php:218 cores/nasa-woo-functions.php:224
+#: includes/nasa-mobile-bottom-bar-app.php:102
+#: includes/nasa-mobile-bottom-bar-app.php:104
+#: includes/nasa-mobile-bottom-bar.php:102
+#: includes/nasa-mobile-bottom-bar.php:104
+msgid "Cart"
+msgstr "大車"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:277
+msgid "Cart Sidebar Layout"
+msgstr "購物車側邊欄佈局"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:113
+msgid "Catalog Mode - Disable Add To Cart Feature"
+msgstr "目錄模式 - 停用新增至購物車功能"
+
+#: cores/nasa-woo-functions.php:909
+msgid "CATEGORIES"
+msgstr "類別"
+
+#: cores/nasa-theme-footers.php:780 cores/nasa-theme-headers.php:392
+#: includes/nasa-mobile-bottom-bar-app.php:59
+#: includes/nasa-mobile-bottom-bar-app.php:61
+#: includes/nasa-mobile-bottom-bar.php:59
+#: includes/nasa-mobile-bottom-bar.php:61
+msgid "Categories"
+msgstr "類別"
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:48
+msgid ""
+"Categories Included List (ID or Slug, separated by \",\". Ex: 1, 2 or slug-1,"
+" slug-2)"
+msgstr "包含的類別清單（ID 或 Slug，以「,」分隔。例如：1、2 或 slug-1、slug-2）"
+
+#: admin/settings/nasa_08_blog_heading.php:141
+#: admin/settings/nasa_08_blog_heading.php:191
+msgid "Categories info"
+msgstr "類別資訊"
+
+#: cores/nasa-custom-wc-ajax.php:873
+msgid "Categories Map"
+msgstr "類別 地圖"
+
+#: archive.php:65
+#, php-format
+msgid "Category Archives: %s"
+msgstr "分類檔案：%s"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:325
+msgid "Category bottom content"
+msgstr "分類底部內容"
+
+#: widgets/wg-nasa-product-categories.php:71
+#: admin/settings/nasa_07_1_product_global_heading.php:351
+msgid "Category Order"
+msgstr "類別訂單"
+
+#: admin/settings/nasa_03_1_header_heading.php:660
+msgid "Category Post"
+msgstr "分類貼文"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:315
+msgid "Category top content"
+msgstr "類別頂部內容"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:98
+#: admin/settings/nasa_07_3_product_detail_heading.php:312
+msgid "Center"
+msgstr "中心"
+
+#: cores/nasa-woo-actions.php:1535 cores/nasa-woo-actions.php:1545
+#: cores/nasa-woo-actions.php:1554 admin/classes/class.options_machine.php:802
+msgid "Change"
+msgstr "改變"
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Change address"
+msgstr "更換地址"
+
+#: admin/settings/nasa_04_style_color_heading.php:26
+msgid ""
+"Change primary color. Used for primary buttons, link hover, background, etc."
+msgstr "更改原色。用於主按鈕、連結懸停、背景等。"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:124
+msgid "Change Shop Layout Mode"
+msgstr "改變店鋪佈局模式"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:153
+msgid "Change View Mode (Only Desktop Mode)"
+msgstr "變更檢視模式（僅限桌面模式）"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:200
+#| msgid "Change View Mode (Only Mobile Layout Mode)"
+msgid "Change View Mode Mobile (Only Mobile App Layout Mode)"
+msgstr "變更移動視圖模式（僅限行動應用程式佈局模式）"
+
+#: admin/settings/nasa_05_type_heading.php:191
+msgid "Character Sub-sets"
+msgstr "字元子集"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:466
+#: admin/settings/nasa_07_1_product_global_heading.php:467
+msgid "Checkout - Options"
+msgstr "结帐 - 选项"
+
+#: page-checkout.php:76 page-checkout.php:98 page-shopping-cart.php:23
+#: page-shopping-cart.php:25 page-shopping-cart.php:45
+msgid "Checkout Details"
+msgstr "結帳詳情"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:472
+msgid "Checkout Layout"
+msgstr "結帳佈局"
+
+#: page-checkout.php:77 page-checkout.php:99 page-shopping-cart.php:26
+#: page-shopping-cart.php:46
+msgid "Checkout Your Items List"
+msgstr "查看您的物品清單"
+
+#: admin/importer/wordpress-importer.php:1238
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "選擇要上傳的 WXR (.xml) 文件，然後按一下「上傳文件並匯入」。"
+
+#: admin/settings/nasa_03_1_header_heading.php:502
+msgid "Classic"
+msgstr "經典的"
+
+#: cores/nasa-theme-options.php:71
+msgid "Classic 2D"
+msgstr "經典 2D"
+
+#: cores/nasa-theme-options.php:70
+msgid "Classic 2D - Has BG color"
+msgstr "經典 2D - 有 BG 顏色"
+
+#: cores/nasa-theme-options.php:67
+msgid "Classic 2D - No border"
+msgstr "經典 2D - 無邊框"
+
+#: cores/nasa-theme-options.php:68
+msgid "Classic 2D - Radius"
+msgstr "經典 2D - 半徑"
+
+#: cores/nasa-theme-options.php:69
+msgid "Classic 2D - Radius - Dash"
+msgstr "經典 2D - 半徑 - 短劃線"
+
+#: cores/nasa-theme-options.php:72
+msgid "Classic 3D"
+msgstr "經典3D"
+
+#: includes/nasa-mini-compare.php:70
+msgid "Clear All"
+msgstr "全部清除"
+
+#: includes/nasa-mini-cart-add-coupon.php:44
+msgid "Click here to Apply this coupon."
+msgstr "點擊此處應用此優惠券。"
+
+#: admin/settings/nasa_03_1_header_heading.php:72
+#: admin/settings/nasa_03_1_header_heading.php:93
+#: admin/settings/nasa_03_1_header_heading.php:338
+#: admin/settings/nasa_03_1_header_heading.php:350
+#: admin/settings/nasa_03_1_header_heading.php:362
+#: admin/settings/nasa_03_1_header_heading.php:596
+#: admin/settings/nasa_03_2_footer_heading.php:120
+#: admin/settings/nasa_03_2_footer_heading.php:137
+#: admin/settings/nasa_03_2_footer_heading.php:163
+#: admin/settings/nasa_03_2_footer_heading.php:180
+#: admin/settings/nasa_03_3_mobile_heading.php:82
+#: admin/settings/nasa_07_2_product_page_heading.php:321
+#: admin/settings/nasa_07_2_product_page_heading.php:331
+#: admin/settings/nasa_07_2_product_page_heading.php:341
+#: admin/settings/nasa_07_3_product_detail_heading.php:359
+#: admin/settings/nasa_09_promo_popup_heading.php:88
+#: admin/settings/nasa_09_promo_popup_heading.php:164
+msgid "Click here to Edit"
+msgstr "单击此处进行编辑"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "點擊此處輸入您的代碼"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr "點此登入"
+
+#: admin/front-end/options.php:47
+msgid "Click Here To View Online Documentation"
+msgstr "按一下此處查看線上文檔"
+
+#: widgets/wg-nasa-product-brands.php:150
+#: widgets/wg-nasa-product-categories.php:223
+msgid "Click select icon for "
+msgstr "點擊選擇圖示"
+
+#: archive.php:132 index.php:77 page-left-sidebar.php:34
+#: page-right-sidebar.php:34 search.php:76 single.php:64
+#: cores/nasa-theme-footers.php:337 cores/nasa-theme-footers.php:514
+#: cores/nasa-theme-footers.php:569 cores/nasa-theme-footers.php:642
+#: cores/nasa-theme-footers.php:785 headers/header-structure-1.php:48
+#: headers/header-structure-2.php:73 headers/header-structure-3.php:63
+#: headers/header-structure-5.php:48 headers/header-structure-7.php:43
+#: headers/header-structure-7.php:53 includes/nasa-blog-promotion.php:18
+#: includes/nasa-checkout-coupon-modern.php:22
+#: includes/nasa-sidebar-shop-side.php:64 includes/nasa-sidebar-shop-top.php:55
+#: includes/nasa-single-product-classic.php:84
+#: includes/nasa-single-product-full.php:73
+#: includes/nasa-single-product-modern-1.php:60
+#: includes/nasa-single-product-modern-2.php:61
+#: includes/nasa-single-product-modern-3.php:61
+#: includes/nasa-single-product-modern-4.php:76
+#: includes/nasa-single-product-new-2.php:42
+#: includes/nasa-single-product-new.php:71
+msgid "Close"
+msgstr "關閉"
+
+#: cores/nasa-theme-footers.php:380 cores/nasa-theme-footers.php:385
+#: cores/nasa-theme-footers.php:386 cores/nasa-theme-footers.php:866
+#: cores/nasa-theme-footers.php:877 cores/nasa-theme-footers.php:1089
+#: includes/nasa-after-add-to-cart.php:20 includes/nasa-promo-popup.php:42
+msgid "Close (Esc)"
+msgstr "關閉（Esc）"
+
+#: searchform.php:116 searchform.php:195
+msgid "Close search"
+msgstr "關閉搜尋"
+
+#: dokan/store-header.php:170
+msgid "CLOSED"
+msgstr "關閉"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:58
+#: dokan/nasa-store-lists-loop-list-1.php:109 dokan/store-lists-loop.php:50
+msgid "Closed"
+msgstr "關閉"
+
+#: admin/settings/nasa_04_style_color_heading.php:18
+#: admin/settings/nasa_04_style_color_heading.php:19
+msgid "Colors Options"
+msgstr "顏色選項"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:571
+#: admin/settings/nasa_07_2_product_page_heading.php:207
+msgid "Columns"
+msgstr "列"
+
+#: widgets/wg-nasa-product-filter-variations.php:183
+msgid "Columns - Classic Sidebar or Canvas Sidebar"
+msgstr "欄 - 經典側邊欄或畫布側邊欄"
+
+#: admin/settings/nasa_08_blog_heading.php:83
+msgid "Columns in desktop"
+msgstr "桌面上的列"
+
+#: admin/settings/nasa_08_blog_heading.php:96
+msgid "Columns in Mobile"
+msgstr "行動版專欄"
+
+#: admin/settings/nasa_08_blog_heading.php:107
+msgid "Columns in Tablet"
+msgstr "平板電腦中的列"
+
+#: admin/settings/nasa_08_blog_heading.php:235
+msgid "Columns Related in desktop"
+msgstr "桌面相關欄目"
+
+#: admin/settings/nasa_08_blog_heading.php:247
+msgid "Columns Related in mobile"
+msgstr "移動相關專欄"
+
+#: admin/settings/nasa_08_blog_heading.php:258
+msgid "Columns Related in Tablet"
+msgstr "平板電腦中的相關列"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:489
+msgid "Columns Related | You may also like&hellip;"
+msgstr "相關專欄 |你也許也喜歡…"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:515
+msgid "Columns Related | You may also like&hellip; for Mobile"
+msgstr "相關專欄 |您可能還喜歡…行動版"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:503
+msgid "Columns Related | You may also like&hellip; for Tablet"
+msgstr "相關專欄 |您可能還喜歡…平板電腦"
+
+#: admin/settings/nasa_08_blog_heading.php:155
+msgid "Comment Count info"
+msgstr "評論計數信息"
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr "註釋導航"
+
+#: comments.php:19 includes/nasa-blog-grid.php:68
+#: includes/nasa-blog-list.php:67 includes/nasa-blog-masonry-isotope.php:70
+#: includes/nasa-blog-standard.php:60
+msgid "Comments"
+msgstr "評論"
+
+#: image.php:91
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+"評論已關閉，但您可以留下引用通告：<a class=\"trackback-link\" href=\"%s\" title=\"您的貼文的引用網址\" "
+"rel=\"trackback\">引用通告 URL</a> 。"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "評論被關閉。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:310
+msgid "Compact Number - Cart, Wishlist, Compare (9+)"
+msgstr "緊湊編號 - 購物車、願望清單、比較 (9+)"
+
+#: cores/nasa-woo-actions.php:1956 cores/nasa-woo-actions.php:1997
+#: cores/nasa-woo-actions.php:1997 cores/nasa-woo-functions.php:835
+#: cores/nasa-woo-functions.php:840
+msgid "Compare"
+msgstr "比較"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:12
+msgid "Compare and Wishlist"
+msgstr "比較和願望清單"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:18
+#: admin/settings/nasa_07_4_product_compare_heading.php:19
+msgid "Compare Options"
+msgstr "比較選項"
+
+#: includes/nasa-mini-compare.php:59
+msgid "Compare Product"
+msgstr "比較產品"
+
+#: includes/nasa-mini-compare.php:13
+msgid "Compare Products"
+msgstr "比較產品"
+
+#: cores/nasa-custom-wc-ajax.php:782
+msgid "Compare products were empty !"
+msgstr "比較產品都是空的！"
+
+#: cores/nasa-advanced-free-shipping.php:117
+msgid "Congratulations! You've got free shipping."
+msgstr "恭喜！您可以享受免費送貨服務。"
+
+#: cores/nasa-woo-actions.php:1533
+msgid "Contact"
+msgstr "接觸"
+
+#: admin/theme-admin.php:55
+msgid "Contact Form 7"
+msgstr "聯絡表 7"
+
+#: includes/nasa-checkout-modern.php:111
+msgid "Contact information"
+msgstr "聯絡資訊"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:94
+msgid "Content Width"
+msgstr "內容寬度"
+
+#: admin/importer/tpl-import-demo-data.php:90
+msgid "CONTINUE"
+msgstr "繼續"
+
+#: includes/nasa-blog-grid.php:85 includes/nasa-blog-grid.php:86
+#: includes/nasa-blog-list.php:84 includes/nasa-blog-list.php:85
+#: includes/nasa-blog-masonry-isotope.php:88
+#: includes/nasa-blog-masonry-isotope.php:89 includes/nasa-blog-standard.php:77
+#: includes/nasa-blog-standard.php:78
+msgid "CONTINUE READING  &#10142;"
+msgstr "繼續閱讀➞"
+
+#: cores/nasa-woo-actions.php:1507 cores/nasa-woo-actions.php:1580
+msgid "Continue To Payment"
+msgstr "繼續付款"
+
+#: cores/nasa-woo-actions.php:1506
+msgid "Continue To Shipping"
+msgstr "繼續出貨"
+
+#: includes/nasa-gdpr-notice.php:14
+msgid "cookie policy"
+msgstr "cookie 政策"
+
+#: cores/nasa-woo-actions.php:2542 cores/nasa-woo-functions.php:2161
+msgid "Coupon"
+msgstr "優惠券"
+
+#: includes/nasa-checkout-coupon-modern.php:27 woocommerce/cart/cart.php:168
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr "優惠券代碼"
+
+#: cores/nasa-custom-wc-ajax.php:1372
+msgid "Coupon has been removed."
+msgstr "優惠券已被刪除。"
+
+#: woocommerce/cart/cart.php:166
+msgid "Coupon:"
+msgstr "優惠券："
+
+#: includes/nasa-login-register-form.php:104
+msgid "Create an account"
+msgstr "建立一個帳戶"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:565
+msgid "Cross-Sells Products"
+msgstr "交叉銷售產品"
+
+#: admin/settings/nasa_03_1_header_heading.php:573
+msgid "Currencies Switcher"
+msgstr "货币切换器"
+
+#: admin/classes/class.options_machine.php:798
+msgid "Current value:"
+msgstr "目前值："
+
+#: admin/settings/nasa_04_style_color_heading.php:40
+msgid "Custom Badge Color"
+msgstr "客製化徽章顏色"
+
+#: admin/theme-admin.php:369
+msgid "Custom Block"
+msgstr "客製化塊"
+
+#: admin/settings/nasa_03_1_header_heading.php:642
+#: admin/settings/nasa_03_1_header_heading.php:649
+msgid "Custom Content"
+msgstr "客製化內容"
+
+#: admin/settings/nasa_05_type_heading.php:34
+msgid "Custom font"
+msgstr "自訂字體"
+
+#: admin/classes/class.options_machine.php:847
+msgid "Customer in country purchased a"
+msgstr "國內客戶購買了"
+
+#: admin/settings/nasa_05_type_heading.php:199
+msgid "Cyrillic"
+msgstr "西里爾"
+
+#: admin/settings/nasa_05_type_heading.php:200
+msgid "Cyrillic Extended"
+msgstr "西里爾字母擴展"
+
+#: archive.php:75
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "每日檔案：%s"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:55
+#: admin/settings/nasa_07_1_product_global_heading.php:283
+#: admin/settings/nasa_07_4_product_compare_heading.php:103
+msgid "Dark"
+msgstr "黑暗的"
+
+#: admin/settings/nasa_01_general_heading.php:71
+msgid "Dark Mode"
+msgstr "深色模式"
+
+#: admin/classes/class.options_machine.php:436
+msgid "Dashed"
+msgstr "虛線"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Date"
+msgstr "日期"
+
+#: admin/settings/nasa_08_blog_heading.php:134
+msgid "Datetime info"
+msgstr "日期時間資訊"
+
+#: admin/settings/nasa_04_style_color_heading.php:82
+msgid "Deal Badge Color"
+msgstr "交易徽章顏色"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:369
+msgid "Deal Time in Single or Quickview"
+msgstr "單次或快速查看中的交易時間"
+
+#: admin/settings/nasa_05_type_heading.php:247
+#: admin/settings/nasa_07_1_product_global_heading.php:477
+#: admin/settings/nasa_07_3_product_detail_heading.php:404
+msgid "Default"
+msgstr "預設"
+
+#: admin/settings/nasa_03_1_header_heading.php:583
+msgid ""
+"Default (%symbol%) %code%. You can custom for this. Ex (%name% (%symbol%) - "
+"%code%)"
+msgstr "預設 (%symbol%) %code%。您可以為此進行自訂。例如（％名稱％（％符號％）-％代碼％）"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:106
+msgid "Default - 130px"
+msgstr "預設 - 130 像素"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:32
+msgid "Default - Yith WooCommerce Compare"
+msgstr "默认 - Yith WooCommerce 比较"
+
+#: admin/settings/nasa_05_type_heading.php:33
+msgid "Default font"
+msgstr "預設字體"
+
+#: cores/nasa-woo-functions.php:1878
+msgid "Default sorting"
+msgstr "預設排序"
+
+#: admin/settings/nasa_04_style_color_heading.php:131
+msgid "Default use primary color"
+msgstr "預設使用原色"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:112
+msgid "Default View"
+msgstr "預設視圖"
+
+#: admin/settings/nasa_01_general_heading.php:173
+msgid "Delay Overlay (ms)"
+msgstr "延遲疊加（毫秒）"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:125
+msgid "Delay time to show (seconds)"
+msgstr "延遲顯示時間（秒）"
+
+#: admin/front-end/options.php:34
+msgid ""
+"Demo data successfully imported. Please refresh your site and Click Save All "
+"Changes NasaTheme options."
+msgstr "演示資料已成功導入。請刷新您的網站並點擊儲存所有更改 NasaTheme 選項。"
+
+#: admin/importer/tpl-import-demo-data.php:184
+msgid ""
+"Demo data was imported. If you want import demo data again, You should need "
+"reset data of your site."
+msgstr "演示資料已導入。如果您想再次匯入演示數據，您應該需要重置您的網站數據。"
+
+#: admin/classes/class.options_machine.php:1128
+msgid "Description (optional)"
+msgstr "說明（可選）"
+
+#: admin/importer/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "詳細資訊如上所示。導入器現在將使用不同的解析器再次嘗試..."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:380
+msgid "Disable - Progress Bar loading ajax"
+msgstr "禁用 - 进度条加载 ajax"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:297
+msgid "Disable Ajax Shop"
+msgstr "禁用 Ajax 商店"
+
+#: admin/settings/nasa_03_1_header_heading.php:272
+msgid "Disable Login/Register"
+msgstr "禁用登录/注册"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:515
+msgid "Disable Quick View"
+msgstr "停用快速查看"
+
+#: admin/settings/nasa_01_general_heading.php:188
+msgid "Disable Refill - Contact Form 7"
+msgstr "停用補充 - 聯絡表 7"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:365
+msgid ""
+"Disable top level of categories follow current category archive (Use for "
+"Multi stores)"
+msgstr "停用頂級類別遵循當前類別存檔（用於多商店）"
+
+#: admin/classes/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr "駁回此通知"
+
+#: widgets/wg-nasa-product-filter-alphabet.php:25
+msgid "Display a list of alphabet to filter products."
+msgstr "顯示字母表清單以過濾產品。"
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:31
+msgid "Display a list of categories to filter products."
+msgstr "顯示類別清單以過濾產品。"
+
+#: widgets/wg-nasa-product-filter-price-list.php:19
+msgid "Display a list of prices to filter products."
+msgstr "顯示價格清單以過濾產品。"
+
+#: widgets/wg-nasa-product-filter-status.php:25
+msgid "Display a list of status to filter products."
+msgstr "顯示狀態清單以過濾產品。"
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:31
+msgid "Display a list of tags to filter products."
+msgstr "顯示標籤清單以過濾產品。"
+
+#: widgets/wg-nasa-reset-filter.php:32
+msgid "Display button reset filter."
+msgstr "顯示按鈕重置過濾器。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:91
+msgid "Display product Categories"
+msgstr "显示产品类别"
+
+#: widgets/wg-nasa-product-categories.php:45
+msgid "Display product categories with Accordion."
+msgstr "使用 Accordion 顯示產品類別。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:98
+msgid "Display product SKU"
+msgstr "显示产品SKU"
+
+#: widgets/wg-nasa-product-brands.php:35
+msgid "Display yith product brands with Accordion."
+msgstr "使用 Accordion 顯示 yith 產品品牌。"
+
+#: admin/settings/nasa_07_5_dokan_heading.php:12
+msgid "Dokan"
+msgstr "多坎"
+
+#: includes/nasa-promo-popup.php:71
+msgid "Don't show this popup again"
+msgstr "請勿再顯示此彈出視窗"
+
+#: admin/importer/wordpress-importer.php:206
+msgid "Done. Please wait for continuing to import data"
+msgstr "完畢。請等待繼續導入數據"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:162
+msgid "Dots for Main Slide"
+msgstr "主幻燈片的點"
+
+#: admin/classes/class.options_machine.php:437
+msgid "Dotted"
+msgstr "點狀"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:40
+msgid "Double Rows"
+msgstr "雙排"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:550
+msgid "Double Thumbnails"
+msgstr "雙縮圖"
+
+#: admin/importer/wordpress-importer.php:314
+msgid "Download and import file attachments"
+msgstr "下載並匯入文件附件"
+
+#: image.php:28 image.php:97 cores/nasa-theme-functions.php:916
+#: cores/nasa-theme-functions.php:936
+#: admin/classes/class.options_machine.php:1100
+msgid "Edit"
+msgstr "編輯"
+
+#: admin/settings/nasa_01_general_heading.php:181
+msgid "Effect Before Load Site"
+msgstr "載入網站前的效果"
+
+#: widgets/wg-nasa-product-filter-variations.php:164
+msgid "Effect for show more and show less"
+msgstr "顯示多和顯示少的效果"
+
+#: admin/importer/tpl-homepage-list.php:41
+msgid "Elementor - Homepage List"
+msgstr "Elementor - 主頁列表"
+
+#: admin/functions/functions.interface.php:101
+#: admin/functions/functions.interface.php:102
+msgid "Elementor Header & Footer Builder"
+msgstr "Elementor 頁首和頁尾產生器"
+
+#. Name of the theme
+msgid "Elessi Theme"
+msgstr "埃萊西主題"
+
+#: woocommerce/single-product-reviews.php:115
+#: woocommerce/single-product-reviews.php:116
+msgid "Email"
+msgstr "電子郵件"
+
+#: woocommerce/single-product-reviews.php:116
+msgid "Email *"
+msgstr "電子郵件 *"
+
+#: includes/nasa-checkout-modern.php:116
+#: includes/nasa-login-register-form.php:136
+msgid "Email address"
+msgstr "電子郵件地址"
+
+#: cores/nasa-woo-actions.php:1511
+msgid "Email incorrect format."
+msgstr "電子郵件格式不正確。"
+
+#: widgets/wg-nasa-product-filter-price.php:47
+msgid "Enable Button Filter"
+msgstr "啟用按鈕過濾器"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:27
+msgid "Enable Mobile Layout"
+msgstr "啟用移動佈局"
+
+#: admin/settings/nasa_10_portfolio_heading.php:23
+msgid "Enable Portfolio"
+msgstr "啟用投資組合"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:155
+msgid "Enable Promotion Gifts featured icon"
+msgstr "啟用促銷禮品特色圖標"
+
+#: woocommerce/cart/cart-shipping.php:98
+msgid "Enter a different address"
+msgstr "輸入不同的地址"
+
+#: woocommerce/cart/cart-shipping.php:75
+msgid "Enter your address to view shipping options."
+msgstr "輸入您的地址以查看運送選項。"
+
+#: cores/nasa-shop-ajax.php:205 cores/nasa-shop-ajax.php:212
+#: cores/nasa-shop-ajax.php:219 cores/nasa-shop-ajax.php:229
+msgid "Error"
+msgstr "錯誤"
+
+#: cores/nasa-custom-wc-ajax.php:670 cores/nasa-custom-wc-ajax.php:722
+#: cores/nasa-custom-wc-ajax.php:766 admin/front-end/options.php:15
+msgid "Error!"
+msgstr "錯誤！"
+
+#: cores/nasa-shop-ajax.php:169 cores/nasa-shop-ajax.php:301
+msgid "Error."
+msgstr "錯誤。"
+
+#: cores/nasa-woo-functions.php:2329 cores/nasa-woo-functions.php:2355
+#: cores/nasa-woo-functions.php:2384 cores/nasa-woo-functions.php:2410
+msgid "Error: "
+msgstr "錯誤："
+
+#: cores/nasa-custom-wc-ajax.php:1197 cores/nasa-custom-wc-ajax.php:1256
+#: cores/nasa-woo-actions.php:2527
+msgid "Estimate shipping rates"
+msgstr "估計運費"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:192
+msgid "Event After Add to Cart"
+msgstr "加入購物車後的活動"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:253
+msgid "Extends Desktop"
+msgstr "擴充桌面"
+
+#: admin/settings/nasa_03_2_footer_heading.php:85
+#: admin/settings/nasa_03_2_footer_heading.php:104
+#: admin/settings/nasa_03_2_footer_heading.php:149
+msgid "Extends from Desktop"
+msgstr "從桌面擴展"
+
+#: admin/classes/class-tgm-plugin-activation.php:2366
+msgid "External Source"
+msgstr "外部來源"
+
+#: cores/nasa-theme-options.php:277 cores/nasa-theme-options.php:297
+msgid "Extra class name"
+msgstr "額外類別名"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:51
+msgid "Fade"
+msgstr "褪色"
+
+#: admin/settings/nasa_03_1_header_heading.php:454
+msgid "Fade In"
+msgstr "淡入"
+
+#: admin/settings/nasa_03_1_header_heading.php:451
+msgid "Fade In Down"
+msgstr "淡入淡出"
+
+#: admin/settings/nasa_03_1_header_heading.php:452
+msgid "Fade In Up"
+msgstr "淡入向上"
+
+#: widgets/wg-nasa-product-filter-variations.php:167
+msgid "Fade In-Out"
+msgstr "淡入淡出"
+
+#: admin/importer/wordpress-importer.php:418
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "無法為 %s 建立新使用者。他們的貼文將歸屬於當前用戶。"
+
+#: admin/importer/wordpress-importer.php:623
+#: admin/importer/wordpress-importer.php:776
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "導入 %s %s 失敗"
+
+#: admin/importer/wordpress-importer.php:737
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "無法導入 %s“%s”"
+
+#: admin/importer/wordpress-importer.php:654
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "無法匯入「%s」：貼文類型 %s 無效"
+
+#: admin/importer/wordpress-importer.php:270
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "無法匯入作者 %s。他們的貼文將歸屬於當前用戶。"
+
+#: admin/importer/wordpress-importer.php:483
+#, php-format
+msgid "Failed to import category %s"
+msgstr "無法導入類別 %s"
+
+#: admin/importer/wordpress-importer.php:536
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "無法匯入貼文標籤 %s"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:148
+msgid "Favicon"
+msgstr "網站圖示"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:133
+#: admin/settings/nasa_02_logo_icon_heading.php:134
+msgid "Favicon Options"
+msgstr "網站圖示選項"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:47
+#: dokan/nasa-store-lists-loop-list-1.php:98 dokan/store-lists-loop.php:41
+#: widgets/wg-nasa-product-filter-status.php:44
+#: widgets/wg-nasa-product-filter-status.php:276
+#: widgets/wg-nasa-product-filter-status.php:276
+#: woocommerce/loop/sale-flash.php:26
+#: woocommerce/single-product/sale-flash.php:26
+msgid "Featured"
+msgstr "精選"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:414
+msgid "Featured Badge"
+msgstr "特色徽章"
+
+#: admin/settings/nasa_04_style_color_heading.php:47
+msgid "Featured Badge Color"
+msgstr "特色徽章顏色"
+
+#: admin/importer/wordpress-importer.php:1007
+msgid "Fetching attachments is not enabled"
+msgstr "未啟用取得附件"
+
+#: woocommerce/content-widget-price-filter.php:35
+msgid "Filter"
+msgstr "篩選"
+
+#: widgets/wg-nasa-product-filter-variations.php:137
+msgid "Filter by"
+msgstr "濾"
+
+#: widgets/wg-nasa-product-filter-alphabet.php:31
+msgid "Filter by Alphabet"
+msgstr "按字母過濾"
+
+#: widgets/wg-nasa-product-filter-price-list.php:25
+#: widgets/wg-nasa-product-filter-price.php:35
+msgid "Filter by price"
+msgstr "按價格過濾"
+
+#: widgets/wg-nasa-product-filter-status.php:31
+msgid "Filter by status"
+msgstr "按狀態過濾"
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:37
+msgid "Filter by Tags"
+msgstr "按標籤過濾"
+
+#: woocommerce/archive-product.php:180
+msgid "Filter by:"
+msgstr "過濾："
+
+#: includes/nasa-mobile-bottom-bar-app.php:51
+#: includes/nasa-mobile-bottom-bar-app.php:53
+#: includes/nasa-mobile-bottom-bar.php:51
+#: includes/nasa-mobile-bottom-bar.php:53
+#: includes/nasa-sidebar-shop-side.php:61 includes/nasa-sidebar-shop-top.php:52
+#: woocommerce/archive-product.php:257 woocommerce/archive-product.php:343
+#: woocommerce/archive-product.php:389
+msgid "Filters"
+msgstr "過濾器"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:277
+msgid "Fit Rows"
+msgstr "適合行"
+
+#: admin/settings/nasa_03_1_header_heading.php:107
+msgid "Flexible - Menu Resizing (Desktop and Tablet)"
+msgstr "靈活 - 選單大小調整（桌上型電腦和平板電腦）"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:54
+msgid "Flip Horizontal"
+msgstr "水平翻轉"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:197
+msgid "Focus Main Image"
+msgstr "聚焦主影像"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:199
+msgid "Focus main image after active variation product"
+msgstr "在活動變體產品後聚焦主影像"
+
+#: admin/settings/nasa_05_type_heading.php:306
+#: admin/settings/nasa_05_type_heading.php:307
+msgid "Font Icons"
+msgstr "字體圖示"
+
+#: admin/functions/functions.admin.php:1115
+msgid "Font Nasa icons"
+msgstr "字體美國航空暨太空總署圖標"
+
+#: admin/settings/nasa_05_type_heading.php:21
+#: admin/settings/nasa_05_type_heading.php:22
+msgid "Font Options"
+msgstr "字體選項"
+
+#: admin/settings/nasa_05_type_heading.php:257
+#: admin/settings/nasa_05_type_heading.php:258
+msgid "Font Size"
+msgstr "字体大小"
+
+#: admin/classes/class.options_machine.php:346
+msgid "Font size"
+msgstr "字體大小"
+
+#: admin/settings/nasa_05_type_heading.php:264
+msgid "Font Size (px)"
+msgstr "字体大小（像素）"
+
+#: admin/settings/nasa_05_type_heading.php:285
+msgid "Font Size (px) - Mobile"
+msgstr "字体大小 (px) - 移动设备"
+
+#: cores/nasa-theme-options.php:49
+msgid "Font Size Title"
+msgstr "字體大小標題"
+
+#: admin/settings/nasa_05_type_heading.php:242
+msgid "Font Weight"
+msgstr "字體粗細"
+
+#: admin/functions/functions.admin.php:1121
+msgid "Fontawesome icons"
+msgstr "精美的圖標"
+
+#: admin/theme-admin.php:361
+msgid "Footer"
+msgstr "頁尾"
+
+#: admin/settings/nasa_03_2_footer_heading.php:28
+msgid "Footer Built-In Support (Widgets Builder)"
+msgstr "頁腳內建支援（小工具產生器）"
+
+#: options/nasa-options.php:1458
+msgid "Footer Dark ( No.1 )"
+msgstr "深色頁腳（No.1）"
+
+#: options/nasa-options.php:1467
+msgid "Footer Dark ( No.2 )"
+msgstr "深色頁尾（No.2）"
+
+#: admin/settings/nasa_03_2_footer_heading.php:12
+msgid "Footer Global"
+msgstr "全球頁腳"
+
+#: admin/settings/nasa_03_2_footer_heading.php:60
+#: admin/settings/nasa_03_2_footer_heading.php:112
+#: admin/settings/nasa_03_2_footer_heading.php:155
+msgid "Footer Layout"
+msgstr "頁腳佈局"
+
+#: options/nasa-options.php:1320
+msgid "Footer Light 1 ( No.1 )"
+msgstr "腳燈1（1號）"
+
+#: options/nasa-options.php:1329
+msgid "Footer Light 1 ( No.2 )"
+msgstr "腳燈1（2號）"
+
+#: options/nasa-options.php:1338
+msgid "Footer Light 1 ( No.3 )"
+msgstr "腳燈1（3號）"
+
+#: options/nasa-options.php:1347
+msgid "Footer Light 1 ( No.4 )"
+msgstr "腳燈1（4號）"
+
+#: options/nasa-options.php:1356
+msgid "Footer Light 1 ( No.5 )"
+msgstr "腳燈1（5號）"
+
+#: options/nasa-options.php:1365
+msgid "Footer Light 1 ( No.6 )"
+msgstr "腳燈1（6號）"
+
+#: options/nasa-options.php:1375
+msgid "Footer Light 2 ( No.1 )"
+msgstr "腳燈2（1號）"
+
+#: options/nasa-options.php:1384
+msgid "Footer Light 2 ( No.2 )"
+msgstr "腳燈2（2號）"
+
+#: options/nasa-options.php:1393
+msgid "Footer Light 2 ( No.3 )"
+msgstr "腳燈2（3號）"
+
+#: options/nasa-options.php:1402
+msgid "Footer Light 2 ( No.4 )"
+msgstr "腳燈2（4號）"
+
+#: options/nasa-options.php:1411
+msgid "Footer Light 2 ( No.5 )"
+msgstr "腳燈2（5號）"
+
+#: options/nasa-options.php:1420
+msgid "Footer Light 2 ( No.6 )"
+msgstr "腳燈2（6號）"
+
+#: options/nasa-options.php:1429
+msgid "Footer Light 2 ( No.7 )"
+msgstr "腳燈2（7號）"
+
+#: options/nasa-options.php:1439
+msgid "Footer Light 3 ( No.1 )"
+msgstr "腳燈3（1號）"
+
+#: options/nasa-options.php:1448
+msgid "Footer Light 3 ( No.2 )"
+msgstr "腳燈3（2號）"
+
+#: options/nasa-options.php:1477
+msgid "Footer Mobile"
+msgstr "頁尾移動"
+
+#: admin/settings/nasa_03_2_footer_heading.php:80
+#: admin/settings/nasa_03_2_footer_heading.php:129
+#: admin/settings/nasa_03_2_footer_heading.php:172
+msgid "Footer Mobile Layout"
+msgstr "頁腳移動佈局"
+
+#: admin/settings/nasa_03_2_footer_heading.php:18
+#: admin/settings/nasa_03_2_footer_heading.php:19
+msgid "Footer Options"
+msgstr "頁尾選項"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:205
+#: admin/settings/nasa_07_3_product_detail_heading.php:206
+msgid "Form Options"
+msgstr "表格选项"
+
+#: admin/settings/nasa_03_1_header_heading.php:582
+#| msgid "Format Currency - Only for WPML"
+msgid "Format Currency - Only Apply for WPML"
+msgstr "設定貨幣格式 - 僅適用於 WPML"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:295
+msgid "Free Shipping Bar - WooCommerce Advanced Free Shipping"
+msgstr "免運欄 - WooCommerce 高級免運"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:290
+msgid "Full"
+msgstr "滿的"
+
+#: admin/settings/nasa_03_1_header_heading.php:701
+#: admin/settings/nasa_09_promo_popup_heading.php:100
+msgid "Full Width"
+msgstr "全螢幕寬度"
+
+#: cores/nasa-theme-options.php:37
+msgid "Full width to left"
+msgstr "向左全寬"
+
+#: cores/nasa-theme-options.php:38
+msgid "Full width to right"
+msgstr "向右全寬"
+
+#: cores/nasa-theme-options.php:21
+msgid "Fullwidth ?"
+msgstr "全螢幕寬度 ？"
+
+#: admin/settings/nasa_03_1_header_heading.php:176
+msgid "Fullwidth Main Menu"
+msgstr "全角主選單"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:59
+msgid "Gallery - Carousel"
+msgstr "畫廊 - 旋轉木馬"
+
+#: admin/settings/nasa_01_general_heading.php:273
+msgid "GDPR Notice"
+msgstr "GDPR 通知"
+
+#: admin/settings/nasa_01_general_heading.php:267
+#: admin/settings/nasa_01_general_heading.php:268
+msgid "GDPR Options"
+msgstr "GDPR 選項"
+
+#: admin/settings/nasa_01_general_heading.php:280
+msgid "GDPR Policies Link"
+msgstr "GDPR 政策鏈接"
+
+#: cores/nasa-theme-footers.php:855
+#: admin/settings/nasa_01_general_heading.php:12
+msgid "General"
+msgstr "一般的"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:18
+#: admin/settings/nasa_06_breadcrumb_heading.php:19
+msgid "General Options"
+msgstr "常規選項"
+
+#: admin/settings/nasa_01_general_heading.php:18
+#: admin/settings/nasa_01_general_heading.php:19
+msgid "General options"
+msgstr "常規選項"
+
+#: admin/classes/class.options_machine.php:377
+msgid "Georgia"
+msgstr "喬治亞州"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:20
+#: admin/settings/nasa_03_3_mobile_heading.php:21
+msgid "Global Options"
+msgstr "全域選項"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:25
+msgid "Global Site"
+msgstr "全球網站"
+
+#: 404.php:22
+msgid "GO TO HOME"
+msgstr "回家"
+
+#: admin/importer/tpl-additional-homepage-data.php:15
+#: admin/importer/tpl-import-demo-data.php:166
+msgid "Go to Theme Options"
+msgstr "轉到主題選項"
+
+#: woocommerce/single-product-reviews.php:147
+msgid "Good"
+msgstr "好的"
+
+#: admin/settings/nasa_05_type_heading.php:35
+msgid "Google font"
+msgstr "谷歌字體"
+
+#: admin/settings/nasa_01_general_heading.php:166
+msgid "Gray Effect"
+msgstr "灰色效果"
+
+#: admin/settings/nasa_01_general_heading.php:72
+msgid "Gray Mode"
+msgstr "灰階模式"
+
+#: includes/nasa-login-register-form.php:52
+msgid "Great to have you back!"
+msgstr "很高興你回來了！"
+
+#: includes/nasa-login-register-form.php:114
+msgid "Great to see you here!"
+msgstr "很高興在這裡見到你！"
+
+#: admin/settings/nasa_05_type_heading.php:201
+msgid "Greek"
+msgstr "希臘文"
+
+#: admin/settings/nasa_05_type_heading.php:202
+msgid "Greek Extended"
+msgstr "希臘文擴展"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:117
+#: admin/settings/nasa_08_blog_heading.php:55
+msgid "Grid"
+msgstr "網格"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:18
+#: admin/settings/nasa_07_1_product_global_heading.php:19
+msgid "Grid Products - Options"
+msgstr "网格产品 - 选项"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:264
+msgid "Grid Rows"
+msgstr "網格行"
+
+#: includes/nasa-checkout-coupon-modern.php:19
+#: includes/nasa-mini-cart-add-coupon.php:61
+msgid "Have a coupon code?"
+msgstr "有優惠券代碼嗎？"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "有優惠券嗎？"
+
+#: admin/theme-admin.php:357
+msgid "Header"
+msgstr "標頭"
+
+#: cores/nasa-theme-options.php:224 cores/nasa-theme-options.php:293
+msgid "Header Builder"
+msgstr "標頭產生器"
+
+#: admin/settings/nasa_03_1_header_heading.php:85
+msgid "Header Elementor Builder"
+msgstr "標題元素產生器"
+
+#: admin/settings/nasa_03_1_header_heading.php:14
+msgid "Header Global"
+msgstr "標頭全球"
+
+#: cores/nasa-theme-options.php:220
+#: admin/settings/nasa_03_1_header_heading.php:398
+msgid "Header Icons"
+msgstr "標題圖示"
+
+#: admin/settings/nasa_03_1_header_heading.php:408
+msgid "Header Icons - Sticky"
+msgstr "標題圖示-黏性"
+
+#: cores/nasa-theme-options.php:223
+msgid "Header icons Cart | Wishlist | Compare"
+msgstr "標題圖示願望清單 |比較"
+
+#: admin/settings/nasa_03_1_header_heading.php:418
+msgid "Header Icons Hover"
+msgstr "標題圖示懸停"
+
+#: admin/settings/nasa_03_1_header_heading.php:428
+msgid "Header Icons Hover - Sticky"
+msgstr "標題圖示懸停 - 黏性"
+
+#: admin/settings/nasa_03_1_header_heading.php:45
+msgid "Header Layout"
+msgstr "標題版面"
+
+#: admin/settings/nasa_03_1_header_heading.php:20
+#: admin/settings/nasa_03_1_header_heading.php:21
+msgid "Header Options"
+msgstr "標題選項"
+
+#: cores/nasa-theme-options.php:289
+msgid "Header Search"
+msgstr "標題搜尋"
+
+#: cores/nasa-theme-options.php:292
+msgid "Header search form"
+msgstr "標題搜尋表單"
+
+#: admin/settings/nasa_03_1_header_heading.php:64
+msgid "Header Theme Builder"
+msgstr "標題主題產生器"
+
+#: admin/settings/nasa_05_type_heading.php:41
+msgid "Heading fonts (H1, H2, H3, H4, H5, H6)"
+msgstr "標題字體（H1、H2、H3、H4、H5、H6）"
+
+#: admin/settings/nasa_08_blog_heading.php:63
+msgid "Heading for Archive Page"
+msgstr "前往存檔頁面"
+
+#: admin/settings/nasa_08_blog_heading.php:70
+msgid "Heading for Blog Page"
+msgstr "前往部落格頁面"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:105
+msgid "Height"
+msgstr "高度"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:49
+msgid "Height - Logo"
+msgstr "高度 - 標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:119
+msgid "Height - Mobile Logo"
+msgstr "高度 - 手機標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:84
+msgid "Height - Sticky Logo"
+msgstr "高度 - 黏性標誌"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:113
+msgid "Height For Mobile"
+msgstr "手機高度"
+
+#: cores/nasa-woo-functions.php:123
+#, php-format
+msgid "Hello, %s!"
+msgstr "你好，%s！"
+
+#: admin/classes/class.options_machine.php:381
+msgid "Helvetica"
+msgstr "黑體"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:137
+msgid "Hide \"View Cart\" Button in Mini Cart"
+msgstr "隐藏迷你购物车中的“查看购物车”按钮"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:343
+msgid "Hide Additional Information Tab"
+msgstr "隱藏附加資訊選項卡"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:358
+msgid "Hide categories empty product - Top Filter Categories"
+msgstr "隱藏類別空產品 - 頂部過濾器類別"
+
+#: widgets/wg-nasa-product-filter-price-list.php:52
+msgid "Hide decimal price"
+msgstr "隱藏小數價格"
+
+#: widgets/wg-nasa-product-filter-variations.php:173
+msgid "Hide empty"
+msgstr "隱藏空"
+
+#: widgets/wg-nasa-product-categories.php:93
+msgid "Hide empty categories"
+msgstr "隱藏空白類別"
+
+#: widgets/wg-nasa-product-filter-price-list.php:47
+msgid "Hide empty price ranges"
+msgstr "隱藏空的價格範圍"
+
+#: cores/nasa-theme-options.php:131
+msgid "Hide First Section ?"
+msgstr "隱藏第一部分？"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:35
+msgid "Hide in Mobile (width site small less 640px OR Mobile Layout)"
+msgstr "隱藏在行動裝置中（網站寬度小於 640 像素或行動佈局）"
+
+#: cores/nasa-theme-functions.php:250 cores/nasa-theme-headers.php:1078
+#: includes/nasa-mobile-bottom-bar-app.php:44
+#: includes/nasa-mobile-bottom-bar-app.php:46
+#: includes/nasa-mobile-bottom-bar.php:44
+#: includes/nasa-mobile-bottom-bar.php:46
+msgid "Home"
+msgstr "家"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:109
+msgid "Horizontal"
+msgstr "水平的"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:46
+msgid "Hover - Product Card Styles - Effect"
+msgstr "悬停 - 产品卡样式 - 效果"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:182
+msgid "Hover Zoom Image"
+msgstr "懸停縮放影像"
+
+#: admin/importer/wordpress-importer.php:1237
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr "你好！上傳您的 WordPress 擴充功能 RSS (WXR) 文件，我們會將貼文、頁面、評論、自訂欄位、類別和標籤匯入此網站。"
+
+#. URI of the theme
+msgid "https://elessi.nasatheme.com"
+msgstr "https://elessi.nasatheme.com"
+
+#. Author URI of the theme
+msgid "https://nasatheme.com"
+msgstr "https://nasatheme.com"
+
+#: cores/nasa-woo-actions.php:1185 cores/nasa-woo-actions.php:1208
+msgid "Hurry up! Sale end in:"
+msgstr "趕快！銷售結束於："
+
+#: includes/nasa-age-verification.php:22
+msgid "I am 18 or older"
+msgstr "我已年滿 18 歲"
+
+#: includes/nasa-age-verification.php:26
+msgid "I am under 18"
+msgstr "我未滿 18 歲"
+
+#: searchform.php:41 searchform.php:132
+msgid "I'm shopping for ..."
+msgstr "我正在購物..."
+
+#: admin/settings/nasa_07_1_product_global_heading.php:128
+msgid "Icon Add To Cart in Grid"
+msgstr "網格中的圖示加入購物車"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:169
+msgid "Icon Mini Cart in Header"
+msgstr "標題中的圖示迷你購物車"
+
+#: admin/importer/wordpress-importer.php:301
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr "如果 WordPress 建立了新用戶，則會隨機產生新密碼，並將新用戶的角色設定為 %s。需要手動更改新用戶的詳細資訊。"
+
+#: admin/settings/nasa_03_1_header_heading.php:469
+msgid "If Turn on, the live search Ajax feature will be lost"
+msgstr "若開啟，即時搜尋Ajax功能將會遺失"
+
+#: woocommerce/checkout/form-coupon.php:22
+msgid "If you have a coupon code, please apply it below."
+msgstr "如果您有優惠券代碼，請在下面應用。"
+
+#: woocommerce/checkout/form-login.php:25
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr "如果您之前曾在我們這裡購物過，請在下面輸入您的詳細資訊。如果您是新客戶，請前往「帳單」部分。"
+
+#: admin/settings/nasa_01_general_heading.php:221
+msgid ""
+"If you skip this field notification will be default \"😁😁 Come back! | "
+"❤️‍🔥❤️‍🔥 Don't forget this ...\". If you want to add more notifications, you "
+"just need to add \"|\" between notifications."
+msgstr ""
+"如果您跳過此字段，通知將預設為\"😁😁 Come back! | ❤️‍🔥❤️‍🔥 Don't forget this ..."
+"\"。如果您想新增更多通知，只需新增「|」即可通知之間。"
+
+#: cores/nasa-theme-options.php:279 cores/nasa-theme-options.php:299
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr "如果您希望以不同的方式設定特定內容元素的樣式，請使用此欄位新增類別名，然後在 css 檔案中引用它。"
+
+#: cores/nasa-theme-options.php:196 cores/nasa-theme-options.php:208
+msgid "Ignore on Mobile"
+msgstr "在行動裝置上忽略"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:502
+msgid "Image Product - Checkout Page"
+msgstr "图片产品 - 结账页面"
+
+#: admin/classes/class.options_machine.php:1107
+msgid "Image URL"
+msgstr "圖片網址"
+
+#: archive.php:87
+msgid "Images"
+msgstr "圖片"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:75
+msgid "Images Columns"
+msgstr "圖片欄目"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:89
+msgid "Images Style"
+msgstr "圖像風格"
+
+#: admin/importer/wordpress-importer.php:311
+msgid "Import Attachments"
+msgstr "導入附件"
+
+#: admin/importer/wordpress-importer.php:331
+msgid "Import author:"
+msgstr "導入作者："
+
+#: admin/importer/tpl-import-demo-data.php:140
+msgid "Import Data (Media, Posts, Products, Categories...)"
+msgstr "匯入資料（媒體、貼文、產品、類別...）"
+
+#: admin/importer/tpl-import-demo-data.php:146
+msgid "Import Homes"
+msgstr "進口房屋"
+
+#: admin/importer/nasa-importer.php:32 admin/importer/nasa-importer.php:33
+msgid "Import More Demos"
+msgstr "导入更多演示"
+
+#: admin/classes/class.options_machine.php:674
+msgid "Import Options"
+msgstr "導入選項"
+
+#: admin/importer/tpl-import-demo-data.php:149
+msgid "Import Sliders"
+msgstr "導入滑桿"
+
+#: admin/importer/tpl-import-demo-data.php:143
+msgid "Import Widgets Sidebars"
+msgstr "導入小部件側邊欄"
+
+#: admin/importer/wordpress-importer.php:1215
+msgid "Import WordPress"
+msgstr "導入 WordPress"
+
+#: admin/importer/tpl-homepage-list.php:17
+msgid "Imported!"
+msgstr "進口！"
+
+#: admin/settings/nasa_03_1_header_heading.php:294
+msgid "In Group Icons - Header"
+msgstr "群組內圖示 - 標題"
+
+#: includes/nasa-gdpr-notice.php:12
+msgid ""
+"In order to provide you a personalized shopping experience, our site uses "
+"cookies. By continuing to use this site, you are agreeing to our"
+msgstr "為了提供您個人化的購物體驗，我們的網站使用 cookie。繼續使用本網站即表示您同意我們的"
+
+#: widgets/wg-nasa-product-filter-status.php:50
+#: widgets/wg-nasa-product-filter-status.php:290
+#: widgets/wg-nasa-product-filter-status.php:290
+msgid "In Stock"
+msgstr "有存貨"
+
+#: includes/nasa-combo-products-quickview.php:37
+msgid "In stock"
+msgstr "有存貨"
+
+#: admin/settings/nasa_03_1_header_heading.php:293
+msgid "In Topbar - Header"
+msgstr "在頂部欄 - 標題"
+
+#: admin/settings/nasa_01_general_heading.php:211
+msgid "Inactive Tab"
+msgstr "非活動選項卡"
+
+#: admin/settings/nasa_01_general_heading.php:219
+msgid "Inactive Tab Notification Content"
+msgstr "非活動選項卡通知內容"
+
+#: admin/settings/nasa_01_general_heading.php:330
+msgid "Include Theme Version when call css files"
+msgstr "呼叫css檔案時包含主題版本"
+
+#: admin/settings/nasa_01_general_heading.php:337
+msgid "Include Theme Version when call js files"
+msgstr "呼叫js檔案時包含主題版本"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:291
+msgid "Infinite - Only using for Ajax"
+msgstr "無限 - 僅用於 Ajax"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:614
+#: admin/settings/nasa_07_3_product_detail_heading.php:151
+#: admin/settings/nasa_07_3_product_detail_heading.php:534
+msgid "Infinite Slide"
+msgstr "無限滑動"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:558
+msgid "Infinite Slide In Quickview"
+msgstr "無限滑動快速查看"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:126
+msgid "Infomations Columns"
+msgstr "資訊欄"
+
+#: includes/nasa-checkout-modern.php:59
+msgid "INFORMATION"
+msgstr "資訊"
+
+#: admin/settings/nasa_04_style_color_heading.php:185
+msgid "Inputs Radius"
+msgstr "輸入半徑"
+
+#: admin/classes/class-tgm-plugin-activation.php:2769
+msgid "Install"
+msgstr "安裝"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Install %2$s"
+msgstr "安裝%2$s"
+
+#: admin/importer/tpl-import-demo-data.php:133
+msgid "Install Elessi Theme - Child"
+msgstr "安裝 Elessi 主題 - 兒童"
+
+#: admin/classes/class-tgm-plugin-activation.php:335
+#: admin/importer/tpl-import-demo-data.php:136
+msgid "Install Plugins"
+msgstr "安裝插件"
+
+#: admin/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "安裝所需的插件"
+
+#. 1: install status, 2: update status
+#: admin/classes/class-tgm-plugin-activation.php:2411
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s，%2$s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2390
+msgid "Installed But Not Activated"
+msgstr "已安裝但未啟動"
+
+#: admin/classes/class-tgm-plugin-activation.php:2549
+msgid "Installed version:"
+msgstr "安裝版本："
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝並啟用插件 %1$s (%2$d/%3$d)"
+
+#: admin/importer/auto-install-plugins.php:63
+msgid "Installing Plugin"
+msgstr "安裝插件"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝插件 %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安裝插件：%s"
+
+#: admin/importer/wordpress-importer.php:1025
+msgid "Invalid file type"
+msgstr "文件類型無效"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:271
+msgid "Isotope Layout Mode"
+msgstr "同位素佈局模式"
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我們似乎找不到您要找的東西。也許搜尋會有所幫助。"
+
+#: admin/classes/class.options_machine.php:396
+msgid "Italic"
+msgstr "斜體"
+
+#: includes/nasa-combo-products.php:14
+msgid "Items"
+msgstr "專案"
+
+#: includes/nasa-combo-products-quickview.php:14
+msgid "items"
+msgstr "專案"
+
+#: admin/settings/nasa_03_1_header_heading.php:565
+msgid "Languages Switcher"
+msgstr "语言切换器"
+
+#: cores/nasa-theme-options.php:54
+msgid "Large"
+msgstr "大的"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:72
+msgid "Large Spacing"
+msgstr "大間距"
+
+#: admin/classes/class.options_machine.php:663
+msgid "Last Backup : "
+msgstr "上次備份："
+
+#: cores/nasa-woo-functions.php:1881
+msgid "Latest"
+msgstr "最新的"
+
+#: admin/settings/nasa_05_type_heading.php:196
+msgid "Latin"
+msgstr "拉丁"
+
+#: admin/settings/nasa_05_type_heading.php:197
+msgid "Latin Extended"
+msgstr "拉丁文擴展"
+
+#: cores/nasa-theme-options.php:107
+#: admin/settings/nasa_06_breadcrumb_heading.php:34
+#: admin/settings/nasa_07_4_product_compare_heading.php:27
+msgid "Layout"
+msgstr "佈局"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:18
+msgid "Layout Option"
+msgstr "布局选项"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:19
+msgid "Layout Options"
+msgstr "布局选项"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:35
+msgid "Layout Single or Double rows."
+msgstr "佈局 單行或雙行。"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:259
+msgid "Layout Style"
+msgstr "佈局樣式"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:107
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回覆%s"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:99
+#: admin/settings/nasa_07_3_product_detail_heading.php:313
+msgid "Left"
+msgstr "左邊"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:30
+#: admin/settings/nasa_07_5_dokan_heading.php:37
+#: admin/settings/nasa_08_blog_heading.php:29
+#: admin/settings/nasa_08_blog_heading.php:41
+msgid "Left Sidebar"
+msgstr "左側邊欄"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:35
+msgid "Left Sidebar - Classic"
+msgstr "左側邊欄 - 經典"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:33
+msgid "Left Sidebar - Off-canvas"
+msgstr "左側邊欄 - 畫布外"
+
+#: admin/settings/nasa_03_1_header_heading.php:453
+#: admin/settings/nasa_07_1_product_global_heading.php:57
+msgid "Left To Right"
+msgstr "左至右"
+
+#: woocommerce/archive-product.php:182
+msgid "Less -"
+msgstr "較少的 -"
+
+#: admin/importer/tpl-import-demo-data.php:100
+msgid ""
+"Let's choose the homepage layout that you want to use on your website and "
+"click on the Start Import button."
+msgstr "讓我們選擇您想要在網站上使用的主頁佈局，然後按一下「開始匯入」按鈕。"
+
+#: includes/nasa-mini-compare.php:71
+msgid "Let's Compare!"
+msgstr "我們來比較一下！"
+
+#: admin/importer/tpl-import-demo-data.php:62
+msgid "Let's install some essential WordPress plugins to set up your site."
+msgstr "讓我們安裝一些必要的 WordPress 外掛來設定您的網站。"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:54
+#: admin/settings/nasa_07_1_product_global_heading.php:282
+#: admin/settings/nasa_07_4_product_compare_heading.php:102
+msgid "Light"
+msgstr "光"
+
+#: admin/settings/nasa_01_general_heading.php:70
+msgid "Light Mode"
+msgstr "燈光模式"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:190
+msgid "Lightbox Image"
+msgstr "燈箱圖片"
+
+#: admin/settings/nasa_03_1_header_heading.php:672
+msgid "Limit Posts"
+msgstr "限制帖子"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:244
+msgid "Limit Products Per Page"
+msgstr "限制每頁的產品數"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:66
+msgid "Limit widgets to show more. (Input \"All\" will be show all widgets)"
+msgstr "限制小工具顯示更多內容。 （輸入“全部”將顯示所有小部件）"
+
+#: woocommerce/loop/sale-flash.php:77
+#: woocommerce/single-product/sale-flash.php:78
+msgid "Limited"
+msgstr "有限的"
+
+#: admin/classes/class.options_machine.php:1125
+msgid "Link URL (optional)"
+msgstr "連結網址（可選）"
+
+#: archive.php:96
+msgid "Links"
+msgstr "連結"
+
+#: includes/nasa-change-view.php:322 includes/nasa-change-view.php:325
+#: admin/settings/nasa_07_2_product_page_heading.php:118
+#: admin/settings/nasa_07_2_product_page_heading.php:192
+#: admin/settings/nasa_08_blog_heading.php:54
+msgid "List"
+msgstr "清單"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:119
+msgid "List - 2 Columns"
+msgstr "列表 - 2 列"
+
+#: includes/nasa-change-view.php:310
+msgid "List 2"
+msgstr "清單2"
+
+#: includes/nasa-change-view.php:307
+#: admin/settings/nasa_07_2_product_page_heading.php:193
+msgid "List 2 Columns"
+msgstr "清單 2 列"
+
+#: admin/settings/nasa_01_general_heading.php:320
+msgid "List Files JS Delay - Delay JavaScript Execution"
+msgstr "List Files JS Delay - 延遲 JavaScript 執行"
+
+#: admin/settings/nasa_03_1_header_heading.php:474
+msgid "Live Search Ajax Products"
+msgstr "即時搜尋 Ajax 產品"
+
+#: admin/settings/nasa_03_1_header_heading.php:497
+msgid "Live Search Layout - (Header type 1, 2, 5, 7)"
+msgstr "即時搜尋佈局 -（標頭類型 1、2、5、7）"
+
+#: admin/settings/nasa_01_general_heading.php:295
+msgid "Load Css Canvas"
+msgstr "載入 CSS 畫布"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:292
+msgid "Load More - Only using for Ajax"
+msgstr "加載更多 - 僅用於 Ajax"
+
+#: woocommerce/loop/pagination.php:61
+msgid "LOAD MORE ..."
+msgstr "裝載更多 ..."
+
+#: woocommerce/global/form-login.php:52
+msgid "Login"
+msgstr "登入"
+
+#: cores/nasa-theme-headers.php:334 cores/nasa-theme-headers.php:477
+#: cores/nasa-woo-functions.php:85 cores/nasa-woo-functions.php:85
+msgid "Login / Register"
+msgstr "登入/註冊"
+
+#: page-my-account.php:33
+msgid "Login/Register"
+msgstr "登入/註冊"
+
+#: admin/settings/nasa_03_1_header_heading.php:281
+msgid "Login/Register by Ajax form"
+msgstr "透過 Ajax 表單登入/註冊"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:28
+msgid "Logo"
+msgstr "標識"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:15
+msgid "Logo and Favicon"
+msgstr "標誌和圖標"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:21
+#: admin/settings/nasa_02_logo_icon_heading.php:22
+msgid "Logo Options"
+msgstr "標誌選項"
+
+#: woocommerce/global/form-login.php:45
+msgid "Lost your password?"
+msgstr "忘記密碼？"
+
+#: includes/nasa-login-register-form.php:81
+msgid "Lost?"
+msgstr "丟失的？"
+
+#: admin/settings/nasa_08_blog_heading.php:184
+msgid "Main Image"
+msgstr "主圖"
+
+#: functions.php:101
+msgid "Main Menu"
+msgstr "主選單"
+
+#: admin/settings/nasa_03_1_header_heading.php:167
+msgid "Main Menu > Vertical Menu"
+msgstr "主選單 > 垂直選單"
+
+#: admin/settings/nasa_03_1_header_heading.php:186
+msgid "Main Menu Background Color"
+msgstr "主選單背景顏色"
+
+#: admin/settings/nasa_03_1_header_heading.php:196
+msgid "Main Menu Background Color - Sticky"
+msgstr "主選單背景顏色 - 黏性"
+
+#: admin/settings/nasa_03_1_header_heading.php:206
+msgid "Main Menu Text Color"
+msgstr "主選單文字顏色"
+
+#: admin/settings/nasa_03_1_header_heading.php:216
+msgid "Main Menu Text Color - Sticky"
+msgstr "主選單文字顏色 - 黏性"
+
+#: admin/settings/nasa_05_type_heading.php:101
+msgid "Main navigation"
+msgstr "主導航"
+
+#: page-checkout.php:70 page-checkout.php:93 page-shopping-cart.php:19
+#: page-shopping-cart.php:41
+msgid "Manage Your Items List"
+msgstr "管理您的物品清單"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:276
+msgid "Masonry"
+msgstr "石工"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:265
+#: admin/settings/nasa_08_blog_heading.php:56
+msgid "Masonry Isotope"
+msgstr "磚石同位素"
+
+#: admin/settings/nasa_08_blog_heading.php:77
+#: admin/settings/nasa_08_blog_heading.php:78
+msgid "Masonry Isotope - Grid - Blog style"
+msgstr "磚石同位素 - 網格 - 部落格風格"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:332
+msgid "Max Depth Level - Top Filter Categories"
+msgstr "最大深度等級 - 頂級過濾器類別"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:418
+msgid "Max files Comments Images upload"
+msgstr "最大文件數 評論 圖片上傳"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:443
+msgid "Max files Comments Video upload"
+msgstr "最大文件數 評論 影片上傳"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:56
+msgid "Max Height - Logo"
+msgstr "最大高度 - 標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:91
+msgid "Max Height - Sticky Logo"
+msgstr "最大高度 - 黏性徽標"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:126
+msgid "Max Height Logo - Mobile"
+msgstr "最大高度標誌 - 手機"
+
+#: cores/nasa-woo-functions.php:2355
+#, php-format
+#| msgid "Max size allowed: %s kB"
+msgid "Max image size allowed: %s kB"
+msgstr "允許的最大大小：%s kB"
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr "最高價格"
+
+#: widgets/wg-nasa-product-filter-price-list.php:42
+msgid "Max price ranges"
+msgstr "最高價格範圍"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:50
+msgid "Max products compare"
+msgstr "最大產品比較"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:427
+msgid "Max Size Comments Images upload (kb)"
+msgstr "最大尺寸 評論 圖片上傳 (kb)"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:452
+msgid "Max Size Comments Video upload (kb)"
+msgstr "評論影片上傳最大尺寸 (kb)"
+
+#: cores/nasa-woo-functions.php:2410
+#, php-format
+msgid "Max video size allowed: %s kB"
+msgstr "允許的最大視訊大小：%s kB"
+
+#: cores/nasa-woo-functions.php:2283
+#, php-format
+msgid "Maximum file size is %s kB, max %s file"
+msgid_plural "Maximum file size is %s kB, max %s files"
+msgstr[0] "最大文件大小為 %s kB，最多 %s 個文件"
+
+#: cores/nasa-woo-functions.php:2237
+#, php-format
+msgid "Maximum file size is %s kB, max %s files"
+msgstr "最大文件大小為 %s kB，最多 %s 個文件"
+
+#: cores/nasa-woo-functions.php:2329
+#, php-format
+#| msgid "Maximum number of files allowed is: %s file(s)"
+msgid "Maximum number of image files allowed is: %s file(s)"
+msgstr "允許的最大文件數為：%s 個文件"
+
+#: cores/nasa-woo-functions.php:2384
+#, php-format
+msgid "Maximum number of video files allowed is: %s file(s)"
+msgstr "允許的最大視訊檔案數為：%s 個文件"
+
+#: cores/nasa-theme-options.php:55
+msgid "Medium"
+msgstr "中等的"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:71
+msgid "Medium Spacing"
+msgstr "中間距"
+
+#: admin/settings/nasa_03_1_header_heading.php:117
+msgid "Menu Font Size (Desktop and Tablet)"
+msgstr "選單字體大小（桌上型電腦和平板電腦）"
+
+#: admin/importer/wordpress-importer.php:926
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "由於選單項目無效而跳過了選單項目：%s"
+
+#: admin/importer/wordpress-importer.php:919
+msgid "Menu item skipped due to missing menu slug"
+msgstr "由於缺少菜單項目而跳過菜單項"
+
+#: cores/nasa-custom-wc-ajax.php:868
+msgid "Menu Map"
+msgstr "選單圖"
+
+#: admin/settings/nasa_03_1_header_heading.php:100
+#: admin/settings/nasa_03_1_header_heading.php:101
+msgid "Menu Options"
+msgstr "選單選項"
+
+#: admin/settings/nasa_08_blog_heading.php:121
+#: admin/settings/nasa_08_blog_heading.php:122
+msgid "Meta Info - Blog Style"
+msgstr "元資訊 - 部落格風格"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:391
+msgid "Meta Infomations (SKU, Categories, Tags, etc...)"
+msgstr "元信息（SKU、类别、标签等...）"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:398
+msgid "Meta Infomations Position"
+msgstr "元資訊位置"
+
+#: cores/nasa-woo-actions.php:1552
+msgid "Method"
+msgstr "方法"
+
+#: woocommerce/content-widget-price-filter.php:26
+msgid "Min price"
+msgstr "最低價格"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:224
+msgid "Mini Cart - Change variation in mini cart"
+msgstr "迷你购物车 - 更改迷你购物车的变化"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:246
+msgid "Mini Cart - Coupon"
+msgstr "迷你購物車 - 優惠券"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:232
+msgid "Mini Cart - Note"
+msgstr "迷你推車 - 注意"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:163
+#: admin/settings/nasa_07_1_product_global_heading.php:164
+msgid "Mini Cart - Options"
+msgstr "迷你推车 - 选项"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:239
+msgid "Mini Cart - Shipping"
+msgstr "迷你推車 - 運輸"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:132
+msgid "Mini Cart - Simple"
+msgstr "迷你推车 - 简单"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:215
+msgid "Mini Cart - You may be interested in…"
+msgstr "迷你車 - 您可能感興趣…"
+
+#: admin/settings/nasa_05_type_heading.php:321
+msgid "Minify Fonts Icons"
+msgstr "縮小字體圖標"
+
+#: admin/classes/class-tgm-plugin-activation.php:2555
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: admin/settings/nasa_03_3_mobile_heading.php:69
+msgid "Mobile Bottom Bar"
+msgstr "移動底欄"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:76
+msgid "Mobile Bottom Bar Content"
+msgstr "移動底欄內容"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:60
+#: admin/settings/nasa_03_3_mobile_heading.php:61
+msgid "Mobile Bottom Bar Options"
+msgstr "移動底欄選項"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:595
+#: admin/settings/nasa_07_2_product_page_heading.php:221
+msgid "Mobile Columns"
+msgstr "移動專欄"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:14
+msgid "Mobile Layout"
+msgstr "移動佈局"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:36
+msgid "Mobile Layout Mode"
+msgstr "移動佈局模式"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:105
+msgid "Mobile Logo"
+msgstr "手機標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:98
+#: admin/settings/nasa_02_logo_icon_heading.php:99
+msgid "Mobile Logo Options"
+msgstr "行動標誌選項"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:49
+msgid "Mobile Menu Layout"
+msgstr "行動選單佈局"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:126
+#: admin/settings/nasa_03_3_mobile_heading.php:127
+msgid "Mobile Mini Cart Options"
+msgstr "移动迷你车选项"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:91
+#: admin/settings/nasa_03_3_mobile_heading.php:92
+msgid "Mobile Single Product Options"
+msgstr "移动单一产品选项"
+
+#: admin/settings/nasa_03_2_footer_heading.php:48
+msgid "Mode"
+msgstr "模式"
+
+#: admin/settings/nasa_03_1_header_heading.php:503
+msgid "Modern"
+msgstr "現代的"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:33
+msgid "Modern - As demo Site"
+msgstr "现代 - 作为演示站点"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:478
+msgid "Modern - No Header, No Footer"
+msgstr "現代 - 無頁首、無頁腳"
+
+#: archive.php:78
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "每月檔案：%s"
+
+#: woocommerce/archive-product.php:181
+msgid "More +"
+msgstr "更多+"
+
+#: options/nasa-options.php:779
+msgid "More Results"
+msgstr "更多結果"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:53
+msgid "Move To Top"
+msgstr "移至頂部"
+
+#: cores/nasa-theme-headers.php:334 cores/nasa-theme-headers.php:477
+#: cores/nasa-woo-functions.php:97 cores/nasa-woo-functions.php:97
+#: woocommerce/checkout/thankyou.php:35
+msgid "My Account"
+msgstr "我的帳戶"
+
+#: cores/nasa-theme-footers.php:342
+msgid "My Cart"
+msgstr "我的車"
+
+#: cores/nasa-custom-wc-ajax.php:1097 woocommerce/single-product/meta.php:25
+msgid "N/A"
+msgstr "不適用"
+
+#: widgets/wg-nasa-product-categories.php:72
+#: woocommerce/single-product-reviews.php:112
+#: woocommerce/single-product-reviews.php:113
+#: admin/settings/nasa_07_1_product_global_heading.php:352
+msgid "Name"
+msgstr "姓名"
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Name *"
+msgstr "姓名 *"
+
+#: widgets/wg-nasa-product-filter-price.php:31
+msgid "Nasa - Filter Product by Price (slide)"
+msgstr "Nasa - 按價格過濾產品（幻燈片）"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:103
+msgid "Nasa - Product Categories in Sidebar Off-Canvas of Mobile layout"
+msgstr "Nasa - 移动布局的侧边栏 Off-Canvas 中的产品类别"
+
+#: widgets/wg-nasa-recent-posts.php:20
+msgid "Nasa widget displays recent posts"
+msgstr "Nasa 小工具顯示最近的帖子"
+
+#. Author of the theme
+msgid "NasaTheme"
+msgstr "美國太空總署主題"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:90
+msgid "NasaTheme Wishlist Feature"
+msgstr "Nasa主題願望清單功能"
+
+#: includes/nasa-mini-cart-add-coupon.php:34
+msgid "Never expire"
+msgstr "永不過期"
+
+#: woocommerce/loop/sale-flash.php:42
+#: woocommerce/single-product/sale-flash.php:42
+msgid "New"
+msgstr "新的"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:396
+#| msgid "Badge - Automatically add Badge \"NEW\" for new products"
+msgid "New Badge - Automatically add Badge \"NEW\" for new products"
+msgstr "新徽章 - 自動為新產品添加「NEW」徽章"
+
+#: admin/settings/nasa_04_style_color_heading.php:54
+msgid "New Badge Color"
+msgstr "新徽章顏色"
+
+#: comments.php:28 comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "較新的評論 →"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:21
+#: admin/settings/nasa_09_promo_popup_heading.php:22
+#: admin/settings/nasa_09_promo_popup_heading.php:28
+msgid "Newsletter"
+msgstr "通訊"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:15
+msgid "Newsletter Popup"
+msgstr "時事通訊彈出窗口"
+
+#: cores/nasa-theme-functions.php:1389
+msgid "NEXT"
+msgstr "下一個"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:156
+#: dokan/nasa-store-lists-loop-grid-2.php:162
+#: dokan/nasa-store-lists-loop-list-1.php:158
+#: dokan/nasa-store-lists-loop-list-2.php:152
+#: dokan/nasa-store-lists-loop-list-3.php:178 dokan/store-lists-loop.php:122
+msgid "Next &rarr;"
+msgstr "下一頁 →"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Next (arrow right)"
+msgstr "下一步（向右箭頭）"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:377
+msgid "Next - Previous Product"
+msgstr "下一個 - 上一個產品"
+
+#: cores/nasa-theme-functions.php:1247
+msgid "Next <span class=\"fa fa-caret-right\"></span>"
+msgstr "下一個<span class=\"fa fa-caret-right\"></span>"
+
+#: image.php:102
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "下一頁<span class=\"meta-nav\">&rarr;</span>"
+
+#: cores/nasa-theme-options.php:233 cores/nasa-theme-options.php:245
+#: cores/nasa-theme-options.php:257 cores/nasa-theme-options.php:269
+#: admin/settings/nasa_03_1_header_heading.php:275
+#: admin/settings/nasa_07_1_product_global_heading.php:384
+#: admin/settings/nasa_07_1_product_global_heading.php:518
+#: admin/settings/nasa_07_2_product_page_heading.php:301
+msgid "No"
+msgstr "不"
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "不採取行動。插件 %1$s 已處於活動狀態。"
+
+#: admin/classes/class.options_machine.php:659
+msgid "No backups yet."
+msgstr "還沒有備份。"
+
+#: admin/settings/nasa_03_1_header_heading.php:455
+#: admin/settings/nasa_07_1_product_global_heading.php:60
+msgid "No Effect"
+msgstr "沒有效果"
+
+#: admin/classes/class-tgm-plugin-activation.php:2987
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有可啟用的插件。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2850
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有可安裝的插件。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有可更新的插件。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2587
+msgid "No plugins to install, update or activate."
+msgstr "無需安裝、更新或啟用外掛程式。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2960
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選擇啟動任何插件。不採取行動。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2809
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選擇安裝任何插件。不採取行動。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2810
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選擇要更新的插件。不採取行動。"
+
+#: includes/nasa-view-compare.php:125
+msgid "No product added to compare !"
+msgstr "沒有添加產品進行比較！"
+
+#: cores/nasa-woo-functions.php:1555 widgets/wg-nasa-product-brands.php:251
+#: widgets/wg-nasa-product-categories.php:451
+msgid "No product categories exist."
+msgstr "不存在產品類別。"
+
+#: woocommerce/cart/mini-cart.php:211
+msgid "No products in the cart."
+msgstr "沒有產品在購物車中。"
+
+#: includes/nasa-sidebar-wishlist_content.php:92
+#: includes/nasa-sidebar-wishlist_content.php:213
+#: includes/nasa-sidebar-wishlist_html.php:96
+msgid "No products in the wishlist."
+msgstr "願望清單中沒有產品。"
+
+#: woocommerce/loop/no-products-found.php:19
+msgid "No products were found matching your selection."
+msgstr "沒有找到符合您選擇的產品。"
+
+#: dokan/store.php:101
+msgid "No products were found of this vendor!"
+msgstr "沒有找到該廠商的產品！"
+
+#: cores/nasa-wc-checkout-ext.php:103
+msgid ""
+"No shipping method has been selected. Please double check your address, or "
+"contact us if you need any help."
+msgstr "尚未選擇運輸方式。請仔細檢查您的地址，或者如果您需要任何協助，請與我們聯絡。"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:93
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "找不到 %s 的運送選項。"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:37
+#: admin/settings/nasa_07_3_product_detail_heading.php:32
+#: admin/settings/nasa_07_5_dokan_heading.php:39
+msgid "No Sidebar"
+msgstr "無側邊欄"
+
+#: admin/settings/nasa_08_blog_heading.php:31
+#: admin/settings/nasa_08_blog_heading.php:43
+msgid "No Sidebar (Centered)"
+msgstr "無側邊欄（居中）"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:182
+#: dokan/nasa-store-lists-loop-grid-2.php:188
+#: dokan/nasa-store-lists-loop-list-1.php:184
+#: dokan/nasa-store-lists-loop-list-2.php:178
+#: dokan/nasa-store-lists-loop-list-3.php:204 dokan/store-lists-loop.php:148
+msgid "No vendor found!"
+msgstr "未找到供應商！"
+
+#: cores/nasa-theme-options.php:36 admin/classes/class.options_machine.php:434
+#: admin/settings/nasa_01_general_heading.php:167
+msgid "None"
+msgstr "沒有任何"
+
+#: admin/classes/class.options_machine.php:395
+msgid "Normal"
+msgstr "普通的"
+
+#: includes/nasa-login-register-form.php:101
+msgid "Not a member? "
+msgstr "非會員？"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "Not Found Products"
+msgstr "未找到產品"
+
+#: admin/classes/class-tgm-plugin-activation.php:2386
+msgid "Not Installed"
+msgstr "未安裝"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:32
+msgid ""
+"Not only is layout responsive, but also the theme uses the device detect "
+"technology to switch the web layout compatible on each type of user device"
+msgstr "不僅佈局響應式，主題還使用裝置偵測技術來切換與每種類型的使用者裝置相容的網頁佈局"
+
+#: cores/nasa-theme-options.php:52
+msgid "Not Set"
+msgstr "沒有設定"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:252
+msgid "Not Show"
+msgstr "不顯示"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Not that bad"
+msgstr "沒有那麼糟糕"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:266
+msgid "Not use Mobile App - Simulator"
+msgstr "不使用行動應用程式 - 模擬器"
+
+#: cores/nasa-woo-actions.php:2494 includes/nasa-mini-cart-note.php:20
+msgid "Note"
+msgstr "筆記"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:275
+msgid ""
+"Note: Consider disabling this feature if you are using a third-party plugin "
+"developed for the Add to Cart feature in the Single Product Page!"
+msgstr "注意：如果您使用的是為單一產品頁面中的「新增至購物車」功能開發的第三方插件，請考慮停用此功能！"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:253
+msgid "Note: don't using for Sidebar Off-canvas and Toggle Sidebar Classic"
+msgstr "注意：不要使用 Sidebar Off-canvas 和 Toggle Sidebar Classic"
+
+#: admin/importer/tpl-import-demo-data.php:102
+msgid ""
+"Note: Images at demo are not included in the download package and they are "
+"replaced with placeholders in demo data."
+msgstr "注意：演示中的圖像不包含在下載包中，它們被演示資料中的佔位符取代。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:219
+msgid ""
+"Note: This feature does not apply to mobiles or devices with small screens"
+msgstr "注意：此功能不适用于手机或小屏幕设备"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "什麼都沒找到"
+
+#: widgets/wg-nasa-product-filter-multi-categories.php:43
+msgid "Number Categories"
+msgstr "號碼類別"
+
+#: admin/settings/nasa_08_blog_heading.php:228
+msgid "Number for related blog"
+msgstr "相關部落格號碼"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:482
+msgid "Number for related products"
+msgstr "相關產品編號"
+
+#: widgets/wg-nasa-recent-posts.php:112
+msgid "Number of posts to show:"
+msgstr "要顯示的貼文數量："
+
+#: admin/settings/nasa_07_1_product_global_heading.php:544
+msgid "Number Show Quickview Thumbnail"
+msgstr "號碼顯示快速查看縮圖"
+
+#: widgets/wg-nasa-product-filter-multi-tags.php:43
+msgid "Number Tags"
+msgstr "數位標籤"
+
+#: admin/classes/class.options_machine.php:754
+#: admin/settings/nasa_07_1_product_global_heading.php:325
+msgid "Off"
+msgstr "離開"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:537
+msgid "Off-Canvas"
+msgstr "畫布外"
+
+#: admin/classes/class.options_machine.php:751
+msgid "On"
+msgstr "在"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:324
+msgid "On All Pages"
+msgstr "在所有頁面上"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:323
+msgid "On Archive Product Pages"
+msgstr "在存檔產品頁面上"
+
+#: widgets/wg-nasa-product-filter-status.php:56
+#: widgets/wg-nasa-product-filter-status.php:304
+#: widgets/wg-nasa-product-filter-status.php:304
+msgid "On Backorders"
+msgstr "關於延期交貨"
+
+#: widgets/wg-nasa-product-filter-status.php:38
+#: widgets/wg-nasa-product-filter-status.php:262
+#: widgets/wg-nasa-product-filter-status.php:262
+msgid "On Sale"
+msgstr "特價中"
+
+#: cores/nasa-woo-actions.php:1100
+#, php-format
+msgid "Only %s item(s) left in stock."
+msgstr "庫存僅剩 %s 件商品。"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:45
+msgid "Only Display 1 Time"
+msgstr "只顯示1次"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:153
+msgid ""
+"Only effective for style 1, style 2(Images style : slide images), style 6 "
+"and style 7"
+msgstr "僅對樣式 1、樣式 2（圖像樣式：幻燈片圖像）、樣式 6 和樣式 7 有效"
+
+#: cores/nasa-woo-functions.php:2369
+#| msgid "Only format accepted: JPG, JPEG, BMP, PNG or GIF"
+msgid "Only format image accepted: JPG, JPEG, BMP, PNG, GIF"
+msgstr "僅接受的格式：JPG、JPEG、BMP、PNG 、 GIF"
+
+#: cores/nasa-woo-functions.php:2424
+msgid "Only format video accepted: MP4, AVI, MPEG, MOV"
+msgstr "僅接受視訊格式：MP4、AVI、MPEG、MOV"
+
+#: woocommerce/single-product-reviews.php:168
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有購買過該產品的登入客戶才能發表評論。"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:257
+msgid "Only Show Buttons"
+msgstr "僅顯示按鈕"
+
+#: widgets/wg-nasa-product-categories.php:88
+msgid "Only show children of the current category"
+msgstr "只顯示目前類別的子項"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:485
+msgid "Only Show one Shipping Method in Cart Page"
+msgstr "在購物車頁面中僅顯示一種運送方式"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:107
+msgid "Only show title product on one line if it is too long."
+msgstr "如果標題產品太長，則僅在一行中顯示標題產品。"
+
+#: cores/nasa-theme-options.php:114 cores/nasa-theme-options.php:126
+msgid "Only use for Accordion."
+msgstr "僅限手風琴。"
+
+#: cores/nasa-theme-options.php:41
+msgid "Only use for Visual Composer Template."
+msgstr "僅用於 Visual Composer 範本。"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！找不到該頁面。"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:56
+#: dokan/nasa-store-lists-loop-list-1.php:107 dokan/store-lists-loop.php:48
+msgid "Open"
+msgstr "打開"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:197
+msgid "Open Cart Sidebar"
+msgstr "打開購物車側邊欄"
+
+#: includes/nasa-single-product-full.php:46
+#: includes/nasa-single-product-modern-1.php:33
+#: includes/nasa-single-product-modern-2.php:33
+#: includes/nasa-single-product-modern-3.php:33
+#: includes/nasa-single-product-modern-4.php:36
+#: includes/nasa-single-product-new-2.php:15
+#: includes/nasa-single-product-new.php:42
+msgid "Open Sidebar"
+msgstr "打开侧边栏"
+
+#: admin/importer/tpl-import-demo-data.php:137
+msgid "Opp! please try to install the plugins here"
+msgstr "哎呀！請嘗試在這裡安裝插件"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:78
+msgid "Optimize HTML - Yith WooCommerce Wishlist"
+msgstr "优化 HTML - Yith WooCommerce 愿望清单"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:174
+msgid "Option Product Column Select To Display"
+msgstr "選項產品欄選擇顯示"
+
+#: admin/front-end/options.php:11 admin/front-end/options.php:89
+msgid "Options Reset"
+msgstr "選項 重置"
+
+#: admin/front-end/options.php:7
+msgid "Options Updated"
+msgstr "選項已更新"
+
+#: widgets/wg-nasa-product-filter-variations.php:152
+msgid "OR"
+msgstr "或者"
+
+#: admin/importer/wordpress-importer.php:357
+msgid "or assign posts to an existing user:"
+msgstr "或將貼文指派給現有使用者："
+
+#: admin/importer/wordpress-importer.php:344
+msgid "or create new user with login name:"
+msgstr "或使用登入名稱建立新使用者："
+
+#: cores/nasa-theme-functions.php:1330
+msgid "Or login with"
+msgstr "或使用以下方式登入"
+
+#: widgets/wg-nasa-product-categories.php:69
+msgid "Order by"
+msgstr "訂購依據"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:346
+msgid "Order by - Top Filter Categories"
+msgstr "排序方式 - 頂級篩選類別"
+
+#: page-checkout.php:82 page-checkout.php:104 page-shopping-cart.php:32
+#: page-shopping-cart.php:50
+msgid "Order Complete"
+msgstr "訂單完成"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Order Number"
+msgstr "訂單編號"
+
+#: admin/settings/nasa_03_1_header_heading.php:161
+msgid "Ordering Mobile Menu"
+msgstr "點餐手機選單"
+
+#: includes/nasa-combo-products-quickview.php:39
+msgid "Out of stock"
+msgstr "缺貨"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:117
+msgid "Overflows: + 0.5 items"
+msgstr "溢出：+ 0.5 項"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:40
+msgid "Page view compare products"
+msgstr "頁面視圖比較產品"
+
+#: content-page.php:16 content-single.php:46 image.php:81
+msgid "Pages:"
+msgstr "頁數："
+
+#: admin/settings/nasa_07_2_product_page_heading.php:284
+msgid "Pagination Layout"
+msgstr "分頁佈局"
+
+#: admin/classes/class.options_machine.php:380
+msgid "Palatino"
+msgstr "帕拉蒂諾"
+
+#: includes/nasa-login-register-form.php:78
+#: includes/nasa-login-register-form.php:146
+#: woocommerce/global/form-login.php:31
+msgid "Password"
+msgstr "密碼"
+
+#: cores/nasa-shop-ajax.php:219
+msgid "Password is required."
+msgstr "密碼是必需的。"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr "支付"
+
+#: includes/nasa-checkout-modern.php:69
+msgid "PAYMENT"
+msgstr "支付"
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Payment Method"
+msgstr "付款方式"
+
+#: cores/nasa-woo-actions.php:1605
+msgid "Payment Methods"
+msgstr "支付方式"
+
+#: admin/functions/functions.admin.php:1127
+msgid "Pe7s icons"
+msgstr "Pe7s 圖標"
+
+#: woocommerce/single-product-reviews.php:146
+msgid "Perfect"
+msgstr "完美的"
+
+#: admin/settings/nasa_01_general_heading.php:290
+msgid "Performance - Assets"
+msgstr "績效 - 資產"
+
+#: cores/nasa-woo-actions.php:1719
+msgid "Phone"
+msgstr "電話"
+
+#: cores/nasa-woo-actions.php:1512
+msgid "Phone incorrect format."
+msgstr "電話格式不正確。"
+
+#: cores/nasa-theme-functions.php:916
+msgid "Pingback:"
+msgstr "回撥："
+
+#: cores/nasa-woo-functions.php:1246
+msgid "Play Video"
+msgstr "播放影片"
+
+#: admin/importer/tpl-additional-homepage-data.php:20
+msgid ""
+"Please click on the item you want to add to your site to do the Homepage."
+msgstr "請點擊您想要新增到網站的項目以建立主頁。"
+
+#: admin/classes/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr "請聯絡本網站的管理員尋求協助。"
+
+#: admin/classes/class-tgm-plugin-activation.php:1023
+#: admin/classes/class-tgm-plugin-activation.php:1026
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "請聯絡外掛程式提供者並要求他們根據 WordPress 指南打包外掛程式。"
+
+#: admin/settings/nasa_03_1_header_heading.php:338
+#: admin/settings/nasa_03_1_header_heading.php:350
+#: admin/settings/nasa_03_1_header_heading.php:362
+#: admin/settings/nasa_03_1_header_heading.php:596
+#: admin/settings/nasa_03_3_mobile_heading.php:82
+#: admin/settings/nasa_07_2_product_page_heading.php:321
+#: admin/settings/nasa_07_2_product_page_heading.php:331
+#: admin/settings/nasa_07_2_product_page_heading.php:341
+#: admin/settings/nasa_07_3_product_detail_heading.php:359
+#: admin/settings/nasa_09_promo_popup_heading.php:164
+msgid ""
+"Please create Static Blocks (or Custom Block of Elementor Header & Footer "
+"Builder) and select here."
+msgstr "請建立靜態區塊（或 Elementor 頁首和頁尾產生器的自訂區塊）並在此處選擇。"
+
+#: woocommerce/single-product-reviews.php:38
+msgid "Please enter a valid email address."
+msgstr "請輸入有效的電子郵件地址。"
+
+#: cores/nasa-wc-checkout-ext.php:92
+msgid "Please enter an address to continue."
+msgstr "請輸入地址以繼續。"
+
+#: woocommerce/checkout/payment.php:26
+msgid "Please fill in your details above to see available payment methods."
+msgstr "請在上面填寫您的詳細資料以查看可用的付款方式。"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:61
+msgid "Please Install Yith WooCommerce Compare Plugin"
+msgstr "请安装 Yith WooCommerce 比较插件"
+
+#: options/nasa-options.php:705
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr "將此產品添加到您的購物車之前，請選擇一些產品選項。"
+
+#: includes/nasa-age-verification.php:17
+#| msgid "Please verifi your age to enter."
+msgid "Please verify your age to enter."
+msgstr "請驗證您的年齡才能進入。"
+
+#: admin/importer/tpl-import-demo-data.php:127
+msgid "Please waiting in a few minutes, The process is running..."
+msgstr "請稍等幾分鐘，進程正在運行..."
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:62
+msgid "Please, Install Yith WooCommerce Compare Plugin!"
+msgstr "请安装 Yith WooCommerce 比较插件！"
+
+#: admin/classes/class-tgm-plugin-activation.php:2601
+msgid "Plugin"
+msgstr "插入"
+
+#: admin/classes/class-tgm-plugin-activation.php:1212
+#: admin/classes/class-tgm-plugin-activation.php:3001
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: admin/classes/class-tgm-plugin-activation.php:376
+#: admin/classes/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "插件啟動成功。"
+
+#: admin/classes/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "插件啟動失敗。"
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未啟用。此主題需要更高版本的 %s。請更新插件。"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2455
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部<span class=\"count\">（%s）</span>"
+
+#: cores/nasa-theme-options.php:122
+msgid "Plus"
+msgstr "加"
+
+#: admin/settings/nasa_03_1_header_heading.php:518
+msgid "Popular Keywords - (Header type 1, 2, 5, 7)"
+msgstr "熱門關鍵字 -（標頭類型 1、2、5、7）"
+
+#: searchform.php:89 searchform.php:175
+msgid "Popular Searches:"
+msgstr "熱門搜尋："
+
+#: cores/nasa-woo-functions.php:1879
+msgid "Popularity"
+msgstr "人氣"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:116
+msgid "Popup Background"
+msgstr "快閃背景"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:107
+msgid "Popup Background Color"
+msgstr "彈出背景顏色"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:536
+msgid "Popup Classical - Not use with Mobile App Simulation"
+msgstr "彈出經典 - 不與移動應用程式模擬一起使用"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:72
+msgid "Popup Content"
+msgstr "彈出內容"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:134
+#: admin/settings/nasa_09_promo_popup_heading.php:135
+#: admin/settings/nasa_09_promo_popup_heading.php:141
+msgid "Popup Exit Intent"
+msgstr "彈出退出意圖"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:180
+msgid "Popup Exit Intent Background Color"
+msgstr "彈出退出意圖背景顏色"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:158
+msgid "Popup Exit Intent Content"
+msgstr "彈出退出意圖內容"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:170
+msgid "Popup Exit Intent Width (Max)"
+msgstr "彈出視窗退出意圖寬度（最大）"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:63
+msgid "Popup Height"
+msgstr "彈出高度"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:54
+msgid "Popup Width"
+msgstr "彈出寬度"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:198
+msgid "Popup Your Order v1 - Not use with Mobile App Simulation"
+msgstr "彈出您的訂單 v1 - 不與行動應用程式模擬一起使用"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:199
+msgid "Popup Your Order v2 - Not use with Mobile App Simulation"
+msgstr "彈出您的訂單 v2 - 不與行動應用程式模擬一起使用"
+
+#: admin/settings/nasa_10_portfolio_heading.php:17
+msgid "Portfolio"
+msgstr "資料夾"
+
+#: admin/settings/nasa_10_portfolio_heading.php:82
+msgid "Portfolio Columns"
+msgstr "投資組合專欄"
+
+#: admin/settings/nasa_10_portfolio_heading.php:46
+msgid "Portfolio Comments"
+msgstr "投資組合評論"
+
+#: admin/settings/nasa_10_portfolio_heading.php:55
+msgid "Portfolio Count"
+msgstr "投資組合數量"
+
+#: admin/settings/nasa_10_portfolio_heading.php:97
+msgid "Portfolio Lightbox"
+msgstr "作品集燈箱"
+
+#: admin/settings/nasa_03_1_header_heading.php:288
+msgid "Position Account Icon"
+msgstr "頭寸帳戶圖標"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:75
+#| msgid "Position filter categories"
+msgid "Position Filter Categories"
+msgstr "位置過濾器類別"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:89
+msgid "Position Filter Categories - Type 3"
+msgstr "位置過濾器類別 - 類型 3"
+
+#: admin/settings/nasa_03_1_header_heading.php:643
+msgid "Posts"
+msgstr "貼文"
+
+#: admin/classes/class-tgm-plugin-activation.php:2369
+msgid "Pre-Packaged"
+msgstr "預包裝"
+
+#: admin/settings/nasa_05_type_heading.php:331
+msgid "Preload Fonts Icons"
+msgstr "預先載入字體圖標"
+
+#: cores/nasa-theme-functions.php:1364
+msgid "PREVIOUS"
+msgstr "以前的"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Previous (arrow left)"
+msgstr "上一頁（向左箭頭）"
+
+#: includes/nasa-after-add-to-cart.php:33
+#: includes/nasa-after-add-to-cart.php:99
+#: includes/nasa-after-add-to-cart.php:104
+#: widgets/wg-nasa-product-filter-price.php:114 woocommerce/cart/cart.php:29
+#: woocommerce/cart/cart.php:111 woocommerce/cart/cart.php:116
+msgid "Price"
+msgstr "價格"
+
+#: admin/settings/nasa_04_style_color_heading.php:110
+msgid "Price Color"
+msgstr "價格 顏色"
+
+#: admin/settings/nasa_05_type_heading.php:161
+msgid "Price font"
+msgstr "價格字體"
+
+#: widgets/wg-nasa-product-filter-price-list.php:34
+msgid "Price range size"
+msgstr "價格範圍大小"
+
+#: woocommerce/content-widget-price-filter.php:40
+msgid "Price:"
+msgstr "價格："
+
+#: cores/nasa-woo-functions.php:1882
+msgid "Price: Ascending"
+msgstr "價格： 升序"
+
+#: cores/nasa-woo-functions.php:1883
+msgid "Price: Descending"
+msgstr "價格：降序"
+
+#: admin/settings/nasa_04_style_color_heading.php:25
+msgid "Primary Color"
+msgstr "原色"
+
+#: includes/nasa-after-add-to-cart.php:169
+#: includes/nasa-after-add-to-cart.php:170
+msgid "Proceed to checkout"
+msgstr "進行結算"
+
+#: includes/nasa-after-add-to-cart.php:32
+#: includes/nasa-after-add-to-cart.php:81 includes/nasa-view-compare.php:19
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:87
+#: woocommerce/checkout/review-order.php:19
+msgid "Product"
+msgstr "產品"
+
+#: cores/nasa-custom-wc-ajax.php:417 cores/nasa-woo-functions.php:250
+#: cores/nasa-yith-wcwl-ext.php:36
+msgid "Product added to cart successfully!"
+msgstr "產品已成功加入購物車！"
+
+#: cores/nasa-custom-wc-ajax.php:697
+msgid "Product added to compare !"
+msgstr "添加產品進行比較！"
+
+#: cores/nasa-custom-wc-ajax.php:951
+msgid "Product added to wishlist successfully!"
+msgstr "產品已成功添加到願望清單！"
+
+#: cores/nasa-custom-wc-ajax.php:699
+msgid "Product already exists in Compare list !"
+msgstr "產品已存在於比較清單中！"
+
+#: widgets/wg-nasa-product-brands.php:41
+msgid "Product Brands"
+msgstr "產品品牌"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:26
+msgid "Product Card Styles"
+msgstr "產品卡樣式"
+
+#: cores/nasa-theme-headers.php:395 cores/nasa-theme-headers.php:398
+msgid "Product Categories"
+msgstr "產品類別"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:160
+msgid "Product Column Icon Style"
+msgstr "產品列圖示樣式"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:336
+msgid "Product Description Wrapper - Apply with Tabs Classic"
+msgstr "產品說明 包裝 - 使用選項卡經典應用"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:12
+msgid "Product Global Options"
+msgstr "產品全球選項"
+
+#: cores/nasa-custom-wc-ajax.php:743
+msgid "Product not already exists in Compare list !"
+msgstr "產品尚未存在於比較清單中！"
+
+#: woocommerce/loop/pagination.php:73 woocommerce/loop/pagination.php:86
+msgid "Product Pagination"
+msgstr "產品分頁"
+
+#: woocommerce/global/quantity-input.php:60
+msgid "Product quantity"
+msgstr "產品數量"
+
+#: cores/nasa-custom-wc-ajax.php:1142
+msgid "Product quantity updated successfully!"
+msgstr "產品數量更新成功！"
+
+#: cores/nasa-custom-wc-ajax.php:979 cores/nasa-custom-wc-ajax.php:1008
+msgid "Product removed from wishlist successfully!"
+msgstr "產品已成功從願望清單中刪除！"
+
+#: options/nasa-options.php:1306
+msgid "Product Sidebar"
+msgstr "產品側邊欄"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:25
+msgid "Product Sidebar Position"
+msgstr "產品側邊欄位置"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:65
+msgid "Product Spacing"
+msgstr "產品間距"
+
+#: cores/nasa-shop-ajax.php:89
+msgid "Product successfully removed!"
+msgstr "產品成功刪除！"
+
+#: admin/classes/class.options_machine.php:851
+msgid "Product title"
+msgstr "產品名稱"
+
+#: includes/nasa-mini-compare.php:13
+msgid "Products"
+msgstr "產品"
+
+#: admin/settings/nasa_10_portfolio_heading.php:64
+msgid "Project Category"
+msgstr "項目類別"
+
+#: admin/settings/nasa_10_portfolio_heading.php:73
+msgid "Project Name"
+msgstr "專案名"
+
+#: cores/nasa-woo-actions.php:1887 cores/nasa-woo-actions.php:1918
+msgid "Promotion Gifts"
+msgstr "促銷禮品"
+
+#: admin/settings/nasa_03_1_header_heading.php:623
+#: admin/settings/nasa_03_1_header_heading.php:624
+msgid "Promotion News"
+msgstr "促銷新聞"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:253
+msgid "Public Coupons - Mini Cart (one per line)"
+msgstr "公共優惠券 - 迷你購物車（每行一張）"
+
+#: image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: includes/nasa-after-add-to-cart.php:34
+#: includes/nasa-after-add-to-cart.php:108 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:120 woocommerce/global/quantity-input.php:13
+msgid "Quantity"
+msgstr "數量"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:495
+msgid "Quantity Input - Checkout Page"
+msgstr "數量輸入 - 結帳頁面"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:263
+msgid "Quantity Input - Mini Cart"
+msgstr "数量输入 - 迷你购物车"
+
+#: widgets/wg-nasa-product-filter-variations.php:150
+msgid "Query type"
+msgstr "查詢類型"
+
+#: cores/nasa-theme-footers.php:722 cores/nasa-woo-actions.php:1864
+#: cores/nasa-woo-actions.php:1865 cores/nasa-woo-functions.php:545
+#: woocommerce/content-widget-product.php:77
+msgid "Quick View"
+msgstr "快速瀏覽"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:531
+msgid "Quickview Layout"
+msgstr "快速查看佈局"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:509
+#: admin/settings/nasa_07_1_product_global_heading.php:510
+msgid "Quickview Options"
+msgstr "快速查看选项"
+
+#: archive.php:93
+msgid "Quotes"
+msgstr "引號"
+
+#: woocommerce/single-product-reviews.php:145
+msgid "Rate&hellip;"
+msgstr "速度…"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:77
+#: dokan/nasa-store-lists-loop-grid-2.php:107
+#: dokan/nasa-store-lists-loop-list-1.php:56
+#: dokan/nasa-store-lists-loop-list-2.php:71
+#: dokan/nasa-store-lists-loop-list-3.php:76
+#: dokan/nasa-store-lists-loop-list-3.php:116 dokan/store-lists-loop.php:58
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "給 %s 評分（滿分 5 分）"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:302
+msgid "Reach Free Shipping Effect - WooCommerce Advanced Free Shipping"
+msgstr "達到免運效果 - WooCommerce 高級免運"
+
+#: woocommerce/single-product/tabs/tabs.php:90
+#: woocommerce/single-product/tabs/tabs.php:91
+msgid "Read more"
+msgstr "閱讀更多"
+
+#: admin/settings/nasa_08_blog_heading.php:162
+msgid "Readmore"
+msgstr "閱讀更多"
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備好發佈您的第一篇文章了嗎？<a href=\"%1$s\">從這裡開始吧</a>。"
+
+#: widgets/wg-nasa-recent-posts.php:35
+msgid "Recent Posts"
+msgstr "最近的貼文"
+
+#: admin/settings/nasa_10_portfolio_heading.php:37
+msgid "Recent Projects"
+msgstr "最近的項目"
+
+#: admin/settings/nasa_03_2_footer_heading.php:32
+msgid "Recommend Turn Off to use Builder Mode"
+msgstr "建議關閉以使用構建器模式"
+
+#: cores/nasa-theme-footers.php:856
+msgid "Recommendation"
+msgstr "推荐"
+
+#: admin/classes/class-tgm-plugin-activation.php:2347
+#: admin/importer/tpl-import-demo-data.php:83
+msgid "Recommended"
+msgstr "受到推崇的"
+
+#: admin/settings/nasa_08_blog_heading.php:221
+msgid "Related"
+msgstr "有關的"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:475
+#: woocommerce/single-product/related.php:64
+msgid "Related Products"
+msgstr "相關產品"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:469
+#: admin/settings/nasa_07_3_product_detail_heading.php:470
+msgid "Related | You may also like&hellip;"
+msgstr "相关 |你也许也喜欢…"
+
+#: includes/nasa-tmpl-captcha-field-register.php:13
+msgid "Reload"
+msgstr "重新載入"
+
+#: includes/nasa-login-register-form.php:67
+msgid "Remember"
+msgstr "記住"
+
+#: woocommerce/global/form-login.php:41
+msgid "Remember me"
+msgstr "記住帳號"
+
+#: admin/importer/wordpress-importer.php:1092
+msgid "Remote file is incorrect size"
+msgstr "遠端檔案大小不正確"
+
+#: admin/importer/wordpress-importer.php:1103
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "遠端檔案太大，限制為 %s"
+
+#: admin/importer/wordpress-importer.php:1077
+msgid "Remote server did not respond"
+msgstr "遠端伺服器沒有回應"
+
+#: admin/importer/wordpress-importer.php:1085
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "遠端伺服器回傳錯誤回應 %1$d %2$s"
+
+#: cores/nasa-woo-functions.php:2175 includes/nasa-after-add-to-cart.php:63
+#: includes/nasa-after-add-to-cart.php:66
+#: includes/nasa-sidebar-wishlist_content.php:81
+#: includes/nasa-sidebar-wishlist_content.php:189
+#: includes/nasa-sidebar-wishlist_html.php:27
+#: includes/nasa-sidebar-wishlist_html.php:82
+#: includes/nasa-sidebar-wishlist_html.php:83
+#: includes/nasa-view-compare.php:114
+#: admin/classes/class.options_machine.php:1040
+#: admin/classes/class.options_machine.php:1114
+msgid "Remove"
+msgstr "消除"
+
+#. %s is the product name
+#: woocommerce/cart/cart.php:69 woocommerce/cart/mini-cart.php:94
+#, php-format
+msgid "Remove %s from cart"
+msgstr "從購物車中刪除 %s"
+
+#: includes/nasa-sidebar-wishlist_content.php:80
+#: includes/nasa-sidebar-wishlist_content.php:188
+#: includes/nasa-sidebar-wishlist_html.php:26
+msgid "Remove this product"
+msgstr "刪除該產品"
+
+#: cores/nasa-custom-wc-ajax.php:780
+msgid "Removed all products from compare !"
+msgstr "從比較中刪除所有產品！"
+
+#: cores/nasa-custom-wc-ajax.php:741
+msgid "Removed product from compare !"
+msgstr "從比較中刪除產品！"
+
+#: admin/functions/functions.admin.php:1218
+msgid "Require ZIP file."
+msgstr "需要 ZIP 檔。"
+
+#: admin/classes/class-tgm-plugin-activation.php:2344
+#: admin/importer/tpl-import-demo-data.php:83
+msgid "Required"
+msgstr "必需的"
+
+#: admin/classes/class-tgm-plugin-activation.php:2398
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: admin/classes/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: admin/settings/nasa_03_1_header_heading.php:569
+msgid "Requires WPML"
+msgstr "需要 WPML"
+
+#: admin/settings/nasa_03_1_header_heading.php:577
+#| msgid ""
+#| "Currencies Switcher - Requires WPML | FOX - Currency Switcher "
+#| "Professional for WooCommerce | CURCY - Multi Currency for WooCommerce"
+msgid ""
+"Requires WPML | FOX - Currency Switcher Professional for WooCommerce | CURCY "
+"- Multi Currency for WooCommerce"
+msgstr "貨幣切換器 - 需要 WPML | FOX - WooCommerce 貨幣切換專業版 | CURCY - WooCommerce 的多貨幣"
+
+#: widgets/wg-nasa-reset-filter.php:97
+#: woocommerce/content-widget-price-filter.php:41
+msgid "Reset"
+msgstr "重置"
+
+#: admin/front-end/options.php:32
+msgid "Reset WordPress plugin"
+msgstr "重置 WordPress 插件"
+
+#: admin/settings/nasa_03_1_header_heading.php:490
+msgid "Results Ajax Search (Limit Products)"
+msgstr "結果 Ajax 搜尋（限制產品）"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:251
+msgid "Results info in top"
+msgstr "結果資訊位於頂部"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:35
+msgid "Retina Logo"
+msgstr "視網膜標誌"
+
+#: cores/nasa-woo-actions.php:1503
+msgid "RETURN TO CART"
+msgstr "返回購物車"
+
+#: cores/nasa-woo-actions.php:1503
+msgid "Return to Cart"
+msgstr "返回購物車"
+
+#: cores/nasa-woo-actions.php:1579
+msgid "RETURN TO INFORMATION"
+msgstr "回傳訊息"
+
+#: cores/nasa-theme-functions.php:536
+msgid "Return to Previous Page"
+msgstr "回到上一頁"
+
+#: admin/classes/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需插件安裝程序"
+
+#: includes/nasa-sidebar-wishlist_content.php:92
+#: includes/nasa-sidebar-wishlist_content.php:214
+#: includes/nasa-sidebar-wishlist_html.php:98
+#: includes/nasa-view-compare.php:126 includes/nasa-view-compare.php:126
+#: woocommerce/cart/mini-cart.php:213
+msgid "RETURN TO SHOP"
+msgstr "返回商店"
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr "返回商店"
+
+#: admin/classes/class-tgm-plugin-activation.php:375
+#: admin/classes/class-tgm-plugin-activation.php:915
+#: admin/classes/class-tgm-plugin-activation.php:2587
+#: admin/classes/class-tgm-plugin-activation.php:3661
+msgid "Return to the Dashboard"
+msgstr "返回儀表板"
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Returning customer?"
+msgstr "回頭客？"
+
+#: admin/theme-admin.php:252
+msgid "Review Product By Images"
+msgstr "透過圖片評論產品"
+
+#: includes/nasa-review-images.php:57
+msgid "Review Product by Images"
+msgstr "透過圖片評論產品"
+
+#: page-checkout.php:83 page-checkout.php:105 page-shopping-cart.php:33
+#: page-shopping-cart.php:51
+msgid "Review Your Order"
+msgstr "查看你的訂單"
+
+#: cores/nasa-theme-footers.php:857 woocommerce/single-product-reviews.php:181
+msgid "Reviews"
+msgstr "評論"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:100
+#: admin/settings/nasa_07_3_product_detail_heading.php:314
+msgid "Right"
+msgstr "正確的"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:31
+#: admin/settings/nasa_07_5_dokan_heading.php:38
+#: admin/settings/nasa_08_blog_heading.php:30
+#: admin/settings/nasa_08_blog_heading.php:42
+msgid "Right Sidebar"
+msgstr "右側邊欄"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:36
+msgid "Right Sidebar - Classic"
+msgstr "右側邊欄 - 經典"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:34
+msgid "Right Sidebar - Off-canvas"
+msgstr "右側邊欄 - 畫布外"
+
+#: admin/settings/nasa_03_1_header_heading.php:450
+#: admin/settings/nasa_07_1_product_global_heading.php:58
+msgid "Right To Left"
+msgstr "右到左"
+
+#: admin/settings/nasa_05_type_heading.php:146
+msgid "RTL - Banner font"
+msgstr "RTL - 橫幅字體"
+
+#: admin/settings/nasa_05_type_heading.php:56
+msgid "RTL - Heading fonts (H1, H2, H3, H4, H5, H6)"
+msgstr "RTL - 標題字體（H1、H2、H3、H4、H5、H6）"
+
+#: admin/settings/nasa_05_type_heading.php:116
+msgid "RTL - Main navigation"
+msgstr "RTL - 主導航"
+
+#: admin/settings/nasa_05_type_heading.php:176
+msgid "RTL - Price font"
+msgstr "RTL - 價格字體"
+
+#: admin/settings/nasa_05_type_heading.php:231
+msgid "RTL - Select Custom Font"
+msgstr "RTL - 選擇自訂字體"
+
+#: admin/settings/nasa_05_type_heading.php:86
+msgid "RTL - Text fonts (paragraphs, etc..)"
+msgstr "RTL - 文字字體（段落等..）"
+
+#: woocommerce/loop/sale-flash.php:52
+#: woocommerce/single-product/sale-flash.php:53
+msgid "Sale"
+msgstr "銷售"
+
+#: admin/settings/nasa_04_style_color_heading.php:89
+msgid "Sale Badge Color"
+msgstr "銷售徽章顏色"
+
+#: includes/nasa-checkout-modern-billing-detail.php:24
+msgid "Same as shipping address"
+msgstr "跟郵寄地址一樣"
+
+#: includes/nasa-mini-cart-note.php:21
+msgid "Save"
+msgstr "節省"
+
+#: admin/front-end/options.php:65 admin/front-end/options.php:88
+msgid "Save All Changes"
+msgstr "儲存所有更改"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:95
+msgid "Scroll Images"
+msgstr "捲動圖像"
+
+#: searchform.php:105 searchform.php:167 cores/nasa-theme-headers.php:438
+#: includes/nasa-mobile-bottom-bar.php:67
+#: includes/nasa-mobile-bottom-bar.php:69
+msgid "Search"
+msgstr "搜尋"
+
+#: searchform.php:190
+msgid "search"
+msgstr "搜尋"
+
+#: admin/settings/nasa_03_1_header_heading.php:465
+msgid "Search Anything After Submit"
+msgstr "提交後搜尋任何內容"
+
+#: admin/settings/nasa_03_1_header_heading.php:445
+msgid "Search Bar Effect"
+msgstr "搜尋欄效果"
+
+#: searchform.php:80
+msgid "Search here"
+msgstr "在這裡搜尋"
+
+#: admin/importer/tpl-homepage-list.php:23
+msgid "Search homepage ..."
+msgstr "搜索主页..."
+
+#: admin/functions/functions.admin.php:1111
+msgid "Search icon"
+msgstr "搜尋圖示"
+
+#: admin/front-end/options.php:60
+#: admin/settings/nasa_03_1_header_heading.php:438
+#: admin/settings/nasa_03_1_header_heading.php:439
+msgid "Search Options"
+msgstr "搜尋選項"
+
+#: search.php:61
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜尋結果：%s"
+
+#: admin/classes/class.options_machine.php:865
+msgid "Search.."
+msgstr "搜尋.."
+
+#: includes/nasa-change-view.php:228
+msgid "See"
+msgstr "看"
+
+#: admin/front-end/options.php:32
+#, php-format
+msgid ""
+"Seems like an error has occured. Please double check the imported data. If "
+"incorrect, please use %s and try again"
+msgstr "似乎發生了錯誤。請仔細檢查導入的數據。如果不正確，請使用 %s 並重試"
+
+#: admin/functions/functions.admin.php:267
+msgid "Select"
+msgstr "選擇"
+
+#: admin/importer/tpl-import-demo-data.php:106
+#: admin/importer/tpl-import-demo-data.php:119
+msgid "SELECT ALL HOMEPAGES"
+msgstr "選擇所有主頁"
+
+#: includes/nasa-mini-cart-add-coupon.php:11
+msgid "Select an available coupon"
+msgstr "選擇可用優惠券"
+
+#: admin/functions/functions.admin.php:347
+msgid "Select category"
+msgstr "選擇類別"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:81
+msgid "Select Contact Form"
+msgstr "選擇聯絡表格"
+
+#: admin/settings/nasa_05_type_heading.php:220
+msgid "Select Custom Font"
+msgstr "選擇自訂字體"
+
+#: cores/nasa-theme-footers.php:880
+msgid "Select Options"
+msgstr "選擇選項"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:524
+msgid "Select Options button to Quickview"
+msgstr "選擇選項按鈕進行快速查看"
+
+#: admin/functions/functions.admin.php:1165
+msgid "Select page view compare"
+msgstr "選擇頁面視圖比較"
+
+#: admin/functions/functions.admin.php:1182
+msgid "Select page view Portfolio"
+msgstr "選擇頁面視圖 投資組合"
+
+#: includes/nasa-checkout-modern-billing-detail.php:16
+msgid "Select the address that matches your card or payment method."
+msgstr "選擇與您的卡片或付款方式相符的地址。"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:196
+msgid "Select the Contact Form"
+msgstr "選擇聯絡表格"
+
+#: admin/settings/nasa_03_2_footer_heading.php:147
+msgid "Select the Footer Elementor"
+msgstr "選擇頁尾元素"
+
+#: admin/settings/nasa_03_2_footer_heading.php:100
+msgid "Select the Footer Type"
+msgstr "選擇頁尾類型"
+
+#: admin/settings/nasa_03_1_header_heading.php:59
+msgid "Select the Header Builder"
+msgstr "選擇標頭產生器"
+
+#: admin/settings/nasa_03_1_header_heading.php:83
+msgid "Select the Header Elementor"
+msgstr "選擇標題元素"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:149
+msgid "Set Popup Repeat Time"
+msgstr "設定彈出重複時間"
+
+#: admin/importer/tpl-import-demo-data.php:152
+msgid "Setup Theme Options"
+msgstr "設定主題選項"
+
+#: includes/nasa-login-register-form.php:169
+msgid "SETUP YOUR ACCOUNT"
+msgstr "設定您的帳戶"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Share"
+msgstr "分享"
+
+#: admin/settings/nasa_08_blog_heading.php:212
+msgid "Share icons"
+msgstr "分享圖示"
+
+#: cores/nasa-woo-actions.php:1543
+msgid "Ship to"
+msgstr "運送到"
+
+#: includes/nasa-checkout-modern.php:64
+msgid "SHIPPING"
+msgstr "船運"
+
+#: cores/nasa-woo-actions.php:2520 includes/nasa-mini-cart-shipping.php:26
+msgid "Shipping"
+msgstr "船運"
+
+#: includes/nasa-checkout-modern.php:130
+msgid "Shipping address"
+msgstr "收件地址"
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid "Shipping costs are calculated during checkout."
+msgstr "運費在結帳時計算。"
+
+#: cores/nasa-woo-actions.php:1568
+msgid "Shipping Methods"
+msgstr "運輸方式"
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Shipping options will be updated during checkout."
+msgstr "送貨選項將在結帳時更新。"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:61
+#, php-format
+msgid "Shipping to %s."
+msgstr "運送至 %s。"
+
+#: includes/nasa-mobile-bottom-bar-app.php:44
+#: includes/nasa-mobile-bottom-bar-app.php:46
+#: includes/nasa-mobile-bottom-bar.php:44
+#: includes/nasa-mobile-bottom-bar.php:46
+msgid "Shop"
+msgstr "店鋪"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:135
+msgid "Shop Background Color"
+msgstr "商店背景顏色"
+
+#: woocommerce/loop/orderby.php:18
+msgid "Shop order"
+msgstr "店鋪訂單"
+
+#: options/nasa-options.php:1296
+msgid "Shop Sidebar"
+msgstr "商店側邊欄"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:25
+msgid "Shop Sidebar Layout"
+msgstr "商店側邊欄佈局"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:130
+msgid "Shop With Background Color"
+msgstr "有背景顏色的商店"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:129
+msgid "Shop Without Background Color"
+msgstr "沒有背景顏色的商店"
+
+#: page-checkout.php:67 page-checkout.php:69 page-checkout.php:92
+#: page-shopping-cart.php:18 page-shopping-cart.php:40
+msgid "Shopping Cart"
+msgstr "購物車"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:421
+#: admin/settings/nasa_07_1_product_global_heading.php:422
+msgid "Shopping Cart - Options"
+msgstr "购物车 - 选项"
+
+#: admin/settings/nasa_08_blog_heading.php:169
+msgid "Short description (Only use for Blog Grid layout)"
+msgstr "簡短描述（僅用於部落格網格佈局）"
+
+#: includes/nasa-blog-promotion.php:40
+msgid "Show"
+msgstr "展示"
+
+#: widgets/wg-nasa-product-brands.php:52
+#: widgets/wg-nasa-product-categories.php:98
+msgid "Show as Accordion"
+msgstr "顯示為手風琴"
+
+#: widgets/wg-nasa-product-brands.php:57
+#: widgets/wg-nasa-product-categories.php:103
+#: widgets/wg-nasa-product-filter-variations.php:159
+msgid "Show default numbers items"
+msgstr "顯示預設數字項目"
+
+#: widgets/wg-nasa-product-categories.php:83
+msgid "Show hierarchy"
+msgstr "顯示層次結構"
+
+#: widgets/wg-nasa-tag-cloud.php:165
+msgid "Show items (0 ~ All)"
+msgstr "顯示項目 (0 ~ 全部)"
+
+#: woocommerce/single-product/tabs/tabs.php:90
+msgid "Show less"
+msgstr "顯示較少"
+
+#: cores/nasa-theme-options.php:229
+msgid "Show Mini Account"
+msgstr "顯示迷你帳戶"
+
+#: cores/nasa-theme-options.php:241
+msgid "Show Mini Cart"
+msgstr "顯示迷你車"
+
+#: cores/nasa-theme-options.php:253
+msgid "Show Mini Compare"
+msgstr "顯示迷你比較"
+
+#: cores/nasa-theme-options.php:265
+msgid "Show Mini Wishlist"
+msgstr "顯示迷你願望清單"
+
+#: cores/nasa-theme-functions.php:483
+msgid "Show more ..."
+msgstr "展示更多 ..."
+
+#: cores/nasa-theme-options.php:140
+msgid "Show Multi"
+msgstr "顯示多"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:200
+msgid "Show Notice"
+msgstr "展會須知"
+
+#: widgets/wg-nasa-product-brands.php:47
+#: widgets/wg-nasa-product-categories.php:78
+#: widgets/wg-nasa-product-filter-variations.php:178
+msgid "Show product counts"
+msgstr "顯示產品數量"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:105
+msgid "Show Title In Line"
+msgstr "顯示行內標題"
+
+#: widgets/wg-nasa-product-filter-variations.php:28
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr "在小工具中顯示自訂屬性，可讓您在查看產品類別時縮小產品清單的範圍。"
+
+#: widgets/wg-nasa-product-filter-price.php:29
+msgid ""
+"Shows a price filter slider in a widget which lets you narrow down the list "
+"of shown products when viewing product categories."
+msgstr "在小工具中顯示價格過濾器滑桿，讓您可以在查看產品類別時縮小顯示產品的清單範圍。"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:81
+msgid "Side"
+msgstr "邊"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:95
+msgid "Side Canvas"
+msgstr "側帆布"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:94
+msgid "Side Classic"
+msgstr "邊經典"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:44
+msgid "Sidebar Classic - Sticky"
+msgstr "側邊欄經典 - 黏性"
+
+#: includes/nasa-login-register-form.php:180
+msgid "Sign in here"
+msgstr "在這裡登入"
+
+#: includes/nasa-login-register-form.php:93
+msgid "SIGN IN TO YOUR ACCOUNT"
+msgstr "登入您的帳戶"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:289
+msgid "Simple"
+msgstr "簡單的"
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:43
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"由於您的瀏覽器不支援 JavaScript 或已停用，因此請確保在下訂單之前點擊 %1$s更新總計%2$s "
+"按鈕。如果您不這樣做，您可能會被收取超過上述金額的費用。"
+
+#: admin/settings/nasa_08_blog_heading.php:179
+msgid "Single Blog page"
+msgstr "單一部落格頁面"
+
+#: admin/settings/nasa_08_blog_heading.php:24
+msgid "Single Layout"
+msgstr "單一佈局"
+
+#: admin/settings/nasa_08_blog_heading.php:178
+msgid "Single Page"
+msgstr "單頁"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:97
+msgid "Single Product - Mobile - Top Navigation"
+msgstr "单品 - 手机 - 顶部导航"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:105
+msgid "Single Product - Mobile - Top Navigation - Custom Tabs"
+msgstr "單一產品 - 移動 - 頂部導航 - 自訂選項卡"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:47
+msgid "Single Product Layout"
+msgstr "單品佈局"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:12
+msgid "Single Product Page"
+msgstr "單一產品頁面"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:41
+msgid "Single Row"
+msgstr "單排"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:549
+msgid "Single Thumbnail"
+msgstr "單一縮圖"
+
+#: admin/settings/nasa_01_general_heading.php:45
+msgid "Site Background Color - Boxed Layout"
+msgstr "網站背景顏色 - 盒裝佈局"
+
+#: admin/settings/nasa_01_general_heading.php:55
+msgid "Site Background Image - Boxed Layout"
+msgstr "網站背景圖片 - 盒裝佈局"
+
+#: admin/settings/nasa_01_general_heading.php:33
+msgid "Site Layout"
+msgstr "場地佈局"
+
+#: admin/settings/nasa_01_general_heading.php:308
+msgid "Skip Load - Files CSS - Checkin it if you don't want your site call"
+msgstr "跳過加載 - 文件 CSS - 如果您不希望網站調用，請簽入它"
+
+#: cores/nasa-woo-actions.php:2135 options/nasa-options.php:773
+#: woocommerce/single-product/meta.php:25
+msgid "SKU:"
+msgstr "貨號："
+
+#: cores/nasa-theme-options.php:73 admin/classes/class.options_machine.php:1096
+msgid "Slide"
+msgstr "滑動"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:94
+msgid "Slide Images"
+msgstr "幻燈片影像"
+
+#: admin/settings/nasa_03_1_header_heading.php:682
+msgid "Slide Show"
+msgstr "幻燈片放映"
+
+#: widgets/wg-nasa-product-filter-variations.php:166
+msgid "Slide Up-Down"
+msgstr "上下滑動"
+
+#: cores/nasa-theme-options.php:56
+msgid "Small"
+msgstr "小的"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:70
+msgid "Small Spacing"
+msgstr "小間距"
+
+#: cores/nasa-dokan-functions.php:97
+msgid "Sold By: "
+msgstr "所售："
+
+#: cores/nasa-woo-actions.php:2202 includes/nasa-content-product-gift.php:62
+msgid "Sold Out"
+msgstr "售罄"
+
+#: admin/classes/class.options_machine.php:435
+msgid "Solid"
+msgstr "堅硬的"
+
+#: admin/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "插件 API 出現問題。"
+
+#: admin/front-end/options.php:36
+msgid ""
+"Sorry but your import failed. Most likely, it cannot work with your webhost. "
+"You will have to ask your webhost to increase your PHP max_execution_time "
+"(or any other webserver timeout to at least 300 secs) and memory_limit (to "
+"at least 196M) temporarily."
+msgstr ""
+"抱歉，您的匯入失敗。最有可能的是，它無法與您的網站主機一起使用。您必須要求您的網站主機暫時增加 PHP "
+"max_execution_time（或任何其他網頁伺服器逾時至少 300 秒）和記憶體限制（至少 196M）。"
+
+#: cores/nasa-custom-wc-ajax.php:1365
+msgid "Sorry there was a problem removing this coupon."
+msgstr "抱歉，刪除此優惠券時出現問題。"
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，沒有任何內容符合您的搜尋條件。請使用一些不同的關鍵字重試。"
+
+#: 404.php:17
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr "抱歉，找不到您要找的頁面。請確保您輸入了當前的 URL。"
+
+#: woocommerce/checkout/payment.php:26
+msgid ""
+"Sorry, it seems that there are no available payment methods. Please contact "
+"us if you require assistance or wish to make alternate arrangements."
+msgstr "抱歉，似乎沒有可用的付款方式。如果您需要協助或希望做出其他安排，請與我們聯絡。"
+
+#: cores/nasa-custom-wc-ajax.php:595
+msgid "Sorry, Maybe product empty in stock."
+msgstr "抱歉，可能產品庫存已空。"
+
+#: options/nasa-options.php:704
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr "抱歉，沒有產品符合您的選擇。請選擇不同的組合。"
+
+#: cores/nasa-custom-wc-ajax.php:447 cores/nasa-custom-wc-ajax.php:469
+msgid "Sorry, Product is not existing."
+msgstr "抱歉，產品不存在。"
+
+#: admin/importer/wordpress-importer.php:162
+#: admin/importer/wordpress-importer.php:171
+#: admin/importer/wordpress-importer.php:221
+#: admin/importer/wordpress-importer.php:225
+#: admin/importer/wordpress-importer.php:234
+msgid "Sorry, there has been an error."
+msgstr "抱歉，出現錯誤。"
+
+#: options/nasa-options.php:706
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "抱歉，該產品不可用。請選擇不同的組合。"
+
+#: options/nasa-options.php:781
+msgid "Sorry. No results match your search."
+msgstr "對不起。沒有結果與您的搜尋相符。"
+
+#: woocommerce/loop/orderby.php:16
+msgid "Sort by"
+msgstr "排序方式"
+
+#: admin/classes/class-tgm-plugin-activation.php:2602
+msgid "Source"
+msgstr "來源"
+
+#: cores/nasa-advanced-free-shipping.php:104
+#, php-format
+msgid ""
+"Spend %s more to reach <strong>FREE SHIPPING!</strong> <a class=\"continue-"
+"cart hide-in-cart-sidebar\" href=\"%s\" title=\"Continue Shopping\">Continue "
+"Shopping</a>"
+msgstr ""
+"多花 %s 即可享有<strong>免費送貨服務！</strong><a class=\"continue-cart hide-in-cart-"
+"sidebar\" href=\"%s\" title=\"繼續購物\">繼續購物</a>"
+
+#: admin/settings/nasa_08_blog_heading.php:53
+msgid "Standard"
+msgstr "標準"
+
+#: admin/importer/tpl-import-demo-data.php:108
+#: admin/importer/tpl-import-demo-data.php:121
+msgid "START IMPORT SAMPLE DATA"
+msgstr "開始匯入樣本數據"
+
+#: searchform.php:29 searchform.php:125
+msgid "Start typing ..."
+msgstr "開始輸入..."
+
+#: admin/classes/class-tgm-plugin-activation.php:2608
+msgid "Status"
+msgstr "地位"
+
+#: admin/importer/tpl-import-demo-data.php:60
+msgid "Step 1: Install Plugins"
+msgstr "第 1 步：安裝插件"
+
+#: admin/importer/tpl-import-demo-data.php:97
+msgid "Step 2: Choose Homepage Layout"
+msgstr "第 2 步：選擇主頁佈局"
+
+#: admin/importer/tpl-import-demo-data.php:125
+msgid "Step 3: Import Content"
+msgstr "第 3 步：導入內容"
+
+#: widgets/wg-nasa-product-filter-price.php:42
+msgid "Step Change"
+msgstr "步長變化"
+
+#: admin/settings/nasa_03_1_header_heading.php:368
+msgid "Sticky"
+msgstr "黏"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:236
+msgid "Sticky Add To Cart"
+msgstr "黏性添加到購物車"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:261
+msgid "Sticky Add To Cart In Mobile"
+msgstr "在行動裝置上黏性添加到購物車"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:243
+msgid "Sticky Buy Now - Desktop"
+msgstr "黏性立即購買 - 桌面版"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:70
+msgid "Sticky Logo"
+msgstr "黏性標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:63
+#: admin/settings/nasa_02_logo_icon_heading.php:64
+msgid "Sticky Logo Options"
+msgstr "黏性標誌選項"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:37
+msgid "Sticky Sidebar"
+msgstr "黏性側邊欄"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:384
+msgid "Stock Progress Bar"
+msgstr "庫存進度條"
+
+#: dokan/store-header.php:37
+msgid "Store Closed"
+msgstr "商店關門"
+
+#: admin/settings/nasa_07_5_dokan_heading.php:18
+msgid "Store Header Template"
+msgstr "商店標題模板"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:58
+#: dokan/nasa-store-lists-loop-list-1.php:109 dokan/store-lists-loop.php:50
+msgid "Store is Closed"
+msgstr "商店已關閉"
+
+#: dokan/nasa-store-lists-loop-grid-1.php:56
+#: dokan/nasa-store-lists-loop-list-1.php:107 dokan/store-lists-loop.php:48
+msgid "Store is Open"
+msgstr "商店已營業"
+
+#: dokan/store-header.php:36
+msgid "Store Open"
+msgstr "商店開業"
+
+#: admin/settings/nasa_07_5_dokan_heading.php:32
+msgid "Store Sidebar Position"
+msgstr "儲存側邊欄位置"
+
+#: cores/nasa-theme-options.php:64 admin/settings/nasa_08_blog_heading.php:48
+msgid "Style"
+msgstr "風格"
+
+#: admin/settings/nasa_04_style_color_heading.php:12
+msgid "Style and Colors"
+msgstr "款式和顏色"
+
+#: cores/nasa-woo-functions.php:1597
+msgid "Subcategories: "
+msgstr "子類別："
+
+#: woocommerce/single-product-reviews.php:118
+#: admin/importer/wordpress-importer.php:318
+msgid "Submit"
+msgstr "提交"
+
+#: cores/nasa-woo-actions.php:2417 woocommerce/cart/cart.php:31
+#: woocommerce/checkout/review-order.php:20
+#: woocommerce/checkout/review-order.php:107
+msgid "Subtotal"
+msgstr "小計"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:270
+msgid "Subtotal for Item - Mini Cart"
+msgstr "商品小计 - 迷你购物车"
+
+#: includes/nasa-after-add-to-cart.php:151
+msgid "Subtotal&nbsp;&nbsp;&nbsp;"
+msgstr "小計"
+
+#: admin/settings/nasa_04_style_color_heading.php:33
+msgid "Success Color"
+msgstr "成功色彩"
+
+#: cores/nasa-theme-footers.php:391
+msgid "Successfully added to your cart."
+msgstr "已成功加入您的購物車。"
+
+#: admin/settings/nasa_03_1_header_heading.php:508
+msgid "Suggested Keywords - (Header type 1, 2, 5, 7)"
+msgstr "建議的關鍵字 -（標頭類型 1、2、5、7）"
+
+#: admin/settings/nasa_05_type_heading.php:313
+msgid "Support Font Icons"
+msgstr "支援字體圖標"
+
+#: admin/settings/nasa_03_1_header_heading.php:482
+msgid "Support Search By SKU"
+msgstr "支援按SKU搜尋"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:140
+msgid "Support Upload ICO medias"
+msgstr "支援上傳ICO媒體"
+
+#: admin/settings/nasa_01_general_heading.php:196
+msgid "Support Upload SVG medias"
+msgstr "支援上傳SVG媒體"
+
+#: admin/settings/nasa_01_general_heading.php:301
+msgid "Sync"
+msgstr "同步"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:353
+msgid "Tab Global"
+msgstr "全域選項卡"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:583
+#: admin/settings/nasa_07_2_product_page_heading.php:232
+msgid "Tablet Columns"
+msgstr "錠劑柱"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:307
+msgid "Tabs Align"
+msgstr "標籤對齊"
+
+#: cores/nasa-theme-options.php:81
+msgid "Tabs Background color"
+msgstr "選項卡背景顏色"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:285
+msgid "Tabs Layouts"
+msgstr "選項卡佈局"
+
+#: cores/nasa-theme-options.php:94
+msgid "Tabs text color"
+msgstr "選項卡文字顏色"
+
+#: archive.php:68
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "標籤檔案：%s"
+
+#: includes/nasa-blog-grid.php:98 includes/nasa-blog-list.php:96
+#: includes/nasa-blog-masonry-isotope.php:103
+#: includes/nasa-blog-standard.php:90
+#, php-format
+msgid "Tagged %1$s"
+msgstr "已標記%1$s"
+
+#: widgets/wg-nasa-tag-cloud.php:24 widgets/wg-nasa-tag-cloud.php:44
+msgid "Tags"
+msgstr "標籤"
+
+#: admin/settings/nasa_08_blog_heading.php:148
+#: admin/settings/nasa_08_blog_heading.php:205
+msgid "Tags info"
+msgstr "標籤資訊"
+
+#: admin/classes/class.options_machine.php:379
+msgid "Tahoma, Geneva"
+msgstr "塔霍馬, 日內瓦"
+
+#: widgets/wg-nasa-tag-cloud.php:149
+msgid "Taxonomy:"
+msgstr "分類："
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:93
+msgid "Text Align"
+msgstr "文字對齊"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:86
+msgid "Text Color"
+msgstr "文字顏色"
+
+#: admin/settings/nasa_05_type_heading.php:71
+msgid "Text fonts (paragraphs, etc..)"
+msgstr "文字字體（段落等）"
+
+#: admin/settings/nasa_03_1_header_heading.php:708
+msgid "Text Promotion Color"
+msgstr "文字促銷顏色"
+
+#. %s: version number
+#: admin/classes/class-tgm-plugin-activation.php:2044
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Thank you!"
+msgstr "謝謝你！"
+
+#: admin/settings/nasa_03_1_header_heading.php:344
+msgid "The Block beside Logo in Header Type 2"
+msgstr "標頭類型 2 中標誌旁的區塊"
+
+#: admin/settings/nasa_03_1_header_heading.php:356
+msgid "The Block beside Main menu in Header Type 4, 6"
+msgstr "標題類型 4、6 中主選單旁的區塊"
+
+#: admin/settings/nasa_01_general_heading.php:259
+msgid "The block editor from managing widgets"
+msgstr "用於管理小部件的區塊編輯器"
+
+#: admin/settings/nasa_03_1_header_heading.php:332
+msgid "The Block Under Header"
+msgstr "標題下的區塊"
+
+#: admin/importer/wordpress-importer.php:226
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr "在 <code>%s</code> 處找不到匯出檔案。這很可能是由權限問題引起的。"
+
+#: admin/importer/wordpress-importer.php:163
+msgid "The file does not exist, please try again."
+msgstr "文件不存在，請重試。"
+
+#: admin/functions/functions.admin.php:1229
+#: admin/functions/functions.admin.php:1235
+msgid "The file you are trying to upload is not a .zip file. Please try again."
+msgstr "您嘗試上傳的檔案不是 .zip 檔案。請再試一次。"
+
+#: admin/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下外掛程式需要更新到最新版本，以確保與此主題的最大相容性：%1$s。"
+
+#: admin/classes/class-tgm-plugin-activation.php:377
+#: admin/classes/class-tgm-plugin-activation.php:3005
+msgid "The following plugin was activated successfully:"
+msgstr "以下外掛程式已成功啟用："
+
+#: admin/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推薦插件目前處於非活動狀態：%1$s。"
+
+#: admin/classes/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需插件目前處於非活動狀態：%1$s。"
+
+#: admin/classes/class-tgm-plugin-activation.php:3578
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安裝和啟動過程正在開始。在某些主機上，此過程可能需要一段時間，因此請耐心等待。"
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3574
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安裝失敗。"
+
+#: admin/classes/class-tgm-plugin-activation.php:3591
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安裝過程正在開始。在某些主機上，此過程可能需要一段時間，因此請耐心等待。"
+
+#: admin/settings/nasa_01_general_heading.php:26
+msgid "The max-width of your site will be INPUT + 1200 (pixel)."
+msgstr "您網站的最大寬度將為 INPUT + 1200（像素）。"
+
+#: includes/nasa-mini-cart-add-coupon.php:42
+#, php-format
+msgid "The maximum spend for this coupon is&nbsp;%s"
+msgstr "此優惠券的最高消費額為 %s"
+
+#: includes/nasa-mini-cart-add-coupon.php:39
+#, php-format
+msgid "The minimum spend for this coupon is&nbsp;%s"
+msgstr "此優惠券的最低消費為 %s"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:101
+msgid ""
+"The mobile top navigation will only appears when the website is in mobile "
+"app mode"
+msgstr "仅当网站处于移动应用模式时才会出现移动顶部导航"
+
+#: cores/nasa-custom-wc-ajax.php:861
+msgid "The page location you are viewing is marked with"
+msgstr "您正在查看的頁面位置標有"
+
+#: admin/classes/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "遠端插件包由多個文件組成，但這些文件並未打包在一個資料夾中。"
+
+#: admin/classes/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "遠端插件包不包含具有所需 slug 的資料夾，且重新命名不起作用。"
+
+#: widgets/wg-nasa-tag-cloud.php:134
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that "
+"support the tag cloud widget."
+msgstr "由於沒有支援標籤雲小部件的分類法，因此不會顯示標籤雲。"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:154
+msgid ""
+"The time unit in the line is calculated in hours and must be greater than 0. "
+"EX: 24, 32, 48,.."
+msgstr "該行中的時間單位以小時計算，且必須大於 0。EX: 24, 32, 48,.."
+
+#: includes/nasa-sidebar-wishlist.php:7
+msgid "Theme has not been installed or enabled Wishlist Feature."
+msgstr "尚未安裝主題或啟用願望清單功能。"
+
+#: admin/front-end/options.php:23 admin/front-end/options.php:41
+#: admin/functions/functions.interface.php:73
+msgid "Theme Options"
+msgstr "主題選項"
+
+#: admin/importer/nasa-importer.php:23 admin/importer/nasa-importer.php:24
+msgid "Theme Setup"
+msgstr "主題設定"
+
+#: woocommerce/single-product-reviews.php:207
+msgid "There are no reviews yet."
+msgstr "還沒有評論。"
+
+#: woocommerce/cart/cart-shipping.php:79
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr "沒有可用的運送選項。請確保您輸入的地址正確，或者如果您需要任何協助，請與我們聯絡。"
+
+#: admin/classes/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一個或多個必要或建議的插件需要安裝、更新或啟用。"
+
+#: cores/nasa-theme-footers.php:475
+#, php-format
+msgid "There is <span class=\"primary-color\"> %s item</span> in your cart."
+msgid_plural ""
+"There are <span class=\"primary-color\"> %s items</span> in your cart."
+msgstr[0] "您的购物车中有 <span class=\"primary-color\"> %s 件商品</span>。"
+
+#: admin/classes/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有一個可用更新：%1$s。"
+
+#: admin/importer/parsers.php:44 admin/importer/parsers.php:84
+#: admin/importer/parsers.php:93
+msgid "There was an error when reading this WXR file"
+msgstr "讀取此 WXR 檔案時發生錯誤"
+
+#: admin/importer/parsers.php:97 admin/importer/parsers.php:102
+#: admin/importer/parsers.php:294 admin/importer/parsers.php:494
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "這似乎不是 WXR 文件，WXR 版本號碼遺失/無效"
+
+#: cores/nasa-woo-actions.php:1510 woocommerce/single-product-reviews.php:37
+msgid "This field is required."
+msgstr "此欄位是必需的。"
+
+#: admin/classes/class-tgm-plugin-activation.php:589
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "該外掛需要更新才能與您的主題相容。"
+
+#: admin/classes/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "本主題推薦以下外掛：%1$s。"
+
+#: admin/classes/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主題需要以下外掛：%1$s。"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:174
+msgid ""
+"This width applies to desktops and medium screens (screens with a width "
+"smaller than the width you are setting will automatically have a width of "
+"90% of the full screen)."
+msgstr "此寬度適用於桌面和中型螢幕（寬度小於您設定的寬度的螢幕將自動具有全螢幕的 90% 寬度）。"
+
+#: admin/importer/tpl-import-demo-data.php:54
+msgid ""
+"This wizard will set up your theme, install plugins, import content. It is "
+"optional & should take only a few minutes."
+msgstr "該嚮導將設定您的主題、安裝外掛程式、匯入內容。這是可選的並且只需要幾分鐘。"
+
+#: admin/importer/wordpress-importer.php:242
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr "此版本的導入器可能不支援此 WXR 檔案（版本 %s）。請考慮更新。"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:103
+msgid "Thumbnail Layout"
+msgstr "縮圖佈局"
+
+#: admin/classes/class.options_machine.php:855
+msgid "Time ago"
+msgstr "過去"
+
+#: admin/classes/class.options_machine.php:378
+msgid "Times New Roman"
+msgstr "英語字體格式一種"
+
+#: cores/nasa-theme-options.php:57
+msgid "Tiny"
+msgstr "微小的"
+
+#: widgets/wg-nasa-product-brands.php:42
+#: widgets/wg-nasa-product-categories.php:64
+#: widgets/wg-nasa-product-filter-alphabet.php:32
+#: widgets/wg-nasa-product-filter-multi-categories.php:38
+#: widgets/wg-nasa-product-filter-multi-tags.php:38
+#: widgets/wg-nasa-product-filter-price-list.php:26
+#: widgets/wg-nasa-product-filter-price.php:36
+#: widgets/wg-nasa-product-filter-status.php:32
+#: widgets/wg-nasa-product-filter-variations.php:138
+#: widgets/wg-nasa-reset-filter.php:39
+#: admin/classes/class.options_machine.php:1104
+msgid "Title"
+msgstr "標題"
+
+#: widgets/wg-nasa-recent-posts.php:107 widgets/wg-nasa-tag-cloud.php:122
+msgid "Title:"
+msgstr "標題："
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2467
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "激活<span class=\"count\">（%s）</span>"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2459
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "要安裝<span class=\"count\">（%s）</span>"
+
+#: admin/importer/wordpress-importer.php:299
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+"為了使您能夠更輕鬆地編輯和儲存匯入的內容，您可能需要將匯入專案的作者重新指派給該網站的現有使用者。例如，您可能想要將所有條目匯入為 <code>"
+"admin</code> 條目。"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Toggle fullscreen"
+msgstr "切換全螢幕"
+
+#: cores/nasa-theme-options.php:119
+msgid "Toggle Icon"
+msgstr "切換圖示"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:54
+msgid "Toggle Sidebar"
+msgstr "切換側邊欄"
+
+#: admin/settings/nasa_03_1_header_heading.php:547
+msgid "Toggle Top Bar"
+msgstr "切換頂欄"
+
+#: admin/settings/nasa_03_1_header_heading.php:557
+msgid "Toggle Top Bar - Initialize"
+msgstr "切換頂部欄 - 初始化"
+
+#: admin/settings/nasa_01_general_heading.php:235
+msgid "Toggle Widget Content"
+msgstr "切換小工具內容"
+
+#: admin/settings/nasa_01_general_heading.php:242
+msgid "Toggle Widget Content - Always Close"
+msgstr "切換小工具內容 - 始終關閉"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:80
+msgid "Top"
+msgstr "頂部"
+
+#: admin/settings/nasa_03_1_header_heading.php:537
+#: admin/settings/nasa_07_2_product_page_heading.php:30
+msgid "Top Bar"
+msgstr "頂欄"
+
+#: admin/settings/nasa_03_1_header_heading.php:590
+msgid "Top Bar Content"
+msgstr "頂部欄內容"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:64
+msgid "Top Bar Limit widgets to Show More"
+msgstr "頂部欄限制小工具顯示更多"
+
+#: admin/settings/nasa_03_1_header_heading.php:530
+#: admin/settings/nasa_03_1_header_heading.php:531
+msgid "Top Bar Options"
+msgstr "頂欄選項"
+
+#: admin/settings/nasa_03_1_header_heading.php:630
+msgid "Top Bar Promotion News"
+msgstr "頂級酒吧促銷新聞"
+
+#: admin/settings/nasa_03_1_header_heading.php:692
+msgid "Top Bar Promotion News Auto Scroll"
+msgstr "頂欄促銷新聞自動滾動"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:31
+msgid "Top Bar Type 2"
+msgstr "頂桿類型 2"
+
+#: admin/settings/nasa_07_2_product_page_heading.php:32
+msgid "Top Bar Type 3"
+msgstr "頂桿類型 3"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:318
+msgid "Top Filter Categories"
+msgstr "熱門篩選類別"
+
+#: functions.php:103
+msgid "Top Menu - Only show level 1"
+msgstr "頂部選單 - 僅顯示等級 1"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:56
+msgid "Top To Bottom"
+msgstr "從上到下"
+
+#: admin/settings/nasa_03_1_header_heading.php:602
+msgid "Topbar Background"
+msgstr "頂欄背景"
+
+#: admin/settings/nasa_03_1_header_heading.php:609
+msgid "Topbar Text color"
+msgstr "頂欄文字顏色"
+
+#: admin/settings/nasa_03_1_header_heading.php:616
+msgid "Topbar Text color hover"
+msgstr "頂部欄文字顏色懸停"
+
+#: includes/nasa-after-add-to-cart.php:35
+#: includes/nasa-after-add-to-cart.php:129 includes/nasa-mini-cart-total.php:5
+#: woocommerce/cart/cart.php:146 woocommerce/checkout/review-order.php:164
+#: woocommerce/checkout/thankyou.php:54
+msgid "Total"
+msgstr "全部的"
+
+#: image.php:93
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"引文已關閉，但您可以<a class=\"comment-link\" href=\"#respond\" title=\"發表評論\">發表評論</a>"
+"。"
+
+#: admin/settings/nasa_98_backup_options_heading.php:26
+msgid "Transfer Theme Options Data"
+msgstr "傳輸主題選項數據"
+
+#: admin/settings/nasa_01_general_heading.php:160
+msgid "Transition Loading"
+msgstr "過渡載入"
+
+#: admin/classes/class.options_machine.php:376
+msgid "Trebuchet"
+msgstr "投石機"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:115
+msgid "Turn Off Sidebar on Mobile Device"
+msgstr "關閉行動裝置上的側邊欄"
+
+#: admin/classes/class-tgm-plugin-activation.php:2603
+#: admin/settings/nasa_06_breadcrumb_heading.php:46
+msgid "Type"
+msgstr "類型"
+
+#: admin/settings/nasa_05_type_heading.php:28
+msgid "Type Font"
+msgstr "字體類型"
+
+#: admin/theme-admin.php:333
+msgid "Type of Template"
+msgstr "模板類型"
+
+#: admin/settings/nasa_03_1_header_heading.php:637
+msgid "Type Show"
+msgstr "類型展示"
+
+#: admin/settings/nasa_05_type_heading.php:15
+msgid "Typography"
+msgstr "版式"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:373
+msgid "Uncategorized Product"
+msgstr "未分類產品"
+
+#. %s: shipping location (prefix e.g. 'to' + ISO 3166-1 alpha-2 country code)
+#: cores/nasa-wc-checkout-ext.php:96
+#, php-format
+msgid ""
+"Unfortunately <strong>we do not ship %s</strong>. Please enter an "
+"alternative shipping address."
+msgstr "不幸的是<strong>我們不運送%s</strong>。請輸入備用送貨地址。"
+
+#: woocommerce/checkout/thankyou.php:25
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr "遺憾的是，您的訂單無法處理，因為發起銀行/商家拒絕了您的交易。請再次嘗試購買。"
+
+#: admin/theme-admin.php:373
+msgid "Unknown"
+msgstr "未知"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:337
+msgid "Unlimited"
+msgstr "無限"
+
+#: admin/classes/class-tgm-plugin-activation.php:2775
+msgid "Update"
+msgstr "更新"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2662
+#, php-format
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2463
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可用更新<span class=\"count\">（%s）</span>"
+
+#: includes/nasa-after-add-to-cart.php:161
+#: includes/nasa-after-add-to-cart.php:162 woocommerce/cart/cart.php:181
+#: woocommerce/cart/cart.php:182 woocommerce/cart/mini-cart.php:30
+msgid "Update Cart"
+msgstr "更新購物車"
+
+#: admin/classes/class-tgm-plugin-activation.php:2402
+msgid "Update recommended"
+msgstr "更新推薦"
+
+#: admin/classes/class-tgm-plugin-activation.php:590
+msgid "Update Required"
+msgstr "需要更新"
+
+#: woocommerce/checkout/payment.php:45
+msgid "Update totals"
+msgstr "更新總計"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3564
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新插件 %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "正在更新插件：%s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2736
+msgid "Upgrade message from the plugin author:"
+msgstr "來自插件作者的升級訊息："
+
+#: admin/classes/class.options_machine.php:1042
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "升級您的 WordPress 版本以獲得完整的媒體支援。"
+
+#: admin/classes/class.options_machine.php:701
+#: admin/classes/class.options_machine.php:1033
+#: admin/classes/class.options_machine.php:1110
+msgid "Upload"
+msgstr "上傳"
+
+#: admin/settings/nasa_05_type_heading.php:211
+msgid "Upload Custom Font"
+msgstr "上傳自訂字體"
+
+#: admin/functions/functions.admin.php:1297
+msgid "Upload new custom font success!"
+msgstr "上傳新的自訂字體成功！"
+
+#: cores/nasa-woo-functions.php:2239
+msgid "Upload photos"
+msgstr "上傳照片"
+
+#: cores/nasa-woo-functions.php:2285
+msgid "Upload video"
+msgid_plural "Upload videos"
+msgstr[0] "上傳影片"
+
+#: includes/nasa-checkout-modern-billing-detail.php:33
+msgid "Use a different billing address"
+msgstr "使用不同的帳單地址"
+
+#: includes/nasa-login-register-form.php:125
+msgid "Username"
+msgstr "使用者名稱"
+
+#: cores/nasa-shop-ajax.php:212
+msgid "Username is required."
+msgstr "需要用戶名。"
+
+#: includes/nasa-login-register-form.php:62
+#: woocommerce/global/form-login.php:26
+msgid "Username or email"
+msgstr "使用者名稱或電子郵件"
+
+#: admin/settings/nasa_04_style_color_heading.php:96
+msgid "Variants Badge Color"
+msgstr "變體徽章顏色"
+
+#: admin/classes/class.options_machine.php:375
+msgid "Verdana, Geneva"
+msgstr "韋爾達納, 日內瓦"
+
+#: cores/nasa-theme-footers.php:712 admin/classes/class.options_machine.php:856
+#: admin/classes/class.options_machine.php:901
+msgid "Verified"
+msgstr "已驗證"
+
+#: admin/classes/class-tgm-plugin-activation.php:2607
+msgid "Version"
+msgstr "版本"
+
+#: cores/nasa-theme-options.php:74
+#: admin/settings/nasa_07_3_product_detail_heading.php:108
+msgid "Vertical"
+msgstr "垂直的"
+
+#: functions.php:102 admin/settings/nasa_03_1_header_heading.php:129
+msgid "Vertical Menu"
+msgstr "垂直選單"
+
+#: admin/settings/nasa_03_1_header_heading.php:168
+msgid "Vertical Menu > Main Menu"
+msgstr "垂直選單 > 主選單"
+
+#: admin/settings/nasa_03_1_header_heading.php:226
+msgid "Vertical Menu Background - Focus"
+msgstr "垂直菜單背景-焦點"
+
+#: admin/settings/nasa_03_1_header_heading.php:236
+msgid "Vertical Menu Background - Focus - Sticky"
+msgstr "垂直菜單背景-焦點-黏性"
+
+#: admin/settings/nasa_03_1_header_heading.php:246
+msgid "Vertical Menu Text Color - Focus"
+msgstr "垂直選單文字顏色 - 焦點"
+
+#: admin/settings/nasa_03_1_header_heading.php:256
+msgid "Vertical Menu Text Color - Focus - Sticky"
+msgstr "垂直選單文字顏色 - 焦點 - 黏性"
+
+#: admin/settings/nasa_03_1_header_heading.php:151
+msgid "Vertical Root Level - Limit"
+msgstr "垂直根水平 - 限制"
+
+#: admin/settings/nasa_03_1_header_heading.php:141
+msgid "Vertical Root Level - Parent - 0"
+msgstr "垂直根級別 - 父級 - 0"
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Very poor"
+msgstr "很差"
+
+#: admin/settings/nasa_04_style_color_heading.php:68
+msgid "Video Badge Color"
+msgstr "視訊徽章顏色"
+
+#: archive.php:90
+msgid "Videos"
+msgstr "影片"
+
+#: admin/settings/nasa_05_type_heading.php:203
+msgid "Vietnamese"
+msgstr "越南語"
+
+#: cores/nasa-woo-actions.php:1864 cores/nasa-woo-actions.php:1865
+#: woocommerce/content-widget-product.php:77
+msgid "View"
+msgstr "看法"
+
+#: cores/nasa-theme-functions.php:992
+#, php-format
+msgid "View all posts by %s"
+msgstr "查看 %s 發表的所有帖子"
+
+#: includes/nasa-after-add-to-cart.php:165
+#: includes/nasa-after-add-to-cart.php:166
+msgid "View cart"
+msgstr "查看購物車"
+
+#: includes/nasa-single-product-lightbox.php:45
+msgid "VIEW DETAIL"
+msgstr "看詳情"
+
+#: includes/nasa-combo-products.php:21
+msgid "View more"
+msgstr "看更多"
+
+#: woocommerce/single-product/tabs/tabs.php:85
+msgid "View Product Information"
+msgstr "查看產品資訊"
+
+#: cores/nasa-woo-actions.php:1915
+msgid "View the promotion gifts"
+msgstr "查看促銷禮品"
+
+#: admin/importer/tpl-additional-homepage-data.php:17
+#: admin/importer/tpl-import-demo-data.php:167
+#: admin/importer/tpl-import-demo-data.php:188
+msgid "View your website"
+msgstr "查看您的網站"
+
+#: dokan/store-lists-loop.php:96
+msgid "Visit Store"
+msgstr "訪問商店"
+
+#: admin/front-end/options.php:52
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "警告 - 如果沒有 JavaScript，此選項面板將無法正常運作！"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:41
+msgid "Web Mobile"
+msgstr "網路行動"
+
+#: dokan/store-header.php:155
+msgid "Weekly Store Timing"
+msgstr "每週商店時間"
+
+#: cores/nasa-woo-functions.php:1798
+msgid "Welcome"
+msgstr "歡迎"
+
+#: admin/settings/nasa_03_3_mobile_heading.php:109
+msgid "When this option is enabled, all custom tabs will be displayed"
+msgstr "啟用此選項後，將顯示所有自訂選項卡"
+
+#: admin/settings/nasa_09_promo_popup_heading.php:145
+msgid ""
+"When you move your mouse outside the page you are interacting with, there "
+"will be a pop-up window containing the information you selected in the "
+"section (Popup Exit Intent Content)."
+msgstr "當您將滑鼠移出正在互動的頁面時，將會出現一個彈出窗口，其中包含您在「彈出退出意圖內容」部分中選擇的資訊。"
+
+#: cores/nasa-theme-footers.php:218
+msgid "Where You Are"
+msgstr "你在哪裡"
+
+#: admin/settings/nasa_01_general_heading.php:38
+msgid "Wide"
+msgstr "寬的"
+
+#: admin/settings/nasa_01_general_heading.php:229
+#: admin/settings/nasa_01_general_heading.php:230
+msgid "Widget Options"
+msgstr "小部件选项"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:42
+msgid "Width - Logo"
+msgstr "寬度 - 標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:112
+msgid "Width - Mobile Logo"
+msgstr "寬度 - 手機標誌"
+
+#: admin/settings/nasa_02_logo_icon_heading.php:77
+msgid "Width - Sticky Logo"
+msgstr "寬度 - 黏性標誌"
+
+#: cores/nasa-theme-options.php:33
+msgid "Width full side"
+msgstr "全邊寬度"
+
+#: cores/nasa-theme-footers.php:519 cores/nasa-wishlist.php:174
+#: cores/nasa-wishlist.php:224 cores/nasa-woo-functions.php:685
+#: cores/nasa-woo-functions.php:685 cores/nasa-woo-functions.php:726
+#: cores/nasa-woo-functions.php:731 cores/nasa-woo-functions.php:750
+#: cores/nasa-woo-functions.php:755 cores/nasa-woo-functions.php:1310
+#: cores/nasa-woo-functions.php:1310 includes/nasa-mobile-bottom-bar-app.php:84
+#: includes/nasa-mobile-bottom-bar-app.php:86
+#: includes/nasa-mobile-bottom-bar.php:84
+#: includes/nasa-mobile-bottom-bar.php:86
+msgid "Wishlist"
+msgstr "願望清單"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:71
+#: admin/settings/nasa_07_4_product_compare_heading.php:72
+msgid "Wishlist Options"
+msgstr "願望清單選項"
+
+#: includes/nasa-sidebar-wishlist_content.php:202
+msgid "Wishlist Page"
+msgstr "願望清單頁面"
+
+#: admin/settings/nasa_07_4_product_compare_heading.php:97
+msgid "Wishlist Sidebar Layout"
+msgstr "願望清單側邊欄佈局"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:53
+msgid "With Background"
+msgstr "有背景"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:47
+msgid "With or Without Background."
+msgstr "有或沒有背景。"
+
+#: admin/settings/nasa_06_breadcrumb_heading.php:52
+msgid "Without Background - Default use Background Color"
+msgstr "無背景 - 預設使用背景顏色"
+
+#: cores/nasa-theme-options.php:111
+msgid "Without Border Wrapper"
+msgstr "無邊框包裝"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:279
+#: admin/settings/nasa_07_3_product_detail_heading.php:280
+msgid "WooCommerce Tabs - Options"
+msgstr "WooCommerce 选项卡 - 选项"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:329
+msgid "WooCommerce Tabs - Read more / Show less (Mobile App - Simulator)"
+msgstr "WooCommerce 標籤 - 閱讀更多/顯示更少（行動應用程式 - 模擬器）"
+
+#: admin/settings/nasa_07_3_product_detail_heading.php:322
+msgid ""
+"WooCommerce Tabs Off - Canvas in Mobile (Not use Mobile App - Simulator)"
+msgstr "WooCommerce 標籤關閉 - 行動畫布（不使用行動應用程式 - 模擬器）"
+
+#: admin/importer/tpl-import-demo-data.php:165
+msgid "WooCommerce Tools"
+msgstr "WooCommerce 工具"
+
+#: admin/classes/class-tgm-plugin-activation.php:2363
+msgid "WordPress Repository"
+msgstr "WordPress 儲存庫"
+
+#: admin/front-end/options.php:62 admin/front-end/options.php:87
+#: admin/front-end/options.php:90
+msgid "Working..."
+msgstr "在職的..."
+
+#: admin/importer/tpl-homepage-list.php:33
+msgid "WPBakery - Homepage List"
+msgstr "WPBakery - 主頁列表"
+
+#: admin/settings/nasa_01_general_heading.php:249
+msgid "Wrapper Widget - Sidebar Classic"
+msgstr "包裝小工具 - 側邊欄經典"
+
+#: cores/nasa-theme-footers.php:859 woocommerce/single-product-reviews.php:164
+msgid "Write a review"
+msgstr "寫評論"
+
+#: cores/nasa-theme-options.php:53
+msgid "X-Large"
+msgstr "XL 號"
+
+#: archive.php:81
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年度檔案：%s"
+
+#: cores/nasa-theme-options.php:232 cores/nasa-theme-options.php:244
+#: cores/nasa-theme-options.php:256 cores/nasa-theme-options.php:268
+#: admin/settings/nasa_03_1_header_heading.php:274
+#: admin/settings/nasa_07_1_product_global_heading.php:383
+#: admin/settings/nasa_07_1_product_global_heading.php:517
+#: admin/settings/nasa_07_2_product_page_heading.php:300
+msgid "Yes"
+msgstr "是的"
+
+#: cores/nasa-theme-options.php:24 cores/nasa-theme-options.php:134
+#: cores/nasa-theme-options.php:143 cores/nasa-theme-options.php:199
+#: cores/nasa-theme-options.php:211
+#: admin/settings/nasa_01_general_heading.php:189
+#: admin/settings/nasa_01_general_heading.php:197
+#: admin/settings/nasa_03_3_mobile_heading.php:116
+#: admin/settings/nasa_07_1_product_global_heading.php:366
+#: admin/settings/nasa_07_3_product_detail_heading.php:344
+#: admin/settings/nasa_09_promo_popup_heading.php:36
+msgid "Yes, Please!"
+msgstr "是的，請！"
+
+#: admin/settings/nasa_98_backup_options_heading.php:30
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"您可以透過複製文字方塊中的文字在不同的安裝之間傳輸已儲存的選項資料。若要從另一安裝匯入數據，請將文字方塊中的資料替換為另一安裝中的數據，然後按一下「匯入選項」。"
+
+#: admin/settings/nasa_98_backup_options_heading.php:22
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr "您可以使用下面的兩個按鈕備份當前選項，然後稍後將其還原。如果您想嘗試這些選項，但又想保留舊設定以備不時之需，這非常有用。"
+
+#: woocommerce/single-product/up-sells.php:67
+msgid "You may also like&hellip;"
+msgstr "你也許也喜歡…"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:566
+#: woocommerce/cart/cross-sells.php:66
+msgid "You may be interested in&hellip;"
+msgstr "您可能有興趣…"
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:130
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "You must be %1$slogged in%2$s to post a review."
+
+#: includes/nasa-age-verification.php:16
+msgid "You must be 18 years of age or older to view page."
+msgstr "您必須年滿 18 歲才能查看頁面。"
+
+#: includes/nasa-checkout-default.php:13 includes/nasa-checkout-modern.php:16
+msgid "You must be logged in to checkout."
+msgstr "您必須登入才能結帳。"
+
+#: includes/nasa-age-verification.php:37
+msgid "Your access is restricted because of your age."
+msgstr "由於您的年齡，您的訪問受到限制。"
+
+#: cores/nasa-woo-actions.php:686 cores/nasa-woo-actions.php:697
+#: cores/nasa-woo-actions.php:702
+msgid "Your cart is currently empty."
+msgstr "您的購物車目前是空的。"
+
+#: cores/nasa-woo-functions.php:30
+#| msgid ""
+#| "<span class=\"nasa-extra-empty\">Before proceed to checkout you must add "
+#| "some products to shopping cart.<br />You will find a lot of interesting "
+#| "products on our \"Shop\" page.</span>"
+msgid ""
+"Your cart is currently empty.<span class=\"nasa-extra-empty\">Before proceed "
+"to checkout you must add some products to shopping cart.<br />You will find "
+"a lot of interesting products on our \"Shop\" page.</span>"
+msgstr ""
+"您的購物車目前是空的。<span class=\"nasa-extra-empty\">在繼續結帳之前，您必須將一些產品添加到購物車。<br />"
+"您會在我們的「商店」頁面上找到很多有趣的產品。 </span>"
+
+#: cores/nasa-custom-wc-ajax.php:902
+msgid "Your checkout time has expired."
+msgstr "您的結帳時間已過。"
+
+#: cores/nasa-theme-functions.php:950
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論正在等待審核。"
+
+#: includes/nasa-after-add-to-cart.php:22 includes/nasa-checkout-default.php:61
+#: includes/nasa-checkout-modern.php:84 includes/nasa-checkout-modern.php:164
+msgid "Your Order"
+msgstr "你的訂單"
+
+#: cores/nasa-custom-wc-ajax.php:1410
+msgid "Your order notes saved."
+msgstr "您的訂單備註已儲存。"
+
+#: woocommerce/single-product-reviews.php:143
+msgid "Your rating"
+msgstr "你的評分"
+
+#: woocommerce/single-product-reviews.php:154
+msgid "Your review"
+msgstr "你的意見"
+
+#: woocommerce/single-product-reviews.php:154
+msgid "Your review *"
+msgstr "您的評論 *"
+
+#: cores/nasa-woo-functions.php:2654 woocommerce/single-product-reviews.php:96
+msgid "Your review has been submitted"
+msgstr "您的評論已提交"
+
+#: admin/importer/tpl-import-demo-data.php:161
+#: admin/importer/tpl-import-demo-data.php:183
+msgid "Your theme has been all setup. Enjoy your new theme."
+msgstr "您的主題已全部設定完畢。享受你的新主題。"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:117
+msgid "Your website will just be a product introduction website."
+msgstr "您的网站将只是一个产品介绍网站。"
+
+#: admin/importer/wordpress-importer.php:1097
+msgid "Zero size file downloaded"
+msgstr "下載的檔案大小為零"
+
+#: admin/settings/nasa_07_1_product_global_heading.php:52
+msgid "Zoom"
+msgstr "飛漲"
+
+#: cores/nasa-theme-footers.php:866
+msgid "Zoom in/out"
+msgstr "放大/縮小"

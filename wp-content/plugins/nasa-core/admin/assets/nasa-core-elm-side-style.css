@@ -1,0 +1,8 @@
+.icon .ns-elm-icon {
+    background-image: url(logo.png);
+    background-size: 28px;
+    display: block;
+    width: 28px;
+    height: 28px;
+    margin: auto;
+}

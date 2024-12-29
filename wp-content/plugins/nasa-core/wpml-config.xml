@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wpml-config>
+    <shortcodes>
+        
+        <shortcode>
+            <tag>nasa_products</tag>
+            <attributes>
+                <attribute>title_shortcode</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_products_viewed</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_product_deal</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>btn_text</attribute>
+                <attribute type="link">btn_url</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_products_special_deal</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>desc_shortcode</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_tag_cloud</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_product_categories</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_carousel</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_banner</tag>
+            <attributes>
+                <attribute type="link">link</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_banner_2</tag>
+            <attributes>
+                <attribute type="link">link</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_mega_menu</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_menu</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_menu_vertical</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_compare_imgs</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute type="link">link</attribute>
+                <attribute>desc_text</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_post</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>title_desc</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_search_posts</tag>
+            <attributes>
+                <attribute>label_search</attribute>
+                <attribute>btn_text</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_instagram_feed</tag>
+            <attributes>
+                <attribute>username_show</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_share</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_follow</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_team_member</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_title</tag>
+            <attributes>
+                <attribute>title_text</attribute>
+                <attribute>title_desc</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_separator_link</tag>
+            <attributes>
+                <attribute>title_text</attribute>
+                <attribute>title_desc</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_service_box</tag>
+            <attributes>
+                <attribute>service_title</attribute>
+                <attribute>service_desc</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_sc_icon_box</tag>
+            <attributes>
+                <attribute>box_title</attribute>
+                <attribute>box_desc</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_client</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>company</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_contact_us</tag>
+            <attributes>
+                <attribute>contact_address</attribute>
+                <attribute>contact_phone</attribute>
+                <attribute>service_desc</attribute>
+                <attribute>contact_email</attribute>
+                <attribute>contact_website</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_image</tag>
+            <attributes>
+                <attribute>alt</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_image_box</tag>
+            <attributes>
+                <attribute>alt</attribute>
+            </attributes>
+        </shortcode>
+        
+        <shortcode>
+            <tag>nasa_boot_rate</tag>
+            <attributes>
+                <attribute>text</attribute>
+                <attribute>name</attribute>
+            </attributes>
+        </shortcode>
+        
+    </shortcodes>
+    
+    <elementor-widgets>
+        
+        <widget name="nasa-products">
+            <fields>
+                <field editor_type="LINE">title_shortcode</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-product-deal">
+            <fields>
+                <field editor_type="LINE">title</field>
+                <field editor_type="LINE">btn_text</field>
+                <field editor_type="LINK">btn_url</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-products-special-deal">
+            <fields>
+                <field editor_type="LINE">title</field>
+                <field editor_type="LINE">btn_text</field>
+                <field editor_type="LINK">btn_url</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-product-categories">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-product-groups">
+            <fields>
+                <field editor_type="LINE">button_text</field>
+                <field editor_type="LINK">redirect_to</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-banner-v1">
+            <fields>
+                <field editor_type="LINK">link</field>
+                <field editor_type="VISUAL">content_banner</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-banner-v2">
+            <fields>
+                <field editor_type="LINK">link</field>
+                <field editor_type="VISUAL">content_banner</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-mega-menu">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-menu">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-menu-vertical">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-compare-imgs">
+            <fields>
+                <field editor_type="LINE">title</field>
+                <field editor_type="LINK">link</field>
+                <field editor_type="VISUAL">desc_text</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-post">
+            <fields>
+                <field editor_type="LINE">title</field>
+                <field editor_type="VISUAL">title_desc</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-client">
+            <fields>
+                <field editor_type="LINE">name</field>
+                <field editor_type="LINE">company</field>
+                <field editor_type="VISUAL">clien_content</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-instagram-feed">
+            <fields>
+                <field editor_type="LINE">username_show</field>
+                <field editor_type="LINK">instagram_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-share">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-follow">
+            <fields>
+                <field editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-service-box">
+            <fields>
+                <field editor_type="LINE">service_title</field>
+                <field editor_type="LINE">service_desc</field>
+                <field editor_type="LINK">service_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-icon-box">
+            <fields>
+                <field editor_type="LINE">box_title</field>
+                <field editor_type="LINE">box_desc</field>
+                <field editor_type="LINK">box_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-image">
+            <fields>
+                <field editor_type="LINE">alt</field>
+                <field editor_type="LINK">link_text</field>
+            </fields>
+        </widget>
+        
+        <widget name="nasa-sc-search-form">
+            <fields>
+                <field editor_type="LINE">alt</field>
+                <field editor_type="LINK">link_text</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_products_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_products_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title_shortcode</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_products_tabs_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_products_tabs_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+                <field type="Heading" editor_type="LINE">desc</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_product_deal_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_product_deal_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+                <field type="Heading" editor_type="LINE">btn_text</field>
+                <field type="Heading" editor_type="LINK">btn_url</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_products_special_deal_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_products_special_deal_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+                <field type="Heading" editor_type="LINE">desc_shortcode</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_product_categories_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_product_categories_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_product_groups_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_product_groups_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">button_text</field>
+                <field type="Heading" editor_type="LINK">redirect_to</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_pin_material_carousel_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_pin_material_carousel_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_pin_products_banner_carousel_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_pin_products_banner_carousel_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_sliders_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_sliders_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_sliders_2_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_sliders_2_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_banner_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_banner_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINK">link</field>
+                <field type="Heading" editor_type="AREA">content</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_banner_2_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_banner_2_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINK">link</field>
+                <field type="Heading" editor_type="AREA">content</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_mega_menu_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_mega_menu_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_menu_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_menu_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_menu_vertical_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_menu_vertical_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_compare_imgs_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_compare_imgs_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+                <field type="Heading" editor_type="LINK">link</field>
+                <field type="Heading" editor_type="LINE">desc_text</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_post_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_post_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+                <field type="Heading" editor_type="LINE">title_desc</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_client_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_client_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">name</field>
+                <field type="Heading" editor_type="LINE">company</field>
+                <field type="Heading" editor_type="AREA">content</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_client_slider_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_client_slider_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_instagram_feed_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_instagram_feed_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">username_show</field>
+                <field type="Heading" editor_type="LINK">instagram_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_share_sc">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_share_sc</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_follow">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_follow</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_service_box">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_service_box</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">service_title</field>
+                <field type="Heading" editor_type="LINE">service_desc</field>
+                <field type="Heading" editor_type="LINK">service_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_icon_box">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_icon_box</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">box_title</field>
+                <field type="Heading" editor_type="LINE">box_desc</field>
+                <field type="Heading" editor_type="LINK">box_link</field>
+            </fields>
+        </widget>
+        
+        <widget name="wp-widget-nasa_image">
+            <conditions>
+                <condition key="widgetType">wp-widget-nasa_image</condition>
+            </conditions>
+            <fields>
+                <field type="Heading" editor_type="LINE">alt</field>
+                <field type="Heading" editor_type="LINK">link_text</field>
+            </fields>
+        </widget>
+        
+    </elementor-widgets>
+</wpml-config>

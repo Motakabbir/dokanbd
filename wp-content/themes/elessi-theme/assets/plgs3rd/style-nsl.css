@@ -1,0 +1,99 @@
+.row-submit-login-social div.nsl-container .nsl-button-default span.nsl-button-label-container {
+    font-family: inherit;
+}
+.row-submit-login-social div.nsl-container svg {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.row-submit-login-social div.nsl-container-block .nsl-container-buttons a {
+    margin: 5px auto;
+}
+.row-submit-login-social div.nsl-container .nsl-button-google[data-skin="dark"] .nsl-button-svg-container {
+    margin: 8px;
+    padding: 0;
+}
+
+body .nsl-container .nsl-button-default .nsl-button-label-container,
+body div.nsl-container .nsl-button-default div.nsl-button-label-container {
+    margin: 0px;
+    padding: 10px 0;
+    font-family: inherit;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: .25px;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: clip;
+    white-space: nowrap;
+    flex: 1 1 auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-transform: none;
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+
+body div.nsl-container .nsl-container-buttons {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    margin: 0 -5px;
+    clear: both;
+    overflow: hidden;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+body .row-submit-login-social div.nsl-container-block .nsl-container-buttons a {
+    width: 50%;
+    display: block;
+    padding: 0 5px;
+}
+
+body div.nsl-container .nsl-button {
+    background-color: #ffffff !important;
+    border: 1px solid #dedede;
+    position: relative;
+    color: #333333 !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+body div.nsl-container .nsl-button:hover {
+    background-color: #f2f2f2 !important;
+}
+
+/* div.nsl-container .nsl-button-facebook {
+    background-color: #ffffff !important;
+}
+
+div.nsl-container .nsl-button-facebook .nsl-button-svg-container svg path {
+    fill: #3b5998;
+} */
+
+body.nasa-dark div.nsl-container .nsl-button {
+    background-color: #000 !important;
+    border-color: #333;
+}
+
+body.nasa-dark div.nsl-container .nsl-button:hover {
+    background-color: #111 !important;
+}
+
+body.nasa-dark div.nsl-container .nsl-button .nsl-button-label-container {
+    color: #ccc;
+}
+
+.text-center div.nsl-container[data-align="left"] {
+    text-align: center;
+}
